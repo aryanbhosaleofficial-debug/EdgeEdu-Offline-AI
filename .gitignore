@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Signing keys — the private key must never be committed
+keys/content_signing_private.pem
+
+# Secrets — the MongoDB connection string lives here, never in git
+.env
+
+# Web prototype
+web/node_modules/
+web/.next/
+web/next-env.d.ts
+web/tsconfig.tsbuildinfo
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/app/src/main/cpp/llama.cpp/
+android/app/.cxx/
+
+# Editors / OS
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
+
+# Staged GitHub Release content (PDFs hosted off-repo)
+release_assets/
+
+# Built app binary (distributed via GitHub Release)
+EdgeEdu.apk
+build_apk.log
+EdgeEdu_PRD.pdf

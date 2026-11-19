@@ -1,0 +1,2418 @@
+{
+  "metadata": {
+    "file_name": "Science_and_Technology_Standard_Ten_Part_1.json",
+    "standard": 10,
+    "subject": "Science and Technology",
+    "part": 1,
+    "branch": "Physics",
+    "language": "English",
+    "board": "Maharashtra State Board",
+    "version": "1.0",
+    "authored_by": "AI Studio Extraction",
+    "last_updated": "2026-07-05",
+    "note": "Extraction focused on Chapter 1: Gravitation. Includes all theoretical concepts, mathematical derivations, and solved examples."
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "branch": "Physics",
+      "chapter_title": "Gravitation",
+      "chapter_summary": "This chapter explores the fundamental force of gravitation, covering Newton's universal law, Kepler's planetary laws, and the concepts of acceleration due to gravity, free fall, and escape velocity.",
+      "learning_objectives": [
+        "Understand the phenomenon of gravitation and its discovery.",
+        "Distinguish between force and motion in the context of circular paths.",
+        "Explain Kepler's three laws of planetary motion.",
+        "Apply Newton's Universal Law of Gravitation to calculate forces between objects.",
+        "Analyze the variation of gravitational acceleration (g) with surface position, height, and depth.",
+        "Differentiate between mass and weight.",
+        "Define free fall and calculate motion parameters for falling objects.",
+        "Understand gravitational potential energy and derive the expression for escape velocity."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "1.1",
+          "topic": "Introduction to Gravitation",
+          "heading": "Gravitation",
+          "explanation": "The phenomenon of gravitation was discovered by Sir Isaac Newton. He observed an apple falling from a tree and concluded that the Earth attracts the apple towards its center. This attractive force is universal, acting not only between objects on Earth but also between any two objects in the universe, including planets and the Sun.",
+          "key_points": [
+            "Gravitational force is a universal force.",
+            "It acts towards the center of the Earth.",
+            "Newton extended this concept to the Moon and other celestial bodies."
+          ],
+          "keywords": [
+            "Newton",
+            "Attractive force",
+            "Universal force"
+          ],
+          "difficulty": 1,
+          "importance": 3
+        },
+        {
+          "chunk_id": "1.2",
+          "topic": "Force and Motion",
+          "heading": "Force and Motion",
+          "explanation": "A force is necessary to change the speed as well as the direction of motion of an object. Newton's laws of motion describe the relationship between a body and the forces acting upon it, and its motion in response to those forces.",
+          "key_points": [
+            "Force changes velocity (speed or direction).",
+            "Newton's laws are fundamental to understanding motion under gravity."
+          ],
+          "prerequisites": [
+            "Standard IX Science curriculum"
+          ],
+          "keywords": [
+            "Velocity",
+            "Acceleration",
+            "Newton's Laws"
+          ],
+          "difficulty": 2,
+          "importance": 3
+        },
+        {
+          "chunk_id": "1.3",
+          "topic": "Circular Motion",
+          "heading": "Circular motion and Centripetal force",
+          "explanation": "When an object moves along a circular path, a force acts on it directed towards the center of the circle. This is called the centripetal force. 'Centripetal' means 'center-seeking'. Without this force, the object would fly off along a straight line tangent to the circle.",
+          "key_points": [
+            "Centripetal force is necessary for circular motion.",
+            "The force is directed towards the center.",
+            "If the force stops, the object moves tangentially."
+          ],
+          "formulas": [
+            {
+              "name": "Centripetal Force",
+              "latex": "F = \\frac{mv^2}{r}",
+              "description": "Force required to keep an object of mass m moving at speed v in a circle of radius r."
+            }
+          ],
+          "examples": [
+            "A stone tied to a string being whirled in a circle.",
+            "The Moon orbiting the Earth due to centripetal force provided by Earth's gravity."
+          ],
+          "keywords": [
+            "Centripetal",
+            "Center-seeking",
+            "Tangent"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "1.4",
+          "topic": "Kepler's Laws",
+          "heading": "Kepler’s Laws",
+          "explanation": "Johannes Kepler stated three laws describing planetary motion based on observations by Tycho Brahe. These laws were later mathematically derived by Newton using his theory of gravity.",
+          "key_points": [
+            "Kepler's First Law (Law of Orbits): The orbit of a planet is an ellipse with the Sun at one of the foci.",
+            "Kepler's Second Law (Law of Equal Areas): The line joining the planet and the Sun sweeps equal areas in equal intervals of time.",
+            "Kepler's Third Law (Law of Periods): The square of the period of revolution (T) is directly proportional to the cube of the mean distance (r) from the Sun."
+          ],
+          "formulas": [
+            {
+              "name": "Kepler's Third Law Constant",
+              "latex": "\\frac{T^2}{r^3} = K",
+              "description": "The ratio of the square of the period to the cube of the mean distance is constant for a given star."
+            }
+          ],
+          "keywords": [
+            "Ellipse",
+            "Foci",
+            "Areal velocity",
+            "Harmonic Law"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "1.5",
+          "topic": "Newton's Universal Law of Gravitation",
+          "heading": "Newton’s universal law of gravitation",
+          "explanation": "Every object in the Universe attracts every other object with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between their centers.",
+          "key_points": [
+            "Force is proportional to $m_1 \\times m_2$.",
+            "Force is inversely proportional to $d^2$ (Inverse Square Law).",
+            "G is the Universal Gravitational Constant."
+          ],
+          "equations": [
+            {
+              "name": "Newton's Gravitational Equation",
+              "latex": "F = G \\frac{m_1 m_2}{d^2}",
+              "description": "Mathematical expression for gravitational force."
+            }
+          ],
+          "formulas": [
+            {
+              "name": "Value of G",
+              "latex": "G = 6.673 \\times 10^{-11} \\text{ N m}^2 \\text{ kg}^{-2}",
+              "description": "Universal gravitational constant measured by Henry Cavendish."
+            }
+          ],
+          "worked_example": {
+            "problem": "Mahendra (75 kg) and Virat (80 kg) are sitting 1 m apart. What is the gravitational force between them?",
+            "solution_steps": [
+              {
+                "step": "Identify given values: $m_1 = 75$ kg, $m_2 = 80$ kg, $r = 1$ m, $G = 6.67 \\times 10^{-11} \\text{ Nm}^2/\\text{kg}^2$.",
+                "latex": "F = G \\frac{m_1 m_2}{r^2}",
+                "verified": true
+              },
+              {
+                "step": "Substitute values into the formula.",
+                "latex": "F = \\frac{6.67 \\times 10^{-11} \\times 75 \\times 80}{1^2}",
+                "verified": true
+              }
+            ],
+            "answer": "4.002 \\times 10^{-7} \\text{ N}"
+          },
+          "keywords": [
+            "Inverse square",
+            "Gravitational constant",
+            "Mass",
+            "Distance"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "1.6",
+          "topic": "Acceleration due to Gravity",
+          "heading": "Earth’s gravitational acceleration",
+          "explanation": "The Earth exerts a gravitational force on objects near it, resulting in acceleration. This is called acceleration due to gravity (g). It is a vector quantity directed towards the center of the Earth.",
+          "key_points": [
+            "g depends on Earth's mass (M) and radius (R).",
+            "g is independent of the mass of the falling object."
+          ],
+          "formulas": [
+            {
+              "name": "Acceleration due to gravity (g)",
+              "latex": "g = \\frac{GM}{R^2}",
+              "description": "Formula for g on the Earth's surface."
+            },
+            {
+              "name": "Standard value of g",
+              "latex": "g \\approx 9.77 \\text{ m/s}^2 \\text{ (average 9.8 m/s}^2)",
+              "description": "Calculated using Earth's mass and radius."
+            }
+          ],
+          "keywords": [
+            "g",
+            "Vector",
+            "Earth's radius",
+            "Earth's mass"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "1.7",
+          "topic": "Variation in g",
+          "heading": "Variation in value of g",
+          "explanation": "The value of g changes based on three factors: \n1. Change along the surface: Highest at poles (9.832 m/s²) and lowest at equator (9.78 m/s²) due to Earth's shape.\n2. Change with height: g decreases as we go higher above the surface.\n3. Change with depth: g decreases as we go inside the Earth because the effective mass of Earth attracting the object decreases.",
+          "key_points": [
+            "Earth is bulged at the equator and flat at the poles.",
+            "g decreases with altitude.",
+            "g is zero at the center of the Earth."
+          ],
+          "keywords": [
+            "Equator",
+            "Poles",
+            "Altitude",
+            "Depth"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "1.8",
+          "topic": "Mass and Weight",
+          "heading": "Mass and Weight",
+          "explanation": "Mass is the amount of matter in an object (scalar, constant everywhere). Weight is the force with which the Earth attracts the object (vector, varies with g).",
+          "key_points": [
+            "SI unit of mass: kg; SI unit of weight: Newton (N).",
+            "Mass is a measure of inertia.",
+            "Weight $W = mg$."
+          ],
+          "worked_example": {
+            "problem": "If a person weighs 750 N on Earth, what is their weight on the Moon? (Moon's mass is 1/81 of Earth, radius is 1/3.7 of Earth).",
+            "solution_steps": [
+              {
+                "step": "Calculate Moon's gravity $g_m$ relative to Earth's $g$.",
+                "latex": "g_m \\approx \\frac{1}{6} g",
+                "verified": true
+              },
+              {
+                "step": "Multiply Earth weight by the ratio.",
+                "latex": "W_m = 750 \\times \\frac{1}{6}",
+                "verified": true
+              }
+            ],
+            "answer": "126.8 N"
+          },
+          "keywords": [
+            "Scalar",
+            "Vector",
+            "Inertia",
+            "Newton"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "1.9",
+          "topic": "Free Fall",
+          "heading": "Free fall",
+          "explanation": "An object is said to be in free fall when it moves under the influence of gravity alone, with no other forces (like air resistance) acting on it. In free fall, initial velocity $u = 0$.",
+          "key_points": [
+            "True free fall is only possible in a vacuum.",
+            "Acceleration $a = g$.",
+            "For upward motion, $a = -g$."
+          ],
+          "equations": [
+            {
+              "name": "Kinematic Equations for Free Fall",
+              "latex": "v = gt, \\ s = \\frac{1}{2}gt^2, \\ v^2 = 2gs",
+              "description": "Equations of motion where u=0 and a=g."
+            }
+          ],
+          "worked_example": {
+            "problem": "An iron ball (3 kg) is released from 125 m. How long does it take to reach the ground? ($g = 10 \\text{ m/s}^2$)",
+            "solution_steps": [
+              {
+                "step": "Use $s = \\frac{1}{2}gt^2$.",
+                "latex": "125 = \\frac{1}{2} \\times 10 \\times t^2",
+                "verified": true
+              },
+              {
+                "step": "Solve for $t^2$.",
+                "latex": "t^2 = \\frac{125}{5} = 25",
+                "verified": true
+              }
+            ],
+            "answer": "5 s"
+          },
+          "keywords": [
+            "Vacuum",
+            "Air resistance",
+            "Kinematics"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "1.10",
+          "topic": "Gravitational Potential Energy",
+          "heading": "Gravitational potential energy",
+          "explanation": "Potential energy is the energy stored due to position. For large distances from Earth, the formula $mgh$ is not accurate. The potential energy at a distance $r$ from the center of Earth is given by $-GMm/r$.",
+          "key_points": [
+            "Potential energy is zero at infinite distance.",
+            "It is negative at distances less than infinity.",
+            "On Earth's surface, $r = R$."
+          ],
+          "formulas": [
+            {
+              "name": "Gravitational Potential Energy",
+              "latex": "P.E. = -\\frac{GMm}{R+h}",
+              "description": "Energy of mass m at height h from Earth's surface."
+            }
+          ],
+          "keywords": [
+            "Stored energy",
+            "Infinite distance",
+            "Negative energy"
+          ],
+          "difficulty": 4,
+          "importance": 4
+        },
+        {
+          "chunk_id": "1.11",
+          "topic": "Escape Velocity",
+          "heading": "Escape velocity",
+          "explanation": "The minimum initial velocity required for an object to overcome Earth's gravitational attraction and escape to infinity is called escape velocity.",
+          "key_points": [
+            "Derived using the principle of conservation of energy.",
+            "Total energy at surface = Total energy at infinity (which is 0).",
+            "For Earth, escape velocity is approximately 11.2 km/s."
+          ],
+          "formulas": [
+            {
+              "name": "Escape Velocity",
+              "latex": "v_{esc} = \\sqrt{\\frac{2GM}{R}} = \\sqrt{2gR}",
+              "description": "Velocity required to escape a planet's gravity."
+            }
+          ],
+          "worked_example": {
+            "problem": "Calculate escape velocity on the Moon. ($M = 7.34 \\times 10^{22}$ kg, $R = 1.74 \\times 10^6$ m).",
+            "solution_steps": [
+              {
+                "step": "Use $v_{esc} = \\sqrt{2GM/R}$.",
+                "latex": "v_{esc} = \\sqrt{\\frac{2 \\times 6.67 \\times 10^{-11} \\times 7.34 \\times 10^{22}}{1.74 \\times 10^6}}",
+                "verified": true
+              }
+            ],
+            "answer": "2.37 \\text{ km/s}"
+          },
+          "keywords": [
+            "Escape",
+            "Infinity",
+            "Conservation of energy"
+          ],
+          "difficulty": 5,
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "chapter_id": 2,
+      "branch": "Chemistry",
+      "chapter_title": "Periodic Classification of Elements",
+      "chapter_summary": "This chapter traces the history of element classification from early attempts like Dobereiner's Triads and Newlands' Octaves to Mendeleev's Periodic Table, culminating in the Modern Periodic Table and its periodic trends.",
+      "learning_objectives": [
+        "Understand the necessity and history of element classification.",
+        "Explain Dobereiner’s Triads and Newlands’ Law of Octaves.",
+        "Analyze Mendeleev’s Periodic Table, its merits, and demerits.",
+        "Describe the structure of the Modern Periodic Table.",
+        "Relate electronic configuration to the position of elements in the table.",
+        "Identify periodic trends in valency, atomic size, and metallic character.",
+        "Understand the gradation in properties within the Halogen family."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "2.1",
+          "topic": "Early Classification",
+          "heading": "Dobereiner’s Triads",
+          "explanation": "In 1817, German scientist Johann Wolfgang Dobereiner identified groups of three elements with similar chemical properties, calling them 'triads'. He arranged them in increasing order of atomic mass and showed that the atomic mass of the middle element was approximately the arithmetic mean of the atomic masses of the other two elements.",
+          "key_points": [
+            "Elements in a triad have similar chemical properties.",
+            "Atomic mass of the middle element $\\approx$ Mean of the other two.",
+            "Limitation: Not all known elements could be classified into triads."
+          ],
+          "formulas": [
+            {
+              "name": "Dobereiner's Mean Mass",
+              "latex": "\\text{Mean} = \\frac{a + c}{2}",
+              "description": "Calculates the predicted atomic mass of the middle element in a triad."
+            }
+          ],
+          "examples": [
+            "Lithium (6.9), Sodium (23.0), Potassium (39.1). Mean: (6.9+39.1)/2 = 23.0",
+            "Calcium (40.1), Strontium (87.6), Barium (137.3). Mean: (40.1+137.3)/2 = 88.7",
+            "Chlorine (35.5), Bromine (79.9), Iodine (126.9). Mean: (35.5+126.9)/2 = 81.2"
+          ],
+          "keywords": [
+            "Triads",
+            "Atomic mass",
+            "Arithmetic mean"
+          ],
+          "difficulty": 2,
+          "importance": 3
+        },
+        {
+          "chunk_id": "2.2",
+          "topic": "Early Classification",
+          "heading": "Newlands’ Law of Octaves",
+          "explanation": "In 1866, John Newlands arranged elements in increasing order of atomic masses. He found that every eighth element had properties similar to those of the first, much like the octaves in music (Sa, Re, Ga, Ma, Pa, Dha, Ni). This is known as the Law of Octaves.",
+          "key_points": [
+            "Similarity observed between the 1st and 8th element.",
+            "Sodium (8th) is similar to Lithium (1st). Magnesium is similar to Beryllium.",
+            "Limitations: Applicable only up to Calcium; placed two elements in the same slot to fit the table; did not accommodate newly discovered elements."
+          ],
+          "examples": [
+            "Lithium and Sodium",
+            "Beryllium and Magnesium",
+            "Carbon and Silicon"
+          ],
+          "keywords": [
+            "Octaves",
+            "Musical notes",
+            "Periodicity"
+          ],
+          "difficulty": 2,
+          "importance": 3
+        },
+        {
+          "chunk_id": "2.3",
+          "topic": "Mendeleev's Periodic Table",
+          "heading": "Mendeleev’s Periodic Law",
+          "explanation": "Dmitri Mendeleev developed the periodic table between 1869 and 1872. He considered atomic mass as the fundamental property. His law states: 'Properties of elements are periodic function of their atomic masses.'",
+          "key_points": [
+            "Arranged 63 known elements in groups (vertical columns) and periods (horizontal rows).",
+            "Used molecular formulae of hydrides and oxides as criteria for classification."
+          ],
+          "keywords": [
+            "Atomic mass",
+            "Groups",
+            "Periods"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "2.4",
+          "topic": "Mendeleev's Periodic Table",
+          "heading": "Merits of Mendeleev’s Periodic Table",
+          "explanation": "Mendeleev's table was progressive and allowed for corrections and predictions.",
+          "key_points": [
+            "Correction of atomic masses: e.g., Beryllium was changed from 14.09 to 9.4.",
+            "Prediction of new elements: He left vacant places for undiscovered elements and named them Eka-boron, Eka-aluminum, and Eka-silicon (later discovered as Scandium, Gallium, and Germanium).",
+            "Noble gases: When discovered, they could be placed in a new 'Zero group' without disturbing the existing table."
+          ],
+          "keywords": [
+            "Eka-aluminum",
+            "Gallium",
+            "Zero group"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "2.5",
+          "topic": "Mendeleev's Periodic Table",
+          "heading": "Demerits of Mendeleev’s Periodic Table",
+          "explanation": "Despite its success, the table had several inconsistencies.",
+          "key_points": [
+            "Position of Hydrogen: Shows similarities with both Alkali metals (Group I) and Halogens (Group VII).",
+            "Isotopes: Elements with different atomic masses but same chemical properties posed a challenge for placement.",
+            "Anomalous pairs: Cobalt (58.9) was placed before Nickel (58.7) in some versions, or their whole number masses were the same, causing ambiguity.",
+            "Non-uniform rise in atomic mass: Made it difficult to predict how many elements existed between two heavy ones."
+          ],
+          "keywords": [
+            "Hydrogen ambiguity",
+            "Isotopes",
+            "Anomalous pairs"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "2.6",
+          "topic": "Modern Periodic Table",
+          "heading": "Modern Periodic Law",
+          "explanation": "In 1913, Henry Moseley showed that 'atomic number' (Z) is a more fundamental property than atomic mass. The law was revised to: 'Properties of elements are a periodic function of their atomic numbers.'",
+          "key_points": [
+            "Atomic number = number of protons in the nucleus.",
+            "Classification based on atomic number removed most anomalies of Mendeleev's table."
+          ],
+          "keywords": [
+            "Atomic number",
+            "Henry Moseley",
+            "Protons"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "2.7",
+          "topic": "Modern Periodic Table",
+          "heading": "Structure of the Modern Periodic Table",
+          "explanation": "The table consists of 7 horizontal rows (periods) and 18 vertical columns (groups). The arrangement creates 118 boxes for elements.",
+          "key_points": [
+            "Blocks: Divided into s-block (Groups 1, 2), p-block (Groups 13-18), d-block (Groups 3-12), and f-block (Lanthanides and Actinides at the bottom).",
+            "Transition elements: Found in the d-block.",
+            "Inner transition elements: Found in the f-block.",
+            "Zig-zag line: Separates metals (left) from nonmetals (right), with metalloids along the border."
+          ],
+          "keywords": [
+            "s-block",
+            "p-block",
+            "d-block",
+            "f-block",
+            "Metalloids"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "2.8",
+          "topic": "Modern Periodic Table",
+          "heading": "Groups and Electronic Configuration",
+          "explanation": "Elements in the same group have the same number of valence electrons. For example, Group 1 (Alkali metals) all have 1 valence electron. As we move down a group, the number of shells increases by one at each step.",
+          "key_points": [
+            "Valence electrons determine chemical properties.",
+            "Group number for p-block elements = 10 + number of valence electrons (for groups 13-18)."
+          ],
+          "keywords": [
+            "Valence electrons",
+            "Shells",
+            "Alkali metals"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "2.9",
+          "topic": "Modern Periodic Table",
+          "heading": "Periods and Electronic Configuration",
+          "explanation": "Elements in the same period have the same number of shells. As we move from left to right in a period, the atomic number and valence electrons increase by one, but the number of shells remains the same.",
+          "key_points": [
+            "Period 1: 2 elements (K shell).",
+            "Period 2: 8 elements (K, L shells).",
+            "Period 3: 8 elements (K, L, M shells).",
+            "The electron capacity of shells is determined by the formula $2n^2$."
+          ],
+          "formulas": [
+            {
+              "name": "Electron Capacity of Shells",
+              "latex": "2n^2",
+              "description": "Determines the maximum number of electrons a shell can hold, where n is the shell number."
+            }
+          ],
+          "keywords": [
+            "Shell capacity",
+            "Octet rule",
+            "Periodicity"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "2.10",
+          "topic": "Periodic Trends",
+          "heading": "Valency",
+          "explanation": "Valency is determined by the number of electrons in the outermost shell. In a period, valency first increases (1 to 4) and then decreases (4 to 0). In a group, valency remains constant.",
+          "keywords": [
+            "Valency",
+            "Combining capacity"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "2.11",
+          "topic": "Periodic Trends",
+          "heading": "Atomic Size",
+          "explanation": "Atomic size is indicated by atomic radius. \n1. In a period: Atomic radius decreases from left to right because increased nuclear charge pulls electrons closer.\n2. In a group: Atomic radius increases from top to bottom because new shells are added, increasing the distance from the nucleus.",
+          "key_points": [
+            "Unit: Picometer (pm), $1 pm = 10^{-12}$ m.",
+            "Largest atoms are at the bottom-left; smallest at the top-right."
+          ],
+          "keywords": [
+            "Atomic radius",
+            "Nuclear charge",
+            "Picometer"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "2.12",
+          "topic": "Periodic Trends",
+          "heading": "Metallic and Nonmetallic Character",
+          "explanation": "Metals tend to lose electrons (electropositivity), while nonmetals tend to gain electrons (electronegativity).",
+          "key_points": [
+            "In a period: Metallic character decreases and nonmetallic character increases from left to right.",
+            "In a group: Metallic character increases and nonmetallic character decreases from top to bottom.",
+            "Metalloids: Elements like Silicon (Si) show properties of both."
+          ],
+          "keywords": [
+            "Electropositivity",
+            "Electronegativity",
+            "Metallic luster"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "2.13",
+          "topic": "Periodic Trends",
+          "heading": "Gradation in Halogen Family",
+          "explanation": "Group 17 elements (Halogens) show a regular gradation in physical states.",
+          "key_points": [
+            "Fluorine ($F_2$) and Chlorine ($Cl_2$) are gases.",
+            "Bromine ($Br_2$) is a liquid.",
+            "Iodine ($I_2$) is a solid."
+          ],
+          "keywords": [
+            "Halogens",
+            "Physical state",
+            "Group 17"
+          ],
+          "difficulty": 2,
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "chapter_id": 3,
+      "branch": "Chemistry",
+      "chapter_title": "Chemical Reactions and Equations",
+      "chapter_summary": "This chapter covers the fundamentals of chemical changes, how to write and balance chemical equations, various types of chemical reactions, and the factors affecting their rates, concluding with oxidation-reduction processes and their effects like corrosion.",
+      "learning_objectives": [
+        "Distinguish between physical and chemical changes.",
+        "Identify reactants and products in a chemical reaction.",
+        "Learn the conventions for writing chemical equations.",
+        "Master the step-by-step process of balancing chemical equations.",
+        "Classify reactions into combination, decomposition, displacement, and double displacement.",
+        "Understand endothermic and exothermic processes.",
+        "Analyze factors affecting the rate of chemical reactions.",
+        "Define oxidation, reduction, and redox reactions.",
+        "Explain the phenomena of corrosion and rancidity."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "3.1",
+          "topic": "Physical and Chemical Changes",
+          "heading": "Chemical Reaction",
+          "explanation": "A physical change involves a change in parameters like temperature or pressure and is often reversible (e.g., ice melting). A chemical change involves a change in the composition of matter and is usually permanent. During a chemical reaction, some chemical bonds in the reactants break and new bonds are formed to produce products.",
+          "examples": [
+            "Physical: Transformation of ice into water, evaporation of water.",
+            "Chemical: Cooking of food, ripening of fruit, milk turning into curd, digestion of food."
+          ],
+          "keywords": [
+            "Physical change",
+            "Chemical change",
+            "Composition",
+            "Reversible"
+          ],
+          "difficulty": 1,
+          "importance": 3
+        },
+        {
+          "chunk_id": "3.2",
+          "topic": "Writing Chemical Equations",
+          "heading": "Writing a Chemical Equation",
+          "explanation": "Chemical equations are a condensed representation of chemical reactions using chemical formulae. Conventions include: reactants on the left, products on the right, and an arrow indicating the direction. Physical states are noted in brackets: solid (s), liquid (l), gas (g), and aqueous (aq).",
+          "key_points": [
+            "Reactants $\\rightarrow$ Products.",
+            "Plus sign (+) links multiple reactants or products.",
+            "$\\Delta$ above the arrow indicates heat is supplied.",
+            "Upward arrow ($\\uparrow$) indicates gas evolved; downward arrow ($\\downarrow$) indicates precipitate formed.",
+            "Specific conditions like temperature, pressure, or catalyst are written above or below the arrow."
+          ],
+          "equations": [
+            {
+              "name": "Word Equation Example",
+              "latex": "\\text{Aqueous solution of copper sulphate} + \\text{zinc dust} \\rightarrow \\text{Aqueous solution of zinc sulphate} + \\text{copper}",
+              "description": "Representation of a reaction in words."
+            },
+            {
+              "name": "Chemical Equation Example",
+              "latex": "CuSO_4(aq) + Zn(s) \\rightarrow ZnSO_4(aq) + Cu(s)",
+              "description": "Condensed form using formulae."
+            }
+          ],
+          "keywords": [
+            "Reactants",
+            "Products",
+            "Aqueous",
+            "Precipitate"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "3.3",
+          "topic": "Balancing Chemical Equations",
+          "heading": "Steps in balancing a chemical reaction",
+          "explanation": "A balanced equation has an equal number of atoms of each element on both sides, satisfying the law of conservation of mass. Balancing is done step-by-step using a trial-and-error method, starting with the compound containing the maximum number of atoms.",
+          "worked_example": {
+            "problem": "Balance the equation: $NaOH + H_2SO_4 \\rightarrow Na_2SO_4 + H_2O$",
+            "solution_steps": [
+              {
+                "step": "Check atom counts. Na is 1 on left, 2 on right. Balance Na by applying factor 2 to NaOH.",
+                "latex": "2NaOH + H_2SO_4 \\rightarrow Na_2SO_4 + H_2O",
+                "verified": true
+              },
+              {
+                "step": "Check Hydrogen. Left has 4 (2 from NaOH, 2 from $H_2SO_4$), right has 2. Apply factor 2 to $H_2O$.",
+                "latex": "2NaOH + H_2SO_4 \\rightarrow Na_2SO_4 + 2H_2O",
+                "verified": true
+              },
+              {
+                "step": "Verify Oxygen. Left has 6 (2 from 2NaOH, 4 from $H_2SO_4$), right has 6 (4 from $Na_2SO_4$, 2 from $2H_2O$). Equation is balanced.",
+                "latex": "2NaOH + H_2SO_4 \\rightarrow Na_2SO_4 + 2H_2O",
+                "verified": true
+              }
+            ],
+            "answer": "2NaOH + H_2SO_4 \\rightarrow Na_2SO_4 + 2H_2O"
+          },
+          "keywords": [
+            "Balancing",
+            "Conservation of mass",
+            "Trial and error"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "3.4",
+          "topic": "Types of Chemical Reactions",
+          "heading": "1. Combination reaction",
+          "explanation": "When two or more reactants combine in a reaction to form a single product, it is called a combination reaction.",
+          "equations": [
+            {
+              "name": "Ammonia and Hydrogen Chloride",
+              "latex": "NH_3(g) + HCl(g) \\rightarrow NH_4Cl(s)",
+              "description": "Two gases forming a solid salt."
+            },
+            {
+              "name": "Magnesium Combustion",
+              "latex": "2Mg + O_2 \\rightarrow 2MgO",
+              "description": "Magnesium burning in air to form magnesium oxide."
+            }
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "3.5",
+          "topic": "Types of Chemical Reactions",
+          "heading": "2. Decomposition reaction",
+          "explanation": "The chemical reaction in which there is only one reactant giving rise to two or more products is called a decomposition reaction.",
+          "equations": [
+            {
+              "name": "Decomposition of Sugar",
+              "latex": "C_{12}H_{22}O_{11} \\xrightarrow{\\Delta} 12C + 11H_2O",
+              "description": "Sugar charring upon heating."
+            },
+            {
+              "name": "Electrolysis of Water",
+              "latex": "2H_2O(l) \\xrightarrow{\\text{Electrical Energy}} 2H_2\\uparrow + O_2\\uparrow",
+              "description": "Breaking water into hydrogen and oxygen gases."
+            }
+          ],
+          "keywords": [
+            "Decomposition",
+            "Electrolysis",
+            "Thermal decomposition"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "3.6",
+          "topic": "Types of Chemical Reactions",
+          "heading": "3. Displacement reaction",
+          "explanation": "The reaction in which the place of the ion of a less reactive element in a compound is taken by another more reactive element by formation of its own ions is called a displacement reaction.",
+          "equations": [
+            {
+              "name": "Zinc and Copper Sulphate",
+              "latex": "CuSO_4(aq) + Zn(s) \\rightarrow ZnSO_4(aq) + Cu(s)",
+              "description": "Zinc displacing copper."
+            }
+          ],
+          "keywords": [
+            "Displacement",
+            "Reactivity series"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "3.7",
+          "topic": "Types of Chemical Reactions",
+          "heading": "4. Double displacement reaction",
+          "explanation": "The reaction in which the ions in the reactants are exchanged to form a precipitate is a double displacement reaction.",
+          "equations": [
+            {
+              "name": "Silver Nitrate and Sodium Chloride",
+              "latex": "AgNO_3(aq) + NaCl(aq) \\rightarrow AgCl\\downarrow + NaNO_3(aq)",
+              "description": "Formation of white silver chloride precipitate."
+            }
+          ],
+          "keywords": [
+            "Double displacement",
+            "Ion exchange",
+            "Precipitate"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "3.8",
+          "topic": "Heat in Reactions",
+          "heading": "Endothermic and Exothermic Processes",
+          "explanation": "Exothermic processes give away heat to the surroundings (e.g., formation of ice from water, dilution of sulfuric acid). Endothermic processes absorb heat from the surroundings (e.g., melting of ice, dissolution of potassium nitrate).",
+          "equations": [
+            {
+              "name": "Exothermic Reaction",
+              "latex": "CaO(s) + H_2O(l) \\rightarrow Ca(OH)_2(aq) + \\text{heat}",
+              "description": "Formation of slaked lime."
+            },
+            {
+              "name": "Endothermic Reaction",
+              "latex": "CaCO_3(s) + \\text{heat} \\rightarrow CaO(s) + CO_2(g)",
+              "description": "Decomposition of limestone."
+            }
+          ],
+          "keywords": [
+            "Exothermic",
+            "Endothermic",
+            "Heat exchange"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "3.9",
+          "topic": "Rate of Reaction",
+          "heading": "Factors affecting the rate of a chemical reaction",
+          "explanation": "The speed at which a reaction occurs depends on several factors: \n1. Nature of Reactants: More reactive metals react faster.\n2. Size of Particles: Smaller particles (powder) react faster than larger pieces.\n3. Concentration: Concentrated reactants react faster than dilute ones.\n4. Temperature: Increasing temperature increases the reaction rate.\n5. Catalyst: A substance that increases the rate without being consumed.",
+          "key_points": [
+            "Powdered $CaCO_3$ reacts faster with HCl than pieces of Shahabad tile.",
+            "Manganese dioxide ($MnO_2$) acts as a catalyst in the decomposition of $KClO_3$."
+          ],
+          "keywords": [
+            "Rate of reaction",
+            "Catalyst",
+            "Concentration",
+            "Surface area"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "3.10",
+          "topic": "Oxidation and Reduction",
+          "heading": "Oxidation and Reduction",
+          "explanation": "Oxidation is a reaction where a reactant combines with oxygen, loses hydrogen, or loses electrons. Reduction is a reaction where a reactant gains hydrogen, loses oxygen, or gains electrons. When both occur simultaneously, it is called a Redox reaction.",
+          "equations": [
+            {
+              "name": "Redox Reaction",
+              "latex": "CuO + H_2 \\rightarrow Cu + H_2O",
+              "description": "CuO is reduced to Cu; $H_2$ is oxidized to $H_2O$."
+            },
+            {
+              "name": "Ionic Oxidation",
+              "latex": "Fe^{2+} \\rightarrow Fe^{3+} + e^-",
+              "description": "Losing an electron is oxidation."
+            }
+          ],
+          "keywords": [
+            "Oxidation",
+            "Reduction",
+            "Redox",
+            "Oxidant",
+            "Reductant"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "3.11",
+          "topic": "Corrosion and Rancidity",
+          "heading": "Corrosion",
+          "explanation": "Corrosion is the slow degradation of metals due to atmospheric gases and moisture. Rusting of iron is an electrochemical process where a reddish-brown layer of hydrated ferric oxide ($Fe_2O_3 \\cdot H_2O$) forms. Rancidity occurs when oils or fats are oxidized, resulting in a foul odor and taste.",
+          "key_points": [
+            "Rusting requires both water and air.",
+            "Rancidity can be prevented by using antioxidants or airtight containers."
+          ],
+          "keywords": [
+            "Corrosion",
+            "Rust",
+            "Rancidity",
+            "Antioxidants"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "chapter_id": 4,
+      "branch": "Physics",
+      "chapter_title": "Effects of electric current",
+      "chapter_summary": "This chapter discusses the practical applications of electricity, focusing on the heating effect (Joule's law), magnetic effects (Oersted's discovery), electromagnetic induction, and the working of electric motors and generators.",
+      "learning_objectives": [
+        "Understand energy transfer in an electric circuit.",
+        "Explain the heating effect of electric current and its applications.",
+        "Describe the magnetic effect of electric current and related rules.",
+        "Understand the force acting on a current-carrying conductor in a magnetic field.",
+        "Explain the construction and working of an electric motor.",
+        "Understand electromagnetic induction and Faraday's laws.",
+        "Distinguish between alternating current (AC) and direct current (DC).",
+        "Explain the construction and working of an electric generator."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "4.1",
+          "topic": "Energy Transfer",
+          "heading": "Energy transfer in an electric circuit",
+          "explanation": "In an electric circuit, when a charge $Q$ flows from a point of higher potential $A$ to a point of lower potential $B$, work $V_{AB}Q$ is performed. This energy is provided by the cell and is received by the resistor, where it is converted into heat energy, increasing the temperature of the resistor.",
+          "key_points": [
+            "Electrical power is the rate at which work is done.",
+            "Energy is converted to heat in a resistor."
+          ],
+          "formulas": [
+            {
+              "name": "Electrical Power",
+              "latex": "P = V_{AB}I",
+              "description": "Power is the product of potential difference and current."
+            },
+            {
+              "name": "Heat Produced (Joule's Law)",
+              "latex": "H = I^2Rt",
+              "description": "Heat produced is proportional to the square of the current, resistance, and time."
+            }
+          ],
+          "keywords": [
+            "Potential difference",
+            "Electrical power",
+            "Joule's Law"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "4.2",
+          "topic": "Heating Effect",
+          "heading": "Heating effect of electric current",
+          "explanation": "When a resistor is connected in an electrical circuit, heat is produced in it due to the current. This is utilized in appliances like water heaters, electric cookers, and bulbs. High resistivity alloys like Nichrome are used in heating elements, while Tungsten is used in bulbs due to its high melting point (~3400 °C).",
+          "key_points": [
+            "Unit of electrical power is Watt (W).",
+            "1 kWh is the commercial unit of energy, equal to $3.6 \\times 10^6$ J.",
+            "Fuse wires protect circuits from excessive current by melting."
+          ],
+          "examples": [
+            "Electric bulb",
+            "Electric heater",
+            "Fuse"
+          ],
+          "keywords": [
+            "Nichrome",
+            "Tungsten",
+            "Kilowatt-hour",
+            "Fuse"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "4.3",
+          "topic": "Circuit Safety",
+          "heading": "Short circuit and Overloading",
+          "explanation": "A short circuit occurs when 'live' and 'neutral' wires come into direct contact, often due to faulty insulation, leading to high current and fire risk. Overloading happens when too many electrical appliances are used simultaneously, drawing excessive current beyond the capacity of the transformer or fuse.",
+          "key_points": [
+            "Short circuiting produces intense heat.",
+            "MCB (Miniature Circuit Breaker) is used in modern homes for safety."
+          ],
+          "keywords": [
+            "Short circuit",
+            "Overloading",
+            "MCB"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "4.4",
+          "topic": "Magnetic Effect",
+          "heading": "Magnetic effect of electric current",
+          "explanation": "Hans Christian Oersted discovered that an electric current flowing through a wire produces a magnetic field around it. This is demonstrated by the deflection of a magnetic needle near a current-carrying conductor.",
+          "key_points": [
+            "Magnetic field lines around a straight wire are concentric circles.",
+            "Field intensity increases with current and decreases with distance from the wire."
+          ],
+          "keywords": [
+            "Oersted",
+            "Magnetic field",
+            "Concentric circles"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "4.5",
+          "topic": "Magnetic Rules",
+          "heading": "Right hand thumb Rule",
+          "explanation": "This rule is used to find the direction of the magnetic field. Imagine holding a conductor in your right hand with the thumb pointing in the direction of the current. The curled fingers then show the direction of the magnetic field lines. It is also known as Maxwell’s cork-screw rule.",
+          "keywords": [
+            "Right hand thumb rule",
+            "Maxwell's cork-screw rule"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "4.6",
+          "topic": "Solenoid",
+          "heading": "Magnetic field due to a current in a solenoid",
+          "explanation": "A solenoid is a copper wire with a resistive coating wound in a chain of loops. When current passes through it, it produces a magnetic field similar to a bar magnet. One end acts as a North pole and the other as a South pole. The field lines inside are parallel and uniform.",
+          "keywords": [
+            "Solenoid",
+            "Uniform magnetic field"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "4.7",
+          "topic": "Force on Conductor",
+          "heading": "Force acting on current carrying conductor in a magnetic field",
+          "explanation": "A current-carrying conductor placed in a magnetic field experiences a mechanical force. The direction of this force is perpendicular to both the magnetic field and the direction of the current. The force is maximum when the current direction is perpendicular to the magnetic field.",
+          "keywords": [
+            "Mechanical force",
+            "Lorentz force"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "4.8",
+          "topic": "Magnetic Rules",
+          "heading": "Fleming’s left hand rule",
+          "explanation": "To determine the direction of force on a conductor: stretch the thumb, index finger, and middle finger of the left hand so they are mutually perpendicular. If the index finger points to the magnetic field and the middle finger to the current, the thumb points in the direction of the force.",
+          "keywords": [
+            "Fleming’s left hand rule",
+            "Motor rule"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "4.9",
+          "topic": "Electric Motor",
+          "heading": "Electric Motor",
+          "explanation": "An electric motor is a device that converts electrical energy into mechanical energy. It consists of a rectangular coil placed in a magnetic field. When current flows, forces act on the coil (Fleming's left hand rule), causing it to rotate. Split rings (commutators) reverse the current direction every half rotation to maintain continuous motion.",
+          "key_points": [
+            "Uses split rings to reverse current.",
+            "Carbon brushes provide electrical contact to the rotating rings."
+          ],
+          "keywords": [
+            "Commutator",
+            "Armature",
+            "Carbon brushes"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "4.10",
+          "topic": "Electromagnetic Induction",
+          "heading": "Electromagnetic Induction",
+          "explanation": "Michael Faraday discovered that a changing magnetic field around a conductor induces an electric current in it. This can be achieved by moving a magnet relative to a coil or by changing the current in a nearby solenoid.",
+          "key_points": [
+            "Galvanometer is used to detect induced current.",
+            "Induced current is produced whenever the number of magnetic lines of force passing through a coil changes."
+          ],
+          "keywords": [
+            "Faraday",
+            "Induced current",
+            "Galvanometer"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "4.11",
+          "topic": "Magnetic Rules",
+          "heading": "Fleming’s right hand rule",
+          "explanation": "Used to determine the direction of induced current. Stretch the thumb, index finger, and middle finger of the right hand mutually perpendicular. If the thumb shows the direction of motion of the conductor and the index finger the magnetic field, the middle finger shows the direction of the induced current.",
+          "keywords": [
+            "Fleming’s right hand rule",
+            "Generator rule"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "4.12",
+          "topic": "AC and DC",
+          "heading": "Alternating current (AC) and Direct Current (DC)",
+          "explanation": "Direct current (DC) flows in only one direction and is non-oscillatory. Alternating current (AC) changes its magnitude and direction periodically. In India, AC frequency is 50 Hz (cycles per second). AC is preferred for long-distance transmission as it minimizes power loss.",
+          "keywords": [
+            "AC",
+            "DC",
+            "Frequency",
+            "50 Hz"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "4.13",
+          "topic": "Electric Generator",
+          "heading": "Electric Generator",
+          "explanation": "A generator converts mechanical energy into electrical energy using electromagnetic induction. It consists of a coil rotating in a magnetic field. In an AC generator, two full rings are used. In a DC generator, a split ring (commutator) is used to ensure current flows in only one direction in the external circuit.",
+          "keywords": [
+            "AC Generator",
+            "DC Generator",
+            "Mechanical to Electrical"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "chapter_id": 5,
+      "branch": "Physics",
+      "chapter_title": "Heat",
+      "chapter_summary": "This chapter explores thermal properties of matter, including latent heat, the unique anomalous behavior of water, atmospheric humidity, and the measurement of specific heat capacity using the principle of heat exchange.",
+      "learning_objectives": [
+        "Define and distinguish between latent heat of fusion and vaporization.",
+        "Understand the phenomenon of regelation in ice.",
+        "Explain the anomalous behavior of water and its biological importance.",
+        "Define dew point, humidity, and relative humidity.",
+        "Learn the units of heat and their interrelations.",
+        "Understand specific heat capacity and the principle of heat exchange.",
+        "Apply the mixing method and calorimetry to solve thermal problems."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "5.1",
+          "topic": "Latent Heat",
+          "heading": "Latent Heat of Fusion and Vaporization",
+          "explanation": "Latent heat is the heat energy absorbed or released by a substance during a change in its physical state without a change in its temperature. \n1. Latent heat of fusion: The heat energy absorbed at constant temperature during the transformation of solid into liquid. \n2. Latent heat of vaporization: The heat energy absorbed at constant temperature during the transformation of liquid into gas.",
+          "key_points": [
+            "Specific latent heat of fusion: The amount of heat energy absorbed at constant temperature by unit mass of a solid to convert into liquid phase.",
+            "Specific latent heat of vaporization: The amount of heat energy absorbed at constant temperature by unit mass of a liquid to convert into gaseous phase.",
+            "During these transitions, the absorbed energy is used to weaken or break the bonds between atoms/molecules."
+          ],
+          "keywords": [
+            "Latent heat",
+            "Fusion",
+            "Vaporization",
+            "Phase transformation"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "5.2",
+          "topic": "Regelation",
+          "heading": "Regelation",
+          "explanation": "Regelation is the phenomenon in which ice converts to liquid due to applied pressure and then re-converts to ice once the pressure is removed. This happens because the melting point of ice lowers below 0 °C under pressure.",
+          "examples": [
+            "A wire with weights hanging on it passing through a slab of ice without breaking it.",
+            "Preparation of an ice-ball (gola) where crushed ice sticks together when pressed."
+          ],
+          "keywords": [
+            "Regelation",
+            "Melting point",
+            "Pressure"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "5.3",
+          "topic": "Anomalous Behaviour of Water",
+          "heading": "Anomalous behaviour of water",
+          "explanation": "Generally, liquids contract on cooling, but water shows exceptional behavior between 0 °C and 4 °C. When water is cooled from 4 °C to 0 °C, it expands instead of contracting. Its volume is minimum and density is maximum at 4 °C.",
+          "key_points": [
+            "Hope's Apparatus is used to study this behavior in the laboratory.",
+            "This property allows aquatic plants and animals to survive in cold regions because the top layer of water freezes into ice while the water at the bottom remains at 4 °C."
+          ],
+          "keywords": [
+            "Anomalous expansion",
+            "Maximum density",
+            "Hope's Apparatus",
+            "Aquatic life"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "5.4",
+          "topic": "Humidity",
+          "heading": "Dew point and Humidity",
+          "explanation": "The presence of water vapour in the air makes it moist, which is called humidity. \n1. Saturated Air: Air containing the maximum possible water vapour at a given temperature. \n2. Unsaturated Air: Air containing less than the maximum possible vapour. \n3. Dew Point: The temperature at which unsaturated air becomes saturated upon cooling.",
+          "key_points": [
+            "Absolute Humidity: The mass of vapour present in a unit volume of air (kg/m³).",
+            "Relative Humidity: The ratio of actual mass of vapour to the mass required for saturation at that temperature."
+          ],
+          "formulas": [
+            {
+              "name": "% Relative Humidity",
+              "latex": "\\% \\text{ Relative humidity} = \\frac{\\text{actual mass of water vapour in a given volume}}{\\text{mass of vapour needed to saturate that volume}} \\times 100",
+              "description": "Calculates the percentage of moisture relative to saturation."
+            }
+          ],
+          "keywords": [
+            "Saturated",
+            "Unsaturated",
+            "Dew point",
+            "Relative humidity"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "5.5",
+          "topic": "Units of Heat",
+          "heading": "Unit of heat",
+          "explanation": "Heat is measured in Joules (SI) or calories (cgs). \n1. Calorie (cal): Heat required to raise the temperature of 1 g of water by 1 °C (specifically from 14.5 °C to 15.5 °C). \n2. Kilocalorie (kcal): Heat required to raise the temperature of 1 kg of water by 1 °C.",
+          "key_points": [
+            "1 kcal = 1000 cal.",
+            "1 cal = 4.18 Joules."
+          ],
+          "keywords": [
+            "Joule",
+            "Calorie",
+            "Kilocalorie"
+          ],
+          "difficulty": 2,
+          "importance": 3
+        },
+        {
+          "chunk_id": "5.6",
+          "topic": "Specific Heat Capacity",
+          "heading": "Specific Heat Capacity",
+          "explanation": "The amount of heat energy required to raise the temperature of a unit mass of an object by 1 °C is called the specific heat capacity (c) of that object.",
+          "key_points": [
+            "SI unit: J/(kg °C); CGS unit: cal/(g °C).",
+            "Water has a high specific heat capacity (1.0 cal/g °C).",
+            "Heat absorbed (Q) = $m \\times c \\times \\Delta T$."
+          ],
+          "keywords": [
+            "Specific heat",
+            "Heat absorption",
+            "Thermal capacity"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "5.7",
+          "topic": "Heat Exchange",
+          "heading": "Principle of Heat Exchange",
+          "explanation": "In an isolated system, when a hot object and a cold object are kept together, heat flows from the hot object to the cold object until they reach the same temperature.",
+          "key_points": [
+            "Heat energy lost by the hot object = Heat energy gained by the cold object.",
+            "This is measured using a calorimeter and the 'mixing method'."
+          ],
+          "worked_example": {
+            "problem": "How much heat energy is necessary to raise the temperature of 5 kg of water from 20 °C to 100 °C?",
+            "solution_steps": [
+              {
+                "step": "Identify given: m = 5 kg, c = 1 kcal/kg °C, $\\Delta T = 100 - 20 = 80$ °C.",
+                "latex": "Q = m \\times c \\times \\Delta T",
+                "verified": true
+              },
+              {
+                "step": "Substitute values.",
+                "latex": "Q = 5 \\times 1 \\times 80 = 400 \\text{ kcal}",
+                "verified": true
+              }
+            ],
+            "answer": "400 kcal"
+          },
+          "keywords": [
+            "Heat exchange",
+            "Calorimeter",
+            "Mixing method"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "chapter_id": 6,
+      "branch": "Physics",
+      "chapter_title": "Refraction of light",
+      "chapter_summary": "This chapter explains the bending of light as it travels between different transparent media, the laws governing this behavior, and natural phenomena like mirages, twinkling stars, and rainbows.",
+      "learning_objectives": [
+        "Define refraction of light and observe it through various activities.",
+        "Understand the laws of refraction and Snell's law.",
+        "Calculate absolute and relative refractive indices.",
+        "Analyze the behavior of light rays in different media.",
+        "Explain atmospheric refraction effects like mirages and twinkling stars.",
+        "Understand the dispersion of light through a prism.",
+        "Explain partial and total internal reflection and the critical angle.",
+        "Describe the scientific process behind rainbow formation."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "6.1",
+          "topic": "Basics of Refraction",
+          "heading": "Refraction of light",
+          "explanation": "Light changes its direction when going from one transparent medium to another transparent medium. This phenomenon is called the refraction of light. It is observed when a pencil appears broken in water or a coin in a vessel appears to rise as water is added.",
+          "key_points": [
+            "Refraction occurs at the boundary of two transparent media.",
+            "The direction of light changes due to the change in its velocity in different media."
+          ],
+          "keywords": [
+            "Refraction",
+            "Transparent medium",
+            "Bending of light"
+          ],
+          "difficulty": 1,
+          "importance": 4
+        },
+        {
+          "chunk_id": "6.2",
+          "topic": "Laws of Refraction",
+          "heading": "Laws of refraction",
+          "explanation": "When light travels from one medium to another, it follows specific laws: \n1. The incident ray, the refracted ray, and the normal at the point of incidence are in the same plane. \n2. The incident ray and refracted ray are on opposite sides of the normal. \n3. For a given pair of media, the ratio of the sine of the angle of incidence (i) to the sine of the angle of refraction (r) is constant.",
+          "formulas": [
+            {
+              "name": "Snell's Law",
+              "latex": "\\frac{\\sin i}{\\sin r} = \\text{constant} = n",
+              "description": "n is the refractive index of the second medium with respect to the first."
+            }
+          ],
+          "keywords": [
+            "Snell's Law",
+            "Incident ray",
+            "Refracted ray",
+            "Normal"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "6.3",
+          "topic": "Refractive Index",
+          "heading": "Refractive index",
+          "explanation": "The refractive index is a measure of how much light bends when entering a medium. It depends on the velocity of light in that medium. The absolute refractive index is the index of a medium with respect to a vacuum.",
+          "key_points": [
+            "Refractive index of air $\\approx 1.0003$.",
+            "Refractive index of water $= 1.33$.",
+            "Refractive index of diamond $= 2.42$ (highest in the provided list)."
+          ],
+          "formulas": [
+            {
+              "name": "Relative Refractive Index",
+              "latex": "{^1n_2} = \\frac{v_1}{v_2}",
+              "description": "Refractive index of medium 2 with respect to medium 1, where v1 and v2 are velocities of light in the respective media."
+            },
+            {
+              "name": "Absolute Refractive Index",
+              "latex": "n = \\frac{c}{v}",
+              "description": "Ratio of velocity of light in vacuum (c) to velocity in the medium (v)."
+            }
+          ],
+          "worked_example": {
+            "problem": "The absolute refractive index of water is 1.36. What is the velocity of light in water? (Velocity in vacuum $= 3 \\times 10^8$ m/s)",
+            "solution_steps": [
+              {
+                "step": "Use the formula $v = c/n$.",
+                "latex": "v_2 = \\frac{3 \\times 10^8}{1.36}",
+                "verified": true
+              }
+            ],
+            "answer": "2.21 \\times 10^8 \\text{ m/s}"
+          },
+          "keywords": [
+            "Absolute refractive index",
+            "Velocity of light",
+            "Vacuum"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "6.4",
+          "topic": "Refraction in Media",
+          "heading": "Refraction of light in different media",
+          "explanation": "The bending of light depends on the relative density of the media: \n1. Rarer to Denser: Light bends towards the normal. \n2. Denser to Rarer: Light bends away from the normal. \n3. Normal Incidence: Light ray incident normally ($i = 0$) does not change direction and goes undeviated ($r = 0$).",
+          "keywords": [
+            "Rarer medium",
+            "Denser medium",
+            "Normal incidence"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "6.5",
+          "topic": "Atmospheric Refraction",
+          "heading": "Twinkling of stars and Mirage",
+          "explanation": "Atmospheric refraction is the refraction of light by the Earth's atmosphere due to variations in air density and temperature. \n1. Mirage: An optical illusion where light rays from a distant object bend due to hot air near the ground, making the object appear to be reflected in water. \n2. Twinkling of Stars: Stars are point sources. As their light passes through changing atmospheric layers, its path and apparent position shift, causing the star to appear to twinkle. \n3. Apparent Position: Due to refraction, stars appear higher in the sky than their actual position.",
+          "key_points": [
+            "Planets do not twinkle because they are closer and act as extended sources, averaging out the refractive effects.",
+            "Advanced sunrise and delayed sunset are also caused by atmospheric refraction."
+          ],
+          "keywords": [
+            "Mirage",
+            "Atmospheric refraction",
+            "Point source",
+            "Apparent position"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "6.6",
+          "topic": "Dispersion of Light",
+          "heading": "Dispersion of light",
+          "explanation": "Dispersion is the process of separation of light into its component colors while passing through a medium. Sir Isaac Newton used a glass prism to show that white light consists of seven colors (VIBGYOR).",
+          "key_points": [
+            "Different colors have different wavelengths (Red $\\approx 700$ nm, Violet $\\approx 400$ nm).",
+            "In a medium, different colors travel with different velocities, leading to different angles of refraction.",
+            "Red light bends the least; violet light bends the most."
+          ],
+          "keywords": [
+            "VIBGYOR",
+            "Wavelength",
+            "Spectrum",
+            "Prism"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "6.7",
+          "topic": "Internal Reflection",
+          "heading": "Partial and total internal reflection",
+          "explanation": "When light travels from a denser to a rarer medium: \n1. Partial Reflection: Some light reflects back into the denser medium. \n2. Total Internal Reflection: If the angle of incidence is greater than the 'critical angle', all light reflects back into the denser medium. \n3. Critical Angle: The angle of incidence for which the angle of refraction is 90°.",
+          "formulas": [
+            {
+              "name": "Critical Angle Refractive Index",
+              "latex": "{^1n_2} = \\sin i \\text{ (when } r = 90^\\circ)",
+              "description": "Relation between refractive index and critical angle."
+            }
+          ],
+          "keywords": [
+            "Critical angle",
+            "Total internal reflection",
+            "Partial reflection"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "6.8",
+          "topic": "Natural Phenomena",
+          "heading": "Rainbow production",
+          "explanation": "A rainbow is a combined effect of three processes: dispersion, refraction, and total internal reflection of sunlight by water droplets acting as tiny prisms.",
+          "key_points": [
+            "Sunlight enters the droplet and is refracted and dispersed.",
+            "It then undergoes internal reflection inside the droplet.",
+            "Finally, it is refracted again as it exits the droplet, reaching the observer's eye as a spectrum."
+          ],
+          "keywords": [
+            "Rainbow",
+            "Water droplets",
+            "Internal reflection"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "chapter_id": 7,
+      "branch": "Physics",
+      "chapter_title": "Lenses",
+      "chapter_summary": "This chapter introduces the physics of lenses, image formation through ray diagrams, and the mathematical formulas governing them. It also details the biological working of the human eye and how lenses are used to correct vision defects and power optical instruments.",
+      "learning_objectives": [
+        "Identify different types of lenses and their geometric properties.",
+        "Understand the rules for drawing ray diagrams for refracted light.",
+        "Apply the lens formula, magnification, and power of lens calculations.",
+        "Describe the construction and working of the human eye.",
+        "Analyze common defects of vision and their corrective measures.",
+        "Explore the applications of lenses in microscopes and telescopes."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "7.1",
+          "topic": "Introduction to Lenses",
+          "heading": "Lenses",
+          "explanation": "A lens is a transparent medium bound by two surfaces. \n1. Convex (Double Convex) Lens: Thicker at the center than at the edges; it is a converging lens. \n2. Concave (Double Concave) Lens: Thinner at the center than at the edges; it is a divergent lens.",
+          "key_points": [
+            "Most lenses are parts of spheres.",
+            "Light refracts twice when passing through a lens (entry and exit)."
+          ],
+          "keywords": [
+            "Convex lens",
+            "Concave lens",
+            "Converging",
+            "Divergent"
+          ],
+          "difficulty": 1,
+          "importance": 4
+        },
+        {
+          "chunk_id": "7.2",
+          "topic": "Lens Terminology",
+          "heading": "Geometric Properties of Lenses",
+          "explanation": "Key terms used to describe lenses: \n1. Centre of Curvature (C): The centers of the spheres whose parts form the lens surfaces. \n2. Radius of Curvature (R): The radii of these spheres. \n3. Principal Axis: The imaginary line passing through both centers of curvature. \n4. Optical Centre (O): The point inside the lens on the principal axis through which light passes without deviation. \n5. Principal Focus (F): The point where parallel rays converge (convex) or appear to diverge from (concave). \n6. Focal Length (f): The distance between the optical centre and the principal focus.",
+          "keywords": [
+            "Optical centre",
+            "Principal focus",
+            "Focal length"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "7.3",
+          "topic": "Ray Diagrams",
+          "heading": "Rules for drawing ray diagrams",
+          "explanation": "Three basic rules govern ray diagrams for lenses: \nRule 1: A ray parallel to the principal axis passes through the principal focus after refraction. \nRule 2: A ray passing through the principal focus becomes parallel to the principal axis after refraction. \nRule 3: A ray passing through the optical centre passes without changing its direction.",
+          "keywords": [
+            "Ray diagram",
+            "Refraction rules"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "7.4",
+          "topic": "Image Formation",
+          "heading": "Images formed by convex lenses",
+          "explanation": "The nature, size, and position of the image depend on the object's position relative to the focal points ($F_1, 2F_1$).",
+          "key_points": [
+            "Object at infinity: Image at $F_2$, point-sized, real and inverted.",
+            "Object beyond $2F_1$: Image between $F_2$ and $2F_2$, smaller, real and inverted.",
+            "Object at $2F_1$: Image at $2F_2$, same size, real and inverted.",
+            "Object between $F_1$ and $2F_1$: Image beyond $2F_2$, larger, real and inverted.",
+            "Object at $F_1$: Image at infinity, very large, real and inverted.",
+            "Object between $F_1$ and O: Image on the same side as object, very large, virtual and erect."
+          ],
+          "keywords": [
+            "Real image",
+            "Virtual image",
+            "Inverted",
+            "Erect"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "7.5",
+          "topic": "Image Formation",
+          "heading": "Images formed by concave lenses",
+          "explanation": "Concave lenses always form a virtual, erect, and smaller image, regardless of the object's position.",
+          "key_points": [
+            "Object at infinity: Image at focus $F_1$, point-sized.",
+            "Anywhere else: Image between optical centre and focus $F_1$, small."
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "7.6",
+          "topic": "Mathematical Formulas",
+          "heading": "Lens Formula and Magnification",
+          "explanation": "The relationship between object distance (u), image distance (v), and focal length (f) is defined by the lens formula. Magnification (M) is the ratio of image height to object height.",
+          "formulas": [
+            {
+              "name": "Lens Formula",
+              "latex": "\\frac{1}{v} - \\frac{1}{u} = \\frac{1}{f}",
+              "description": "Relates distances of object, image, and focal length."
+            },
+            {
+              "name": "Magnification (Height)",
+              "latex": "M = \\frac{h_2}{h_1}",
+              "description": "Ratio of image height to object height."
+            },
+            {
+              "name": "Magnification (Distance)",
+              "latex": "M = \\frac{v}{u}",
+              "description": "Ratio of image distance to object distance."
+            }
+          ],
+          "key_points": [
+            "Cartesian Sign Convention: Object is always on the left (-u). Focal length of convex is positive (+f), concave is negative (-f)."
+          ],
+          "worked_example": {
+            "problem": "An object is placed 20 cm from a convex lens of focal length 10 cm. Find the image position and magnification.",
+            "solution_steps": [
+              {
+                "step": "Identify given: $u = -20$ cm, $f = 10$ cm.",
+                "latex": "\\frac{1}{v} - \\frac{1}{-20} = \\frac{1}{10}",
+                "verified": true
+              },
+              {
+                "step": "Solve for v.",
+                "latex": "\\frac{1}{v} = \\frac{1}{10} - \\frac{1}{20} = \\frac{1}{20} \\Rightarrow v = 20 \\text{ cm}",
+                "verified": true
+              },
+              {
+                "step": "Calculate magnification.",
+                "latex": "M = \\frac{v}{u} = \\frac{20}{-20} = -1",
+                "verified": true
+              }
+            ],
+            "answer": "Image is at 20 cm on the other side, real, inverted, and same size (M = -1)."
+          },
+          "keywords": [
+            "Lens formula",
+            "Magnification",
+            "Sign convention"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "7.7",
+          "topic": "Power of Lens",
+          "heading": "Power of a lens",
+          "explanation": "The capacity of a lens to converge or diverge rays is its power (P). It is the inverse of the focal length in meters.",
+          "formulas": [
+            {
+              "name": "Power of Lens",
+              "latex": "P = \\frac{1}{f(m)}",
+              "description": "Unit is Dioptre (D)."
+            },
+            {
+              "name": "Combination of Lenses",
+              "latex": "P = P_1 + P_2",
+              "description": "Total power of lenses in contact."
+            }
+          ],
+          "keywords": [
+            "Dioptre",
+            "Converging power"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "7.8",
+          "topic": "Human Eye",
+          "heading": "Human eye and working of its lens",
+          "explanation": "The eye functions like a camera. Light enters through the cornea, passes through the pupil (controlled by the iris), and is focused by a crystalline convex lens onto the retina. The retina contains light-sensitive cells (rods and cones) that send signals to the brain via the optic nerve.",
+          "key_points": [
+            "Cornea: Thin transparent membrane for initial refraction.",
+            "Iris and Pupil: Control the amount of light entering.",
+            "Retina: Screen where real and inverted images are formed.",
+            "Power of Accommodation: The ability of the eye lens to change its focal length to see objects at various distances."
+          ],
+          "keywords": [
+            "Retina",
+            "Cornea",
+            "Optic nerve",
+            "Accommodation"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "7.9",
+          "topic": "Vision Parameters",
+          "heading": "Distance of Distinct Vision",
+          "explanation": "The minimum distance at which an object is clearly visible without stress is the 'near point' (25 cm for a normal eye). The 'far point' is the farthest distance visible (infinity for a normal eye).",
+          "keywords": [
+            "Near point",
+            "Far point",
+            "Distinct vision"
+          ],
+          "difficulty": 1,
+          "importance": 3
+        },
+        {
+          "chunk_id": "7.10",
+          "topic": "Defects of Vision",
+          "heading": "Defects of Vision and their corrections",
+          "explanation": "1. Nearsightedness (Myopia): Can see nearby objects clearly; distant objects are blurry. Image forms in front of the retina. Corrected with a concave lens.\n2. Farsightedness (Hypermetropia): Can see distant objects clearly; nearby objects are blurry. Image forms behind the retina. Corrected with a convex lens.\n3. Presbyopia: Age-related loss of accommodation power. Often requires bifocal lenses (upper concave, lower convex).",
+          "key_points": [
+            "Myopia causes: Elongated eyeball or excessive curvature of cornea.",
+            "Hypermetropia causes: Flattened eyeball or low converging power of lens."
+          ],
+          "keywords": [
+            "Myopia",
+            "Hypermetropia",
+            "Presbyopia",
+            "Bifocal lens"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "7.11",
+          "topic": "Optical Instruments",
+          "heading": "Uses of convex and concave lenses",
+          "explanation": "Lenses are used in various devices: \n1. Simple Microscope: A single convex lens with small focal length (magnifying glass).\n2. Compound Microscope: Uses two convex lenses (objective and eyepiece) to observe tiny objects like cells.\n3. Telescope: Used to see distant objects. Refracting telescopes use two convex lenses.\n4. Other uses: Camera, projector, spectacles, and medical equipment (lasers).",
+          "key_points": [
+            "Persistence of Vision: Images stay on the retina for 1/16th of a second.",
+            "Color Perception: Cones respond to color; rods respond to light intensity."
+          ],
+          "keywords": [
+            "Microscope",
+            "Telescope",
+            "Persistence of vision",
+            "Color blindness"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "chapter_id": 8,
+      "branch": "Chemistry",
+      "chapter_title": "Metallurgy",
+      "chapter_summary": "This chapter covers the physical and chemical properties of metals and nonmetals, the reactivity series, the science of extracting metals from their ores (metallurgy), and methods to prevent corrosion.",
+      "learning_objectives": [
+        "Compare physical and chemical properties of metals and nonmetals.",
+        "Understand the reactivity series of metals based on their chemical reactions.",
+        "Explain the formation and properties of ionic compounds.",
+        "Learn the basic principles of metallurgy: concentration, extraction, and refining.",
+        "Describe specific processes like electrolytic reduction of alumina and roasting/calcination.",
+        "Identify causes of corrosion and various preventive measures like galvanizing and alloying."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "8.1",
+          "topic": "Physical Properties",
+          "heading": "Physical properties of metals",
+          "explanation": "Metals are generally solid at room temperature (except mercury and gallium). They possess characteristic properties that define their utility in various industries.",
+          "key_points": [
+            "Luster: Metals have a shining surface.",
+            "Ductility and Malleability: Can be drawn into wires and beaten into sheets.",
+            "Conductivity: Good conductors of heat and electricity.",
+            "Hardness: Generally hard, but alkali metals (Li, Na, K) are soft and can be cut with a knife.",
+            "Melting/Boiling Points: Generally high (Tungsten is highest at 3422 °C); alkali metals have low points.",
+            "Sonority: Produce sound when struck."
+          ],
+          "keywords": [
+            "Ductility",
+            "Malleability",
+            "Sonorous",
+            "Luster"
+          ],
+          "difficulty": 1,
+          "importance": 3
+        },
+        {
+          "chunk_id": "8.2",
+          "topic": "Physical Properties",
+          "heading": "Physical properties of nonmetals",
+          "explanation": "Nonmetals exist in all three states of matter. They generally lack the metallic properties of luster and conductivity, with some notable exceptions.",
+          "key_points": [
+            "States: Solid or gaseous (Bromine is the only liquid nonmetal).",
+            "Luster: Generally dull (Iodine crystals are an exception as they are shiny).",
+            "Hardness: Generally soft (Diamond, an allotrope of carbon, is the hardest natural substance).",
+            "Conductivity: Bad conductors (Graphite is an exception as it conducts electricity).",
+            "Melting/Boiling Points: Generally low."
+          ],
+          "keywords": [
+            "Bromine",
+            "Graphite",
+            "Diamond",
+            "Iodine"
+          ],
+          "difficulty": 1,
+          "importance": 3
+        },
+        {
+          "chunk_id": "8.3",
+          "topic": "Chemical Properties of Metals",
+          "heading": "Reaction of metals with oxygen",
+          "explanation": "Metals combine with oxygen on heating to form metal oxides. The reactivity varies: Sodium and Potassium react at room temperature, while others require heating. Most metal oxides are basic and react with water to form alkalis.",
+          "equations": [
+            {
+              "name": "Sodium Oxide Formation",
+              "latex": "4Na(s) + O_2(g) \\rightarrow 2Na_2O(s)",
+              "description": "Sodium reacting with oxygen."
+            },
+            {
+              "name": "Sodium Hydroxide Formation",
+              "latex": "Na_2O(s) + H_2O(l) \\rightarrow 2NaOH(aq)",
+              "description": "Metal oxide reacting with water to form alkali."
+            },
+            {
+              "name": "Magnesium Oxide Formation",
+              "latex": "2Mg(s) + O_2(g) \\rightarrow 2MgO(s)",
+              "description": "Magnesium burning in air."
+            }
+          ],
+          "keywords": [
+            "Metal oxides",
+            "Alkali",
+            "Amphoteric"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "8.4",
+          "topic": "Chemical Properties of Metals",
+          "heading": "Reaction of metals with water",
+          "explanation": "Reactivity with water varies across the series. Sodium and Potassium react vigorously with cold water, liberating hydrogen and heat. Calcium reacts slowly and floats due to hydrogen bubbles. Al, Fe, and Zn react only with steam.",
+          "equations": [
+            {
+              "name": "Sodium and Water",
+              "latex": "2Na(s) + 2H_2O(l) \\rightarrow 2NaOH(aq) + H_2(g) + \\text{heat}",
+              "description": "Vigorous reaction."
+            },
+            {
+              "name": "Aluminium and Steam",
+              "latex": "2Al(s) + 3H_2O(g) \\rightarrow Al_2O_3(s) + 3H_2(g)",
+              "description": "Reaction with gaseous water."
+            },
+            {
+              "name": "Iron and Steam",
+              "latex": "3Fe(s) + 4H_2O(g) \\rightarrow Fe_3O_4(s) + 4H_2(g)",
+              "description": "Formation of magnetic oxide of iron."
+            }
+          ],
+          "keywords": [
+            "Hydrogen gas",
+            "Steam reaction",
+            "Exothermic"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "8.5",
+          "topic": "Chemical Properties of Metals",
+          "heading": "Reaction of metals with acids",
+          "explanation": "Metals react with dilute acids to form salts and liberate hydrogen gas. Reactivity follows the order: Mg > Al > Zn > Fe. Noble metals like gold and platinum only dissolve in Aqua Regia (HCl and HNO3 in 3:1 ratio).",
+          "equations": [
+            {
+              "name": "Magnesium and HCl",
+              "latex": "Mg(s) + 2HCl(aq) \\rightarrow MgCl_2(aq) + H_2(g)",
+              "description": "Reaction with dilute hydrochloric acid."
+            }
+          ],
+          "keywords": [
+            "Salt formation",
+            "Aqua Regia",
+            "Reactivity"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "8.6",
+          "topic": "Reactivity Series",
+          "heading": "Reactivity series of metals",
+          "explanation": "Metals are arranged in decreasing order of their reactivity. Highly reactive metals (K, Na, Li, Ca) are at the top, moderately reactive (Mg, Al, Zn, Fe, Sn, Pb) in the middle, and less reactive (Cu, Hg, Ag, Au) at the bottom.",
+          "key_points": [
+            "Displacement Reaction: A more reactive metal displaces a less reactive metal from its salt solution.",
+            "Example: Iron displacing copper from copper sulphate."
+          ],
+          "equations": [
+            {
+              "name": "Displacement Reaction",
+              "latex": "Fe(s) + CuSO_4(aq) \\rightarrow FeSO_4(aq) + Cu(s)",
+              "description": "Iron is more reactive than copper."
+            }
+          ],
+          "keywords": [
+            "Displacement",
+            "Reactivity series",
+            "Salt solution"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "8.7",
+          "topic": "Ionic Compounds",
+          "heading": "Properties of ionic compounds",
+          "explanation": "Ionic compounds are formed by the transfer of electrons between metals and nonmetals, resulting in cations and anions held by strong electrostatic forces.",
+          "key_points": [
+            "Crystalline nature with definite shapes.",
+            "High melting and boiling points due to strong intermolecular forces.",
+            "Hard and brittle.",
+            "Soluble in water but insoluble in organic solvents like kerosene.",
+            "Conduct electricity in molten or aqueous state (electrolytes)."
+          ],
+          "keywords": [
+            "Electrostatic force",
+            "Crystalline",
+            "Electrolyte",
+            "Dissociation"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "8.8",
+          "topic": "Metallurgy Principles",
+          "heading": "Concentration of Ores",
+          "explanation": "Concentration is the process of removing gangue (impurities like soil/sand) from ores. Methods depend on physical properties.",
+          "key_points": [
+            "Wilfley Table Method: Uses vibration and water flow to separate heavy ore from light gangue.",
+            "Hydraulic Separation: Based on the law of gravitation using a forceful jet of water.",
+            "Magnetic Separation: Uses electromagnetic rollers to separate magnetic and non-magnetic components (e.g., Cassiterite).",
+            "Froth Floatation: Used for sulphide ores. Ore particles wet with oil and float as froth, while gangue wets with water and sinks.",
+            "Leaching: Chemical separation where ore dissolves in a specific reagent (e.g., Bauxite in NaOH)."
+          ],
+          "keywords": [
+            "Gangue",
+            "Concentration",
+            "Froth floatation",
+            "Leaching"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "8.9",
+          "topic": "Extraction of Aluminium",
+          "heading": "Electrolytic reduction of alumina",
+          "explanation": "Aluminium is extracted from Bauxite. First, bauxite is concentrated to Alumina ($Al_2O_3$) via Bayer's or Hall's process. Then, alumina undergoes electrolytic reduction in a steel tank with graphite lining.",
+          "key_points": [
+            "Cryolite ($Na_3AlF_6$) and Fluorspar ($CaF_2$) are added to lower the melting point to 1000 °C.",
+            "Aluminium is deposited at the cathode.",
+            "Oxygen gas is liberated at the anode and reacts with graphite, requiring periodic replacement of anodes."
+          ],
+          "equations": [
+            {
+              "name": "Anode Reaction",
+              "latex": "2O^{2-} \\rightarrow O_2 + 4e^- \\text{ (Oxidation)}",
+              "description": "Oxygen liberation."
+            },
+            {
+              "name": "Cathode Reaction",
+              "latex": "Al^{3+} + 3e^- \\rightarrow Al(l) \\text{ (Reduction)}",
+              "description": "Aluminium deposition."
+            }
+          ],
+          "keywords": [
+            "Bauxite",
+            "Alumina",
+            "Cryolite",
+            "Electrolysis"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "8.10",
+          "topic": "Extraction of Other Metals",
+          "heading": "Moderately and Less Reactive Metals",
+          "explanation": "1. Moderately Reactive (Zn, Fe, Pb): Sulphide ores are 'roasted' (heated in excess air), and carbonate ores undergo 'calcination' (heated in limited air) to form oxides, which are then reduced using carbon.\n2. Less Reactive (Hg, Cu): Extracted by simply heating their ores in air.",
+          "equations": [
+            {
+              "name": "Roasting of Zinc Blende",
+              "latex": "2ZnS + 3O_2 \\rightarrow 2ZnO + 2SO_2",
+              "description": "Heating sulphide ore."
+            },
+            {
+              "name": "Reduction of Zinc Oxide",
+              "latex": "ZnO + C \\rightarrow Zn + CO",
+              "description": "Reduction using carbon."
+            },
+            {
+              "name": "Thermit Reaction",
+              "latex": "Fe_2O_3 + 2Al \\rightarrow 2Fe + Al_2O_3 + \\text{heat}",
+              "description": "Highly exothermic reduction used for welding rails."
+            }
+          ],
+          "keywords": [
+            "Roasting",
+            "Calcination",
+            "Thermit welding"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "8.11",
+          "topic": "Corrosion Prevention",
+          "heading": "Prevention of Corrosion",
+          "explanation": "Corrosion is the damage to metals due to environmental factors. It can be prevented by isolating the metal from air and moisture.",
+          "key_points": [
+            "Galvanizing: Applying a thin layer of Zinc (e.g., iron nails).",
+            "Tinning: Coating with molten tin ('Kalhaee') to prevent poisoning in copper/brass vessels.",
+            "Anodization: Electrolytic coating of a metal (like Al or Cu) with its own oxide layer.",
+            "Electroplating: Coating a less reactive metal on a more reactive one (e.g., silver-plated spoons).",
+            "Alloying: Mixing metals with other elements to enhance properties (e.g., Stainless steel: Fe + Cr + C; Bronze: Cu + Sn)."
+          ],
+          "keywords": [
+            "Galvanizing",
+            "Anodization",
+            "Alloy",
+            "Amalgam"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "chapter_id": 9,
+      "branch": "Chemistry",
+      "chapter_title": "Carbon Compounds",
+      "chapter_summary": "This chapter explores the unique nature of carbon, the formation of covalent bonds, the classification of hydrocarbons, functional groups, IUPAC nomenclature, and the chemical properties of important carbon compounds like ethanol and ethanoic acid, as well as polymers.",
+      "learning_objectives": [
+        "Understand the nature of covalent bonding in carbon compounds.",
+        "Explain the versatility of carbon due to catenation and tetravalency.",
+        "Classify hydrocarbons into saturated and unsaturated types.",
+        "Identify functional groups and understand homologous series.",
+        "Apply IUPAC rules for naming carbon compounds.",
+        "Analyze chemical reactions of carbon compounds: combustion, oxidation, addition, and substitution.",
+        "Study the properties and uses of ethanol and ethanoic acid.",
+        "Understand the structure and importance of macromolecules and polymers."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "9.1",
+          "topic": "Bonding in Carbon",
+          "heading": "Bonds in Carbon compounds",
+          "explanation": "Carbon compounds generally have low melting and boiling points (below 300 °C) and are poor conductors of electricity. This indicates that they lack ionic bonds and are held together by weak intermolecular forces. Carbon (atomic number 6, configuration 2,4) achieves stability by sharing its four valence electrons with other atoms, forming covalent bonds.",
+          "key_points": [
+            "Carbon is tetravalent.",
+            "Covalent bonds are formed by sharing electron pairs.",
+            "Carbon does not form $C^{4+}$ or $C^{4-}$ ions due to energy considerations."
+          ],
+          "examples": [
+            "Methane ($CH_4$): Melting point -183 °C, Boiling point -162 °C.",
+            "Acetic acid ($CH_3COOH$): Melting point 17 °C, Boiling point 118 °C."
+          ],
+          "keywords": [
+            "Covalent bond",
+            "Tetravalency",
+            "Electron sharing"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "9.2",
+          "topic": "Versatility of Carbon",
+          "heading": "Carbon : A Versatile Element",
+          "explanation": "Carbon forms an exceptionally large number of compounds (about 10 million) due to two main properties: \n1. Catenation Power: The unique ability to form strong covalent bonds with other carbon atoms, resulting in long open or closed chains. \n2. Multiple Bonds: Carbon can form single, double, or triple bonds with itself or other atoms.",
+          "key_points": [
+            "Catenation allows for straight, branched, and ring structures.",
+            "Isomerism: Compounds with the same molecular formula but different structural formulae (e.g., n-butane and isobutane)."
+          ],
+          "keywords": [
+            "Catenation",
+            "Isomerism",
+            "Multiple bonds"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "9.3",
+          "topic": "Hydrocarbons",
+          "heading": "Hydrocarbons : Saturated and Unsaturated",
+          "explanation": "Compounds containing only carbon and hydrogen are called hydrocarbons. \n1. Saturated Hydrocarbons: Contain only single bonds between carbon atoms (Alkanes). \n2. Unsaturated Hydrocarbons: Contain at least one double (Alkenes) or triple (Alkynes) bond between carbon atoms.",
+          "key_points": [
+            "Alkanes general formula: $C_nH_{2n+2}$.",
+            "Alkenes general formula: $C_nH_{2n}$.",
+            "Alkynes general formula: $C_nH_{2n-2}$."
+          ],
+          "examples": [
+            "Ethane ($C_2H_6$) - Saturated",
+            "Ethene ($C_2H_4$) - Unsaturated (Double bond)",
+            "Ethyne ($C_2H_2$) - Unsaturated (Triple bond)"
+          ],
+          "keywords": [
+            "Alkanes",
+            "Alkenes",
+            "Alkynes",
+            "Saturated",
+            "Unsaturated"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "9.4",
+          "topic": "Functional Groups",
+          "heading": "Functional Groups in Carbon Compounds",
+          "explanation": "Heteroatoms (like O, N, S, Halogens) or groups of atoms containing them substitute hydrogen in a hydrocarbon chain, giving the compound specific chemical properties. These are called functional groups.",
+          "key_points": [
+            "Halogen (-X): Halo (chloro, bromo, iodo).",
+            "Oxygen groups: Alcohol (-OH), Aldehyde (-CHO), Ketone (-CO-), Carboxylic Acid (-COOH), Ether (-O-), Ester (-COO-).",
+            "Nitrogen group: Amines ($-NH_2$)."
+          ],
+          "keywords": [
+            "Heteroatom",
+            "Functional group",
+            "Alcohol",
+            "Carboxylic acid"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "9.5",
+          "topic": "Homologous Series",
+          "heading": "Homologous series",
+          "explanation": "A series of compounds with the same functional group where successive members differ by a $-CH_2-$ (methylene) unit and 14 units of molecular mass. Members show similar chemical properties and a gradation in physical properties.",
+          "key_points": [
+            "Successive members differ by one carbon and two hydrogen atoms.",
+            "Physical properties like boiling point increase with increasing chain length."
+          ],
+          "keywords": [
+            "Homologous series",
+            "Methylene unit",
+            "Gradation"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "9.6",
+          "topic": "Nomenclature",
+          "heading": "IUPAC nomenclature system",
+          "explanation": "The International Union of Pure and Applied Chemistry (IUPAC) system provides a logical way to name compounds based on their structure. A name consists of three parts: prefix, parent, and suffix.",
+          "key_points": [
+            "Step 1: Identify the longest carbon chain (parent alkane).",
+            "Step 2: Identify the functional group and its suffix (e.g., -ol for alcohol, -oic acid for carboxylic acid).",
+            "Step 3: Number the chain to give the functional group the lowest possible number."
+          ],
+          "worked_example": {
+            "problem": "Give the IUPAC name for $CH_3-CH(OH)-CH_3$.",
+            "solution_steps": [
+              {
+                "step": "Parent chain has 3 carbons.",
+                "latex": "\\text{Propane}",
+                "verified": true
+              },
+              {
+                "step": "Functional group is alcohol (-OH) at position 2.",
+                "latex": "\\text{Suffix: -ol}",
+                "verified": true
+              }
+            ],
+            "answer": "Propan-2-ol"
+          },
+          "keywords": [
+            "IUPAC",
+            "Parent chain",
+            "Suffix",
+            "Prefix"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "9.7",
+          "topic": "Chemical Properties",
+          "heading": "Chemical Properties of Carbon Compounds",
+          "explanation": "1. Combustion: Carbon compounds burn in oxygen to produce $CO_2$, $H_2O$, heat, and light. \n2. Oxidation: Using oxidants like $KMnO_4$ or $K_2Cr_2O_7$ to convert alcohols to acids. \n3. Addition Reaction: Unsaturated compounds react with reagents (like $H_2$ or $I_2$) to become saturated. \n4. Substitution Reaction: Saturated hydrocarbons react with halogens in sunlight, replacing hydrogen atoms one by one.",
+          "equations": [
+            {
+              "name": "Combustion of Methane",
+              "latex": "CH_4 + 2O_2 \\rightarrow CO_2 + 2H_2O + \\text{heat}",
+              "description": "Complete combustion."
+            },
+            {
+              "name": "Hydrogenation (Addition)",
+              "latex": "CH_2=CH_2 + H_2 \\xrightarrow{Ni/Pt} CH_3-CH_3",
+              "description": "Converting ethene to ethane."
+            },
+            {
+              "name": "Chlorination (Substitution)",
+              "latex": "CH_4 + Cl_2 \\xrightarrow{\\text{Sunlight}} CH_3Cl + HCl",
+              "description": "First step of methane chlorination."
+            }
+          ],
+          "keywords": [
+            "Combustion",
+            "Oxidation",
+            "Hydrogenation",
+            "Substitution"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "9.8",
+          "topic": "Important Compounds",
+          "heading": "Ethanol and Ethanoic Acid",
+          "explanation": "Ethanol ($C_2H_5OH$) is a liquid at room temperature, soluble in water, and used as a solvent. Ethanoic acid ($CH_3COOH$), or acetic acid, is the main component of vinegar (5-8% solution).",
+          "key_points": [
+            "Ethanol reacts with Sodium to produce Sodium Ethoxide and Hydrogen gas.",
+            "Dehydration of Ethanol with conc. $H_2SO_4$ at 170 °C produces Ethene.",
+            "Ethanoic acid reacts with Ethanol (Esterification) to form Ethyl Ethanoate (an ester with sweet odor).",
+            "Saponification: Esters react with alkali to form alcohol and sodium salt of carboxylic acid (soap)."
+          ],
+          "equations": [
+            {
+              "name": "Esterification",
+              "latex": "CH_3COOH + CH_3CH_2OH \\xrightarrow{\\text{Acid Catalyst}} CH_3COOCH_2CH_3 + H_2O",
+              "description": "Formation of an ester."
+            }
+          ],
+          "keywords": [
+            "Ethanol",
+            "Ethanoic acid",
+            "Esterification",
+            "Saponification"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "9.9",
+          "topic": "Polymers",
+          "heading": "Macromolecules and Polymers",
+          "explanation": "Macromolecules are giant molecules formed by hundreds of thousands of atoms. Polymers are macromolecules formed by the regular repetition of small units called monomers. The process is called polymerization.",
+          "key_points": [
+            "Natural Polymers: Polysaccharides (starch, cellulose), Proteins, Nucleic acids (DNA, RNA), Rubber.",
+            "Manmade Polymers: Polyethylene (carry bags), PVC (pipes), Teflon (nonstick cookware), Polystyrene (thermocol)."
+          ],
+          "examples": [
+            "Monomer: Ethylene $\\rightarrow$ Polymer: Polyethylene.",
+            "Monomer: Vinyl chloride $\\rightarrow$ Polymer: Polyvinyl chloride (PVC)."
+          ],
+          "keywords": [
+            "Macromolecule",
+            "Polymer",
+            "Monomer",
+            "Polymerization"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "chapter_id": 10,
+      "branch": "Space Science",
+      "chapter_title": "Space Missions",
+      "chapter_summary": "This chapter details the technology and science behind space exploration, including the classification and orbits of artificial satellites, the mechanics of launch vehicles, and significant lunar and interplanetary missions.",
+      "learning_objectives": [
+        "Understand the need and importance of space missions.",
+        "Classify artificial satellites based on their functions.",
+        "Analyze the different types of satellite orbits (LEO, MEO, HEO).",
+        "Explain the working and structure of satellite launch vehicles.",
+        "Calculate critical velocity and escape velocity.",
+        "Review significant space missions like Moon and Mars missions.",
+        "Understand the challenges of space debris."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "10.1",
+          "topic": "Introduction to Space Missions",
+          "heading": "Space missions",
+          "explanation": "Space missions are classified into two categories: those aimed at putting artificial satellites in Earth's orbit for research and utility, and those aimed at exploring outer space and celestial bodies like planets and asteroids. These missions have transformed the world into a 'global village' through advanced communication and weather forecasting.",
+          "key_points": [
+            "First person in space: Yuri Gagarin (1961).",
+            "First person on the Moon: Neil Armstrong (1969).",
+            "Indian space pioneers: Rakesh Sharma, Kalpana Chawla, Sunita Williams."
+          ],
+          "keywords": [
+            "Global village",
+            "Research",
+            "Exploration"
+          ],
+          "difficulty": 1,
+          "importance": 3
+        },
+        {
+          "chunk_id": "10.2",
+          "topic": "Artificial Satellites",
+          "heading": "Artificial satellite",
+          "explanation": "An artificial satellite is a manmade object that revolves around the Earth or another planet in a fixed orbit. The first such satellite was 'Sputnik', launched by the Soviet Union in 1957. They are powered by solar energy via photovoltaic panels.",
+          "key_points": [
+            "Weather Satellites: Study and predict weather (INSAT, GSAT).",
+            "Communication Satellites: Establish global communication via specific waves (INSAT, GSAT).",
+            "Broadcast Satellites: Telecasting television programs (INSAT, GSAT).",
+            "Navigational Satellites: Fix precise geographical locations (IRNSS).",
+            "Military Satellites: Collect information for security purposes.",
+            "Earth Observation Satellites: Manage natural resources and disaster monitoring (IRS)."
+          ],
+          "keywords": [
+            "Sputnik",
+            "INSAT",
+            "IRNSS",
+            "Photovoltaic"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "10.3",
+          "topic": "Satellite Orbits",
+          "heading": "Orbits of Artificial Satellites",
+          "explanation": "To place a satellite in a specific orbit, it must be given a specific tangential velocity called critical velocity ($v_c$). The height of the orbit determines the type of orbit.",
+          "formulas": [
+            {
+              "name": "Critical Velocity",
+              "latex": "v_c = \\sqrt{\\frac{GM}{R+h}}",
+              "description": "Velocity required to maintain a circular orbit at height h."
+            }
+          ],
+          "key_points": [
+            "High Earth Orbits (HEO): Height > 35780 km. Includes Geostationary satellites that take 24 hours to orbit, appearing stationary from Earth.",
+            "Medium Earth Orbits (MEO): Height 2000 km to 35780 km. Used for GPS (Global Positioning System) at approx 20,200 km.",
+            "Low Earth Orbits (LEO): Height 180 km to 2000 km. Used for scientific experiments, Hubble telescope, and the International Space Station (ISS)."
+          ],
+          "worked_example": {
+            "problem": "Determine the tangential velocity of a satellite orbiting at exactly 35780 km above Earth's surface.",
+            "solution_steps": [
+              {
+                "step": "Identify values: $R = 6400$ km, $h = 35780$ km, $M = 6 \\times 10^{24}$ kg.",
+                "latex": "R+h = 42180 \\text{ km} = 42180 \\times 10^3 \\text{ m}",
+                "verified": true
+              },
+              {
+                "step": "Apply critical velocity formula.",
+                "latex": "v_c = \\sqrt{\\frac{6.67 \\times 10^{-11} \\times 6 \\times 10^{24}}{42180 \\times 10^3}}",
+                "verified": true
+              }
+            ],
+            "answer": "3.08 km/s"
+          },
+          "keywords": [
+            "Critical velocity",
+            "Geostationary",
+            "HEO",
+            "LEO",
+            "MEO"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "10.4",
+          "topic": "Launch Vehicles",
+          "heading": "Satellite Launch Vehicles",
+          "explanation": "Launch vehicles use Newton's third law of motion to carry satellites into space. They are often multi-stage to reduce weight during flight; as fuel in one stage is exhausted, that stage is detached, and the next stage ignites.",
+          "key_points": [
+            "PSLV (Polar Satellite Launch Vehicle): Developed by ISRO, India.",
+            "Space Shuttle: Developed by USA, designed to be partially reusable."
+          ],
+          "keywords": [
+            "PSLV",
+            "Thrust",
+            "Multi-stage",
+            "ISRO"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "10.5",
+          "topic": "Interplanetary Missions",
+          "heading": "Space missions away from earth",
+          "explanation": "To travel to other celestial bodies, a spacecraft must overcome Earth's gravity by reaching escape velocity ($v_{esc}$).",
+          "formulas": [
+            {
+              "name": "Escape Velocity",
+              "latex": "v_{esc} = \\sqrt{\\frac{2GM}{R}}",
+              "description": "Minimum velocity to escape Earth's gravitational pull (11.2 km/s)."
+            }
+          ],
+          "key_points": [
+            "Moon Missions: Luna series (USSR), Apollo (USA), Chandrayaan-1 (India - discovered water on Moon).",
+            "Mars Missions: Mangalyaan (India - ISRO, 2013). India reached Mars in its first attempt at minimum expense."
+          ],
+          "keywords": [
+            "Escape velocity",
+            "Chandrayaan",
+            "Mangalyaan",
+            "Interplanetary"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "10.6",
+          "topic": "Indian Space Program",
+          "heading": "India and space technology",
+          "explanation": "India has made significant strides under ISRO. Dr. Vikram Sarabhai is considered the father of the Indian space program. India uses PSLV and GSLV launchers for its diverse satellite series.",
+          "key_points": [
+            "First Indian satellite: Aryabhatta.",
+            "Satellite Launch Centers: Thumba, Sriharikota, Chandipur."
+          ],
+          "keywords": [
+            "Vikram Sarabhai",
+            "ISRO",
+            "Aryabhatta",
+            "GSLV"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "10.7",
+          "topic": "Space Challenges",
+          "heading": "Space Debris and its management",
+          "explanation": "Space debris consists of non-functional satellites, detached launcher parts, and collision fragments. As of 2016, there are an estimated 2 crore pieces larger than 1 cm orbiting Earth, posing a collision risk to active spacecraft.",
+          "keywords": [
+            "Space debris",
+            "Collision risk",
+            "Sustainability"
+          ],
+          "difficulty": 2,
+          "importance": 3
+        }
+      ]
+    }
+  ]
+}

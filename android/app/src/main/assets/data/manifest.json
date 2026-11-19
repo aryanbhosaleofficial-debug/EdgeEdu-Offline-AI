@@ -1,0 +1,273 @@
+{
+  "manifest_schema": 1,
+  "content_version": 7,
+  "generated": "2026-07-04T23:06:09.832755+00:00",
+  "algorithm": "sha256",
+  "files": {
+    "data/10th/English/10th_Geography_English.json": {
+      "sha256": "a5cc58cec3a100311abc607e3a544fd9ac965a704ab3de24bcca2c75279bff4f",
+      "bytes": 80454
+    },
+    "data/10th/English/10th_Geography_English.pdf": {
+      "sha256": "8c5304a88d5f2ab2998c026e27243c40e8aa346486a42e33b2d30df938e06134",
+      "bytes": 14155029
+    },
+    "data/10th/English/10th_History and Political Science_English.json": {
+      "sha256": "d288457187e0d9c8f8aa0b2b74aa013bb560b974020015bc17ed17ee1e1f7aa1",
+      "bytes": 184546
+    },
+    "data/10th/English/10th_History and Political Science_English.pdf": {
+      "sha256": "3cf06706dc4a37e419470c377dfb866eeab40ba9ca347eeb26eea80ec1bbe1a9",
+      "bytes": 8030913
+    },
+    "data/10th/English/10th_Maths 1_English.json": {
+      "sha256": "0c782fd5aba01887541071dbf195f63bd7273cccd145fe68a83130ae3ec9a5bc",
+      "bytes": 73989
+    },
+    "data/10th/English/10th_Maths 1_English.pdf": {
+      "sha256": "194693b6158f283ae8b0bbf04c7a76cbdd9ae4a60d725e22411514a7a1309bb5",
+      "bytes": 5236877
+    },
+    "data/10th/English/10th_Maths 2_English.json": {
+      "sha256": "369cfd5f59374414c4b1249ad3e7b5dd45e62285fb658fe1e603bb9f5b078a50",
+      "bytes": 82459
+    },
+    "data/10th/English/10th_Maths 2_English.pdf": {
+      "sha256": "a1281307b061b3f11a94cb819e9bfe7b87b4b3332200bc18e993cfd94fd7d431",
+      "bytes": 11420327
+    },
+    "data/10th/English/10th_Science 1_English.json": {
+      "sha256": "6c822d2758bc8bf64ed84c23eed4176b65dc5bd1d4df73b595d38f63e86ec7a5",
+      "bytes": 115575
+    },
+    "data/10th/English/10th_Science 1_English.pdf": {
+      "sha256": "8af8af653313d2d1182dc055c153c8fe33e2847b2886756c55b349efc4c3e797",
+      "bytes": 8450068
+    },
+    "data/10th/English/10th_Science 2_English.json": {
+      "sha256": "e329c040263af4bc6c5ff5394ddb83a91e2ec6e2724e7191060fb681893bf6e2",
+      "bytes": 96735
+    },
+    "data/10th/English/10th_Science 2_English.pdf": {
+      "sha256": "107f9f9945c95cbad10ab8eb6e030808176e75bc9392511b4375323c02aa1024",
+      "bytes": 13962973
+    },
+    "data/10th/Hindi/10th_Geography_Hindi.json": {
+      "sha256": "884eeedda6e028d1e826c43bfab78b61090205d334b33d81c2e706a4463fb2af",
+      "bytes": 155263
+    },
+    "data/10th/Hindi/10th_Geography_Hindi.pdf": {
+      "sha256": "f970cbc4215e43cfaca1a70e5c11ef967e41ff5cdbfcf106282df973b52bbeb8",
+      "bytes": 15373771
+    },
+    "data/10th/Hindi/10th_History and Political Science_Hindi.json": {
+      "sha256": "9c2f0bdd808ed402ceee4eb75d6d42edf921983bf2d182be3be4aa0052d6a173",
+      "bytes": 340703
+    },
+    "data/10th/Hindi/10th_History and Political Science_Hindi.pdf": {
+      "sha256": "7870d040092761d423b887e9746ac15f753324dbdc52e95bb15e87e90f7969b8",
+      "bytes": 7725656
+    },
+    "data/10th/Hindi/10th_Maths 1_Hindi.json": {
+      "sha256": "fba326c80fbfe78bb4b063aceeb0c2ee2aa3ca404a15b1c822486ad058cfe7be",
+      "bytes": 81183
+    },
+    "data/10th/Hindi/10th_Maths 1_Hindi.pdf": {
+      "sha256": "1884a7909ea758d8fdc0401b79dc2425bb7a71adbcc14535e37a18560bf42d3e",
+      "bytes": 4863909
+    },
+    "data/10th/Hindi/10th_Maths 2_Hindi.json": {
+      "sha256": "3c2350e4d5bfb4ed34336861444f6eee46da36ae71ba04c978ec42bef7f59e8a",
+      "bytes": 90367
+    },
+    "data/10th/Hindi/10th_Maths 2_Hindi.pdf": {
+      "sha256": "520c19e06eb1e845e0b4e2eb7cc55134b8f4dde065107e2e81d719cf40df7a36",
+      "bytes": 5340835
+    },
+    "data/10th/Hindi/10th_Science 1_Hindi.json": {
+      "sha256": "95b262f2719f37b60602d036ff6aae5fa343933494290ccbde04d1cdc2586c09",
+      "bytes": 162618
+    },
+    "data/10th/Hindi/10th_Science 1_Hindi.pdf": {
+      "sha256": "d92480aaa1e7341324b535b927ac29c19008a4890e10fa54b661c743f59a8c23",
+      "bytes": 8180153
+    },
+    "data/10th/Hindi/10th_Science 2_Hindi.json": {
+      "sha256": "5db2a02424527c2e94f7816c77474b7d61922aac91485b8d093da33010950a24",
+      "bytes": 156730
+    },
+    "data/10th/Hindi/10th_Science 2_Hindi.pdf": {
+      "sha256": "2bb5416a88b5604ba120e7ebf089bf4e7aa8080acf634b853a0a3db90406cad8",
+      "bytes": 13335832
+    },
+    "data/10th/Marathi/10th_Geography_Marathi.json": {
+      "sha256": "7d82e6ede50d74d6ff858195bae5cf2bf3b6b05b1ed5fc27f16b011b687cf0bf",
+      "bytes": 171712
+    },
+    "data/10th/Marathi/10th_Geography_Marathi.pdf": {
+      "sha256": "9b6b61e7d62596f264048e7d5a8696a630b6371cf7a2e54b6ef642707ed718bf",
+      "bytes": 14590505
+    },
+    "data/10th/Marathi/10th_History and Political Science_Marathi.json": {
+      "sha256": "e134d0e407cb20818951199eb93d12b2b1dcd9737f3d7ab3cdb6e6b68ad8d3b2",
+      "bytes": 313090
+    },
+    "data/10th/Marathi/10th_History and Political Science_Marathi.pdf": {
+      "sha256": "c8074fd5c49d1d18eb50b83d9495422b0a2cfbd10c790b56d5560b5dd83b8c6b",
+      "bytes": 7515601
+    },
+    "data/10th/Marathi/10th_Maths 1_Marathi.json": {
+      "sha256": "888ea4e99359ec8d590eb7d0412a40519162c3d84ed01c2a68bf8473c20ffa04",
+      "bytes": 105034
+    },
+    "data/10th/Marathi/10th_Maths 1_Marathi.pdf": {
+      "sha256": "6f88df951a623425c9740e7c6e3c258db43f0f13c648b42f5cb12eaddeb5b1bb",
+      "bytes": 5035677
+    },
+    "data/10th/Marathi/10th_Maths 2_Marathi.json": {
+      "sha256": "8dafb7ceec47040b6444bd918ebde3eea8bd031f738c599d8758d4eb96d32511",
+      "bytes": 110804
+    },
+    "data/10th/Marathi/10th_Maths 2_Marathi.pdf": {
+      "sha256": "337059784773ad513d72c0cdccd9dce8d8483d082aff7e7b3ac4cf5cfa73c171",
+      "bytes": 5817139
+    },
+    "data/10th/Marathi/10th_Science 1_Marathi.json": {
+      "sha256": "54474bdab41fa1bee1f1cf22e737e1f21fef96efca344757b3be98df1d4d0d5e",
+      "bytes": 188223
+    },
+    "data/10th/Marathi/10th_Science 1_Marathi.pdf": {
+      "sha256": "4ed57339330472fe4ea4485fb344c358a860a7144ec87261d657487327217c97",
+      "bytes": 8824095
+    },
+    "data/10th/Marathi/10th_Science 2_Marathi.json": {
+      "sha256": "887e94c6ef4412ef912bd9bd60161706af54a6de2a4662769749b30be96a28c5",
+      "bytes": 158295
+    },
+    "data/10th/Marathi/10th_Science 2_Marathi.pdf": {
+      "sha256": "8398d4135b4458e37f0ab2f2da60c573d8011c7264e6f45472ee85a77788367b",
+      "bytes": 14675444
+    },
+    "data/9th/English/9th_Geography_English.json": {
+      "sha256": "2eb2330875b5880347c52cf48d2891c152ecda2f7567001164a2543d48f176c7",
+      "bytes": 133836
+    },
+    "data/9th/English/9th_Geography_English.pdf": {
+      "sha256": "749671ca06200d910bc5bcf9e02652379ad47d78244a96c8637400c0ca6f5225",
+      "bytes": 21608936
+    },
+    "data/9th/English/9th_History and Civics_English.json": {
+      "sha256": "07a3afb930c486789b4e49599ae3b0482ad224104b966dd57151e00fd045e497",
+      "bytes": 186762
+    },
+    "data/9th/English/9th_History and Political Science_English.pdf": {
+      "sha256": "bdb2abf6b030ec37e9352740a723b75193b4d34ed480e4f621633e1cfcdf8f40",
+      "bytes": 10694807
+    },
+    "data/9th/English/9th_Maths 1_English.json": {
+      "sha256": "af18492e1d07f0339a6bebbcc0971643a1a7cb216d0806ebcd41f8121082505d",
+      "bytes": 77690
+    },
+    "data/9th/English/9th_Maths 1_English.pdf": {
+      "sha256": "b4ec0c5282be48bcec328c03973f378165b30473f08350b5aae6dfe9d216cd4e",
+      "bytes": 6255116
+    },
+    "data/9th/English/9th_Maths 2_English.json": {
+      "sha256": "f724c181c4e97fc40bea537a630f0f65570d732abfbcc12589ec79fabbfcc8ce",
+      "bytes": 86809
+    },
+    "data/9th/English/9th_Maths 2_English.pdf": {
+      "sha256": "201876c03a3bcc4189f194eae8c48ece18f47896651d12138563b995e58c0143",
+      "bytes": 17383453
+    },
+    "data/9th/English/9th_Science_English.json": {
+      "sha256": "6ff2f3e51117d53c628a63610cb445adb835cb5efaba9ea487eadcc5226737a2",
+      "bytes": 242174
+    },
+    "data/9th/English/9th_Science_English.pdf": {
+      "sha256": "44624c1ead93c698bc58fdbb11976ca90c76f008db89fe0c0eb5e32b828e1621",
+      "bytes": 16576756
+    },
+    "data/9th/Hindi/9th_Geography_Hindi.json": {
+      "sha256": "c323205558a605f613134ac4d792b73a99edc52324297ad8f4add4df37732731",
+      "bytes": 225738
+    },
+    "data/9th/Hindi/9th_Geography_Hindi.pdf": {
+      "sha256": "017fd98ee69b7a44160ff62ab2cd64b987b90a7aa8b96dc2b4263ee9cdcb51a6",
+      "bytes": 25825674
+    },
+    "data/9th/Hindi/9th_History and Civics_Hindi.json": {
+      "sha256": "a36d3880dc15aab117ba84c4d5a095f1de0c2a911a91fdfffccb8327318c65c3",
+      "bytes": 233872
+    },
+    "data/9th/Hindi/9th_History and Political Science_Hindi.pdf": {
+      "sha256": "6a33255e1b54421a276f04c8c783ffc4ba368a225ecbf02d875cd7e1a6a558ae",
+      "bytes": 10121035
+    },
+    "data/9th/Hindi/9th_Maths 1_Hindi.json": {
+      "sha256": "dfdb0b2729ef3ab2f77c5a1b9a550cd5c0aeac86892c73a2c1f336b0d26880fb",
+      "bytes": 78926
+    },
+    "data/9th/Hindi/9th_Maths 1_Hindi.pdf": {
+      "sha256": "47b9768b1a14e2d223063d3fb82dcd497316d774a541f1973f298e9697304e41",
+      "bytes": 6075455
+    },
+    "data/9th/Hindi/9th_Maths 2_Hindi.json": {
+      "sha256": "a19bf8475a12191ae4ff7d496fa7ba4471d5278632d4aebfb5c4cba5bc3dd198",
+      "bytes": 112774
+    },
+    "data/9th/Hindi/9th_Maths 2_Hindi.pdf": {
+      "sha256": "3550afe061e00f556fe6e21c29eec9cc901e72c8a00cb5adaddbbd77518d1aed",
+      "bytes": 14511909
+    },
+    "data/9th/Hindi/9th_Science_Hindi.json": {
+      "sha256": "8a02abb5f7eba317acbd3d84555db741e6b529835d2bfa94e2b4972d68ca7008",
+      "bytes": 380608
+    },
+    "data/9th/Hindi/9th_Science_Hindi.pdf": {
+      "sha256": "9c7ed699f80228543796cd0ba2df8451a1bdc3aa94d5a489d31cb4b1fc8ab4f8",
+      "bytes": 13162307
+    },
+    "data/9th/Marathi/9th_Geography_Marathi.json": {
+      "sha256": "993deb772b02a1e4b052faeecf3789d5875dab961989d5061d1907e6828cac9a",
+      "bytes": 222830
+    },
+    "data/9th/Marathi/9th_Geography_Marathi.pdf": {
+      "sha256": "c99a35fdcd866925b4ea6c26441c7f56cd8449cbbe563a54296d12ee0eaa9a63",
+      "bytes": 24224403
+    },
+    "data/9th/Marathi/9th_History and Civics_Marathi.json": {
+      "sha256": "cb2f4025bbc7abecfdd68e8aa13cfeb099cedb8060fdfadc13dd6b7d6b3c7247",
+      "bytes": 252233
+    },
+    "data/9th/Marathi/9th_History and Political Science_Marathi.pdf": {
+      "sha256": "9ad788b80970ce2f7c9abec7332ae6207f010058baf330470a12f02a5e1bbfd0",
+      "bytes": 10562065
+    },
+    "data/9th/Marathi/9th_Maths 1_Marathi.json": {
+      "sha256": "1de4c1d9c94790b0072fd66d5537b4794cacdd84a76758a86cf14357ac1e7a68",
+      "bytes": 70413
+    },
+    "data/9th/Marathi/9th_Maths 1_Marathi.pdf": {
+      "sha256": "f48b710ea26d86366daa435dae9750b02ae209e99f144751eae8ed60ef51014d",
+      "bytes": 5734760
+    },
+    "data/9th/Marathi/9th_Maths 2_Marathi.json": {
+      "sha256": "8f762c20a2b02addd2d198bec6068f1c64be42196099b38cd0e3cdf415820cfe",
+      "bytes": 123786
+    },
+    "data/9th/Marathi/9th_Maths 2_Marathi.pdf": {
+      "sha256": "1449a84fd1218170943e57605ead61d0db436205f57a445c04c3ecf397731034",
+      "bytes": 6182319
+    },
+    "data/9th/Marathi/9th_Science_Marathi.json": {
+      "sha256": "1acfc60a869bd9611b06b26d2003ba2fd934a0d31f97ec366e2d8f66105afa0c",
+      "bytes": 412581
+    },
+    "data/9th/Marathi/9th_Science_Marathi.pdf": {
+      "sha256": "27822382b2df4884cb492457bacad569b28546a45c0ea7cde268e46e28ff818b",
+      "bytes": 20224804
+    }
+  },
+  "signature": "bb653dac3b5f0519ea61d779dbb6a149a1cd2a821079d1fc0753826a65a2493570e6fbd831ea9479332849e576f7c0b859f6fd11be314d4ac5edc201c59e2407"
+}

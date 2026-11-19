@@ -1,0 +1,3764 @@
+{
+  "metadata": {
+    "file_name": "history_and_political_science_standard_ten_maharashtra.json",
+    "standard": 10,
+    "subject": "History & Political Science",
+    "language": "English",
+    "board": "Maharashtra State Bureau of Textbook Production and Curriculum Research",
+    "version": "1.0",
+    "authored_by": "AI Studio Extraction",
+    "last_updated": "2026-07-05"
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "chapter_title": "Historiography : Development in the West",
+      "chapter_summary": "This chapter explores the evolution of historical research methods, the transition from ancient traditions to modern scientific historiography, and the significant contributions of Western scholars to the discipline.",
+      "learning_objectives": [
+        "Understand the objective and continuous process of historical research.",
+        "Distinguish between the empirical methods of natural sciences and the methods of historical research.",
+        "Identify the four main characteristics of modern historiography.",
+        "Trace the development of scientific perspectives in European universities.",
+        "Analyze the contributions of notable scholars like Descartes, Voltaire, Hegel, Ranke, Marx, and Foucault."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "1.1",
+          "topic": "Historical Research Method",
+          "heading": "Historical research, writing and studies",
+          "explanation": "Historical research is carried out to understand the chronology of past events and their interconnections. Unlike physical and natural sciences, which use the empirical or laboratory method to verify knowledge and formulate universal laws, historical research cannot recreate events or use laboratory observation because the researcher was not present during the historical time and space. Historical laws cannot be formulated to remain true irrespective of time and space. The process begins with an expert who can read and understand the language and script of historical documents. Authenticity is examined using criteria like lettering style, author's style, manufacturing date, type of paper, and stamps of authority. The document is then scrutinized using relevant historical references.",
+          "key_points": [
+            "Historical research is a continuous process.",
+            "Empirical methods are not applicable to history as events cannot be recreated.",
+            "Experts are needed to verify the authenticity of documents.",
+            "Scrutiny involves comparing documents with known historical references."
+          ],
+          "timeline": [],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Empirical method",
+              "meaning": "Laboratory method of experiments and observation used to verify knowledge."
+            },
+            {
+              "term": "Chronology",
+              "meaning": "The arrangement of events or dates in the order of their occurrence."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [
+            {
+              "q": "Why can't we use laboratory experiments in history?",
+              "a": "Because historical events occurred in the past and cannot be recreated in a controlled environment, and the researcher was not a witness to the original event."
+            }
+          ],
+          "keywords": [
+            "Historical Research",
+            "Authenticity",
+            "Scrutiny",
+            "Chronology"
+          ],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": [
+            "1.2"
+          ]
+        },
+        {
+          "chunk_id": "1.2",
+          "topic": "Tradition of Historiography",
+          "heading": "Tradition of Historiography",
+          "explanation": "The writing of a critical historical narrative is known as 'Historiography', and the scholar who writes it is a 'Historian'. A historian cannot include every past event; the selection depends on the conceptual framework they adopt, which also determines their writing style. Ancient societies did not have the modern tradition of historiography but were aware of history. They passed on stories of life and valour through cave paintings, story-telling, singing songs, and ballads. These traditional means are considered sources of history in modern historiography.",
+          "key_points": [
+            "Historiography is the writing of a critical historical narrative.",
+            "Historians select events based on a conceptual framework.",
+            "Ancient means of passing history included cave paintings and oral traditions."
+          ],
+          "timeline": [
+            {
+              "year": "4500 B.C.E.",
+              "event": "The earliest known inscription from the Sumer civilization in Mesopotamia, now in the Louvre museum."
+            }
+          ],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Historiography",
+              "meaning": "The writing of critical historical narrative."
+            },
+            {
+              "term": "Historian",
+              "meaning": "A scholar who writes a critical historical narrative."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [
+            {
+              "q": "Did ancient people have a sense of history?",
+              "a": "Yes, although they didn't write formal narratives, they used cave paintings, songs, and stories to pass history to the next generation."
+            }
+          ],
+          "keywords": [
+            "Historiography",
+            "Historian",
+            "Oral Traditions",
+            "Sumer"
+          ],
+          "difficulty": 2,
+          "importance": 3,
+          "prerequisites": [
+            "1.1"
+          ],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "1.3",
+          "topic": "Modern Historiography",
+          "heading": "Characteristics of Modern Historiography",
+          "explanation": "Modern historiography is defined by four main characteristics: 1. Its method is based on scientific principles, starting with the formation of relevant questions. 2. These questions are anthropocentric, focusing on the deeds of members of ancient human societies rather than divine interrelations. 3. Answers are supported by reliable evidence. 4. It presents a graph of mankind's journey based on past human deeds. The term 'History' is Greek in origin, first used by Herodotus in the 5th century B.C.E. for his book 'The Histories'.",
+          "key_points": [
+            "Modern history is scientific and question-based.",
+            "It focuses on human actions (anthropocentric).",
+            "It requires reliable evidence for all claims.",
+            "Herodotus is associated with the first use of the term 'History'."
+          ],
+          "timeline": [
+            {
+              "year": "5th Century B.C.E.",
+              "event": "Herodotus used the term 'History' for the first time in his book 'The Histories'."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Herodotus",
+              "role": "Greek historian who first used the term 'History'."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Anthropocentric",
+              "meaning": "Focusing on human beings and their deeds rather than the divine."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Modern Historiography",
+            "Scientific Principles",
+            "Anthropocentric",
+            "Herodotus"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [
+            "1.2"
+          ],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "1.4",
+          "topic": "Notable Scholars",
+          "heading": "René Descartes (1596-1650)",
+          "explanation": "René Descartes was a foremost scholar who insisted on verifying the reliability of historical documents through critical examination. In his book 'Discourse on the method', he established a rule that had a great impact on scientific research: 'Never to accept anything for true till all grounds of doubt are excluded.'",
+          "key_points": [
+            "Insisted on critical examination of documents.",
+            "Authored 'Discourse on the method'.",
+            "Advocated for excluding all doubt before accepting truth."
+          ],
+          "timeline": [
+            {
+              "year": "1596-1650",
+              "event": "Lifespan of René Descartes."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "René Descartes",
+              "role": "French philosopher and scholar who emphasized skepticism and verification in research."
+            }
+          ],
+          "key_terms": [],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "René Descartes",
+            "Verification",
+            "Discourse on the method"
+          ],
+          "difficulty": 3,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "1.5",
+          "topic": "Notable Scholars",
+          "heading": "Voltaire (1694-1778)",
+          "explanation": "Voltaire, born François-Marie Arouet, was a French scholar who argued that historiography should consider not just objective truth and chronology, but also social traditions, trade, economy, and agriculture. He believed understanding all aspects of human life is essential for history writing. Because of this holistic approach, he is considered the founder of modern historiography.",
+          "key_points": [
+            "Original name: François-Marie Arouet.",
+            "Emphasized social and economic factors in history.",
+            "Known as the founder of modern historiography."
+          ],
+          "timeline": [
+            {
+              "year": "1694-1778",
+              "event": "Lifespan of Voltaire."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Voltaire",
+              "role": "French thinker considered the founder of modern historiography for his focus on human life aspects."
+            }
+          ],
+          "key_terms": [],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Voltaire",
+            "Modern Historiography",
+            "Social Traditions"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "1.6",
+          "topic": "Notable Scholars",
+          "heading": "Georg Wilhelm Friedrich Hegel (1770-1831)",
+          "explanation": "Hegel was a German philosopher who insisted that historical reality be presented in a logical manner. He viewed the timeline of historical events as indicative of progress. He believed that as new evidence comes forth, the presentation of history must change. His lectures and articles are collected in 'Encyclopaedia of Philosophical Sciences' and 'Reason in History'. He is famous for the method of 'Dialectics'.",
+          "key_points": [
+            "Insisted on logical presentation of history.",
+            "Viewed history as a progression.",
+            "Developed the concept of Dialectics."
+          ],
+          "timeline": [
+            {
+              "year": "1770-1831",
+              "event": "Lifespan of Georg Wilhelm Friedrich Hegel."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Georg Wilhelm Friedrich Hegel",
+              "role": "German philosopher who introduced logical progression and dialectics to history."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Dialectics",
+              "meaning": "A method of analysis based on opposites (Thesis and Antithesis) to arrive at a new truth (Synthesis)."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [
+            {
+              "q": "What are the stages of Dialectics?",
+              "a": "1. Thesis (initial theory), 2. Antithesis (contrary theory), 3. Synthesis (new thesis containing the gist of both)."
+            }
+          ],
+          "keywords": [
+            "Hegel",
+            "Dialectics",
+            "Logic",
+            "Progress"
+          ],
+          "difficulty": 4,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "1.7",
+          "topic": "Notable Scholars",
+          "heading": "Leopold von Ranké (1795-1886)",
+          "explanation": "Ranké, of Berlin University, greatly influenced 19th-century historiography. He emphasized the critical method of historical research and the importance of information gathered through original documents. He insisted that all documents associated with an event be examined with great care to reach historical truth. He criticized the 'imaginative' narration of history. His works include 'The Theory and Practice of History' and 'The Secret of World History'.",
+          "key_points": [
+            "Emphasized original documents.",
+            "Criticized imaginative history.",
+            "Advocated for the critical method."
+          ],
+          "timeline": [
+            {
+              "year": "1795-1886",
+              "event": "Lifespan of Leopold von Ranké."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Leopold von Ranké",
+              "role": "German historian who established the foundations of modern source-based history."
+            }
+          ],
+          "key_terms": [],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Leopold von Ranké",
+            "Critical Method",
+            "Original Documents"
+          ],
+          "difficulty": 3,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "1.8",
+          "topic": "Notable Scholars",
+          "heading": "Karl Marx (1818-1883)",
+          "explanation": "In the late 19th century, Karl Marx formulated a new thesis: history is not about abstract ideas but about living people. He argued that human relationships are shaped by fundamental needs and the ownership/nature of the means of production. Inequality in access to these means leads to a division of society into classes and subsequent class struggle. He stated that human history is the history of class struggle. His most famous work is 'Das Kapital'.",
+          "key_points": [
+            "History is about living people and their needs.",
+            "Class struggle is the driving force of history.",
+            "Authored 'Das Kapital'."
+          ],
+          "timeline": [
+            {
+              "year": "1818-1883",
+              "event": "Lifespan of Karl Marx."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Karl Marx",
+              "role": "German philosopher who founded the Marxist school of historiography based on class struggle."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Class Struggle",
+              "meaning": "The conflict between the class that owns the means of production and the class that is exploited."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Karl Marx",
+            "Class Theory",
+            "Means of Production",
+            "Das Kapital"
+          ],
+          "difficulty": 4,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "1.9",
+          "topic": "Annales School",
+          "heading": "Annales School",
+          "explanation": "At the start of the 20th century, a new school of historiography arose in France called the 'Annales School'. It shifted the focus of history from just political events, kings, and wars to include climate, local people, agriculture, trade, technology, means of communication, and social divisions. It was started by French historians.",
+          "key_points": [
+            "Arose in France in the 20th century.",
+            "Broadened the scope of history to include social and environmental factors."
+          ],
+          "timeline": [
+            {
+              "year": "20th Century",
+              "event": "Rise of the Annales School in France."
+            }
+          ],
+          "key_figures": [],
+          "key_terms": [],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Annales School",
+            "French Historians",
+            "Social History"
+          ],
+          "difficulty": 3,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "1.10",
+          "topic": "Feminist Historiography",
+          "heading": "Feminist Historiography",
+          "explanation": "Feminist historiography involves restructuring history from the perspective of women. Simone de Beauvoir, a French scholar, helped establish the fundamentals of feminism. This approach emphasized the inclusion of women in history and rethinking the male-dominated perspective. It drove research into women's employment, trade union roles, family life, and institutions working for their cause. After 1990, women were portrayed as an independent social class.",
+          "key_points": [
+            "Restructuring history from a female perspective.",
+            "Simone de Beauvoir was a key figure.",
+            "Focuses on women's roles in society, work, and family."
+          ],
+          "timeline": [
+            {
+              "year": "Post-1990",
+              "event": "Women portrayed as an independent social class in historical writings."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Simone de Beauvoir",
+              "role": "French scholar who laid the groundwork for feminist historiography."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Feminist Historiography",
+              "meaning": "The restructuring of history from the perspective of women."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Feminism",
+            "Simone de Beauvoir",
+            "Women's History"
+          ],
+          "difficulty": 3,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "1.11",
+          "topic": "Michel Foucault",
+          "heading": "Michel Foucault (1926-1984)",
+          "explanation": "Michel Foucault, a 20th-century French historian, introduced a new concept in his book 'Archaeology of Knowledge'. He argued against the practice of arranging historical events in strict chronological order. He believed that archaeology should not strive to reach ultimate historical truth but should explain 'transitions' in the past. He subjected unacknowledged areas like psychological disorders, medicine, and prison administration to historical analysis.",
+          "key_points": [
+            "Authored 'Archaeology of Knowledge'.",
+            "Focused on 'transitions' rather than just chronology.",
+            "Analyzed unconventional subjects like medicine and prisons."
+          ],
+          "timeline": [
+            {
+              "year": "1926-1984",
+              "event": "Lifespan of Michel Foucault."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Michel Foucault",
+              "role": "French historian who introduced the 'archaeology of knowledge' method."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Archaeology of Knowledge",
+              "meaning": "Foucault's method of explaining transitions in history rather than just chronological facts."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Michel Foucault",
+            "Archaeology of Knowledge",
+            "Transitions"
+          ],
+          "difficulty": 4,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        }
+      ]
+    },
+    {
+      "chapter_id": 2,
+      "chapter_title": "Historiography : Indian Tradition",
+      "chapter_summary": "This chapter traces the development of Indian historiography from ancient oral traditions and inscriptions to medieval court chronicles and modern ideological frameworks like Nationalistic, Marxist, and Subaltern history.",
+      "learning_objectives": [
+        "Understand the methods of preserving history in ancient India.",
+        "Identify the characteristics of medieval Indian historiography and the influence of Arabic and Persian styles.",
+        "Analyze the impact of British rule on modern Indian historiography.",
+        "Distinguish between various ideological frameworks such as Colonial, Orientalist, Nationalistic, Marxist, Subaltern, and Feminist historiography."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "2.1",
+          "topic": "Tradition of Indian Historiography",
+          "heading": "Historiography in the Ancient Period",
+          "explanation": "In ancient India, history was preserved through oral recitals of ancestral deeds and mythological lore. While Indians mastered writing by the 3rd millennium B.C.E. (Harappan seals), the script remains undeciphered. The earliest deciphered written documents are the inscriptions of Emperor Ashoka (3rd century B.C.E.) on rocks and stone pillars. From the 1st century C.E., inscriptions appeared on coins, metal images, and copper plates, providing data on dynastic genealogies, territorial extent, and social conditions. Ancient literature like the Ramayana, Mahabharat, Puranas, and Buddhist/Jain texts are vital sources. A significant step was the writing of 'Harshacharit' by Banabhatta in the 7th century C.E., a realistic biography of King Harsha.",
+          "key_points": [
+            "Ancient history relied on oral traditions and inscriptions.",
+            "Ashokan edicts are the earliest deciphered historical documents in India.",
+            "The Sohagaura copper-plate (Mauryan period) mentions famine relief measures.",
+            "Biographies of kings, like 'Harshacharit', marked a shift toward realistic historical writing."
+          ],
+          "timeline": [
+            {
+              "year": "3rd Millennium B.C.E.",
+              "event": "Indians mastered the art of writing (Harappan seals)."
+            },
+            {
+              "year": "3rd Century B.C.E.",
+              "event": "Emperor Ashoka's edicts inscribed on rocks and pillars."
+            },
+            {
+              "year": "1st Century C.E.",
+              "event": "Inscriptions begin to occur on coins and copper plates."
+            },
+            {
+              "year": "7th Century C.E.",
+              "event": "Banabhatta wrote 'Harshacharit', the biography of King Harsha."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Ashoka Maurya",
+              "role": "Emperor whose edicts are the earliest written historical documents in India."
+            },
+            {
+              "name": "Banabhatta",
+              "role": "Author of 'Harshacharit', a realistic biography of King Harsha."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Brahmi script",
+              "meaning": "The ancient script used in Ashokan inscriptions and the Sohagaura copper-plate."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Ancient Historiography",
+            "Ashoka",
+            "Harshacharit",
+            "Inscriptions",
+            "Sohagaura"
+          ],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "2.2",
+          "topic": "Tradition of Indian Historiography",
+          "heading": "Historiography in the Medieval Period",
+          "explanation": "Medieval historiography saw significant developments. Kalhana's 'Rajtarangini' (12th century C.E.), a history of Kashmir, is considered close to modern historiography for its critical examination of sources. In Muslim courts, historians like Ziauddin Barani ('Tarikh-i-Phiruz Shahi') expanded history's scope to include the ruler's failings and the impact of saints/scholars on cultural life. Mughal historiography emphasized praising emperors and exhibition of loyalty. Babur wrote the autobiography 'Tuzuk-i-Babari', and Abul Fazl wrote 'Akbarnama', noted for its critical method of collecting authentic documents. Marathi 'Bakhar' emerged as an important document type, containing eulogies of heroes and stories of battles (e.g., 'Sabhasad Bakhar' about Shivaji Maharaj).",
+          "key_points": [
+            "Kalhana's 'Rajtarangini' used a critical approach to history.",
+            "Ziauddin Barani argued that history should record both the virtues and failings of rulers.",
+            "Abul Fazl's 'Akbarnama' is a landmark in critical historiography.",
+            "Bakhars are unique Marathi historical documents containing hero stories and battle accounts."
+          ],
+          "timeline": [
+            {
+              "year": "12th Century C.E.",
+              "event": "Kalhana wrote 'Rajtarangini', the history of Kashmir."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Kalhana",
+              "role": "Author of 'Rajtarangini', known for a critical approach to history."
+            },
+            {
+              "name": "Ziauddin Barani",
+              "role": "Author of 'Tarikh-i-Phiruz Shahi' who defined the purpose of historiography."
+            },
+            {
+              "name": "Babur",
+              "role": "Founder of the Mughal Empire and author of 'Tuzuk-i-Babari'."
+            },
+            {
+              "name": "Abul Fazl",
+              "role": "Author of 'Akbarnama', known for realistic and unbiased scrutiny of documents."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Bakhar",
+              "meaning": "A type of historical document in Marathi containing eulogies and battle stories."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Medieval Historiography",
+            "Rajtarangini",
+            "Akbarnama",
+            "Bakhar",
+            "Mughal History"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "2.3",
+          "topic": "Modern Historiography",
+          "heading": "Historiography in the Modern Period",
+          "explanation": "Modern historiography began in the 20th century under British rule with archaeological explorations led by Sir Alexander Cunningham and Sir John Marshall (discovery of Harappan Civilization). Early British writings, however, often showed colonial prejudice. James Mill's 'The History of British India' (1817) was the first such book but lacked an objective perspective. Other notable works include Mountstuart Elphinstone's 'The History of India' and Grant Duff's 'A History of the Mahrattas', which often condemned Indian culture. Indian historians like Nilkanth Janardan Kirtane and V.K. Rajwade later exposed the limitations of these British writings.",
+          "key_points": [
+            "The Archaeological Survey of India (ASI) was established under British rule.",
+            "James Mill wrote the first book on Indian history by a British historian.",
+            "Grant Duff's work on Maratha history showed a British inclination to condemn Indian culture."
+          ],
+          "timeline": [
+            {
+              "year": "1817",
+              "event": "James Mill published 'The History of British India' in three volumes."
+            },
+            {
+              "year": "1841",
+              "event": "Mountstuart Elphinstone published 'The History of India'."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Sir Alexander Cunningham",
+              "role": "First Director General of the Archaeological Survey of India."
+            },
+            {
+              "name": "Sir John Marshall",
+              "role": "Director General of ASI during the discovery of the Harappan Civilization."
+            },
+            {
+              "name": "James Mill",
+              "role": "British historian who wrote 'The History of British India'."
+            },
+            {
+              "name": "Grant Duff",
+              "role": "British officer who wrote 'A History of the Mahrattas'."
+            }
+          ],
+          "key_terms": [],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Modern Historiography",
+            "ASI",
+            "Harappan Civilization",
+            "Colonial History"
+          ],
+          "difficulty": 3,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "2.4",
+          "topic": "Ideological Frameworks",
+          "heading": "Orientalist and Nationalistic Historiography",
+          "explanation": "Orientalists were European scholars curious about Eastern civilizations. They studied similarities between Sanskrit and European languages, leading to the notion of Indo-European languages. Friedrich Max Muller, who translated the 'Rigveda' and edited 'The Sacred Books of the East', is a key figure. Nationalistic historiography arose as Indian historians trained in the British system sought to restore pride in India's ancient glory. Inspired by Vishnushastri Chiplunkar, they criticized prejudiced British accounts. V.K. Rajwade was a major figure who founded 'Bharat Itihas Samshodhak Mandal' and insisted on using authentic sources. Vinayak Damodar Savarkar's 'The Indian War of Independence, 1857' was crucial for the independence movement.",
+          "key_points": [
+            "Orientalists like Max Muller focused on Vedic and Sanskrit literature.",
+            "Nationalistic historiography aimed to restore Indian self-esteem.",
+            "V.K. Rajwade emphasized that history is the 'all-inclusive image of past societies'.",
+            "Nationalistic writing triggered the independence movement and regional history writing."
+          ],
+          "timeline": [
+            {
+              "year": "1784",
+              "event": "Sir William Jones founded the Asiatic Society in Kolkata."
+            },
+            {
+              "year": "1910",
+              "event": "V.K. Rajwade founded 'Bharat Itihas Samshodhak Mandal' in Pune."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Friedrich Max Muller",
+              "role": "German Orientalist scholar who translated the Rigveda."
+            },
+            {
+              "name": "Vishnushastri Chiplunkar",
+              "role": "Inspiration for nationalistic writings in Maharashtra."
+            },
+            {
+              "name": "V.K. Rajwade",
+              "role": "Historian known for 'Marathyanchya Itihasachi Sadhane' and emphasizing authentic sources."
+            },
+            {
+              "name": "Vinayak Damodar Savarkar",
+              "role": "Author of 'The Indian War of Independence, 1857'."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Orientalists",
+              "meaning": "European scholars who studied and admired Eastern civilizations."
+            },
+            {
+              "term": "Nationalistic Historiography",
+              "meaning": "History writing aimed at restoring pride in India's past and opposing colonial narratives."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Orientalism",
+            "Nationalism",
+            "V.K. Rajwade",
+            "Max Muller",
+            "1857 War"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "2.5",
+          "topic": "Post-Independence Historiography",
+          "heading": "Marxist, Subaltern, and Feminist History",
+          "explanation": "Post-independence historiography was influenced by three schools. Marxist history focuses on the means of production and class struggle; Indian Marxists like Damodar Kosambi and S.A. Dange studied transitions within the caste system. Subaltern history, rooted in Marxist thought, focuses on the 'bottommost ranks' of society. Antonio Gramsci, Ranjit Guha, Mahatma Phule ('Gulamgiri'), and Dr. B.R. Ambedkar ('Who Were the Shudras') are key figures. Feminist history restructures history from women's perspectives. Tarabai Shinde's 'Stripurush Tulana' (1882) is the first feminist book in India. Post-independence feminist literature (e.g., by Meera Kosambi and Sharmila Rege) focuses on employment, political equality, and the lives of Dalit women.",
+          "key_points": [
+            "Marxist historians analyze social events through the lens of class and production.",
+            "Subaltern history highlights the role of marginalized groups and folklore.",
+            "Feminist historiography challenges male-dominated historical perspectives.",
+            "Tarabai Shinde and Pandita Ramabai were pioneers of feminist writing in the 19th century."
+          ],
+          "timeline": [
+            {
+              "year": "1882",
+              "event": "Tarabai Shinde published 'Stripurush Tulana', India's first feminist book."
+            },
+            {
+              "year": "1888",
+              "event": "Pandita Ramabai published 'The High Caste Hindu Woman'."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Damodar Dharmanand Kosambi",
+              "role": "Prominent Indian Marxist historian."
+            },
+            {
+              "name": "Ranjit Guha",
+              "role": "Historian who played a major role in establishing Subaltern history."
+            },
+            {
+              "name": "Mahatma Jyotirao Phule",
+              "role": "Author of 'Gulamgiri', focused on the history of 'shudratishudra' communities."
+            },
+            {
+              "name": "Dr. Babasaheb Ambedkar",
+              "role": "Wrote about the role of Dalit castes; authored 'Who Were the Shudras'."
+            },
+            {
+              "name": "Tarabai Shinde",
+              "role": "Feminist author who attacked the male-dominated social and caste systems."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Subaltern",
+              "meaning": "The 'bottommost ranks' of people in society."
+            },
+            {
+              "term": "Marxist Historiography",
+              "meaning": "History centered on means of production and industrial relations."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Marxist History",
+            "Subaltern History",
+            "Feminist History",
+            "Ambedkar",
+            "Phule",
+            "Tarabai Shinde"
+          ],
+          "difficulty": 4,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        }
+      ]
+    },
+    {
+      "chapter_id": 3,
+      "chapter_title": "Applied History",
+      "chapter_summary": "This chapter defines Applied History (Public History) and its practical application in various fields like science, technology, and heritage management, emphasizing how historical knowledge benefits the contemporary world.",
+      "learning_objectives": [
+        "Understand the concept of Applied History and Public History.",
+        "Analyze the applicability of history in various research fields.",
+        "Learn about the management and preservation of cultural and natural heritage.",
+        "Identify professional opportunities in fields affiliated with history."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "3.1",
+          "topic": "What is Applied History?",
+          "heading": "Applied History and Public History",
+          "explanation": "Applied History, also known as 'Public History', is a field of study concerned with the application of history for the benefit of people in contemporary and future times. It helps overcome misgivings that history is only for historians or lacks practical utility in economically productive fields. Knowledge of history provides guidance in finding solutions to contemporary social issues and aids in social planning. It encourages public participation in conservation and preservation projects and creates interest in history through tourism.",
+          "key_points": [
+            "Applied History is synonymous with Public History.",
+            "It bridges the gap between historical knowledge and practical application.",
+            "It helps in social planning and solving contemporary issues.",
+            "Srushti Institute of Art Design and Technology in Bengaluru has a 'Centre for Public History'."
+          ],
+          "timeline": [],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Applied History",
+              "meaning": "The application of history for the benefit of people in the contemporary and future times."
+            },
+            {
+              "term": "Public History",
+              "meaning": "A field that makes history meaningful in everyday life by connecting people to their past."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [
+            {
+              "q": "Is history only for students and historians?",
+              "a": "No, Applied History shows that historical knowledge is practical and useful for everyone in fields like social planning and heritage management."
+            }
+          ],
+          "keywords": [
+            "Public History",
+            "Social Planning",
+            "Practicality",
+            "Bengaluru"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "3.2",
+          "topic": "Applied History and Research",
+          "heading": "Research in Various Fields",
+          "explanation": "The method of history is valuable in various fields because every field has its own history of building knowledge. (1) Philosophy: Helps understand the origin of ideologies and their development. (2) Science: Explains the cause-effect chain of discoveries and inventions; 'need' is the mother of invention. (3) Technology: Traces the evolution from stone tools to mechanization. (4) Industry and Commerce: Studies the history of market changes and social organization. (5) Management Studies: Essential to understand past functional systems and human resources for healthy management. (6) Arts: Understands art forms through intellectual-emotional-cultural traditions. (7) Humanities: Includes history, archaeology, and sociology; all are supposed to have their origin in philosophy.",
+          "key_points": [
+            "Every discipline has a developmental history that informs its future.",
+            "Philosophy is considered the origin of all disciplines.",
+            "History of science helps understand the factors facilitating discoveries."
+          ],
+          "timeline": [],
+          "key_figures": [],
+          "key_terms": [],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Philosophy",
+            "Science",
+            "Technology",
+            "Management",
+            "Humanities"
+          ],
+          "difficulty": 3,
+          "importance": 4,
+          "prerequisites": [
+            "3.1"
+          ],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "3.3",
+          "topic": "Heritage Management",
+          "heading": "Management of Cultural and Natural Heritage",
+          "explanation": "Heritage is divided into Cultural and Natural. Cultural Heritage includes: 1. Tangible (ancient sites, buildings, manuscripts, etc.) and 2. Intangible (oral traditions, traditional knowledge, rituals, skills). Natural Heritage focuses on biodiversity, including fauna, flora, and ecology. UNESCO, a global organization, announces directives to promote and declare 'World Heritage' sites. In India, the Archaeological Survey of India (ASI) and State Departments of Archaeology handle conservation. INTACH is also active in this field. Heritage management creates employment and links people with their origin.",
+          "key_points": [
+            "Cultural heritage is both tangible and intangible.",
+            "Natural heritage includes the Kaas plateau in Satara district.",
+            "UNESCO directives help in preserving sites for future generations.",
+            "Heritage management requires participation from experts like architects, sociologists, and legal experts."
+          ],
+          "timeline": [
+            {
+              "year": "6th Century B.C.E.",
+              "event": "Earliest museum discovered at 'Ur' in Mesopotamia, curated by Princess Ennigaldi."
+            },
+            {
+              "year": "1814 C.E.",
+              "event": "Indian Museum at Kolkata founded by the Asiatic Society."
+            },
+            {
+              "year": "1964",
+              "event": "National Film Archives of India established in Pune."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Sir Leonard Woolley",
+              "role": "Conducted excavations at the city of 'Ur'."
+            },
+            {
+              "name": "Ennigaldi",
+              "role": "Princess of Mesopotamia and curator of the world's earliest museum."
+            },
+            {
+              "name": "Nathaniel Wallich",
+              "role": "Danish botanist and first curator of the Indian Museum, Kolkata."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Tangible Heritage",
+              "meaning": "Physical artifacts and sites like buildings and manuscripts."
+            },
+            {
+              "term": "Intangible Heritage",
+              "meaning": "Non-physical traditions like oral languages, rituals, and traditional skills."
+            },
+            {
+              "term": "Archives",
+              "meaning": "Places that preserve and store old documents, official records, and films."
+            }
+          ],
+          "provisions": [
+            {
+              "name": "UNESCO World Heritage",
+              "detail": "Directives for promoting and protecting cultural and natural heritage sites globally."
+            }
+          ],
+          "common_doubts": [],
+          "keywords": [
+            "UNESCO",
+            "Tangible",
+            "Intangible",
+            "ASI",
+            "INTACH",
+            "Archives"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "3.4",
+          "topic": "Heritage Sites in India",
+          "heading": "World Heritage Sites - India (At a glance)",
+          "explanation": "India has numerous UNESCO-recognized sites. Intangible heritage includes Kootiyattam (2001), Vedic Chanting (2003), Ramlila (2005), and Yoga (2016). Cultural sites include Agra Fort (1983), Ajanta Caves (1983), Taj Mahal (1983), and Ahmedabad - Historical City (2017). Natural sites include Kaziranga National Park (1985) and Western Ghats (2012). Khangchendzonga National Park (2016) is listed as a 'Mixed' site.",
+          "key_points": [
+            "India has a rich list of oral, cultural, and natural heritage recognized by UNESCO.",
+            "The Western Ghats were added to the list in 2012.",
+            "Ahmedabad was declared a historical city in 2017."
+          ],
+          "timeline": [
+            {
+              "year": "1983",
+              "event": "Agra Fort, Ajanta Caves, Ellora Caves, and Taj Mahal declared World Heritage Sites."
+            },
+            {
+              "year": "2016",
+              "event": "Yoga declared as Intangible Heritage; Khangchendzonga National Park declared a Mixed site."
+            }
+          ],
+          "key_figures": [],
+          "key_terms": [],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "UNESCO India",
+            "Ajanta",
+            "Taj Mahal",
+            "Western Ghats",
+            "Yoga"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        }
+      ]
+    },
+    {
+      "chapter_id": 4,
+      "chapter_title": "History of Indian Arts",
+      "chapter_summary": "This chapter provides a comprehensive overview of Indian artistic traditions, including visual arts (painting and sculpture) and performing arts (folk and classical), while exploring the history of architecture and the professional scope of applied arts.",
+      "learning_objectives": [
+        "Define 'Art' and distinguish between Visual Arts and Performing Arts.",
+        "Differentiate between Folk Art and Classical Art traditions.",
+        "Trace the history of Indian painting styles from rock art to Western influence.",
+        "Understand the evolution of Indian sculptural art and iconography.",
+        "Identify various styles of Indian temple and medieval architecture.",
+        "Explore the traditions of Indian performing arts and the concept of Applied Art."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "4.1",
+          "topic": "What is Art?",
+          "heading": "Definition and Types of Art",
+          "explanation": "Art is a natural human instinct to share experiences, wisdom, and emotions through beautiful creations. It is rooted in the artist's imagination, sensibility, and skills. Artistic creations are categorized into two types: 'Visual Arts' (Drik Kala) and 'Performing Arts' (Lalit or Aangik Kala). There are two distinct traditions: 'Folk Art', which is spontaneous, collective, and continues from prehistoric times; and 'Classical Art', which follows an established frame of consistent rules and requires prolonged training.",
+          "key_points": [
+            "Visual Arts are called Drik Kala; Performing Arts are called Lalit or Aangik Kala.",
+            "Folk art is a natural part of people's way of living.",
+            "Classical art requires formal training to master.",
+            "An 'art style' is established when a specific method is adopted by many artists over time."
+          ],
+          "timeline": [],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Drik Kala",
+              "meaning": "Sanskrit term for Visual Arts."
+            },
+            {
+              "term": "Lalit Kala",
+              "meaning": "Sanskrit term for Performing Arts (also known as Aangik Kala)."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Visual Arts",
+            "Performing Arts",
+            "Folk Art",
+            "Classical Art"
+          ],
+          "difficulty": 1,
+          "importance": 3,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "4.2",
+          "topic": "Indian Traditions of Visual Arts",
+          "heading": "Art of Painting",
+          "explanation": "Painting is a two-dimensional art form done on surfaces like rocks, walls, and paper. Notable styles include: (1) Maratha Style: Developed in the 17th century C.E., featuring colored murals and miniatures influenced by Rajput and European styles. (2) Folk Styles: Includes ancient rock paintings (Bhimbetka) depicting flora, fauna, and human figures. Warli painting (Maharashtra) and Chitrakathi (Pinguli tradition) are prominent. Chitrakathi uses 30-50 pictures to narrate stories from Ramayana or Mahabharata. (3) Classical Styles: Ancient texts mention 64 arts. Painting is called 'alekhyam'. It has six aspects (Shadange): Roopbheda (shapes), Pramana (proportion), Bhava (expressions), Lavanyayojana (aesthetics), Sadrushyata (resemblance to reality), and Varnikabhang (colour composition). (4) Miniatures: Influenced by Persian styles; includes Deccan and Mughal (Akbar's reign) styles. (5) Western Style: Developed during the British period under artists like James Wales and Gangaram Tambat.",
+          "key_points": [
+            "Bhimbetka is a World Heritage site famous for rock paintings.",
+            "Jivya Somya Mashe made Warli painting popular globally.",
+            "The 'Shadange' are the six essential aspects of classical Indian painting.",
+            "Gangaram Tambat made drawings of Verul and Karle caves."
+          ],
+          "timeline": [
+            {
+              "year": "17th Century C.E.",
+              "event": "Development of the Maratha style of painting."
+            },
+            {
+              "year": "12th Century C.E.",
+              "event": "Chitrakathi tradition mentioned in the book 'Manasollas'."
+            },
+            {
+              "year": "1857 C.E.",
+              "event": "Establishment of the J. J. School of Art and Industry."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Jivya Somya Mashe",
+              "role": "Warli artist honored with Padmashree in 2011."
+            },
+            {
+              "name": "James Wales",
+              "role": "Scottish artist who led an art school in Pune during the Peshwa period."
+            },
+            {
+              "name": "Gangaram Tambat",
+              "role": "Marathi artist who worked with James Wales."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Shadange",
+              "meaning": "The six main aspects of classical painting."
+            },
+            {
+              "term": "Chitrakathi",
+              "meaning": "A traditional storytelling art using paper paintings and natural colors."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Maratha Painting",
+            "Warli",
+            "Bhimbetka",
+            "Shadange",
+            "Miniatures"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "4.3",
+          "topic": "Indian Traditions of Visual Arts",
+          "heading": "Sculptural Art and Iconography",
+          "explanation": "Sculptures are three-dimensional objects made of rock, metal, or clay. (1) Folk Style: Ancient tradition of making clay images for rituals (e.g., Ganesha idols, Veergals). (2) Classical Style: Dates back to Harappan seals and statues. Large stone sculptures began in the Mauryan period with Ashokan pillars. The Sanchi Stupa and Bharhut sculptures are key examples. (3) Iconography: The Gandhara school (2nd century B.C.E.) had Greek and Persian influence. The Mathura school (1st-3rd century C.E.) laid the foundation of Indian iconography. Bronze casting reached its peak under the Chola kings (9th-13th century), producing idols like Nataraja and Lakshmi.",
+          "key_points": [
+            "The Ashokan Lion Capital is the national emblem of India.",
+            "The Kailasa temple at Verul is a unique monolithic sculpture.",
+            "Borobudur in Indonesia is the largest stupa in the world.",
+            "Iconography is the branch of knowledge about making images of deities."
+          ],
+          "timeline": [
+            {
+              "year": "3rd Century B.C.E.",
+              "event": "Origin of rock-cut cave tradition in India."
+            },
+            {
+              "year": "9th-13th Century",
+              "event": "Peak of bronze image making under Chola kings."
+            }
+          ],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Veergals",
+              "meaning": "Memorial stones found in folk traditions."
+            },
+            {
+              "term": "Iconography",
+              "meaning": "The study and making of images of gods and goddesses."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Sculpture",
+            "Ashoka Pillar",
+            "Chola Bronzes",
+            "Gandhara School",
+            "Mathura School"
+          ],
+          "difficulty": 3,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "4.4",
+          "topic": "Architecture and Sculpture",
+          "heading": "Indian Architectural Styles",
+          "explanation": "Indian architecture evolved through various phases: (1) Rock-cut Caves: Ajanta and Verul (declared World Heritage in 1983). (2) Temple Architecture: Developed from the 4th century C.E. (Gupta period). Main styles are Nagara (North India) and Dravida (South India). A blend is called Vesara. The Bhoomija style (Maharashtra/MP) features miniature towers. (3) Hemadpanti Style: Maharashtra (12th-13th century), star-shaped plans, masonry without mortar using tenon and mortise joints. (4) Islamic Architecture: Blended Persian, Central Asian, and Arabic styles. Examples: Kutub Minar (highest minaret), Taj Mahal, and Gol Gumbaz (famous for its whispering gallery). (5) Indo-Gothic Style: Developed during the British period. Example: Chhatrapati Shivaji Maharaj Railway Terminus (CSMT), Mumbai.",
+          "key_points": [
+            "The Nagara and Dravida styles are identified by the shape of the tower (Shikhara).",
+            "Hemadpanti temples use the tenon and mortise joint technique.",
+            "The Taj Mahal is considered a paramount example of Islamic architecture in India.",
+            "CSMT is a World Heritage site and a prime example of Indo-Gothic architecture."
+          ],
+          "timeline": [
+            {
+              "year": "1983",
+              "event": "Ajanta and Verul caves declared World Heritage Sites."
+            },
+            {
+              "year": "12th-13th Century",
+              "event": "Construction of Hemadpanti temples in Maharashtra."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Shah Jahan",
+              "role": "Mughal emperor who built the Taj Mahal."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Garbhagriha",
+              "meaning": "The sanctum sanctorum of a temple."
+            },
+            {
+              "term": "Shikhara",
+              "meaning": "The tower of a temple."
+            },
+            {
+              "term": "Indo-Gothic",
+              "meaning": "Architectural style combining Indian and European elements during the British era."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Nagara",
+            "Dravida",
+            "Hemadpanti",
+            "Taj Mahal",
+            "Indo-Gothic"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "4.5",
+          "topic": "Indian Traditions of Performing Arts",
+          "heading": "Folk and Classical Performing Arts",
+          "explanation": "India has a rich heritage of performing arts. (1) Folk Arts: Regional traditions like Koli dance, Dashavatara (Konkan/Goa), Powada (ballads), and Keertan. (2) Classical Arts: Based on 'Natyashastra' by Bharatmuni, which discusses the nine moods (Navarasas). (3) Music: Two main branches—Hindustani and Carnatic. Forms include Classical (shastriya) and Semi-classical. (4) Dance: Various forms like Kathak (North), Lavani (Maharashtra), Bharatnatyam (Tamil Nadu), and Kathakali (Kerala). (5) Modern Fusion: Artists like Uday Shankar created a fusion of Indian classical dance and European opera.",
+          "key_points": [
+            "Natyashastra is the earliest text discussing music and theatre.",
+            "The nine rasas include Shringar (love), Hasya (humour), and Shant (peaceful).",
+            "Ibrahim Adilshah II wrote 'Kitab-e-Navras' about Indian classical music.",
+            "The 'Savai Gandharva' festival in Pune is a famous music event."
+          ],
+          "timeline": [],
+          "key_figures": [
+            {
+              "name": "Bharatmuni",
+              "role": "Author of 'Natyashastra'."
+            },
+            {
+              "name": "Ibrahim Adilshah II",
+              "role": "Ruler of Bijapur and author of 'Kitab-e-Navras'."
+            },
+            {
+              "name": "Uday Shankar",
+              "role": "Dancer who created a fusion of Indian and Western styles."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Navarasas",
+              "meaning": "The nine fundamental moods in Indian performing arts."
+            },
+            {
+              "term": "Powada",
+              "meaning": "A dramatic narration of heroic deeds in ballad form."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Natyashastra",
+            "Navarasas",
+            "Hindustani Music",
+            "Carnatic Music",
+            "Classical Dance"
+          ],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "4.6",
+          "topic": "Art, Applied Art and Professional Opportunities",
+          "heading": "Applied Art and Careers",
+          "explanation": "Applied Art refers to artistic creations with a utilitarian purpose, making them economically viable. Fields include Industry, Advertisement, Interior Design, Art Direction for films, Calligraphy, and Architecture. Professional opportunities for students of history and art include: (1) Art historians in journalism. (2) Experts in the art market to assess the value of objects. (3) Heritage Management and Cultural Tourism. (4) Museums and Archives management. (5) Consultants for film and drama sets to ensure historical accuracy.",
+          "key_points": [
+            "Applied art combines aesthetics with utility.",
+            "The National Institute of Design (NID) in Ahmedabad is a premier training institute.",
+            "Knowledge of cultural history is essential for art directors and scriptwriters."
+          ],
+          "timeline": [
+            {
+              "year": "2015",
+              "event": "National Institute of Design introduced an online course."
+            }
+          ],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Applied Art",
+              "meaning": "Artistic creation with a utilitarian purpose."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Applied Art",
+            "Career in Art",
+            "NID",
+            "Heritage Management"
+          ],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        }
+      ]
+    },
+    {
+      "chapter_id": 5,
+      "chapter_title": "Mass Media and History",
+      "chapter_summary": "This chapter traces the evolution of mass media from early inscriptions and newspapers to modern digital journalism, radio, and television, emphasizing the critical role of history in media content and professional opportunities.",
+      "learning_objectives": [
+        "Define mass media and its various forms.",
+        "Trace the history of printing technology and newspapers in India.",
+        "Understand the significance of radio and television as audio-visual media.",
+        "Analyze the need for mass media in a democracy.",
+        "Develop a critical outlook toward information received through media.",
+        "Identify professional opportunities for history students in the mass media sector."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "5.1",
+          "topic": "Introduction to Mass Media",
+          "heading": "What is Mass Media?",
+          "explanation": "Mass Media consists of two words: 'Mass' (an aggregation of people) and 'Media' (various modes of communication). It is a field of mass communication that allows information to be sent to far-away destinations. In ancient times, news was spread by word of mouth or by criers beating drums in the streets according to royal orders. Printing technology and newspapers, introduced after the arrival of the British, became the first mass medium for circulating knowledge.",
+          "key_points": [
+            "Mass media facilitates the free flow of information to all strata of society.",
+            "Newspapers were the first printed mass medium in India.",
+            "Before printing, news was spread through oral traditions and royal decrees."
+          ],
+          "timeline": [],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Mass Media",
+              "meaning": "Modes of communication used to reach a large aggregation of people."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Communication",
+            "Printing Technology",
+            "Information Flow"
+          ],
+          "difficulty": 1,
+          "importance": 3,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "5.2",
+          "topic": "History of Mass Media",
+          "heading": "Precursors and Early Newspapers",
+          "explanation": "Before the common era, Egypt used inscriptions in public places for royal decrees. Emperor Ashoka used similar methods in India. In the Roman Empire, 'Acta Diurna' (acts of everyday) were placed in public places. The first English newspaper in India, 'Bengal Gazette' (also known as Calcutta General Advertiser), was started by James Augustus Hickey in 1780. 'Darpan', the first Marathi newspaper, was started in 1832 by Balshastri Jambhekar, who is known as the 'First Editor'. His birthday, 6th January, is celebrated as 'Patrakar Din' in Maharashtra.",
+          "key_points": [
+            "Acta Diurna was an early Roman form of a newspaper.",
+            "James Augustus Hickey started the first English newspaper in India.",
+            "Balshastri Jambhekar founded 'Darpan' and 'Digdarshan' (the first Marathi monthly magazine).",
+            "Early newspapers like 'Prabhakar' and 'Dnyanoday' played a role in social awareness."
+          ],
+          "timeline": [
+            {
+              "year": "1780",
+              "event": "James Augustus Hickey started the 'Bengal Gazette'."
+            },
+            {
+              "year": "1832",
+              "event": "Balshastri Jambhekar started 'Darpan' in Mumbai."
+            },
+            {
+              "year": "1842",
+              "event": "'Dnyanoday' printed the map of Asia."
+            },
+            {
+              "year": "1851",
+              "event": "'Dnyanoday' printed the map of Europe."
+            },
+            {
+              "year": "1881",
+              "event": "Gopal Ganesh Agarkar and Bal Gangadhar Tilak started 'Kesari' and 'Maratha'."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "James Augustus Hickey",
+              "role": "Irish gentleman who started the first English newspaper in India."
+            },
+            {
+              "name": "Balshastri Jambhekar",
+              "role": "Founder of 'Darpan'; known as the 'First Editor' in Marathi journalism."
+            },
+            {
+              "name": "Gopal Ganesh Agarkar",
+              "role": "Co-founder of 'Kesari' and 'Maratha' newspapers."
+            },
+            {
+              "name": "Bal Gangadhar Tilak",
+              "role": "Prominent leader who used newspapers to speak about social and political issues."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Acta Diurna",
+              "meaning": "Roman daily announcements placed in public places."
+            },
+            {
+              "term": "Patrakar Din",
+              "meaning": "Journalists' Day in Maharashtra, observed on January 6th."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Bengal Gazette",
+            "Darpan",
+            "Kesari",
+            "Maratha",
+            "Journalism"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "5.3",
+          "topic": "Radio and Television",
+          "heading": "Evolution of Audio-Visual Media",
+          "explanation": "Radio began in India with the private 'Indian Broadcasting Company' (IBC) in 1927. It was later taken over by the British government and renamed 'All India Radio' (AIR) in 1936. After independence, it became part of the Ministry of Information and Broadcasting. It was named 'Akashvani' on the suggestion of poet Pandit Narendra Sharma. Television started with the 'Delhi Doordarshan Centre' in 1959, inaugurated by Dr. Rajendra Prasad. Color television was introduced in 1982. In 1991, the government allowed private channels to telecast in India.",
+          "key_points": [
+            "AIR was renamed 'Akashvani' and broadcasts in 24 regional languages.",
+            "Television is an audio-visual medium that crossed the limitations of newspapers and radio.",
+            "The 'Vividh Bharati' program reaches 146 dialects of Indian languages."
+          ],
+          "timeline": [
+            {
+              "year": "1927",
+              "event": "First English news bulletin broadcast from Mumbai radio station."
+            },
+            {
+              "year": "1936",
+              "event": "The Indian State Broadcasting Service was renamed All India Radio (AIR)."
+            },
+            {
+              "year": "1959",
+              "event": "Inauguration of Delhi Doordarshan Centre."
+            },
+            {
+              "year": "1972",
+              "event": "Mumbai Doordarshan centre began telecasting."
+            },
+            {
+              "year": "1982",
+              "event": "Introduction of color television in India."
+            },
+            {
+              "year": "1991",
+              "event": "Permission granted to private national and international channels."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Pandit Narendra Sharma",
+              "role": "Poet who suggested the name 'Akashvani' for AIR."
+            },
+            {
+              "name": "Dr. Rajendra Prasad",
+              "role": "First Indian President who inaugurated Delhi Doordarshan."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Akashvani",
+              "meaning": "The name for All India Radio, meaning 'voice from the sky'."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "AIR",
+            "Akashvani",
+            "Doordarshan",
+            "Television",
+            "Vividh Bharati"
+          ],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "5.4",
+          "topic": "Critical Understanding",
+          "heading": "Reviewing Media Information",
+          "explanation": "Information received through mass media must be reviewed critically as it may not always represent the exact truth. A famous example is the forged 'Hitler's Diaries' purchased by the German magazine 'Stern'. Despite verification attempts, they were later proved to be forgeries. This highlights the need for media consumers to be cautious and verify information.",
+          "key_points": [
+            "Media information is not always authentic.",
+            "The 'Stern' magazine case serves as a warning against unverified news."
+          ],
+          "timeline": [],
+          "key_figures": [],
+          "key_terms": [],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Critical Review",
+            "Authenticity",
+            "Forgeries",
+            "Stern Magazine"
+          ],
+          "difficulty": 3,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "5.5",
+          "topic": "Mass Media and Professional Opportunities",
+          "heading": "Role of History in Media Careers",
+          "explanation": "History is essential for various media tasks. Newspapers need history for editorials, articles, and columns like '50 Years Ago' or 'On This Day in History'. Radio stations like Akashvani require historians for discussions on anniversaries and lectures on national leaders. Television channels produce mythological and historical serials (e.g., 'Ramayana', 'Mahabharata', 'Bharat Ek Khoj') which require deep historical understanding for accuracy in costumes, weaponry, and lifestyles. Channels like Discovery and History provide a treasure of global history.",
+          "key_points": [
+            "Newspapers use history to provide background and context to current news.",
+            "Akashvani preserves recordings of Prime Ministers' speeches since 1947.",
+            "'Bharat Ek Khoj' is a landmark serial based on Nehru's 'Discovery of India'.",
+            "Media production requires experts in history for art direction and scriptwriting."
+          ],
+          "timeline": [
+            {
+              "year": "2014",
+              "event": "100th year of World War I commemorated by newspapers."
+            },
+            {
+              "year": "2017",
+              "event": "75th anniversary of the 'Quit India' movement."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Pandit Jawaharlal Nehru",
+              "role": "Author of 'Discovery of India', the basis for the serial 'Bharat Ek Khoj'."
+            },
+            {
+              "name": "Shyam Benegal",
+              "role": "Director of the historical serial 'Bharat Ek Khoj'."
+            },
+            {
+              "name": "Roshan Seth",
+              "role": "Actor who played Pandit Nehru in 'Bharat Ek Khoj'."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Bharat Ek Khoj",
+              "meaning": "A famous historical television serial directed by Shyam Benegal."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Career in Media",
+            "Bharat Ek Khoj",
+            "Discovery Channel",
+            "Historical Serials"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        }
+      ]
+    },
+    {
+      "chapter_id": 6,
+      "chapter_title": "Entertainment and History",
+      "chapter_summary": "This chapter explores the various forms of entertainment in India, their historical roots, the development of folk and classical theatre, the rise of the Indian film industry, and the professional opportunities available in these fields.",
+      "learning_objectives": [
+        "Understand the necessity and types of entertainment.",
+        "Trace the history of Indian folk theatre forms like Puppetry, Dashavatara, and Tamasha.",
+        "Learn about the evolution of Marathi Theatre and the role of pioneers.",
+        "Analyze the growth of the Indian Film Industry from silent movies to the modern era.",
+        "Identify career paths for history students in the entertainment sector."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "6.1",
+          "topic": "Why do we need Entertainment?",
+          "heading": "Need and Classification of Entertainment",
+          "explanation": "Entertainment is essential for healthy personality growth, keeping the mind lively, fresh, and physically energetic, which improves work efficiency. It is classified into two categories: (1) Active Entertainment: Anticipates an individual's mental-physical participation, such as practicing handicrafts or sports. (2) Passive Entertainment: The individual is a viewer rather than a participant, such as watching a movie or a sports match.",
+          "key_points": [
+            "Entertainment refreshes the mind and provides happiness.",
+            "Active participation vs. passive viewing are the two main types.",
+            "Hobbies and games contribute to personality development."
+          ],
+          "timeline": [],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Active Entertainment",
+              "meaning": "Entertainment involving physical or mental participation by the individual."
+            },
+            {
+              "term": "Passive Entertainment",
+              "meaning": "Entertainment where the individual is only a spectator."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Personality Development",
+            "Active Participation",
+            "Passive Viewing"
+          ],
+          "difficulty": 1,
+          "importance": 3,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "6.2",
+          "topic": "Folk Theatre",
+          "heading": "Puppetry and Dashavatara",
+          "explanation": "Puppetry (Kathputali) is an ancient art with remains found in Harappan, Egyptian, and Greek sites. In India, it has two main styles: Rajasthani and Southern. The narrator is called 'Sutradhara'. Dashavatara Theatre is a folk form in Maharashtra (Konkan and Goa) based on the 10 incarnations of Vishnu. It begins with an invocation to Lord Ganesha. In the 18th century, Shyamji Naik Kale started a 'phad' (troupe) of Dashavatara artists. Vishnudas Bhave later traced the origins of Marathi theatre to this tradition.",
+          "key_points": [
+            "Kathputali uses light and sound effects ingeniously.",
+            "Dashavatara stories include Matsya, Koorma, Varaha, etc.",
+            "The show ends with the breaking of a 'dahihandi'."
+          ],
+          "timeline": [
+            {
+              "year": "18th Century",
+              "event": "Shyamji Naik Kale started a Dashavatara phad."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Shyamji Naik Kale",
+              "role": "Founder of a Dashavatara artist troupe (phad)."
+            },
+            {
+              "name": "Vishnudas Bhave",
+              "role": "Pioneer of Marathi theatre who modified the Dashavatara style."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Sutradhara",
+              "meaning": "The narrator and crucial figure in a puppet show."
+            },
+            {
+              "term": "Phad",
+              "meaning": "A troupe of performing artists."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Kathputali",
+            "Dashavatara",
+            "Vishnu Incarnations",
+            "Konkan"
+          ],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "6.3",
+          "topic": "Folk Theatre",
+          "heading": "Bhajan, Keertan, and Lalit",
+          "explanation": "Bhajan involves singing devotional songs with instruments like cymbals (taal) and mridangam. Types include Chakri and Songi Bhajan. Keertan, founded traditionally by Naradmuni, has two main traditions: Naradiya (solo) and Varkari (collective). Saint Namadev was the first keertankar of Maharashtra. During the independence movement, 'Rashtriya Keertan' was developed by Dattopant Patwardhan to create awareness. Lalit is an old form in Goa and Konkan where deities are invoked during festivals. Bharud, popularized by Saint Eknath, uses metaphorical songs for spiritual and ethical lessons.",
+          "key_points": [
+            "Tukadoji Maharaj introduced 'Khanjiri Bhajan'.",
+            "Keertan involves 'Poorvarang' (introduction) and 'Uttarrang' (narration).",
+            "Saint Gadge Maharaj used Keertan to promote cleanliness and social reform."
+          ],
+          "timeline": [],
+          "key_figures": [
+            {
+              "name": "Saint Namadev",
+              "role": "Known as the first keertankar of Maharashtra."
+            },
+            {
+              "name": "Tukadoji Maharaj",
+              "role": "Introduced the Khanjiri Bhajan."
+            },
+            {
+              "name": "Dattopant Patwardhan",
+              "role": "Started the tradition of Rashtriya Keertan in Wai."
+            },
+            {
+              "name": "Saint Eknath",
+              "role": "Composed Bharuds for social and spiritual education."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Keertankar",
+              "meaning": "The performer of a Keertan, also known as Haridas."
+            },
+            {
+              "term": "Bharud",
+              "meaning": "A metaphorical song with spiritual and ethical lessons."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Bhajan",
+            "Keertan",
+            "Lalit",
+            "Bharud",
+            "Saint Eknath"
+          ],
+          "difficulty": 3,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "6.4",
+          "topic": "Folk Theatre",
+          "heading": "Tamasha and Powada",
+          "explanation": "Tamasha is a Persian word meaning 'pleasing sight'. It developed in the 18th century, absorbing traits of folk and classical arts. It includes 'Sangeet Bari' (dance/music focus) and 'Dholakicha Phad' (drama focus). The dramatic part is called 'Vag'. Powada is a dramatic ballad narrating heroic deeds. Famous examples include Adnyandas's Powada on the killing of Afzal Khan and Tulasidas's Powada on the Battle of Sinhagad. During the British period, they were used to narrate stories of freedom fighters like Umaji Naik and Mahatma Gandhi.",
+          "key_points": [
+            "Tamasha shows begin with 'Gana' (praise of Ganesha) followed by 'Gavalan'.",
+            "Powadas were used as a medium of public awareness during the Samyukt Maharashtra movement."
+          ],
+          "timeline": [
+            {
+              "year": "18th Century",
+              "event": "Tamasha developed as an independent art form."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Adnyandas",
+              "role": "Contemporary poet of Shivaji Maharaj who composed a famous Powada."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Vag",
+              "meaning": "The dramatic part of a Tamasha performance."
+            },
+            {
+              "term": "Powada",
+              "meaning": "A dramatic narration in ballad form celebrating heroism."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Tamasha",
+            "Powada",
+            "Vag",
+            "Heroic Ballads"
+          ],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "6.5",
+          "topic": "Marathi Theatre",
+          "heading": "Evolution of Marathi Theatre",
+          "explanation": "Theatre involves the participation of artists and the audience. Vishnudas Bhave is the 'Father of Marathi Theatre'; his first play was 'Seetaswayamvar'. Initially, scripts were not used, and dialogues were spontaneous. V.J. Kirtane wrote the first script, 'Thorale Madhavrao Peshwe', in 1861. Musical theatre became popular through Kirloskar Mandali. Notable plays include 'Sharada' (social issues), 'Keechakvadh' (political metaphor against British), and 'Natasamrat' (tragic drama).",
+          "key_points": [
+            "Keechakvadh used Mahabharata characters to denounce the British government.",
+            "The 'Savai Gandharva' festival in Pune is a major post-independence event.",
+            "Marathi theatre transitioned from open grounds to closed playhouses during the British period."
+          ],
+          "timeline": [
+            {
+              "year": "1861",
+              "event": "V.J. Kirtane wrote the script for 'Thorale Madhavrao Peshwe'."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Vishnudas Bhave",
+              "role": "Father of Marathi Theatre."
+            },
+            {
+              "name": "Annasaheb Kirloskar",
+              "role": "Founder of Kirloskar Mandali; wrote 'Sangeet Shakuntal'."
+            },
+            {
+              "name": "Krishnaji Prabhakar Khadilkar",
+              "role": "Author of the metaphorical drama 'Keechakvadh'."
+            },
+            {
+              "name": "Vishnu Waman Shirwadkar (Kusumagraj)",
+              "role": "Author of the famous play 'Natasamrat'."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Keechakvadh",
+              "meaning": "A play by Khadilkar used as a political metaphor against British rule."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Marathi Theatre",
+            "Vishnudas Bhave",
+            "Musical Plays",
+            "Keechakvadh"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "6.6",
+          "topic": "Indian Film Industry",
+          "heading": "Rise of Indian Cinema",
+          "explanation": "Cinema brings together art and technology. The first full-length movie in India was 'Raja Harischandra' (1913), directed by Dadasaheb Phalke. Earlier, Dadasaheb Torane released 'Pundalik' in 1912. Maharashtra is the cradle of the Indian film industry. Notable pioneers include Anandrao Painter (cine-camera) and Kamalabai Mangarulkar (first woman producer). Historical and mythological themes were popular, with movies like 'Sant Tukaram' receiving international acclaim in Paris.",
+          "key_points": [
+            "Dadasaheb Phalke is the 'Father of Indian Cinema'.",
+            "The British government banned 'Bajirao-Mastani' (1925) for spreading nationalistic sentiments.",
+            "The 'Films Division' was created by the government to make documentaries."
+          ],
+          "timeline": [
+            {
+              "year": "1912",
+              "event": "Release of 'Pundalik' in Mumbai."
+            },
+            {
+              "year": "1913",
+              "event": "Release of 'Raja Harischandra', the first completely Indian-processed film."
+            },
+            {
+              "year": "1944",
+              "event": "Prabhat Company's 'Ramshastri' became very popular."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Dadasaheb Phalke",
+              "role": "Director of 'Raja Harischandra'; pioneer of Indian cinema."
+            },
+            {
+              "name": "Dadasaheb Torane",
+              "role": "Director of 'Pundalik'."
+            },
+            {
+              "name": "Kamalabai Mangarulkar",
+              "role": "First Indian woman film producer."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Silent Movies",
+              "meaning": "The initial era of cinema before sound recording was introduced."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Indian Cinema",
+            "Dadasaheb Phalke",
+            "Raja Harischandra",
+            "Historical Movies"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "6.7",
+          "topic": "Professional Opportunities",
+          "heading": "Careers in Entertainment and History",
+          "explanation": "History students can find numerous opportunities in drama and cinema. (1) Drama: Experts are needed for historical accuracy in stage backdrops, costumes, and language. (2) Cinema: Art directors create period-appropriate designs for atmosphere and jewelry. Scholars of history work as consultants to ensure the theme's authenticity. Script and dialogue writers need assistance from experts in cultural history and ancient languages.",
+          "key_points": [
+            "Historical accuracy is crucial for period dramas and films.",
+            "Consultants and art directors are key roles for history experts."
+          ],
+          "timeline": [],
+          "key_figures": [],
+          "key_terms": [],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Career in Cinema",
+            "Art Direction",
+            "Historical Consultant",
+            "Script Writing"
+          ],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        }
+      ]
+    },
+    {
+      "chapter_id": 7,
+      "chapter_title": "Sports and History",
+      "chapter_summary": "This chapter explores the historical evolution of sports, the classification of games, the impact of globalization on the sports economy, the historical significance of toys, and the professional avenues available in the sports sector.",
+      "learning_objectives": [
+        "Understand the importance of sports for physical and mental well-being.",
+        "Identify various types of indoor and outdoor sports.",
+        "Analyze the process of globalization in sports and its economic effects.",
+        "Recognize the historical value of toys and their role in understanding cultural history.",
+        "Explore professional opportunities in sports journalism, commentary, and officiating."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "7.1",
+          "topic": "Importance of Sports",
+          "heading": "History and Benefits of Sports",
+          "explanation": "Sports combine entertainment and physical exercise. The history of sports is as old as mankind, beginning with hunting for food, which later evolved into games. Ancient Indian literature mentions games like dice (dyut), wrestling, horse and chariot races, and chess. The Greeks were the first to standardize rules and organize sports systematically, starting competitions like Discus throw, Boxing, and Wrestling at Olympia. Playing games helps overcome suffering, relaxes the mind, and builds a tenacious body. It develops courage, determination, sportsmanship, and leadership skills.",
+          "key_points": [
+            "Sports have roots in ancient civilizations like India and Greece.",
+            "The Greeks organized the first systematic sports competitions at Olympia.",
+            "Sports foster team spirit, cooperation, and physical strength.",
+            "Major training centers in India include Khasbag Talim (Kolhapur) and Hanuman Vyayam Prasarak Mandal (Amaravati)."
+          ],
+          "timeline": [],
+          "key_figures": [
+            {
+              "name": "Major Dhyan Chand",
+              "role": "Expert hockey player and captain; known as the 'Wizard of Hockey'. His birthday, 29th August, is National Sports Day in India."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Olympics",
+              "meaning": "Ancient Greek sports competitions held at Olympia; now a premier international sporting event."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Wrestling",
+            "Olympics",
+            "Dhyan Chand",
+            "Physical Exercise",
+            "Leadership"
+          ],
+          "difficulty": 1,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "7.2",
+          "topic": "Types of Sports",
+          "heading": "Indoor and Outdoor Games",
+          "explanation": "Sports are classified into Indoor and Outdoor. (1) Indoor Games: Played in closed environments, often sitting. Examples include Chess, Card games, Carom, and Bhatukali (playing house). (2) Outdoor Games: Divided into Indian and International. Indian games include Langadi, Kabaddi, Kho-kho, and Atyapatya. International games include Cricket, Football, Hockey, and Tennis. Athletics like Sprints, Marathons, and Hurdles are also outdoor sports. Physical skill-based sports include Shot put, Discus throw, and Acrobatics like Mallakhamb. Mallakhamb and its tactics were devised by Balambhat Deodhar, inspired by watching monkeys.",
+          "key_points": [
+            "Indoor games like Sagargote are popular among girls.",
+            "Mallakhamb is a traditional Indian sport based on physical skills.",
+            "International outdoor sports like Football and Hockey are popular worldwide.",
+            "Adventurous games include Ice hockey, Rock-climbing, and Auto racing."
+          ],
+          "timeline": [
+            {
+              "year": "1936",
+              "event": "Indian Hockey team won a Gold Medal at the Berlin Olympics under Major Dhyan Chand."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Balambhat Deodhar",
+              "role": "Physical trainer of Peshwa Bajirao II who devised Mallakhamb."
+            },
+            {
+              "name": "Lakshmibai, Queen of Jhansi",
+              "role": "Known for her fondness for physical exercise, including Mallakhamb and horse riding."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Mallakhamb",
+              "meaning": "A traditional Indian sport where gymnasts perform feats on a vertical wooden pole."
+            },
+            {
+              "term": "Bhatukali",
+              "meaning": "A traditional indoor game of 'playing house' usually played by girls."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Indoor Games",
+            "Outdoor Games",
+            "Mallakhamb",
+            "Athletics",
+            "Kabaddi"
+          ],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "7.3",
+          "topic": "Globalization of Sports",
+          "heading": "Sports Economy and Media",
+          "explanation": "In the 20th-21st century, sports were influenced by globalization. International matches like the Cricket World Cup or Olympics can be watched live in any corner of the world via television. This has significantly affected the sports economy. Fans watch for entertainment, while commercial companies use matches as advertising opportunities. Retired sportsmen now have opportunities to work as commentators, and professionals are needed to track and record telecasts.",
+          "key_points": [
+            "Television has made sports accessible to non-participant countries.",
+            "Globalization has turned sports into a major economic sector.",
+            "Commercial interests drive the modern sports industry through advertisements."
+          ],
+          "timeline": [],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Globalization of Sports",
+              "meaning": "The process by which sports events become accessible and economically integrated on a worldwide scale."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Globalization",
+            "Sports Economy",
+            "Television",
+            "Advertising"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "7.4",
+          "topic": "Toys and History",
+          "heading": "Historical Significance of Toys",
+          "explanation": "Toys are means of entertainment and education for children. Clay toys found in excavations (like those in Harappa) show that they were fashioned by hand or moulds. Ancient literature like 'Mrichchhakatika' (The Clay Cart) and 'Kathasaritsagara' mention toys like flying or dancing dolls. In Maharashtra, wooden dolls are known as 'Thaki'. Toys provide a glimpse into religious and cultural traditions; for example, the Diwali tradition of making model forts in Maharashtra keeps the memory of Shivaji Maharaj alive. An ivory doll found in Pompeii (Italy) dated to the 1st century C.E. proves ancient Indo-Roman trade relations.",
+          "key_points": [
+            "Toys reflect technological and cultural development.",
+            "The Pompeii ivory doll is evidence of ancient international trade.",
+            "Model forts made during Diwali are a unique historical tradition in Maharashtra."
+          ],
+          "timeline": [
+            {
+              "year": "1st Century C.E.",
+              "event": "Date of the Indian ivory doll found in the excavation of Pompeii, Italy."
+            }
+          ],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Thaki",
+              "meaning": "Traditional wooden dolls made in Maharashtra."
+            },
+            {
+              "term": "Mrichchhakatika",
+              "meaning": "A Sanskrit play by Shudraka, meaning 'A Clay Cart'."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Toys",
+            "Archaeology",
+            "Indo-Roman Trade",
+            "Model Forts",
+            "Thaki"
+          ],
+          "difficulty": 3,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "7.5",
+          "topic": "Professional Opportunities",
+          "heading": "Careers in Sports and History",
+          "explanation": "There is a close tie between sports and history, offering various career paths. (1) Sports Journalism: Writing articles and reviews for newspapers and magazines. (2) Commentary: Experts with knowledge of history, statistics, and anecdotes are in demand for live matches. (3) Officiating: Trained referees are needed for district, state, and international levels. (4) Media Production: Making movies on sports (e.g., 'Mary Kom', 'Dangal') requires deep historical research into the period's language and dressing style. (5) Government: Scholarships and reserved jobs are available for sportspersons.",
+          "key_points": [
+            "Sports journalism and commentary require a strong historical background.",
+            "Movies on sports personalities have created a new field for historical research.",
+            "Bal J. Pandit was a pioneer of cricket commentary in India."
+          ],
+          "timeline": [
+            {
+              "year": "1956",
+              "event": "Major Dhyan Chand was honored with the 'Padmabhushan'."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Bal J. Pandit",
+              "role": "First Indian cricketer to pioneer cricket commentary on radio (Akashvani)."
+            },
+            {
+              "name": "Mary Kom",
+              "role": "First Indian female boxer to win an Olympic bronze medal; subject of a biographical film."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Sports Journalism",
+              "meaning": "The field of reporting and writing about sports events and history."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Sports Journalism",
+            "Commentary",
+            "Referee",
+            "Mary Kom",
+            "Dangal"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        }
+      ]
+    },
+    {
+      "chapter_id": 8,
+      "chapter_title": "Tourism and History",
+      "chapter_summary": "This chapter traces the history of travel from ancient pilgrimages to modern organized tourism, categorizes various types of tourism, and highlights the importance of heritage conservation and professional opportunities in the hospitality industry.",
+      "learning_objectives": [
+        "Understand the tradition of traveling in the past and its various motives.",
+        "Identify the contributions of famous world travelers and pioneers like Thomas Cook.",
+        "Classify different types of tourism such as historical, agro, and health tourism.",
+        "Analyze the role of heritage conservation and the concept of 'Heritage Walks'.",
+        "Explore professional opportunities in the tourism and hospitality sector."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "8.1",
+          "topic": "Tourism in the Past",
+          "heading": "Ancient and Medieval Traditions of Travel",
+          "explanation": "The tradition of traveling is ancient in India, motivated by pilgrimage, local fairs, education, and trade. Buddhist literature mentions Gautam Buddha traveling to various cities for preaching. Buddhist monks, Jain monks, and sadhus were ordained to travel constantly. In the medieval period, saints like Namdev, Eknath, Guru Nanak, and Ramdas Swami traveled extensively across India. Traveling was a means to connect with different cultures and spread religious teachings.",
+          "key_points": [
+            "Travel in ancient India was primarily for religious and educational purposes.",
+            "Buddhist and Jain traditions emphasized constant movement for monks.",
+            "Medieval saints played a role in cultural integration through their travels."
+          ],
+          "timeline": [
+            {
+              "year": "630 C.E.",
+              "event": "Yuan Shwang, the Chinese monk, traveled to India."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Gautam Buddha",
+              "role": "Traveled to several cities in ancient India for preaching."
+            },
+            {
+              "name": "Yuan Shwang",
+              "role": "Chinese monk who visited India in the 7th century."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Tourism",
+              "meaning": "Traveling to visit places in distant regions for a specific purpose."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Pilgrimage",
+            "Buddhist Literature",
+            "Medieval Saints",
+            "Yuan Shwang"
+          ],
+          "difficulty": 1,
+          "importance": 3,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "8.2",
+          "topic": "Notable Travelers and Pioneers",
+          "heading": "Famous World Travelers and Thomas Cook",
+          "explanation": "Several individuals shaped the history of travel: (1) Benjamin of Tudela: The first European traveler/discoverer who maintained detailed diaries. (2) Marco Polo: Introduced Asia (China) to Europe in the 13th century. (3) Ibn Batuta: Traveled the Islamic world for 30 years in the 14th century. (4) Gerardus Mercator: A 16th-century cartographer who created the world map and globe. (5) Thomas Cook: In the 19th century, he pioneered modern organized tourism by arranging a railway trip for 600 people and later a round trip of Europe, eventually establishing a travel agency.",
+          "key_points": [
+            "Travel diaries of early explorers are viewed as important historical documents.",
+            "Thomas Cook is considered a pioneer of the modern travel agency business.",
+            "Mercator's work was crucial for global navigation."
+          ],
+          "timeline": [
+            {
+              "year": "1159-1173 C.E.",
+              "event": "Travel period of Benjamin of Tudela."
+            },
+            {
+              "year": "13th Century",
+              "event": "Marco Polo introduced China and Asia to Europe."
+            },
+            {
+              "year": "14th Century",
+              "event": "Ibn Batuta's virtual travel of the Islamic world."
+            },
+            {
+              "year": "16th Century",
+              "event": "Gerardus Mercator created the world map."
+            },
+            {
+              "year": "19th Century",
+              "event": "Thomas Cook organized the first mass railway trip."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Benjamin of Tudela",
+              "role": "First European traveler born in Spain."
+            },
+            {
+              "name": "Marco Polo",
+              "role": "Italian traveler who stayed in China for 17 years."
+            },
+            {
+              "name": "Ibn Batuta",
+              "role": "14th-century traveler known for his extensive travel accounts."
+            },
+            {
+              "name": "Thomas Cook",
+              "role": "Founder of the first modern travel agency."
+            }
+          ],
+          "key_terms": [],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Explorers",
+            "Travel Agency",
+            "Cartography",
+            "Marco Polo",
+            "Ibn Batuta"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "8.3",
+          "topic": "Types of Tourism",
+          "heading": "Classification of Modern Tourism",
+          "explanation": "Tourism is broadly typified into: (1) Local and Interstate: Within one's own country, no language or currency barriers. (2) International: Easier now due to aviation and economic liberalization. (3) Historical: Visiting sites like forts (e.g., Gopal Neelkanth Dandekar's hiking tours to Maratha forts). (4) Geographic: Observing unique features like the Valley of Flowers or Lonar crater lake. (5) Health: Foreigners visiting India for cheaper, high-standard medical facilities and Yoga/Ayurveda. (6) Agro-Tourism: Rapidly developing for urban populations to experience rural life. (7) Sports: Attending events like the Olympics or 'Maharashtra Kesari'. (8) Special Events: Film festivals, book exhibitions, and literary conventions.",
+          "key_points": [
+            "Historical tourism satisfies people's interest in the past.",
+            "Agro-tourism is also known as agri-tourism.",
+            "India is a major destination for health tourism due to Ayurveda and Yoga.",
+            "Vishnubhat Godase's 'Maza Pravas' is a key source for the 1857 war period."
+          ],
+          "timeline": [
+            {
+              "year": "1857",
+              "event": "Vishnubhat Godase traveled during the Indian War of Independence."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Vishnubhat Godase",
+              "role": "Author of 'Maza Pravas', an eyewitness account of the 1857 war."
+            },
+            {
+              "name": "Ahilyabai Holkar",
+              "role": "Built amenities on pilgrim routes like Chardham Yatras."
+            },
+            {
+              "name": "Gopal Neelkanth Dandekar",
+              "role": "Marathi writer who arranged hiking tours to historical forts."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Agro-Tourism",
+              "meaning": "Tourism meant for urban populations to experience rural life and agriculture."
+            },
+            {
+              "term": "Maza Pravas",
+              "meaning": "A travelogue by Vishnubhat Godase, an important source of 18th-century history."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Agro-tourism",
+            "Health Tourism",
+            "Historical Tourism",
+            "Maza Pravas",
+            "Lonar Lake"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "8.4",
+          "topic": "Development of Tourism",
+          "heading": "Heritage Conservation and Case Studies",
+          "explanation": "Preserving heritage is a major task. Heritage is divided into Natural and Cultural. UNESCO declares 'World Heritage' sites to promote preservation. In Maharashtra, Kas Plateau is a World Natural Heritage site. Vandalism (writing names on walls) is a major challenge. 'Heritage Walks' are organized in cities like Ahmedabad, Mumbai, and Pune to create awareness. A unique initiative is Bhilar, the 'Village of Books' near Mahabaleshwar, where every household maintains a library for tourists to promote reading culture.",
+          "key_points": [
+            "Vandalism affects the national image and must be avoided.",
+            "Heritage walks help in collecting and publishing authentic information about monuments.",
+            "Bhilar is India's first 'Village of Books', inspired by a movement to accelerate reading culture."
+          ],
+          "timeline": [
+            {
+              "year": "1975",
+              "event": "Maharashtra Tourism Development Corporation (MTDC) was set up."
+            }
+          ],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Heritage Walk",
+              "meaning": "An organized tour for visiting historical places to experience history."
+            },
+            {
+              "term": "Blue Plaques",
+              "meaning": "Markers placed on residences of renowned citizens as part of heritage schemes."
+            }
+          ],
+          "provisions": [
+            {
+              "name": "UNESCO World Heritage List",
+              "detail": "Directives to promote and protect cultural and natural heritage sites."
+            }
+          ],
+          "common_doubts": [],
+          "keywords": [
+            "Heritage Walk",
+            "Bhilar",
+            "Village of Books",
+            "UNESCO",
+            "MTDC"
+          ],
+          "difficulty": 3,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "8.5",
+          "topic": "Professional Opportunities",
+          "heading": "Careers in Tourism and Hospitality",
+          "explanation": "Tourism is a stable industry with high employment potential. Revenue is generated through visas, travel, hotels, and food. Markets in the vicinity of tourist centers grow, benefiting local artisans and food processors. Professional roles include: (1) Tour Guides and Translators. (2) Hotel Management and Hospitality services. (3) Photographers and Horsekeepers (in hill stations like Mahabaleshwar). (4) Researchers for publishing reference books and souvenirs. Knowledge of history is essential for providing accurate information to tourists.",
+          "key_points": [
+            "Tourism contributes significantly to the national economy.",
+            "Local handicrafts and cottage industries develop alongside tourist centers.",
+            "MTDC provides tourist hotels at 47 places in Maharashtra."
+          ],
+          "timeline": [],
+          "key_figures": [],
+          "key_terms": [],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Hospitality",
+            "Tour Guide",
+            "Economic Growth",
+            "Employment"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        }
+      ]
+    },
+    {
+      "chapter_id": 9,
+      "chapter_title": "Heritage Management",
+      "chapter_summary": "This chapter discusses the conservation and preservation of historical sources, the role of museums, libraries, and archives in managing heritage, and the significance of encyclopaedias as storehouses of knowledge.",
+      "learning_objectives": [
+        "Understand the methods for conserving oral, written, and material sources of history.",
+        "Identify the necessary training and skills required for heritage management.",
+        "Learn about world-famous museums and their collections.",
+        "Recognize the importance of libraries and archives in preserving documents.",
+        "Analyze the types and benefits of encyclopaedias in the study of history."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "9.1",
+          "topic": "Sources of History",
+          "heading": "Conservation and Preservation of Sources",
+          "explanation": "Heritage management involves the diligent work of collecting, creating records, and preserving historical specimens. (1) Oral Sources: Includes folk songs and tales. Training requires sociology, psychology, and linguistics. (2) Written Sources: Includes official records, diaries, and manuscripts. Preservation involves mechanical and chemical cleaning. Training requires knowledge of scripts (Brahmi, Modi, Persian), social history, and types of paper/ink. (3) Material Sources: Includes artifacts and fossils. Preservation involves preparing indexes and making replicas. Training requires knowledge of archaeological methods, regional materials (stone, metal, clay), and exhibition management.",
+          "key_points": [
+            "Only trained and qualified persons can handle heritage management tasks.",
+            "Written sources require expertise in ancient scripts and administrative systems.",
+            "Material sources need knowledge of chemical properties for effective cleaning.",
+            "Archives and libraries publish research journals and informative pamphlets."
+          ],
+          "timeline": [],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Modi script",
+              "meaning": "A script used for writing the Marathi language, commonly found in historical Maratha records."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Oral Sources",
+            "Written Sources",
+            "Material Sources",
+            "Preservation",
+            "Conservation"
+          ],
+          "difficulty": 3,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "9.2",
+          "topic": "Famous Museums",
+          "heading": "Global and Indian Museums",
+          "explanation": "Museums organize and manage antiquities. (1) Louvre Museum, France: Established in the 18th century, it houses the 'Monalisa' by Leonardo da Vinci and antiquities brought by Napoleon Bonaparte. (2) British Museum, England: Founded on the collection of Sir Hans Sloane, it contains 80 lakh objects from British colonies. (3) National Museum of Natural History, USA: Managed by the Smithsonian Institution, it houses 12 crore specimens. (4) Indian Museum, Kolkata: Founded in 1814, it is the first museum in India. (5) Chhatrapati Shivaji Maharaj Vastusangrahalay (CSMVS), Mumbai: Built in Indo-Gothic style to commemorate the Prince of Wales's visit; renamed in 1998.",
+          "key_points": [
+            "The Louvre collection increased significantly due to Napoleon's conquests.",
+            "The British Museum was established in the 18th century C.E.",
+            "CSMVS is a Grade I Heritage Building in Mumbai.",
+            "Salarganj Museum (Hyderabad) and Calico Museum of Textiles (Ahmedabad) are other famous Indian museums."
+          ],
+          "timeline": [
+            {
+              "year": "18th Century",
+              "event": "Establishment of the Louvre Museum and the British Museum."
+            },
+            {
+              "year": "1814 C.E.",
+              "event": "Indian Museum, Kolkata, was founded by the Asiatic Society."
+            },
+            {
+              "year": "1846 C.E.",
+              "event": "National Museum of Natural History (USA) was established."
+            },
+            {
+              "year": "1904 C.E.",
+              "event": "Decision to establish the Prince of Wales Museum (now CSMVS) in Mumbai."
+            },
+            {
+              "year": "1998 C.E.",
+              "event": "Prince of Wales Museum renamed to Chhatrapati Shivaji Maharaj Vastusangrahalay."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Leonardo da Vinci",
+              "role": "Artist of the world-renowned painting 'Monalisa'."
+            },
+            {
+              "name": "Sir Hans Sloane",
+              "role": "Natural scientist whose collection formed the basis of the British Museum."
+            },
+            {
+              "name": "Nathaniel Wallich",
+              "role": "Botanist and first curator of the Indian Museum, Kolkata."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Museology",
+              "meaning": "The science or practice of organizing, managing, and studying museums."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Louvre",
+            "British Museum",
+            "CSMVS",
+            "Monalisa",
+            "Smithsonian"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "9.3",
+          "topic": "Libraries and Archives",
+          "heading": "Management of Knowledge and Records",
+          "explanation": "Libraries are storehouses of knowledge. Ancient examples include the Royal Library of Ashurbanipal (Mesopotamia), Takshashila University, and the Library of Alexandria. In India, the Saraswati Mahal Granthalay (Thanjavur) was built in the 16th-17th century. Archives preserve documents in their original condition. The National Archives of India is in New Delhi. The first official archives, 'Imperial Record Department', was established in 1891 in Kolkata. Maharashtra has branches in Mumbai, Pune, Kolhapur, etc. The Pune branch houses 5 crore Modi documents known as 'Peshwa Daftar'.",
+          "key_points": [
+            "Library Science is related to Management, IT, and Education.",
+            "The National Archives of India preserves documents in chronological order from 1748.",
+            "Information Technology is now an inevitable part of library and archive management."
+          ],
+          "timeline": [
+            {
+              "year": "7th Century B.C.E.",
+              "event": "Royal Library of Ashurbanipal established in Mesopotamia."
+            },
+            {
+              "year": "1891 C.E.",
+              "event": "Imperial Record Department established in Kolkata."
+            },
+            {
+              "year": "1911 C.E.",
+              "event": "Imperial Record Department shifted to Delhi."
+            },
+            {
+              "year": "1998 C.E.",
+              "event": "National Archives of India opened to the public by President K.R. Narayanan."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Sarfojiraje Bhosale",
+              "role": "Contributed significantly to the expansion of the Saraswati Mahal Library."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Peshwa Daftar",
+              "meaning": "A collection of 5 crore Modi script documents related to Maratha history in Pune."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Archives",
+            "National Archives",
+            "Peshwa Daftar",
+            "Saraswati Mahal",
+            "Library Science"
+          ],
+          "difficulty": 3,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "9.4",
+          "topic": "Encyclopaedias",
+          "heading": "Types and Benefits of Encyclopaedias",
+          "explanation": "Encyclopaedias are systematic compilations of knowledge. They make vast volumes of information accessible, satisfy curiosity, and indicate the 'cultural ripeness' of a society. Types include: (1) Dictionaries: Arrange words alphabetically with meanings. (2) Comprehensive Encyclopaedia (Vishwakosh): Covers all subjects (e.g., Encyclopaedia Britannica) or chosen subjects (e.g., Bharatiya Samskruti Kosh). (3) Encyclopaedic Literature (Koshsadrush): Scholarly articles on specific subjects (e.g., Maharashtra Jeevan). (4) Indexes: Alphabetical lists at the end of books to help find information.",
+          "key_points": [
+            "Encyclopaedias strengthen national identity and motivate extensive reading.",
+            "Objectivity, accuracy, and standardized format are essential criteria.",
+            "The first encyclopaedia, 'Natural History', was by Pliny the Elder (1st century A.D.)."
+          ],
+          "timeline": [
+            {
+              "year": "1st Century A.D.",
+              "event": "Pliny the Elder wrote 'Natural History', the first encyclopaedia."
+            },
+            {
+              "year": "1767 C.E.",
+              "event": "First publication of Encyclopaedia Britannica."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Diderot",
+              "role": "French philosopher who created an 18th-century encyclopaedia."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Vishwakosh",
+              "meaning": "A comprehensive encyclopaedia covering a wide range of subjects."
+            },
+            {
+              "term": "Koshsadrush",
+              "meaning": "Encyclopaedic literature consisting of scholarly articles on predetermined subjects."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Encyclopaedia",
+            "Vishwakosh",
+            "Britannica",
+            "Dictionaries",
+            "Knowledge"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "9.5",
+          "topic": "Encyclopaedias",
+          "heading": "History-related Encyclopaedias in India",
+          "explanation": "India has a rich tradition of history-related encyclopaedias. (1) 'Bharatvarshiya Prachin Aitihasik Kosh' (1876) by Raghunath Godbole is the earliest. (2) 'Maharashtriya Dnyankosh' by Ketkar aimed to expand the intellectual sphere of Marathi speakers. (3) 'Bharatvarshiya Charitrakosh' provides biographies from Vedic to modern periods. (4) 'Sthalakosh' provides geographic information for historical studies (e.g., 'Sthanapothi' of the Mahanubhav sect). (5) 'Bharatiya Samskruti Kosh' (10 volumes) by Mahadevshastri Joshi covers Indian history, geography, and ethnic groups. (6) 'Samdnya Kosh' explains historical terminology like colonialism and globalization.",
+          "key_points": [
+            "Siddheshwarshastri Chitrav compiled the 'Charitrakosh' and 'Sthalakosh'.",
+            "Yashwantrao Chavan initiated the Marathi 'Vishwakosh' to enhance the language.",
+            "Encyclopaedias are essential tools for teachers and researchers of history."
+          ],
+          "timeline": [
+            {
+              "year": "1876",
+              "event": "Publication of 'Bharatvarshiya Prachin Aitihasik Kosh'."
+            },
+            {
+              "year": "14th Century C.E.",
+              "event": "'Sthanapothi' composed by Muni Vyas of the Mahanubhav sect."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Shridhar Vyankatesh Ketkar",
+              "role": "Editor of the 23-volume 'Maharashtriya Dnyankosh'."
+            },
+            {
+              "name": "Siddheshwarshastri Chitrav",
+              "role": "Established the 'Bharatiya Charitrakosh Mandal' and compiled 'Sthalakosh'."
+            },
+            {
+              "name": "Mahadevshastri Joshi",
+              "role": "Editor of the 'Bharatiya Samskruti Kosh'."
+            },
+            {
+              "name": "Yashwantrao Chavan",
+              "role": "First Chief Minister of Maharashtra who initiated the Marathi 'Vishwakosh'."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Charitrakosh",
+              "meaning": "An encyclopaedia of biographies."
+            },
+            {
+              "term": "Sthalakosh",
+              "meaning": "An encyclopaedia providing geographic and historical information about places."
+            },
+            {
+              "term": "Samdnya Kosh",
+              "meaning": "A dictionary or encyclopaedia of terminology."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Ketkar",
+            "Charitrakosh",
+            "Sthalakosh",
+            "Samskruti Kosh",
+            "Marathi Vishwakosh"
+          ],
+          "difficulty": 4,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        }
+      ]
+    },
+    {
+      "chapter_id": 10,
+      "chapter_title": "Working of the Constitution",
+      "chapter_summary": "This chapter reviews the impact of the Indian Constitution on the country's democratic process, focusing on political maturity, the right to vote, decentralization, and the pursuit of social justice and equality.",
+      "learning_objectives": [
+        "Understand how the Constitution has strengthened democracy in India.",
+        "Analyze the role of the Constitution in bringing about social change.",
+        "Identify the key areas of review: Democracy, Social Justice, and the Judicial System.",
+        "Recognize the importance of the Right to Information (RTI) and the rights-based approach."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "10.1",
+          "topic": "Democracy",
+          "heading": "Political Maturity and Right to Vote",
+          "explanation": "Democracy is not just a representative structure but the integration of democratic principles into actual practice. In India, this is evidenced by direct representation in Parliament, State legislatures, and local governments, along with free and fair elections. The Constitution originally gave the right to vote to all adults above 21 years, which was later reduced to 18 years. This change increased the number of voters, making India the largest democracy in the world, and encouraged the participation of the younger generation and the emergence of new political parties.",
+          "key_points": [
+            "Democracy becomes integral when principles are practiced in daily political life.",
+            "India has the largest number of voters globally.",
+            "Reducing the voting age from 21 to 18 provided more opportunities for youth participation."
+          ],
+          "timeline": [
+            {
+              "year": "26th January 1950",
+              "event": "The Constitution of India came into force."
+            }
+          ],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Political Maturity",
+              "meaning": "The stage where democratic principles are integrated into the actual practice of a society."
+            },
+            {
+              "term": "Adult Suffrage",
+              "meaning": "The right of all adult citizens to vote regardless of wealth, income, gender, or social status."
+            }
+          ],
+          "provisions": [
+            {
+              "name": "Right to Vote",
+              "detail": "Guaranteed equal voting rights to men and women; age limit reduced from 21 to 18 years."
+            }
+          ],
+          "common_doubts": [],
+          "keywords": [
+            "Democracy",
+            "Voting Age",
+            "Political Maturity",
+            "Elections"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "10.2",
+          "topic": "Democracy",
+          "heading": "Decentralisation of Democracy and RTI",
+          "explanation": "Decentralization of power is central to democratic government as it prevents the misuse of power and creates opportunities for local participation. The 73rd and 74th amendments gave constitutional status to local self-governing institutions. To further empower citizens, the Government of India enacted the Right to Information (RTI) in 2005. RTI ensures transparency and accountability, reducing secrecy in government functioning. Post-2000, India shifted to a 'rights-based approach', where development is seen as a right of the citizen (e.g., rights to information, education, and food security).",
+          "key_points": [
+            "Decentralization empowers common people through local self-government.",
+            "RTI 2005 is a hallmark of good governance, ensuring transparency.",
+            "The rights-based approach treats citizens as right-holders rather than just beneficiaries."
+          ],
+          "timeline": [
+            {
+              "year": "2005",
+              "event": "Enactment of the Right to Information (RTI) Act."
+            }
+          ],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Decentralisation",
+              "meaning": "The distribution of administrative or political powers from a central authority to local levels."
+            },
+            {
+              "term": "Rights-based approach",
+              "meaning": "A framework where development and services are considered the legal rights of citizens."
+            }
+          ],
+          "provisions": [
+            {
+              "name": "73rd and 74th Amendments",
+              "detail": "Granted constitutional status and increased powers to local self-governing institutions."
+            },
+            {
+              "name": "Right to Information Act",
+              "detail": "Gives citizens the right to know about the functioning of the government to ensure accountability."
+            }
+          ],
+          "common_doubts": [
+            {
+              "q": "How does RTI strengthen democracy?",
+              "a": "By making the government transparent and accountable, it builds a relationship of trust between the citizens and the state."
+            }
+          ],
+          "keywords": [
+            "Decentralisation",
+            "RTI",
+            "Transparency",
+            "Accountability",
+            "Local Government"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "10.3",
+          "topic": "Social Justice and Equality",
+          "heading": "Policies for Inclusion and Protection",
+          "explanation": "Social justice and equality are core objectives of the Constitution, aiming to end discrimination based on caste, religion, language, gender, or place of birth. Key measures include: (1) Policy of Reservation: Reserved seats in education and employment for Scheduled Castes (SC), Scheduled Tribes (ST), and Other Backward Classes (OBC). (2) Prevention of Atrocities Act: Protects SC and ST communities from injustice. (3) Provisions for Minorities: Protects cultural and educational rights. (4) Women's Empowerment: Laws against Sati, dowry, sexual harassment, and domestic violence. The 73rd/74th amendments reserved 33% of seats for women in local bodies, which has been raised to 50% in states like Maharashtra.",
+          "key_points": [
+            "Democracy must be inclusive to reduce social conflicts.",
+            "Reservation policies help groups deprived of opportunities for long periods.",
+            "Women's representation in Lok Sabha has increased from 4.5% (1951) to 12.15% (2014).",
+            "The Domestic Violence Prohibition Act is a significant step in protecting women's dignity."
+          ],
+          "timeline": [
+            {
+              "year": "1951-52",
+              "event": "First Lok Sabha elections; women MPs were at 4.5%."
+            },
+            {
+              "year": "2014",
+              "event": "Lok Sabha elections; women MPs reached 12.15%."
+            }
+          ],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Social Justice",
+              "meaning": "The removal of social conditions responsible for injustice and the insistence on equality of dignity."
+            }
+          ],
+          "provisions": [
+            {
+              "name": "Scheduled Castes and Tribes (Prevention of Atrocities) Act",
+              "detail": "Prevents injustice and provides punishment for atrocities against SC and ST people."
+            },
+            {
+              "name": "Domestic Violence Prohibition Act",
+              "detail": "Underlines the need to protect the dignity and self-esteem of women within the household."
+            }
+          ],
+          "common_doubts": [],
+          "keywords": [
+            "Social Justice",
+            "Reservation",
+            "Atrocities Act",
+            "Women's Rights",
+            "Minority Rights"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "10.4",
+          "topic": "Role of Judiciary",
+          "heading": "Basic Framework and Significant Decisions",
+          "explanation": "The Judiciary plays a vital role in strengthening democracy by achieving social justice and equality. It interprets the Constitution while considering its fundamental objectives. (1) Basic Framework: The Constitution is a 'living document' that can be amended, but the Judiciary has ruled that Parliament cannot alter its 'Basic Structure' (e.g., Republican form, Federal structure, Secularism). (2) Significant Decisions: The Court has protected human rights through judgments on the rights of children, tribal empowerment, and the dignity of women. These efforts have made the Indian political process more mature.",
+          "key_points": [
+            "The Constitution is dynamic and changes with time.",
+            "The 'Basic Structure' doctrine limits the Parliament's power to amend the Constitution.",
+            "Judicial decisions have made fundamental rights more meaningful for marginalized groups."
+          ],
+          "timeline": [],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Living Document",
+              "meaning": "A document that is continually edited and updated to reflect changing conditions."
+            },
+            {
+              "term": "Basic Structure",
+              "meaning": "The core features of the Constitution that cannot be changed by any amendment."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [
+            {
+              "q": "Can Parliament change any part of the Constitution?",
+              "a": "Parliament can make changes, but the Judiciary has ruled that it cannot alter the 'Basic Structure' of the Constitution."
+            }
+          ],
+          "keywords": [
+            "Judiciary",
+            "Basic Structure",
+            "Living Document",
+            "Fundamental Rights"
+          ],
+          "difficulty": 4,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        }
+      ]
+    },
+    {
+      "chapter_id": 11,
+      "chapter_title": "The Electoral Process",
+      "chapter_summary": "This chapter explains the structure and functions of the Election Commission of India, the step-by-step process of conducting elections, the importance of the Code of Conduct, and the evolution of voting technology from ballot boxes to EVMs.",
+      "learning_objectives": [
+        "Understand the importance of the Election Commission as an autonomous body.",
+        "Realize that voting is a constitutional responsibility of the voter.",
+        "Identify the various functions of the Election Commission.",
+        "Analyze the challenges in conducting free and fair elections in India.",
+        "Learn about electoral reforms and the journey of voting technology."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "11.1",
+          "topic": "Election Commission",
+          "heading": "Structure and First Commissioner",
+          "explanation": "In India, the Election Commission is central to the process of elections. Article 324 of the Indian Constitution established this autonomous body, which consists of one Chief Election Commissioner and two other commissioners appointed by the President. To preserve its independence, the Chief Election Commissioner cannot be removed easily for political reasons. The Commission does not have its own separate staff; instead, government officers, teachers, and other employees help execute the election process. Sukumar Sen was the first Chief Election Commissioner after independence, appointed in 1950.",
+          "key_points": [
+            "The Election Commission is an autonomous body established under Article 324.",
+            "It consists of one Chief Commissioner and two other Commissioners.",
+            "Sukumar Sen efficiently handled the first elections under adverse conditions.",
+            "The Commission relies on government employees for election execution."
+          ],
+          "timeline": [
+            {
+              "year": "1950",
+              "event": "Establishment of the Election Commission of India."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Sukumar Sen",
+              "role": "First Chief Election Commissioner of independent India."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Autonomous Body",
+              "meaning": "A self-governing organization that operates independently of external control."
+            }
+          ],
+          "provisions": [
+            {
+              "name": "Article 324",
+              "detail": "Constitutional provision that establishes the Election Commission of India."
+            }
+          ],
+          "common_doubts": [],
+          "keywords": [
+            "Election Commission",
+            "Article 324",
+            "Sukumar Sen",
+            "Independence"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "11.2",
+          "topic": "Functions of Election Commission",
+          "heading": "Core Responsibilities",
+          "explanation": "The Election Commission has five primary functions: (1) Preparing the voters list: Every citizen aged 18+ must be registered; the Commission issues identity cards. (2) Deciding the timetable: Deciding when and in how many stages to hold elections in each state. (3) Scrutiny of applications: Reviewing the information (property, etc.) provided by candidates from political parties or independents. (4) Giving recognition to political parties: Allotting symbols and derecognizing parties if necessary. (5) Resolving disputes: Handling any conflicts related to elections, including disqualifying candidates or ordering re-elections.",
+          "key_points": [
+            "The Commission is responsible for updating the voters list and issuing voter IDs.",
+            "It has the authority to allot election symbols to political parties.",
+            "Candidates must provide information about their property and background for scrutiny."
+          ],
+          "timeline": [],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Scrutiny",
+              "meaning": "Critical observation or examination of candidate applications."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [
+            {
+              "q": "Why are candidates required to give property information?",
+              "a": "To ensure transparency and allow voters to know the financial background of their potential representatives."
+            }
+          ],
+          "keywords": [
+            "Voters List",
+            "Timetable",
+            "Scrutiny",
+            "Election Symbols",
+            "Disputes"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [
+            "2.1"
+          ],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "11.3",
+          "topic": "Process of Elections",
+          "heading": "Constituencies and Steps",
+          "explanation": "The total number of members in the Lok Sabha is 543. Each member represents one constituency. The 'Delimitation Commission' of the Election Commission is responsible for creating and restructuring these constituencies without succumbing to political pressure. The general process of elections follows these steps: 1. Establishment of constituencies, 2. Finalising voters list, 3. Nomination and scrutiny, 4. Election campaign, 5. Actual voting, 6. Counting of votes, 7. Results, 8. Resolution of disputes.",
+          "key_points": [
+            "There are 543 constituencies for the Lok Sabha.",
+            "The Delimitation Commission works independently to define constituency boundaries.",
+            "The process ends with the resolution of any legal disputes regarding the results."
+          ],
+          "timeline": [
+            {
+              "year": "October 1951",
+              "event": "Sham Sharan Negi from Himachal Pradesh became the first voter of India."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Sham Sharan Negi",
+              "role": "The first citizen to cast a vote in independent India."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Constituency",
+              "meaning": "A specific area represented by an elected official."
+            },
+            {
+              "term": "Delimitation Commission",
+              "meaning": "A body tasked with fixing the boundaries of territorial constituencies."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Lok Sabha",
+            "Constituency",
+            "Delimitation",
+            "Voting Process"
+          ],
+          "difficulty": 3,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "11.4",
+          "topic": "Code of Conduct and Challenges",
+          "heading": "Ensuring Free and Fair Elections",
+          "explanation": "The 'Code of Conduct' is a set of rules adopted by the Election Commission to control malpractices. It applies to the government, political parties, and voters before and during elections. Challenges in India include: (1) Misuse of money during campaigns. (2) Criminalization of politics, where parties give tickets to candidates with criminal backgrounds. (3) Violence during elections. (4) Family monopoly in politics, where leaders give tickets to their own relatives.",
+          "key_points": [
+            "The Code of Conduct ensures that the ruling party does not misuse its power.",
+            "Criminalization of politics is a major threat to the democratic environment.",
+            "The Election Commission takes measures to stop the misuse of money and muscle power."
+          ],
+          "timeline": [],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Code of Conduct",
+              "meaning": "Rules that govern the behavior of parties and candidates during elections."
+            },
+            {
+              "term": "Malpractices",
+              "meaning": "Illegal or unethical activities used to influence election results."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Code of Conduct",
+            "Malpractices",
+            "Criminalization",
+            "Political Violence"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "11.5",
+          "topic": "Electoral Reforms and Technology",
+          "heading": "Journey to EVM and VVPAT",
+          "explanation": "Electoral reforms are necessary to make the process more reliable. Suggested reforms include 50% candidature for women and barring candidates with criminal backgrounds. The voting method has evolved: (1) Initial elections used 20 lakh steel ballot boxes with party symbols. (2) Electronic Voting Machines (EVMs) were introduced in the 1990s, saving paper and allowing for early results. (3) NOTA (None of the Above) was added for voters who don't support any candidate. (4) VVPAT (Voter Verified Paper Audit Trail) was introduced in 2010 to allow voters to verify their cast vote.",
+          "key_points": [
+            "EVMs helped in environmental protection by reducing the cutting of trees for paper.",
+            "NOTA gives voters the right to reject all candidates.",
+            "VVPAT was supported by all political parties to stop malpractices."
+          ],
+          "timeline": [
+            {
+              "year": "1951-52",
+              "event": "First general elections held using ballot boxes."
+            },
+            {
+              "year": "1990s",
+              "event": "Introduction of Electronic Voting Machines (EVMs)."
+            },
+            {
+              "year": "2010",
+              "event": "Establishment of an expert committee for VVPAT."
+            }
+          ],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "EVM",
+              "meaning": "Electronic Voting Machine."
+            },
+            {
+              "term": "NOTA",
+              "meaning": "None of the Above; a ballot option for rejecting all candidates."
+            },
+            {
+              "term": "VVPAT",
+              "meaning": "Voter Verified Paper Audit Trail; a system that provides feedback to voters using a ballotless voting system."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "EVM",
+            "NOTA",
+            "VVPAT",
+            "Electoral Reforms",
+            "Technology"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "11.6",
+          "topic": "Types of Elections",
+          "heading": "General, Midterm, and By-elections",
+          "explanation": "There are three types of elections in India: (1) General Elections: Lok Sabha elections held every five years. (2) Midterm Elections: Held if the elected government loses its majority before completing its term and no alternative government is possible. (3) By-elections: Held if an elected representative in the Lok Sabha, Vidhan Sabha, or local body resigns or dies, leaving the seat vacant.",
+          "key_points": [
+            "General elections occur at regular 5-year intervals.",
+            "Midterm elections are a result of the loss of majority in the Parliament.",
+            "By-elections fill specific vacant seats."
+          ],
+          "timeline": [],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "General Elections",
+              "meaning": "Regularly scheduled elections for the Lok Sabha."
+            },
+            {
+              "term": "Midterm Elections",
+              "meaning": "Elections held before the completion of the 5-year term due to government collapse."
+            },
+            {
+              "term": "By-election",
+              "meaning": "An election held to fill a single vacancy."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "General Elections",
+            "Midterm Elections",
+            "By-elections",
+            "Majority"
+          ],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        }
+      ]
+    },
+    {
+      "chapter_id": 12,
+      "chapter_title": "Political Parties",
+      "chapter_summary": "This chapter explores the role of political parties as a link between the people and the government, their characteristics, the evolution of the Indian party system, and the specific ideologies and histories of major national and regional parties in India.",
+      "learning_objectives": [
+        "Understand the definition and characteristics of political parties.",
+        "Analyze the changing nature of the political party system in India.",
+        "Identify the criteria for recognition as a national or regional party.",
+        "Learn about the history and ideologies of major national parties.",
+        "Examine the role and objectives of prominent regional parties across different states."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "12.1",
+          "topic": "Political Parties",
+          "heading": "Characteristics of Political Parties",
+          "explanation": "Political parties are social organizations formed with the objective of achieving political power by participating in the electoral process. They differ from other social groups in their goals and style of working. Their main characteristics include: (1) To be in power: Achieving power through fair competition in elections. (2) To pursue an ideology: Every party has specific policies and worldviews regarding social issues. (3) To have a Party Agenda: Parties prepare an agenda based on their ideology to implement if they gain power. (4) To Establish a Government: The majority party forms the government, while others act as the opposition. (5) To act as a link: They communicate the demands and complaints of the people to the government and seek public support for government policies.",
+          "key_points": [
+            "Political parties aim to contest and win elections to establish government.",
+            "Ideology is the basis of a party's 'mass base'.",
+            "Parties act as a bridge between the citizens and the state."
+          ],
+          "timeline": [],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Mass Base",
+              "meaning": "The social support received by a political party from people who accept its ideology."
+            },
+            {
+              "term": "Party Agenda",
+              "meaning": "A set of goals and policies a party intends to implement upon gaining power."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [
+            {
+              "q": "What is the difference between a political party and a social organization?",
+              "a": "While both are social groups, political parties specifically aim to achieve political power through elections, whereas other organizations may focus on specific social issues without seeking power."
+            }
+          ],
+          "keywords": [
+            "Political Parties",
+            "Ideology",
+            "Government",
+            "Opposition",
+            "Mass Base"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "12.2",
+          "topic": "Party System in India",
+          "heading": "Changing Nature of the Party System",
+          "explanation": "The Indian party system has evolved through three main stages: (1) Single Dominant Party System: Post-independence, the Congress party held a majority at the Centre and in most states. (2) Challenge to Dominance: In 1977, non-Congress parties came together to challenge the single-party dominance. (3) Coalition Era: After the 1989 Lok Sabha elections, the single-party system ended, leading to coalition governments. Both the BJP and Congress experimented with coalitions (NDA and UPA), proving that coalition systems can be stable in India.",
+          "key_points": [
+            "India transitioned from a one-party dominant system to a multi-party coalition system.",
+            "The 1989 elections were a turning point in Indian political history.",
+            "Coalition politics is now a stabilized feature of Indian democracy."
+          ],
+          "timeline": [
+            {
+              "year": "1977",
+              "event": "Non-Congress parties challenged the single dominant party system."
+            },
+            {
+              "year": "1989",
+              "event": "End of the single dominant party system; beginning of the coalition era."
+            }
+          ],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "One Party System",
+              "meaning": "A system where one political party remains in power for a long period and no other parties are influential."
+            },
+            {
+              "term": "Two Party System",
+              "meaning": "A system where two political parties are influential and enjoy power alternatively."
+            },
+            {
+              "term": "Multi-party System",
+              "meaning": "A system where many political parties compete for power and are more or less equally influential."
+            },
+            {
+              "term": "Coalition Government",
+              "meaning": "A government formed by multiple political parties cooperating together."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Congress",
+            "Coalition",
+            "NDA",
+            "UPA",
+            "Dominant Party"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "12.3",
+          "topic": "National Parties",
+          "heading": "Major National Parties in India",
+          "explanation": "To be recognized as a National Party, a party must secure 6% of valid votes in 4+ states and 4 Lok Sabha members, or 2% of total Lok Sabha seats from 3 states. Key parties include: (1) Indian National Congress (1885): Focuses on secularism, all-round development, and minority rights. (2) Communist Party of India (1925): Based on Marxist ideology, works for laborers. Split in 1964 to form CPI(M). (3) Bharatiya Janata Party (1980): Roots in Bharatiya Jan Sangh (1951); stands for Indian culture and economic reforms. (4) Bahujan Samaj Party (1984): Socialist ideology; aims to empower the 'majority' (SC, ST, OBC, and minorities). (5) Nationalist Congress Party (1999): Split from Congress; believes in democracy and equality. (6) Trinamool Congress (1998): Recognized as a national party in 2016; supports secularism.",
+          "key_points": [
+            "The Congress is the oldest political party in India.",
+            "The BJP emerged from the Bharatiya Jan Sangh after the Janata Party split.",
+            "The CPI(M) split from the CPI due to differences over Soviet vs. Chinese leadership."
+          ],
+          "timeline": [
+            {
+              "year": "1885",
+              "event": "Establishment of the Indian National Congress."
+            },
+            {
+              "year": "1925",
+              "event": "Establishment of the Communist Party of India."
+            },
+            {
+              "year": "1951",
+              "event": "Establishment of Bharatiya Jan Sangh."
+            },
+            {
+              "year": "1964",
+              "event": "Formation of Communist Party of India (Marxist)."
+            },
+            {
+              "year": "1980",
+              "event": "Establishment of the Bharatiya Janata Party."
+            },
+            {
+              "year": "1984",
+              "event": "Establishment of the Bahujan Samaj Party."
+            },
+            {
+              "year": "1998",
+              "event": "Establishment of All India Trinamool Congress."
+            },
+            {
+              "year": "1999",
+              "event": "Establishment of the Nationalist Congress Party."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Kanshi Ram",
+              "role": "Founder of the Bahujan Samaj Party (implied by context of party establishment)."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "National Party",
+              "meaning": "A party recognized by the Election Commission that operates on a country-wide level based on specific vote/seat criteria."
+            }
+          ],
+          "provisions": [
+            {
+              "name": "Criteria for National Party",
+              "detail": "6% votes in 4 states + 4 MPs, OR 2% Lok Sabha seats from 3 states."
+            }
+          ],
+          "common_doubts": [],
+          "keywords": [
+            "Congress",
+            "BJP",
+            "CPI",
+            "BSP",
+            "NCP",
+            "Trinamool"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "12.4",
+          "topic": "Regional Parties",
+          "heading": "Role and Nature of Regional Parties",
+          "explanation": "Regional parties focus on the identity and development of a specific region. They demand more autonomy and authority for states. Their nature has changed over time: (1) Separatist Phase: Initial demands for independent states (e.g., Khalistan, Dravidistan). (2) Autonomy Phase: Demanding more power within the Indian federation (post-1990). (3) Mainstream Phase: Entering national politics through coalitions. Key regional parties include: Shiv Sena (Maharashtra), Shiromani Akali Dal (Punjab), Jammu and Kashmir National Conference, Assam Gan Parishad, and Dravida Munnetra Kazhagam (Tamil Nadu).",
+          "key_points": [
+            "Regionalism gives rise to linguistic and regional identity consciousness.",
+            "Regional parties prioritize local resources and employment for local people.",
+            "The influence of regional parties has led to the stabilization of coalition politics."
+          ],
+          "timeline": [
+            {
+              "year": "1920",
+              "event": "Establishment of Shiromani Akali Dal and the Justice Party (later DMK)."
+            },
+            {
+              "year": "1932",
+              "event": "Establishment of Jammu and Kashmir National Conference."
+            },
+            {
+              "year": "1966",
+              "event": "Establishment of Shiv Sena in Maharashtra."
+            },
+            {
+              "year": "1985",
+              "event": "Signing of the Assam Agreement and establishment of Assam Gan Parishad."
+            }
+          ],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Regionalism",
+              "meaning": "A feeling of affinity for one's own language and region, leading to identity consciousness."
+            },
+            {
+              "term": "Regional Party",
+              "meaning": "Groups that compete for power with the objective of regional development and protecting regional interests."
+            }
+          ],
+          "provisions": [
+            {
+              "name": "Criteria for Regional Party",
+              "detail": "6% votes in Lok Sabha/Assembly elections + 2 MLAs, OR 3% of total Assembly seats (minimum 3 seats)."
+            }
+          ],
+          "common_doubts": [],
+          "keywords": [
+            "Regionalism",
+            "Autonomy",
+            "Shiv Sena",
+            "Akali Dal",
+            "DMK",
+            "Assam Gan Parishad"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        }
+      ]
+    },
+    {
+      "chapter_id": 13,
+      "chapter_title": "Social and Political Movements",
+      "chapter_summary": "This chapter explains the significance of social movements in a democracy, their characteristics, and provides a detailed overview of major movements in India, including those for tribals, farmers, laborers, women, the environment, and consumers.",
+      "learning_objectives": [
+        "Understand the rationale and necessity of social movements in a democracy.",
+        "Identify the core characteristics that define a movement.",
+        "Analyze the history and demands of the tribal and farmers' movements.",
+        "Trace the evolution of the labour and women's movements in India.",
+        "Recognize the importance of environment and consumer protection movements."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "13.1",
+          "topic": "Why movements?",
+          "heading": "The Role of Movements in Democracy",
+          "explanation": "In a democracy, not all citizens can participate through political parties. Movements allow people to focus on specific social issues and pursue them by organizing and pressurizing the government. Movements build public opinion and provide necessary information to the government, which is useful for policy-making. While political parties adopt a comprehensive national perspective, movements often concentrate on a single issue. The right to protest is a fundamental democratic right but must be used patiently and responsibly.",
+          "key_points": [
+            "Organized activity is the essence of any movement.",
+            "Movements help the government understand specific social problems.",
+            "The right to protest is essential for a healthy democracy."
+          ],
+          "timeline": [],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Movement",
+              "meaning": "An organized collective activity where people focus on a particular issue to pressurize the government for resolution."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [
+            {
+              "q": "How are movements different from political parties?",
+              "a": "Political parties aim for political power and have a broad agenda for all sections of society, whereas movements focus on specific issues and do not necessarily seek to contest elections."
+            }
+          ],
+          "keywords": [
+            "Democracy",
+            "Public Opinion",
+            "Protest",
+            "Policy-making"
+          ],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "13.2",
+          "topic": "What is a movement?",
+          "heading": "Characteristics of a Movement",
+          "explanation": "A movement is defined by several key features: (1) Collective Action: It requires the active participation of many people. (2) Social Objective: It has a focused problem or goal (e.g., ending corruption). (3) Leadership: Strong leadership is required to keep the movement active and effective. (4) Organization: An organization is needed to follow up on issues (e.g., a farmer's organization). (5) Public Support: People must feel connected to the issue for the movement to shape public opinion.",
+          "key_points": [
+            "Leadership decides the strategy of agitation and the program of action.",
+            "Movements often have an underlying ideology (e.g., women's empowerment).",
+            "Some movements eventually transform into political parties."
+          ],
+          "timeline": [],
+          "key_figures": [],
+          "key_terms": [],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Collective Action",
+            "Leadership",
+            "Organization",
+            "Ideology"
+          ],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": [
+            "4.1"
+          ],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "13.3",
+          "topic": "Important movements in India",
+          "heading": "Tribal Movement",
+          "explanation": "In the pre-independence period, the British government deprived tribal people of their right to livelihood from forest resources. This led to several uprisings, including those by the Kolam (Chota Nagpur), Gond (Orissa), Koli, Bhilla, and Ramoshi (Maharashtra), and the Santhal and Munda (Bihar). The struggle continues today, with the main demand being the recognition of tribal rights over forests, including the right to collect forest products and cultivate forest land.",
+          "key_points": [
+            "Tribal struggles are rooted in the loss of traditional forest rights.",
+            "Birsa Munda led a significant tribal uprising against British policies."
+          ],
+          "timeline": [],
+          "key_figures": [
+            {
+              "name": "Birsa Munda",
+              "role": "Leader of the tribal movement in the Bihar region against British exploitation."
+            }
+          ],
+          "key_terms": [],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Tribal Rights",
+            "Forest Resources",
+            "Birsa Munda",
+            "Uprisings"
+          ],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "13.4",
+          "topic": "Important movements in India",
+          "heading": "Farmers Movement",
+          "explanation": "The farmers' movement started during the British period due to anti-agriculture policies (e.g., Bardoli, Champaranya). It was inspired by thinkers like Mahatma Phule and Justice Ranade. After the Green Revolution, which aimed at self-sufficiency in food grains but primarily benefited rich farmers, the movement became more active. Current demands include appropriate prices for products, treating agriculture as an industry, implementation of the Swaminathan Commission recommendations, and debt relief.",
+          "key_points": [
+            "The Green Revolution created a divide between rich and poor farmers.",
+            "Major organizations include Shetkari Sanghatana and Bharatiya Kisan Union.",
+            "Demands focus on economic security and national policy for agriculture."
+          ],
+          "timeline": [],
+          "key_figures": [
+            {
+              "name": "Mahatma Jyotirao Phule",
+              "role": "Inspiration for early farmers' movements."
+            },
+            {
+              "name": "M.S. Swaminathan",
+              "role": "Head of the commission whose recommendations are a key demand of farmers (implied)."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Green Revolution",
+              "meaning": "A period of intense agricultural research and technology transfer that increased crop yields."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Farmers",
+            "Green Revolution",
+            "Debt Relief",
+            "Shetkari Sanghatana"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "13.5",
+          "topic": "Important movements in India",
+          "heading": "Labour Movement",
+          "explanation": "The labour movement emerged in the late 19th century with industrialization in textiles and railways. The first strike occurred in 1899. The All India Trade Union Congress (AITUC) was established in 1920. In the post-independence era, the movement was strong in the 1960s-70s but started disintegrating in the 1980s due to globalization. Workers today face problems like unstable employment, lack of legal protection, and health hazards.",
+          "key_points": [
+            "AITUC was the first major organization for resolving workers' issues.",
+            "Globalization has significantly affected the strength of labour movements."
+          ],
+          "timeline": [
+            {
+              "year": "1899",
+              "event": "Railway workers went on strike for their demands."
+            },
+            {
+              "year": "1920",
+              "event": "Establishment of the All India Trade Union Congress (AITUC)."
+            }
+          ],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "AITUC",
+              "meaning": "All India Trade Union Congress; the first central trade union in India."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Labour",
+            "Industrialization",
+            "AITUC",
+            "Strikes",
+            "Globalization"
+          ],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "13.6",
+          "topic": "Important movements in India",
+          "heading": "Women's Movement",
+          "explanation": "In the pre-independence period, progressive men and women initiated reforms to end Sati, child marriage, and to promote widow remarriage and education. Reformists like Savitribai Phule and Pandita Ramabai were pioneers. Post-independence, the movement shifted toward treating women as human beings with equal rights. It now addresses issues like health, social security, financial independence, and empowerment. The movement is not homogeneous but works at various levels to organize against injustice.",
+          "key_points": [
+            "Early reforms focused on social evils; later movements focus on political and economic equality.",
+            "The Constitution gave equal rights, but social equality is still a struggle."
+          ],
+          "timeline": [],
+          "key_figures": [
+            {
+              "name": "Savitribai Phule",
+              "role": "Pioneer of women's education and reform."
+            },
+            {
+              "name": "Pandita Ramabai",
+              "role": "Reformist who worked for the empowerment of women."
+            },
+            {
+              "name": "Ramabai Ranade",
+              "role": "Initiated reforms for women's rights and education."
+            }
+          ],
+          "key_terms": [],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Women's Empowerment",
+            "Savitribai Phule",
+            "Social Reform",
+            "Equality"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "13.7",
+          "topic": "Important movements in India",
+          "heading": "Environment and Consumer Movements",
+          "explanation": "Environment movements work at national and international levels to stop degradation. In India, they focus on biodiversity, water conservation, and pollution. Dr. Rajendra Singh, the 'Waterman of India', revived rivers in Rajasthan through 'Tarun Bharat Sangh'. The Consumer movement emerged after the Consumer Protection Act of 1986 to protect citizens from adulteration, frauds in weight, and increased costs. It believes every member of society is a consumer.",
+          "key_points": [
+            "Dr. Rajendra Singh won the Stockholm Water Prize for his work.",
+            "The Consumer Protection Act 1986 is the foundation of the consumer movement.",
+            "Post-1980 movements are called 'neo-social movements' as they are issue-based."
+          ],
+          "timeline": [
+            {
+              "year": "1986",
+              "event": "Enactment of the Consumer Protection Act."
+            }
+          ],
+          "key_figures": [
+            {
+              "name": "Dr. Rajendra Singh",
+              "role": "Known as the 'Waterman of India'; founder of Tarun Bharat Sangh."
+            }
+          ],
+          "key_terms": [
+            {
+              "term": "Neo-social movements",
+              "meaning": "Post-1980 issue-based mass movements that differ from earlier class-based movements."
+            }
+          ],
+          "provisions": [
+            {
+              "name": "Consumer Protection Act 1986",
+              "detail": "Law providing for the protection of the interests of consumers and for the establishment of consumer councils."
+            }
+          ],
+          "common_doubts": [],
+          "keywords": [
+            "Environment",
+            "Water Conservation",
+            "Consumer Protection",
+            "Dr. Rajendra Singh"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        }
+      ]
+    },
+    {
+      "chapter_id": 14,
+      "chapter_title": "Challenges faced by Indian Democracy",
+      "chapter_summary": "This chapter analyzes the internal and external threats to democracy, specifically focusing on challenges in India such as communalism, terrorism, Naxalism, corruption, and the criminalization of politics, while suggesting steps for success.",
+      "learning_objectives": [
+        "Identify global challenges to democracy like military takeovers.",
+        "Understand the importance of deep-rooting democratic values like equality and fraternity.",
+        "Analyze major threats to Indian democracy: Communalism, Terrorism, and Naxalism.",
+        "Evaluate the impact of corruption and criminalization on the political process.",
+        "Discuss social challenges like unemployment and resource inequality.",
+        "Identify steps to make democracy successful, including the role of the judiciary and public participation."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "14.1",
+          "topic": "Global and National Challenges",
+          "heading": "Democracy as a Continuous Process",
+          "explanation": "Democracy is a living process that requires alert and conscious efforts to sustain. Globally, many nations face the threat of military takeovers. A major challenge is ensuring that democratic values—freedom, equality, fraternity, justice, and humanitarianism—become deep-rooted at all levels of society. In India, while political forms like voting and elections exist, democracy must become a way of life. Measures like decentralization and reservation for women and weaker sections have been adopted, but their effectiveness in truly giving power to citizens remains a point of reflection.",
+          "key_points": [
+            "Mere adoption of democracy is not enough; it must be practiced in every aspect of social life.",
+            "Military takeover is a significant global threat to democratic nations.",
+            "Mass support for democracy can only be gathered through democratic means."
+          ],
+          "timeline": [],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Decentralisation",
+              "meaning": "The transfer of authority from central to local government to make democracy more meaningful."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [
+            {
+              "q": "Is China a democratic nation?",
+              "a": "Although China adopted economic reforms and joined the WTO, it continues to have a one-party system, which challenges the standard definition of a multi-party democracy."
+            }
+          ],
+          "keywords": [
+            "Global Challenges",
+            "Democratic Values",
+            "Decentralization",
+            "Way of Life"
+          ],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "14.2",
+          "topic": "Major Threats to Indian Democracy",
+          "heading": "Communalism, Terrorism, and Naxalism",
+          "explanation": "Indian democracy faces severe internal threats. (1) Communalism and Terrorism: Religious conflicts and hostility hamper social stability and reduce people's participation in the democratic process. (2) Left Extremists (Naxalism): Originally a movement to remove injustice against landless farmers and tribals, Naxalism has become a violent struggle. It now uses tactics like attacking police forces and opposing government policies, often ignoring the actual problems of the people it claims to represent.",
+          "key_points": [
+            "Communalism creates religious hostility and social instability.",
+            "Naxalism has shifted from a social justice movement to a violent extremist struggle."
+          ],
+          "timeline": [],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Communalism",
+              "meaning": "Strong allegiance to one's own religious community, often leading to hostility toward others."
+            },
+            {
+              "term": "Naxalism",
+              "meaning": "A far-left radical communist movement in India that employs violent means."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Communalism",
+            "Terrorism",
+            "Naxalism",
+            "Internal Security"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "14.3",
+          "topic": "Political and Social Challenges",
+          "heading": "Corruption and Criminalisation of Politics",
+          "explanation": "Corruption in the public sector reduces the government's working capacity and creates distrust among citizens due to financial blunders and delays. In the electoral process, corruption manifests as bogus voting and bribing. Criminalization of politics involves parties giving tickets to people with criminal backgrounds, increasing the role of money and muscle power and leading to election violence. Social challenges include unemployment, unequal resource distribution, the gap between rich and poor, and caste-based issues.",
+          "key_points": [
+            "Corruption reduces people's confidence in the democratic process.",
+            "Criminalization leads to the use of 'muscle power' in politics.",
+            "Family monopoly in politics reduces the space for common people in the public sector."
+          ],
+          "timeline": [],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "Criminalisation of politics",
+              "meaning": "The participation of criminals in the electoral process and their entry into political positions."
+            },
+            {
+              "term": "Bogus voting",
+              "meaning": "The act of casting a vote in the name of another person or multiple times illegally."
+            }
+          ],
+          "provisions": [],
+          "common_doubts": [],
+          "keywords": [
+            "Corruption",
+            "Criminalization",
+            "Muscle Power",
+            "Social Inequality"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        },
+        {
+          "chunk_id": "14.4",
+          "topic": "Steps for Success",
+          "heading": "Making Indian Democracy Successful",
+          "explanation": "To strengthen democracy, several steps are required: (1) Inclusion: While the majority rules, minorities must be included in decision-making. (2) Role of Judiciary: The judiciary works to make the political process transparent by prohibiting criminals from participating. (3) Government Schemes: Projects like Sarva Shiksha Abhiyan, Swachh Bharat, and MGNREGA aim at social welfare. (4) Women's Participation: 50% seats are reserved in local self-governing institutions. (5) Public Participation: Increasing people's involvement at all levels helps change public policies. (6) Personal Values: Respecting equality, liberty, and secularism in personal life is essential for a democratic mindset.",
+          "key_points": [
+            "Democracy should not just be the government of the majority community.",
+            "Judiciary plays a proactive role in preventing the criminalization of politics.",
+            "Responsible citizenship is the foundation for the success of democracy."
+          ],
+          "timeline": [],
+          "key_figures": [],
+          "key_terms": [
+            {
+              "term": "MGNREGA",
+              "meaning": "Mahatma Gandhi National Rural Employment Guarantee Scheme; a social security measure that guarantees the 'right to work'."
+            }
+          ],
+          "provisions": [
+            {
+              "name": "Reservation for Women",
+              "detail": "50% seats reserved in local self-governing institutions to increase political participation."
+            }
+          ],
+          "common_doubts": [],
+          "keywords": [
+            "Judiciary",
+            "Minority Rights",
+            "Public Participation",
+            "Social Welfare",
+            "Secularism"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [],
+          "linked_concepts": []
+        }
+      ]
+    }
+  ]
+}

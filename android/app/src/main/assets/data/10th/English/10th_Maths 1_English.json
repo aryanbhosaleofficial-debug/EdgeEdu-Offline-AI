@@ -1,0 +1,1771 @@
+{
+  "metadata": {
+    "file_name": "Maharashtra_Standard_10_Maths_Part_1_Chapter_1.json",
+    "standard": 10,
+    "subject": "Mathematics",
+    "branch": "Algebra",
+    "language": "English",
+    "board": "Maharashtra State Bureau of Textbook Production and Curriculum Research",
+    "version": "1.0",
+    "authored_by": "AI Studio Extraction",
+    "last_updated": "2024-05-22"
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "chapter_title": "Linear Equations in Two Variables",
+      "chapter_summary": "This chapter covers the definition of linear equations in two variables, methods for solving simultaneous equations including graphical and Cramer's rule, and their real-world applications.",
+      "learning_objectives": [
+        "Methods of solving linear equations in two variables - graphical method, Cramer’s method",
+        "Equations that can be transformed in linear equation in two variables",
+        "Application of simultaneous equations"
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "1.1",
+          "topic": "Linear Equations",
+          "heading": "Linear equation in two variables",
+          "explanation": "An equation which contains two variables and the degree of each term containing variable is one, is called a linear equation in two variables. The general form is ax + by + c = 0, where a, b, and c are real numbers, and a and b are not equal to zero at the same time.",
+          "key_points": [
+            "Contains two variables.",
+            "Degree of each term with a variable is one.",
+            "General form: ax + by + c = 0."
+          ],
+          "formulas": [
+            {
+              "name": "General Form of Linear Equation",
+              "latex": "ax + by + c = 0",
+              "description": "Standard representation where a, b, c are real numbers and a, b \neq 0."
+            }
+          ],
+          "worked_example": {
+            "problem": "Write the general form of the equation 3x = 4y - 12.",
+            "solution_steps": [
+              {
+                "step": "Move all terms to the left side of the equation.",
+                "latex": "3x - 4y + 12 = 0",
+                "verified": true
+              }
+            ],
+            "answer": "3x - 4y + 12 = 0"
+          },
+          "practice_problems": [
+            {
+              "q": "Is the equation 3x^2 - 7y = 13 a linear equation in 2 variables?",
+              "answer": "No",
+              "hint": "Check the degree of the variable x."
+            }
+          ],
+          "keywords": [
+            "Linear Equation",
+            "Variables",
+            "Degree",
+            "General Form"
+          ],
+          "difficulty": 1,
+          "importance": 5
+        },
+        {
+          "chunk_id": "1.2",
+          "topic": "Simultaneous Equations",
+          "heading": "Simultaneous linear equations",
+          "explanation": "When two linear equations in two variables are considered at the same time, they are called simultaneous equations. These can be solved by eliminating one variable through addition, subtraction, or substitution.",
+          "key_points": [
+            "Involves a pair of equations.",
+            "Goal is to find a common solution (x, y).",
+            "Methods include elimination and substitution."
+          ],
+          "worked_example": {
+            "problem": "Solve: 5x - 3y = 8; 3x + y = 2",
+            "solution_steps": [
+              {
+                "step": "Multiply the second equation by 3 to align the coefficients of y.",
+                "latex": "3(3x + y = 2) \\Rightarrow 9x + 3y = 6",
+                "verified": true
+              },
+              {
+                "step": "Add the new equation to the first equation to eliminate y.",
+                "latex": "(5x - 3y) + (9x + 3y) = 8 + 6 \\Rightarrow 14x = 14",
+                "verified": true
+              },
+              {
+                "step": "Solve for x.",
+                "latex": "x = 1",
+                "verified": true
+              },
+              {
+                "step": "Substitute x = 1 into the second original equation to find y.",
+                "latex": "3(1) + y = 2 \\Rightarrow 3 + y = 2 \\Rightarrow y = -1",
+                "verified": true
+              }
+            ],
+            "answer": "(x, y) = (1, -1)"
+          },
+          "keywords": [
+            "Simultaneous Equations",
+            "Elimination",
+            "Substitution"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [
+            "1.1"
+          ]
+        },
+        {
+          "chunk_id": "1.3",
+          "topic": "Graphical Method",
+          "heading": "Graphical method of solving simultaneous equations",
+          "explanation": "The graph of a linear equation in two variables is a straight line. To solve simultaneous equations graphically, plot both lines on the same coordinate plane. The point of intersection of the two lines is the solution to the system.",
+          "key_points": [
+            "Find at least 4 ordered pairs for each equation to ensure accuracy.",
+            "Plot points on a graph paper and draw lines.",
+            "The intersection point (x, y) is the solution.",
+            "A line parallel to the X-axis has the form y = b.",
+            "A line parallel to the Y-axis has the form x = a."
+          ],
+          "worked_example": {
+            "problem": "Solve graphically: x + y = 4; 2x - y = 2",
+            "solution_steps": [
+              {
+                "step": "Find points for x + y = 4: (1,3), (4,0), (-1,5), (6,-2).",
+                "latex": "y = 4 - x",
+                "verified": true
+              },
+              {
+                "step": "Find points for 2x - y = 2: (0,-2), (1,0), (3,4), (-1,-4).",
+                "latex": "y = 2x - 2",
+                "verified": true
+              },
+              {
+                "step": "Plot the lines and find the intersection point.",
+                "latex": "Intersection = (2, 2)",
+                "verified": true
+              }
+            ],
+            "answer": "x = 2, y = 2"
+          },
+          "keywords": [
+            "Graph",
+            "Intersection",
+            "Ordered Pair",
+            "Coordinate Plane"
+          ],
+          "difficulty": 3,
+          "importance": 4,
+          "prerequisites": [
+            "1.2"
+          ]
+        },
+        {
+          "chunk_id": "1.4",
+          "topic": "Determinants",
+          "heading": "Determinant",
+          "explanation": "A determinant of degree 2 is represented as |a b; c d|. It represents a single number calculated as (ad - bc). Determinants are usually denoted by capital letters like A, B, C, D.",
+          "key_points": [
+            "(a, b) and (c, d) are rows.",
+            "(a, c) and (b, d) are columns.",
+            "The value is the product of the primary diagonal minus the product of the secondary diagonal."
+          ],
+          "formulas": [
+            {
+              "name": "Value of a Determinant",
+              "latex": "\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} = ad - bc",
+              "description": "Calculates the numerical value of a 2x2 determinant."
+            }
+          ],
+          "worked_example": {
+            "problem": "Find the value of determinant N = |-8 -3; 2 4|",
+            "solution_steps": [
+              {
+                "step": "Apply the determinant formula ad - bc.",
+                "latex": "(-8 \\times 4) - (-3 \\times 2)",
+                "verified": true
+              },
+              {
+                "step": "Simplify the expression.",
+                "latex": "-32 - (-6) = -32 + 6 = -26",
+                "verified": true
+              }
+            ],
+            "answer": "-26"
+          },
+          "keywords": [
+            "Determinant",
+            "Diagonal",
+            "Degree 2"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "1.5",
+          "topic": "Cramer's Rule",
+          "heading": "Determinant method (Cramer’s Rule)",
+          "explanation": "Cramer's Rule is a method for solving simultaneous linear equations using determinants. For equations a1x + b1y = c1 and a2x + b2y = c2, we calculate three determinants: D, Dx, and Dy. The solutions are x = Dx/D and y = Dy/D, provided D \neq 0.",
+          "key_points": [
+            "Equations must be in the form ax + by = c.",
+            "D is the determinant of coefficients of x and y.",
+            "Dx is formed by replacing the x-column in D with the constant column.",
+            "Dy is formed by replacing the y-column in D with the constant column."
+          ],
+          "formulas": [
+            {
+              "name": "Cramer's Rule - D",
+              "latex": "D = \\begin{vmatrix} a_1 & b_1 \\\\ a_2 & b_2 \\end{vmatrix}",
+              "description": "Determinant of coefficients."
+            },
+            {
+              "name": "Cramer's Rule - Dx",
+              "latex": "D_x = \\begin{vmatrix} c_1 & b_1 \\\\ c_2 & b_2 \\end{vmatrix}",
+              "description": "Determinant for x."
+            },
+            {
+              "name": "Cramer's Rule - Dy",
+              "latex": "D_y = \\begin{vmatrix} a_1 & c_1 \\\\ a_2 & c_2 \\end{vmatrix}",
+              "description": "Determinant for y."
+            },
+            {
+              "name": "Cramer's Rule - Solutions",
+              "latex": "x = \\frac{D_x}{D}, y = \\frac{D_y}{D}",
+              "description": "Formulas to find the values of variables."
+            }
+          ],
+          "worked_example": {
+            "problem": "Solve using Cramer's Rule: 5x + 3y = -11; 2x + 4y = -10",
+            "solution_steps": [
+              {
+                "step": "Calculate D.",
+                "latex": "D = \\begin{vmatrix} 5 & 3 \\\\ 2 & 4 \\end{vmatrix} = (5 \\times 4) - (3 \\times 2) = 14",
+                "verified": true
+              },
+              {
+                "step": "Calculate Dx.",
+                "latex": "D_x = \\begin{vmatrix} -11 & 3 \\\\ -10 & 4 \\end{vmatrix} = (-11 \\times 4) - (3 \\times -10) = -14",
+                "verified": true
+              },
+              {
+                "step": "Calculate Dy.",
+                "latex": "D_y = \\begin{vmatrix} 5 & -11 \\\\ 2 & -10 \\end{vmatrix} = (5 \\times -10) - (-11 \\times 2) = -28",
+                "verified": true
+              },
+              {
+                "step": "Find x and y.",
+                "latex": "x = \\frac{-14}{14} = -1, y = \\frac{-28}{14} = -2",
+                "verified": true
+              }
+            ],
+            "answer": "(x, y) = (-1, -2)"
+          },
+          "keywords": [
+            "Cramer's Rule",
+            "Gabriel Cramer",
+            "Dx",
+            "Dy",
+            "D"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [
+            "1.4"
+          ]
+        },
+        {
+          "chunk_id": "1.6",
+          "topic": "Reducible Equations",
+          "heading": "Equations reducible to a pair of linear equations in two variables",
+          "explanation": "Some non-linear equations can be converted into linear equations by substituting the variables with new ones. For example, if an equation has 1/x and 1/y, we can replace them with m and n to create a linear system.",
+          "key_points": [
+            "Identify terms that make the equation non-linear (e.g., variables in the denominator).",
+            "Substitute these terms with new variables (m, n, a, b).",
+            "Solve the resulting linear system.",
+            "Resubstitute to find the original variables."
+          ],
+          "worked_example": {
+            "problem": "Solve: 4/x + 5/y = 7; 3/x + 4/y = 5",
+            "solution_steps": [
+              {
+                "step": "Replace 1/x with m and 1/y with n.",
+                "latex": "4m + 5n = 7; 3m + 4n = 5",
+                "verified": true
+              },
+              {
+                "step": "Solve the linear system for m and n.",
+                "latex": "m = 3, n = -1",
+                "verified": true
+              },
+              {
+                "step": "Resubstitute to find x and y.",
+                "latex": "1/x = 3 \\Rightarrow x = 1/3; 1/y = -1 \\Rightarrow y = -1",
+                "verified": true
+              }
+            ],
+            "answer": "(x, y) = (1/3, -1)"
+          },
+          "keywords": [
+            "Reducible",
+            "Substitution",
+            "Transformation"
+          ],
+          "difficulty": 4,
+          "importance": 4,
+          "prerequisites": [
+            "1.2"
+          ]
+        },
+        {
+          "chunk_id": "1.7",
+          "topic": "Applications",
+          "heading": "Application of Simultaneous equations",
+          "explanation": "Simultaneous equations are used to solve real-world problems by translating word descriptions into mathematical equations. Common applications include problems related to age, geometry, currency, and speed-distance-time relationships.",
+          "key_points": [
+            "Identify the unknowns and assign variables (x, y).",
+            "Translate the given conditions into two linear equations.",
+            "Solve the system using any preferred method (Elimination, Cramer's, etc.).",
+            "Interpret the solution in the context of the problem."
+          ],
+          "worked_example": {
+            "problem": "The perimeter of a rectangle is 40 cm. The length is 2 more than double its breadth. Find length and breadth.",
+            "solution_steps": [
+              {
+                "step": "Let length be x and breadth be y. From perimeter: 2(x + y) = 40.",
+                "latex": "x + y = 20",
+                "verified": true
+              },
+              {
+                "step": "From the second condition: length is 2 more than double breadth.",
+                "latex": "x = 2y + 2 \\Rightarrow x - 2y = 2",
+                "verified": true
+              },
+              {
+                "step": "Solve the system: x + y = 20 and x - 2y = 2.",
+                "latex": "3y = 18 \\Rightarrow y = 6; x = 14",
+                "verified": true
+              }
+            ],
+            "answer": "Length = 14 cm, Breadth = 6 cm"
+          },
+          "keywords": [
+            "Word Problems",
+            "Perimeter",
+            "Age Problems",
+            "Speed",
+            "Distance"
+          ],
+          "difficulty": 4,
+          "importance": 5,
+          "prerequisites": [
+            "1.2",
+            "1.5"
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 2,
+      "chapter_title": "Quadratic Equations",
+      "chapter_summary": "This chapter introduces quadratic equations, various methods to solve them (factorization, completing the square, and formula), the nature of roots based on the discriminant, and their practical applications.",
+      "learning_objectives": [
+        "Understand the standard form of quadratic equations",
+        "Solve quadratic equations by factorization",
+        "Solve quadratic equations by completing the square",
+        "Solve quadratic equations using the quadratic formula",
+        "Determine the nature of roots using the discriminant",
+        "Understand the relation between roots and coefficients",
+        "Apply quadratic equations to solve real-world problems"
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "2.1",
+          "topic": "Introduction",
+          "heading": "Standard form of quadratic equation",
+          "explanation": "An equation involving one variable with all indices as whole numbers and having 2 as the maximum index of the variable is called a quadratic equation. The general form is $ax^2 + bx + c = 0$, where $a, b, c$ are real numbers and $a \\neq 0$.",
+          "key_points": [
+            "Maximum index (degree) of the variable is 2.",
+            "General form: $ax^2 + bx + c = 0$.",
+            "The coefficient 'a' must be non-zero."
+          ],
+          "formulas": [
+            {
+              "name": "Standard Form",
+              "latex": "ax^2 + bx + c = 0",
+              "description": "The standard representation of a quadratic equation."
+            }
+          ],
+          "worked_example": {
+            "problem": "Decide if $(l + 2)(l - 5) = 0$ is a quadratic equation.",
+            "solution_steps": [
+              {
+                "step": "Expand the brackets.",
+                "latex": "l(l - 5) + 2(l - 5) = 0 \\Rightarrow l^2 - 5l + 2l - 10 = 0",
+                "verified": true
+              },
+              {
+                "step": "Simplify the equation.",
+                "latex": "l^2 - 3l - 10 = 0",
+                "verified": true
+              }
+            ],
+            "answer": "Yes, it is a quadratic equation because the maximum index is 2."
+          },
+          "keywords": [
+            "Quadratic Equation",
+            "Standard Form",
+            "Degree",
+            "Index"
+          ],
+          "difficulty": 1,
+          "importance": 5
+        },
+        {
+          "chunk_id": "2.2",
+          "topic": "Roots",
+          "heading": "Roots of a quadratic equation",
+          "explanation": "The values of the variable which satisfy the equation (make both sides equal) are called the solutions or roots of the equation. If $p(x)$ is a polynomial and $p(a) = 0$, then $(x - a)$ is a factor of $p(x)$ and 'a' is a root of $p(x) = 0$.",
+          "key_points": [
+            "A root satisfies the equation.",
+            "A quadratic equation typically has two roots."
+          ],
+          "worked_example": {
+            "problem": "Check if $x = -6$ is a root of $x^2 + 5x - 6 = 0$.",
+            "solution_steps": [
+              {
+                "step": "Substitute $x = -6$ into the equation.",
+                "latex": "(-6)^2 + 5(-6) - 6 = 36 - 30 - 6",
+                "verified": true
+              },
+              {
+                "step": "Calculate the result.",
+                "latex": "0",
+                "verified": true
+              }
+            ],
+            "answer": "$x = -6$ is a root."
+          },
+          "keywords": [
+            "Roots",
+            "Solutions",
+            "Satisfy"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "2.3",
+          "topic": "Solving Methods",
+          "heading": "Solutions of a quadratic equation by factorisation",
+          "explanation": "This method involves writing the quadratic expression as a product of two linear factors. If the product of two numbers is zero, then at least one of them must be zero.",
+          "key_points": [
+            "Split the middle term $bx$ into two terms whose product is $ac$.",
+            "Factorize by grouping.",
+            "Set each linear factor to zero to find the roots."
+          ],
+          "worked_example": {
+            "problem": "Solve $x^2 - 4x - 5 = 0$ by factorization.",
+            "solution_steps": [
+              {
+                "step": "Find factors of -5 that add up to -4.",
+                "latex": "-5 \\text{ and } 1",
+                "verified": true
+              },
+              {
+                "step": "Rewrite the equation with split terms.",
+                "latex": "x^2 - 5x + x - 5 = 0",
+                "verified": true
+              },
+              {
+                "step": "Factorize by grouping.",
+                "latex": "x(x - 5) + 1(x - 5) = 0 \\Rightarrow (x - 5)(x + 1) = 0",
+                "verified": true
+              },
+              {
+                "step": "Solve for x.",
+                "latex": "x - 5 = 0 \\text{ or } x + 1 = 0",
+                "verified": true
+              }
+            ],
+            "answer": "x = 5, -1"
+          },
+          "keywords": [
+            "Factorization",
+            "Linear Factors",
+            "Splitting the middle term"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "2.4",
+          "topic": "Solving Methods",
+          "heading": "Solution of a quadratic equation by completing the square",
+          "explanation": "When an equation cannot be easily factorized, we add a suitable term to make the expression a perfect square. This transforms the equation into the form $(x + a)^2 = k$.",
+          "key_points": [
+            "Ensure the coefficient of $x^2$ is 1.",
+            "Add and subtract $(\\frac{b}{2})^2$.",
+            "Use the identity $(a+b)^2 = a^2 + 2ab + b^2$."
+          ],
+          "worked_example": {
+            "problem": "Solve $x^2 + 10x + 2 = 0$ by completing the square.",
+            "solution_steps": [
+              {
+                "step": "Identify the term to add: $(\\frac{10}{2})^2 = 25$.",
+                "latex": "x^2 + 10x + 25 - 25 + 2 = 0",
+                "verified": true
+              },
+              {
+                "step": "Form the perfect square.",
+                "latex": "(x + 5)^2 - 23 = 0 \\Rightarrow (x + 5)^2 = 23",
+                "verified": true
+              },
+              {
+                "step": "Take the square root of both sides.",
+                "latex": "x + 5 = \\pm \\sqrt{23}",
+                "verified": true
+              }
+            ],
+            "answer": "x = -5 \\pm \\sqrt{23}"
+          },
+          "keywords": [
+            "Completing the Square",
+            "Perfect Square",
+            "Identity"
+          ],
+          "difficulty": 4,
+          "importance": 4
+        },
+        {
+          "chunk_id": "2.5",
+          "topic": "Solving Methods",
+          "heading": "Formula for solving a quadratic equation",
+          "explanation": "The roots of $ax^2 + bx + c = 0$ can be found directly using the quadratic formula. This formula is derived from the method of completing the square.",
+          "key_points": [
+            "Compare the given equation with $ax^2 + bx + c = 0$ to find $a, b, c$.",
+            "Calculate the discriminant $b^2 - 4ac$.",
+            "Substitute values into the formula."
+          ],
+          "formulas": [
+            {
+              "name": "Quadratic Formula",
+              "latex": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+              "description": "Used to find the roots of any quadratic equation."
+            }
+          ],
+          "worked_example": {
+            "problem": "Solve $m^2 - 14m + 13 = 0$ using the formula.",
+            "solution_steps": [
+              {
+                "step": "Identify $a=1, b=-14, c=13$.",
+                "latex": "b^2 - 4ac = (-14)^2 - 4(1)(13) = 196 - 52 = 144",
+                "verified": true
+              },
+              {
+                "step": "Apply the formula.",
+                "latex": "m = \\frac{-(-14) \\pm \\sqrt{144}}{2(1)} = \\frac{14 \\pm 12}{2}",
+                "verified": true
+              }
+            ],
+            "answer": "m = 13, 1"
+          },
+          "keywords": [
+            "Quadratic Formula",
+            "Discriminant",
+            "Roots"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "2.6",
+          "topic": "Nature of Roots",
+          "heading": "Nature of roots of a quadratic equation",
+          "explanation": "The value $b^2 - 4ac$ is called the discriminant (denoted by $\\Delta$). It determines the nature of the roots without solving the equation.",
+          "key_points": [
+            "If $\\Delta = 0$, roots are real and equal.",
+            "If $\\Delta > 0$, roots are real and unequal.",
+            "If $\\Delta < 0$, roots are not real."
+          ],
+          "formulas": [
+            {
+              "name": "Discriminant",
+              "latex": "\\Delta = b^2 - 4ac",
+              "description": "Determines the nature of the roots."
+            }
+          ],
+          "worked_example": {
+            "problem": "Determine the nature of roots for $2x^2 - 5x + 7 = 0$.",
+            "solution_steps": [
+              {
+                "step": "Calculate $\\Delta$.",
+                "latex": "\\Delta = (-5)^2 - 4(2)(7) = 25 - 56 = -31",
+                "verified": true
+              }
+            ],
+            "answer": "Since $\\Delta < 0$, the roots are not real."
+          },
+          "keywords": [
+            "Nature of Roots",
+            "Discriminant",
+            "Delta"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "2.7",
+          "topic": "Roots and Coefficients",
+          "heading": "The relation between roots of the quadratic equation and coefficients",
+          "explanation": "If $\\alpha$ and $\\beta$ are the roots of $ax^2 + bx + c = 0$, there is a direct relationship between the sum and product of these roots and the coefficients $a, b, c$.",
+          "key_points": [
+            "Sum of roots: $\\alpha + \\beta = -b/a$.",
+            "Product of roots: $\\alpha \\times \\beta = c/a$."
+          ],
+          "formulas": [
+            {
+              "name": "Sum of Roots",
+              "latex": "\\alpha + \\beta = -\\frac{b}{a}",
+              "description": "Relationship between sum of roots and coefficients."
+            },
+            {
+              "name": "Product of Roots",
+              "latex": "\\alpha \\beta = \\frac{c}{a}",
+              "description": "Relationship between product of roots and coefficients."
+            }
+          ],
+          "worked_example": {
+            "problem": "Find sum and product of roots for $2x^2 + 6x - 5 = 0$.",
+            "solution_steps": [
+              {
+                "step": "Identify $a=2, b=6, c=-5$.",
+                "latex": "\\alpha + \\beta = -\\frac{6}{2} = -3",
+                "verified": true
+              },
+              {
+                "step": "Calculate product.",
+                "latex": "\\alpha \\beta = \\frac{-5}{2}",
+                "verified": true
+              }
+            ],
+            "answer": "Sum = -3, Product = -5/2"
+          },
+          "keywords": [
+            "Alpha",
+            "Beta",
+            "Coefficients",
+            "Sum and Product"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "2.8",
+          "topic": "Forming Equations",
+          "heading": "To obtain a quadratic equation having given roots",
+          "explanation": "If the roots $\\alpha$ and $\\beta$ are known, the quadratic equation can be constructed using the formula $x^2 - (\\alpha + \\beta)x + \\alpha\\beta = 0$.",
+          "key_points": [
+            "Equation: $x^2 - (\\text{sum of roots})x + (\\text{product of roots}) = 0$."
+          ],
+          "formulas": [
+            {
+              "name": "Equation from Roots",
+              "latex": "x^2 - (\\alpha + \\beta)x + \\alpha\\beta = 0",
+              "description": "Constructs a quadratic equation from its roots."
+            }
+          ],
+          "worked_example": {
+            "problem": "Obtain the quadratic equation if roots are -3 and -7.",
+            "solution_steps": [
+              {
+                "step": "Find sum: $\\alpha + \\beta = -3 + (-7) = -10$.",
+                "latex": "\\alpha + \\beta = -10",
+                "verified": true
+              },
+              {
+                "step": "Find product: $\\alpha \\beta = (-3) \\times (-7) = 21$.",
+                "latex": "\\alpha \\beta = 21",
+                "verified": true
+              },
+              {
+                "step": "Substitute into the formula.",
+                "latex": "x^2 - (-10)x + 21 = 0",
+                "verified": true
+              }
+            ],
+            "answer": "$x^2 + 10x + 21 = 0$"
+          },
+          "keywords": [
+            "Construct Equation",
+            "Roots"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "2.9",
+          "topic": "Applications",
+          "heading": "Application of quadratic equation",
+          "explanation": "Quadratic equations are used to solve practical problems involving area, speed, time, and numbers. Often, one of the roots found mathematically may be discarded if it doesn't make sense in a physical context (e.g., negative length or speed).",
+          "key_points": [
+            "Translate word problems into quadratic equations.",
+            "Solve the equation.",
+            "Check the validity of roots (e.g., length cannot be negative)."
+          ],
+          "worked_example": {
+            "problem": "A rectangular onion storehouse has a length 7m more than its breadth. The diagonal is 1m more than the length. Find dimensions.",
+            "solution_steps": [
+              {
+                "step": "Let breadth be $x$. Length = $x+7$. Diagonal = $x+8$.",
+                "latex": "x^2 + (x+7)^2 = (x+8)^2",
+                "verified": true
+              },
+              {
+                "step": "Expand and simplify.",
+                "latex": "x^2 + x^2 + 14x + 49 = x^2 + 16x + 64 \\Rightarrow x^2 - 2x - 15 = 0",
+                "verified": true
+              },
+              {
+                "step": "Solve for $x$.",
+                "latex": "(x-5)(x+3) = 0 \\Rightarrow x=5 \\text{ or } x=-3",
+                "verified": true
+              }
+            ],
+            "answer": "Breadth = 5m, Length = 12m"
+          },
+          "keywords": [
+            "Word Problems",
+            "Pythagoras Theorem",
+            "Dimensions"
+          ],
+          "difficulty": 5,
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "chapter_id": 3,
+      "chapter_title": "Arithmetic Progression",
+      "chapter_summary": "This chapter explores sequences, specifically Arithmetic Progressions (A.P.), including finding the nth term, calculating the sum of the first n terms, and applying these concepts to real-world scenarios.",
+      "learning_objectives": [
+        "Identify and define a sequence and its terms",
+        "Understand the concept of Arithmetic Progression and common difference",
+        "Find the nth term of an A.P. using the formula",
+        "Calculate the sum of the first n terms of an A.P.",
+        "Apply A.P. formulas to solve practical word problems"
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "3.1",
+          "topic": "Sequences",
+          "heading": "Sequence and Terms in a Sequence",
+          "explanation": "A set of numbers arranged in a definite order, like the natural numbers, is called a sequence. In a sequence, a particular number is written at a particular position. Ordered terms are represented as $t_1, t_2, t_3, \\dots, t_n$. If the sequence is infinite, for every positive integer $n$, there is a term $t_n$. Sequences often follow a specific pattern or rule to determine the next term.",
+          "key_points": [
+            "A sequence is an ordered list of numbers.",
+            "Terms are denoted by $t_n$, where $n$ is the position.",
+            "Infinite sequences have a term for every positive integer $n$."
+          ],
+          "worked_example": {
+            "problem": "Identify the terms $t_1, t_2, t_3$ in the sequence: 9, 15, 21, 27, ...",
+            "solution_steps": [
+              {
+                "step": "Identify the first number in the list.",
+                "latex": "t_1 = 9",
+                "verified": true
+              },
+              {
+                "step": "Identify the second number.",
+                "latex": "t_2 = 15",
+                "verified": true
+              },
+              {
+                "step": "Identify the third number.",
+                "latex": "t_3 = 21",
+                "verified": true
+              }
+            ],
+            "answer": "t_1 = 9, t_2 = 15, t_3 = 21"
+          },
+          "keywords": [
+            "Sequence",
+            "Terms",
+            "Pattern",
+            "Infinite Sequence"
+          ],
+          "difficulty": 1,
+          "importance": 3
+        },
+        {
+          "chunk_id": "3.2",
+          "topic": "Arithmetic Progression",
+          "heading": "Definition of Arithmetic Progression (A.P.)",
+          "explanation": "In a sequence, if the difference between two consecutive terms ($t_{n+1} - t_n$) is constant, then the sequence is called an Arithmetic Progression (A.P.). This constant difference is called the common difference and is denoted by 'd'. The first term is denoted by 'a'. An A.P. can be finite or infinite. The difference 'd' can be positive, negative, or zero.",
+          "key_points": [
+            "Constant difference between consecutive terms.",
+            "Common difference $d = t_{n+1} - t_n$.",
+            "First term is $a = t_1$.",
+            "General form: $a, a+d, a+2d, a+3d, \\dots$"
+          ],
+          "formulas": [
+            {
+              "name": "Common Difference",
+              "latex": "d = t_{n+1} - t_n",
+              "description": "The constant value added to each term to get the next."
+            }
+          ],
+          "worked_example": {
+            "problem": "Check if the sequence 5, 12, 19, 26, ... is an A.P. If so, find the next two terms.",
+            "solution_steps": [
+              {
+                "step": "Calculate differences between consecutive terms.",
+                "latex": "12 - 5 = 7; 19 - 12 = 7; 26 - 19 = 7",
+                "verified": true
+              },
+              {
+                "step": "Since the difference is constant, it is an A.P. with $d = 7$.",
+                "latex": "d = 7",
+                "verified": true
+              },
+              {
+                "step": "Add $d$ to the last known term to find the next terms.",
+                "latex": "26 + 7 = 33; 33 + 7 = 40",
+                "verified": true
+              }
+            ],
+            "answer": "It is an A.P.; next terms are 33 and 40."
+          },
+          "keywords": [
+            "Arithmetic Progression",
+            "Common Difference",
+            "Constant",
+            "Finite A.P.",
+            "Infinite A.P."
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "3.3",
+          "topic": "nth Term",
+          "heading": "nth term of an A. P.",
+          "explanation": "To find any specific term in an A.P. without listing all previous terms, we use the nth term formula. This formula relates the first term ($a$), the common difference ($d$), and the position of the term ($n$).",
+          "key_points": [
+            "Allows finding terms at any position $n$.",
+            "Requires knowing the first term and common difference."
+          ],
+          "formulas": [
+            {
+              "name": "nth Term Formula",
+              "latex": "t_n = a + (n - 1)d",
+              "description": "Formula to calculate the value of the term at position n."
+            }
+          ],
+          "worked_example": {
+            "problem": "Find the 30th term of the A.P. 3, 8, 13, 18, ...",
+            "solution_steps": [
+              {
+                "step": "Identify $a = 3$ and $d = 8 - 3 = 5$.",
+                "latex": "a = 3, d = 5, n = 30",
+                "verified": true
+              },
+              {
+                "step": "Substitute values into the $t_n$ formula.",
+                "latex": "t_{30} = 3 + (30 - 1) \times 5",
+                "verified": true
+              },
+              {
+                "step": "Simplify the expression.",
+                "latex": "t_{30} = 3 + 29 \times 5 = 3 + 145 = 148",
+                "verified": true
+              }
+            ],
+            "answer": "The 30th term is 148."
+          },
+          "keywords": [
+            "nth term",
+            "General Term",
+            "Position"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [
+            "3.2"
+          ]
+        },
+        {
+          "chunk_id": "3.4",
+          "topic": "Sum of Terms",
+          "heading": "Sum of first n terms of an A. P.",
+          "explanation": "The sum of the first $n$ terms of an A.P. is denoted by $S_n$. This can be calculated using two primary formulas: one involving the first term and common difference, and another involving the first and last terms. The method was famously simplified by mathematician Carl Friedrich Gauss.",
+          "key_points": [
+            "Used to find the total of a series of terms.",
+            "The 'Gauss method' involves pairing terms from the beginning and end of the sequence."
+          ],
+          "formulas": [
+            {
+              "name": "Sum Formula (with d)",
+              "latex": "S_n = \\frac{n}{2} [2a + (n - 1)d]",
+              "description": "Standard formula for the sum of first n terms."
+            },
+            {
+              "name": "Sum Formula (with last term)",
+              "latex": "S_n = \\frac{n}{2} [t_1 + t_n]",
+              "description": "Simplified formula when the first and last terms are known."
+            }
+          ],
+          "worked_example": {
+            "problem": "Find the sum of the first 100 terms of the A.P. 14, 16, 18, ...",
+            "solution_steps": [
+              {
+                "step": "Identify $a = 14, d = 2, n = 100$.",
+                "latex": "a = 14, d = 2, n = 100",
+                "verified": true
+              },
+              {
+                "step": "Apply the $S_n$ formula.",
+                "latex": "S_{100} = \\frac{100}{2} [2(14) + (100 - 1)2]",
+                "verified": true
+              },
+              {
+                "step": "Simplify.",
+                "latex": "S_{100} = 50 [28 + 198] = 50 \times 226 = 11300",
+                "verified": true
+              }
+            ],
+            "answer": "The sum is 11,300."
+          },
+          "keywords": [
+            "Sum",
+            "Series",
+            "Sn",
+            "Carl Gauss"
+          ],
+          "difficulty": 4,
+          "importance": 5,
+          "prerequisites": [
+            "3.3"
+          ]
+        },
+        {
+          "chunk_id": "3.5",
+          "topic": "Special Sums",
+          "heading": "Sum of Natural, Even, and Odd Numbers",
+          "explanation": "Specific formulas exist for the sum of the first $n$ natural numbers, even natural numbers, and odd natural numbers, derived from the general $S_n$ formula.",
+          "key_points": [
+            "Natural numbers: 1, 2, 3, ..., n",
+            "Even numbers: 2, 4, 6, ..., 2n",
+            "Odd numbers: 1, 3, 5, ..., (2n-1)"
+          ],
+          "formulas": [
+            {
+              "name": "Sum of first n natural numbers",
+              "latex": "S_n = \\frac{n(n + 1)}{2}",
+              "description": "Sum of 1 to n."
+            },
+            {
+              "name": "Sum of first n even natural numbers",
+              "latex": "S_n = n(n + 1)",
+              "description": "Sum of 2, 4, ..., 2n."
+            },
+            {
+              "name": "Sum of first n odd natural numbers",
+              "latex": "S_n = n^2",
+              "description": "Sum of 1, 3, ..., (2n-1)."
+            }
+          ],
+          "worked_example": {
+            "problem": "Find the sum of all odd numbers from 1 to 150.",
+            "solution_steps": [
+              {
+                "step": "Find the number of terms ($n$). The last odd number is 149.",
+                "latex": "149 = 1 + (n - 1)2 \\Rightarrow 148 = 2n - 2 \\Rightarrow 150 = 2n \\Rightarrow n = 75",
+                "verified": true
+              },
+              {
+                "step": "Apply the odd number sum formula $S_n = n^2$.",
+                "latex": "S_{75} = 75^2 = 5625",
+                "verified": true
+              }
+            ],
+            "answer": "5625"
+          },
+          "keywords": [
+            "Natural Numbers",
+            "Even Numbers",
+            "Odd Numbers",
+            "Summation"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "3.6",
+          "topic": "Applications",
+          "heading": "Application of A.P.",
+          "explanation": "Arithmetic Progressions are used to solve real-world problems involving steady growth, depreciation, savings, and structured arrangements (like seats in an auditorium).",
+          "key_points": [
+            "Identify if the problem describes a constant addition/subtraction.",
+            "Define $a$ and $d$ from the context.",
+            "Determine if the question asks for a specific term ($t_n$) or a total ($S_n$)."
+          ],
+          "worked_example": {
+            "problem": "A mixer manufacturing company produced 600 mixers in the 3rd year and 700 in the 7th year. Assuming constant growth, find production in the 1st year.",
+            "solution_steps": [
+              {
+                "step": "Set up equations using $t_n = a + (n-1)d$.",
+                "latex": "t_3 = a + 2d = 600; t_7 = a + 6d = 700",
+                "verified": true
+              },
+              {
+                "step": "Subtract the first equation from the second.",
+                "latex": "4d = 100 \\Rightarrow d = 25",
+                "verified": true
+              },
+              {
+                "step": "Substitute $d$ back to find $a$.",
+                "latex": "a + 2(25) = 600 \\Rightarrow a + 50 = 600 \\Rightarrow a = 550",
+                "verified": true
+              }
+            ],
+            "answer": "Production in the 1st year was 550 mixers."
+          },
+          "keywords": [
+            "Word Problems",
+            "Growth",
+            "Savings",
+            "Production"
+          ],
+          "difficulty": 5,
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "chapter_id": 4,
+      "chapter_title": "Financial Planning",
+      "chapter_summary": "This chapter introduces the Goods and Service Tax (GST) system in India, including tax invoices and Input Tax Credit (ITC). It also covers investment basics such as shares, mutual funds, and Systematic Investment Plans (SIP).",
+      "learning_objectives": [
+        "Understand the components and structure of GST",
+        "Interpret and prepare GST tax invoices for goods and services",
+        "Calculate GST payable using Input Tax Credit (ITC)",
+        "Understand share market terminology like Face Value, Market Value, and Dividend",
+        "Calculate brokerage and taxes on share trading",
+        "Learn about Mutual Funds, Net Asset Value (NAV), and SIP"
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "4.1",
+          "topic": "GST Introduction",
+          "heading": "Goods and Service Tax (GST)",
+          "explanation": "GST is a single tax system implemented in India from 1st July 2017, replacing various indirect taxes like Excise Duty, VAT, Service Tax, and Octroi. It follows the principle of 'One Nation, One Tax, One Market'. GST is divided into two equal parts for intra-state trade: CGST (Central GST) and SGST (State GST). For Union Territories, UTGST is used instead of SGST.",
+          "key_points": [
+            "Implemented on July 1, 2017.",
+            "Subsumes many indirect taxes.",
+            "CGST goes to the Central Government; SGST goes to the State Government.",
+            "CGST = SGST = 1/2 of GST rate."
+          ],
+          "formulas": [
+            {
+              "name": "GST Components",
+              "latex": "GST = CGST + SGST",
+              "description": "Total GST is the sum of Central and State components."
+            }
+          ],
+          "worked_example": {
+            "problem": "If the rate of GST on a product is 18%, find the rates of CGST and SGST.",
+            "solution_steps": [
+              {
+                "step": "Divide the total GST rate by 2.",
+                "latex": "\\text{CGST} = \\frac{18\\%}{2} = 9\\%",
+                "verified": true
+              },
+              {
+                "step": "Assign the same value to SGST.",
+                "latex": "\\text{SGST} = 9\\%",
+                "verified": true
+              }
+            ],
+            "answer": "CGST = 9%, SGST = 9%"
+          },
+          "keywords": [
+            "GST",
+            "CGST",
+            "SGST",
+            "Intra-state"
+          ],
+          "difficulty": 1,
+          "importance": 5
+        },
+        {
+          "chunk_id": "4.2",
+          "topic": "Tax Invoice",
+          "heading": "GSTIN and HSN/SAC Codes",
+          "explanation": "A tax invoice contains a GSTIN (GST Identification Number), which is mandatory for dealers with an annual turnover exceeding 20 lacs. It is a 15-digit alpha-numeral including the state code and the dealer's PAN. Goods are classified using HSN (Harmonized System of Nomenclature) codes, while services use SAC (Services Accounting Code).",
+          "key_points": [
+            "GSTIN has 15 digits (e.g., 27 for Maharashtra).",
+            "HSN code is for Goods.",
+            "SAC is for Services."
+          ],
+          "keywords": [
+            "GSTIN",
+            "HSN",
+            "SAC",
+            "Tax Invoice"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "4.3",
+          "topic": "GST Computation",
+          "heading": "Input Tax Credit (ITC)",
+          "explanation": "GST is collected at every stage of the trading chain. The tax paid by a trader at the time of purchase is called 'Input Tax'. The tax collected at the time of sale is 'Output Tax'. The trader can deduct the Input Tax from the Output Tax; this deduction is called Input Tax Credit (ITC).",
+          "key_points": [
+            "Input Tax: Tax paid on purchase.",
+            "Output Tax: Tax collected on sale.",
+            "ITC is the credit for tax already paid."
+          ],
+          "formulas": [
+            {
+              "name": "GST Payable",
+              "latex": "\\text{GST Payable} = \\text{Output Tax} - \\text{ITC}",
+              "description": "Formula to calculate the actual tax amount to be paid to the government."
+            }
+          ],
+          "worked_example": {
+            "problem": "A retailer paid GST of ₹ 6500 at purchase and collected ₹ 8000 at sale. Find the GST payable.",
+            "solution_steps": [
+              {
+                "step": "Identify Output Tax and ITC.",
+                "latex": "\\text{Output Tax} = 8000, \\text{ITC} = 6500",
+                "verified": true
+              },
+              {
+                "step": "Subtract ITC from Output Tax.",
+                "latex": "8000 - 6500 = 1500",
+                "verified": true
+              }
+            ],
+            "answer": "GST Payable = ₹ 1500"
+          },
+          "keywords": [
+            "ITC",
+            "Input Tax",
+            "Output Tax",
+            "GST Payable"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "4.4",
+          "topic": "Shares",
+          "heading": "Introduction to Shares and Stock Exchange",
+          "explanation": "A company is formed by promoters and requires capital. This capital is divided into small equal parts called 'Shares'. A person owning a share is a 'Shareholder'. Shares are traded on a Stock Exchange (e.g., BSE, NSE).",
+          "key_points": [
+            "Face Value (FV): Value printed on the share certificate.",
+            "Market Value (MV): Price at which the share is traded in the market.",
+            "Dividend: Part of the annual profit distributed to shareholders, calculated on FV."
+          ],
+          "formulas": [
+            {
+              "name": "Sum Invested",
+              "latex": "\\text{Sum Invested} = \\text{Number of Shares} \\times \\text{MV}",
+              "description": "Total money spent to buy shares."
+            }
+          ],
+          "worked_example": {
+            "problem": "Compare FV and MV to determine if a share is at premium, par, or discount: FV = ₹ 10, MV = ₹ 15.",
+            "solution_steps": [
+              {
+                "step": "Check if MV is greater than FV.",
+                "latex": "15 > 10",
+                "verified": true
+              },
+              {
+                "step": "Calculate the difference.",
+                "latex": "15 - 10 = 5",
+                "verified": true
+              }
+            ],
+            "answer": "The share is at a premium of ₹ 5."
+          },
+          "keywords": [
+            "Share",
+            "Face Value",
+            "Market Value",
+            "Premium",
+            "Discount"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "4.5",
+          "topic": "Investment Returns",
+          "heading": "Rate of Return (RoR)",
+          "explanation": "The Rate of Return helps an investor understand the efficiency of their investment. It is the ratio of the dividend received to the sum invested, expressed as a percentage.",
+          "formulas": [
+            {
+              "name": "Rate of Return",
+              "latex": "\\text{RoR} = \\frac{\\text{Dividend Income}}{\\text{Sum Invested}} \\times 100",
+              "description": "Calculates the percentage return on investment."
+            }
+          ],
+          "worked_example": {
+            "problem": "Shriyash bought a share (FV = ₹ 100) for MV = ₹ 120. The company declared a 15% dividend. Find the RoR.",
+            "solution_steps": [
+              {
+                "step": "Calculate dividend per share (15% of FV).",
+                "latex": "\\text{Dividend} = \\frac{15}{100} \\times 100 = 15",
+                "verified": true
+              },
+              {
+                "step": "Calculate RoR based on MV.",
+                "latex": "\\text{RoR} = \\frac{15}{120} \\times 100",
+                "verified": true
+              }
+            ],
+            "answer": "RoR = 12.5%"
+          },
+          "keywords": [
+            "Rate of Return",
+            "Dividend",
+            "Investment"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "4.6",
+          "topic": "Brokerage",
+          "heading": "Brokerage and Taxes on Share Trading",
+          "explanation": "Shares are bought/sold through 'Share Brokers' who charge a fee called 'Brokerage'. Brokerage is always calculated on the Market Value (MV). Additionally, GST is charged on the brokerage amount (usually at 18%).",
+          "key_points": [
+            "Buying Price = MV + Brokerage + GST on Brokerage.",
+            "Selling Price = MV - Brokerage - GST on Brokerage."
+          ],
+          "worked_example": {
+            "problem": "A share is bought for MV ₹ 150 with 0.5% brokerage. Find the total cost.",
+            "solution_steps": [
+              {
+                "step": "Calculate brokerage.",
+                "latex": "0.5\\% \\text{ of } 150 = 0.75",
+                "verified": true
+              },
+              {
+                "step": "Add brokerage to MV.",
+                "latex": "150 + 0.75 = 150.75",
+                "verified": true
+              }
+            ],
+            "answer": "Total cost per share = ₹ 150.75 (excluding GST on brokerage)"
+          },
+          "keywords": [
+            "Brokerage",
+            "Share Broker",
+            "Trading"
+          ],
+          "difficulty": 4,
+          "importance": 4
+        },
+        {
+          "chunk_id": "4.7",
+          "topic": "Mutual Funds",
+          "heading": "Mutual Fund and SIP",
+          "explanation": "A Mutual Fund is a professionally managed investment scheme where many investors pool money. It is run by an Asset Management Company (AMC). Investors get 'units' instead of shares. The value of one unit is the Net Asset Value (NAV). A Systematic Investment Plan (SIP) allows small, regular investments.",
+          "key_points": [
+            "NAV: Net Asset Value, equivalent to market price of a unit.",
+            "AMC: Asset Management Company.",
+            "SIP: Systematic Investment Plan for disciplined savings."
+          ],
+          "formulas": [
+            {
+              "name": "Total Fund Value",
+              "latex": "\\text{Total Value} = \\text{NAV} \\times \\text{Number of Units}",
+              "description": "Calculates the total value of mutual fund holdings."
+            }
+          ],
+          "keywords": [
+            "Mutual Fund",
+            "NAV",
+            "SIP",
+            "AMC"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "chapter_id": 5,
+      "chapter_title": "Probability",
+      "chapter_summary": "This chapter introduces the concept of probability, random experiments, sample spaces, and events. It teaches how to quantify the possibility of an outcome using mathematical formulas.",
+      "learning_objectives": [
+        "Understand the concept of random experiments and outcomes",
+        "Identify and write sample spaces for various experiments",
+        "Define events as subsets of sample spaces",
+        "Calculate the probability of an event using the standard formula",
+        "Understand the range of probability from 0 to 1 (or 0% to 100%)"
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "5.1",
+          "topic": "Introduction",
+          "heading": "Possibility and Predictions",
+          "explanation": "In daily conversation, we use words like 'probable', 'may be', 'impossible', 'sure', 'nearly', and '50-50' to express the possibility of future events. Probability is the mathematical way of expressing these possibilities in numbers.",
+          "key_points": [
+            "Probability deals with predictions for the future.",
+            "It quantifies the 'less' or 'more' possibility of an occurrence."
+          ],
+          "keywords": [
+            "Possibility",
+            "Prediction",
+            "Likelihood"
+          ],
+          "difficulty": 1,
+          "importance": 3
+        },
+        {
+          "chunk_id": "5.2",
+          "topic": "Random Experiment",
+          "heading": "Random Experiment",
+          "explanation": "An experiment in which all possible results are known in advance but none of them can be predicted with certainty, and there is an equal possibility for each result, is known as a 'Random experiment'. Examples include tossing a coin, throwing a die, or picking a card from a pack.",
+          "key_points": [
+            "All possible results are known beforehand.",
+            "The specific result cannot be predicted with certainty.",
+            "Each result has an equal possibility."
+          ],
+          "worked_example": {
+            "problem": "List the possible results of tossing a coin twice.",
+            "solution_steps": [
+              {
+                "step": "Identify the outcomes of a single toss: Head (H) or Tail (T).",
+                "latex": "\\{H, T\\}",
+                "verified": true
+              },
+              {
+                "step": "Combine outcomes for two tosses.",
+                "latex": "\\{HH, HT, TH, TT\\}",
+                "verified": true
+              }
+            ],
+            "answer": "HH, HT, TH, TT"
+          },
+          "keywords": [
+            "Random Experiment",
+            "Certainty",
+            "Tossing a coin",
+            "Throwing a die"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "5.3",
+          "topic": "Outcomes",
+          "heading": "Outcome and Equally Likely Outcomes",
+          "explanation": "The result of a random experiment is called an 'Outcome'. Outcomes are 'Equally Likely' if none of them occurs in preference to others. For example, in a fair die, every number from 1 to 6 has an equal chance of appearing.",
+          "key_points": [
+            "A pack of playing cards has 52 cards.",
+            "26 red cards (13 hearts, 13 diamonds).",
+            "26 black cards (13 clubs, 13 spades).",
+            "Each suit has 13 cards: Ace, 2-10, Jack, Queen, King.",
+            "Face cards: King, Queen, Jack (Total 12 face cards)."
+          ],
+          "keywords": [
+            "Outcome",
+            "Equally Likely",
+            "Playing Cards",
+            "Face Cards"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "5.4",
+          "topic": "Sample Space",
+          "heading": "Sample Space",
+          "explanation": "The set of all possible outcomes of a random experiment is called the sample space. It is denoted by 'S' or '$\\Omega$'. Each element of the sample space is called a 'sample point'. The number of elements in set S is denoted by $n(S)$.",
+          "key_points": [
+            "One coin: $S = \\{H, T\\}, n(S) = 2$.",
+            "Two coins: $S = \\{HH, HT, TH, TT\\}, n(S) = 4$.",
+            "Three coins: $S = \\{HHH, HHT, HTH, THH, HTT, THT, TTH, TTT\\}, n(S) = 8$.",
+            "One die: $S = \\{1, 2, 3, 4, 5, 6\\}, n(S) = 6$.",
+            "Two dice: $n(S) = 36$.",
+            "Pack of cards: $n(S) = 52$."
+          ],
+          "keywords": [
+            "Sample Space",
+            "Sample Point",
+            "n(S)",
+            "Omega"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "5.5",
+          "topic": "Events",
+          "heading": "Event",
+          "explanation": "An event is a set of favourable outcomes of a given sample space. It is a subset of the sample space and is usually denoted by capital letters like A, B, C, D. The number of elements in event A is denoted by $n(A)$.",
+          "key_points": [
+            "An event is a subset of the sample space.",
+            "Types of events include: Certain, Impossible, Simple, Complement, Mutually exclusive, and Exhaustive."
+          ],
+          "worked_example": {
+            "problem": "Two coins are tossed. Find event A: getting at least one head.",
+            "solution_steps": [
+              {
+                "step": "Write the sample space S.",
+                "latex": "S = \\{HH, HT, TH, TT\\}",
+                "verified": true
+              },
+              {
+                "step": "Identify outcomes with at least one 'H'.",
+                "latex": "A = \\{HH, HT, TH\\}",
+                "verified": true
+              },
+              {
+                "step": "Count the elements.",
+                "latex": "n(A) = 3",
+                "verified": true
+              }
+            ],
+            "answer": "A = {HH, HT, TH}, n(A) = 3"
+          },
+          "keywords": [
+            "Event",
+            "Subset",
+            "Favourable Outcomes",
+            "n(A)"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [
+            "5.4"
+          ]
+        },
+        {
+          "chunk_id": "5.6",
+          "topic": "Probability Calculation",
+          "heading": "Probability of an event",
+          "explanation": "Probability is the numerical expression of the possibility of an event. It is calculated as the ratio of the number of sample points in the event to the total number of sample points in the sample space.",
+          "key_points": [
+            "Probability is expressed as a fraction or percentage.",
+            "The probability of any event is between 0 and 1 ($0 \\le P(E) \\le 1$).",
+            "0% means impossible; 100% means certain."
+          ],
+          "formulas": [
+            {
+              "name": "Probability Formula",
+              "latex": "P(A) = \\frac{n(A)}{n(S)}",
+              "description": "Calculates the probability of event A."
+            }
+          ],
+          "worked_example": {
+            "problem": "A die is rolled. Find the probability that the number on the upper face is prime.",
+            "solution_steps": [
+              {
+                "step": "Identify sample space and $n(S)$.",
+                "latex": "S = \\{1, 2, 3, 4, 5, 6\\}, n(S) = 6",
+                "verified": true
+              },
+              {
+                "step": "Identify prime numbers in S for event A.",
+                "latex": "A = \\{2, 3, 5\\}, n(A) = 3",
+                "verified": true
+              },
+              {
+                "step": "Apply the probability formula.",
+                "latex": "P(A) = \\frac{3}{6} = \\frac{1}{2}",
+                "verified": true
+              }
+            ],
+            "answer": "P(A) = 1/2"
+          },
+          "keywords": [
+            "Probability",
+            "P(A)",
+            "Fraction",
+            "Percentage"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [
+            "5.4",
+            "5.5"
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 6,
+      "chapter_title": "Statistics",
+      "chapter_summary": "This chapter covers measures of central tendency (mean, median, and mode) for grouped data using various methods, and graphical representations of data including histograms, frequency polygons, and pie diagrams.",
+      "learning_objectives": [
+        "Calculate mean from grouped frequency tables using Direct, Assumed Mean, and Step Deviation methods",
+        "Find the median and mode for grouped frequency distributions",
+        "Represent statistical data graphically using histograms and frequency polygons",
+        "Interpret and draw pie diagrams to represent data"
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "6.1",
+          "topic": "Measures of Central Tendency",
+          "heading": "Mean from classified frequency distribution - Direct Method",
+          "explanation": "The mean represents the average of the given data. In the direct method for grouped data, we use the class mark ($x_i$) of each class and its frequency ($f_i$). The mean is the sum of the products of class marks and frequencies divided by the total frequency.",
+          "key_points": [
+            "Class mark ($x_i$) = (Lower Limit + Upper Limit) / 2.",
+            "Total frequency $N = \\sum f_i$.",
+            "The method is suitable when the number of scores is large but the values are manageable."
+          ],
+          "formulas": [
+            {
+              "name": "Mean (Direct Method)",
+              "latex": "\\bar{X} = \\frac{\\sum x_i f_i}{\\sum f_i}",
+              "description": "Calculates the average using class marks and frequencies."
+            }
+          ],
+          "worked_example": {
+            "problem": "Find the mean of marks for 50 students: 0-20 (3), 20-40 (7), 40-60 (15), 60-80 (20), 80-100 (5).",
+            "solution_steps": [
+              {
+                "step": "Find class marks ($x_i$): 10, 30, 50, 70, 90.",
+                "latex": "x_i = \\frac{L + U}{2}",
+                "verified": true
+              },
+              {
+                "step": "Calculate $\\sum f_i x_i$.",
+                "latex": "(3 \\times 10) + (7 \\times 30) + (15 \\times 50) + (20 \\times 70) + (5 \\times 90) = 2840",
+                "verified": true
+              },
+              {
+                "step": "Divide by total frequency $N=50$.",
+                "latex": "\\bar{X} = \\frac{2840}{50} = 56.8",
+                "verified": true
+              }
+            ],
+            "answer": "Mean = 56.8"
+          },
+          "keywords": [
+            "Mean",
+            "Direct Method",
+            "Class Mark",
+            "Frequency"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "6.2",
+          "topic": "Measures of Central Tendency",
+          "heading": "Assumed Mean Method",
+          "explanation": "When class marks and frequencies are large, the direct method becomes tedious. The Assumed Mean Method reduces calculations by choosing an 'Assumed Mean' (A) and calculating deviations ($d_i = x_i - A$).",
+          "key_points": [
+            "Choose A from the middle of the class marks.",
+            "Deviation $d_i = x_i - A$.",
+            "Mean of deviations $\\bar{d} = \\frac{\\sum f_i d_i}{\\sum f_i}$."
+          ],
+          "formulas": [
+            {
+              "name": "Mean (Assumed Mean Method)",
+              "latex": "\\bar{X} = A + \\bar{d}",
+              "description": "Calculates mean using an assumed value and average deviation."
+            }
+          ],
+          "worked_example": {
+            "problem": "Find mean using Assumed Mean Method: A = 2250, $\\sum f_i = 100$, $\\sum f_i d_i = -10000$.",
+            "solution_steps": [
+              {
+                "step": "Calculate $\\bar{d}$.",
+                "latex": "\\bar{d} = \\frac{-10000}{100} = -100",
+                "verified": true
+              },
+              {
+                "step": "Calculate $\\bar{X}$.",
+                "latex": "\\bar{X} = 2250 + (-100) = 2150",
+                "verified": true
+              }
+            ],
+            "answer": "Mean = 2150"
+          },
+          "keywords": [
+            "Assumed Mean",
+            "Deviation",
+            "Calculation Reduction"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "6.3",
+          "topic": "Measures of Central Tendency",
+          "heading": "Step Deviation Method",
+          "explanation": "This method further simplifies calculations by dividing deviations by a common factor 'g' (usually the class interval). It uses $u_i = \\frac{d_i}{g}$.",
+          "key_points": [
+            "g is the G.C.D. of all $d_i$.",
+            "Mean of $u_i$ is $\\bar{u} = \\frac{\\sum f_i u_i}{\\sum f_i}$.",
+            "Final mean $\\bar{X} = A + \\bar{u}g$."
+          ],
+          "formulas": [
+            {
+              "name": "Mean (Step Deviation Method)",
+              "latex": "\\bar{X} = A + \\left( \\frac{\\sum f_i u_i}{\\sum f_i} \\right) g",
+              "description": "Most efficient method for large grouped data."
+            }
+          ],
+          "keywords": [
+            "Step Deviation",
+            "Common Factor",
+            "u_i"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "6.4",
+          "topic": "Measures of Central Tendency",
+          "heading": "Median for grouped frequency distribution",
+          "explanation": "The median is the middle value of the data. For grouped data, we identify the 'median class' using cumulative frequency ($cf$). The classes must be continuous.",
+          "key_points": [
+            "Median class is the class where cumulative frequency is just greater than $N/2$.",
+            "L = Lower limit of median class.",
+            "f = Frequency of median class.",
+            "cf = Cumulative frequency of the class preceding the median class.",
+            "h = Class interval."
+          ],
+          "formulas": [
+            {
+              "name": "Median Formula",
+              "latex": "\\text{Median} = L + \\left[ \\frac{\\frac{N}{2} - cf}{f} \\right] \\times h",
+              "description": "Calculates the median for grouped data."
+            }
+          ],
+          "worked_example": {
+            "problem": "Find median: L=40, N=100, cf=24, f=30, h=20.",
+            "solution_steps": [
+              {
+                "step": "Calculate $N/2$.",
+                "latex": "100/2 = 50",
+                "verified": true
+              },
+              {
+                "step": "Apply formula.",
+                "latex": "40 + \\left[ \\frac{50 - 24}{30} \\right] \\times 20 = 40 + \\frac{26 \\times 20}{30}",
+                "verified": true
+              },
+              {
+                "step": "Simplify.",
+                "latex": "40 + 17.33 = 57.33",
+                "verified": true
+              }
+            ],
+            "answer": "Median = 57.33"
+          },
+          "keywords": [
+            "Median",
+            "Median Class",
+            "Cumulative Frequency"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "6.5",
+          "topic": "Measures of Central Tendency",
+          "heading": "Mode for grouped frequency distribution",
+          "explanation": "The mode is the value that repeats the maximum number of times. In grouped data, the class with the highest frequency is the 'modal class'.",
+          "key_points": [
+            "$f_1$ = Frequency of modal class.",
+            "$f_0$ = Frequency of preceding class.",
+            "$f_2$ = Frequency of succeeding class.",
+            "L = Lower limit of modal class."
+          ],
+          "formulas": [
+            {
+              "name": "Mode Formula",
+              "latex": "\\text{Mode} = L + \\left[ \\frac{f_1 - f_0}{2f_1 - f_0 - f_2} \\right] \\times h",
+              "description": "Calculates the mode for grouped data."
+            }
+          ],
+          "worked_example": {
+            "problem": "Find mode: L=10, f1=70, f0=58, f2=42, h=2.",
+            "solution_steps": [
+              {
+                "step": "Apply formula.",
+                "latex": "10 + \\left[ \\frac{70 - 58}{2(70) - 58 - 42} \\right] \\times 2",
+                "verified": true
+              },
+              {
+                "step": "Simplify denominator and numerator.",
+                "latex": "10 + \\left[ \\frac{12}{140 - 100} \\right] \\times 2 = 10 + \\frac{24}{40}",
+                "verified": true
+              }
+            ],
+            "answer": "Mode = 10.6"
+          },
+          "keywords": [
+            "Mode",
+            "Modal Class",
+            "Maximum Frequency"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "6.6",
+          "topic": "Graphical Representation",
+          "heading": "Histogram and Frequency Polygon",
+          "explanation": "A histogram represents frequency using rectangles. A frequency polygon is a line graph formed by joining the mid-points of the upper sides of the histogram rectangles. A 'krink' mark is used on the X-axis if the first class doesn't start from zero.",
+          "key_points": [
+            "Histogram requires continuous classes.",
+            "Frequency polygon can be drawn with or without a histogram.",
+            "For a polygon, add a class of zero frequency at the beginning and end."
+          ],
+          "keywords": [
+            "Histogram",
+            "Frequency Polygon",
+            "Krink Mark",
+            "Mid-point"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "6.7",
+          "topic": "Graphical Representation",
+          "heading": "Pie Diagram",
+          "explanation": "A pie diagram represents data in a circle where different components are shown as proportional sectors. The measure of the central angle for each component is proportional to its value.",
+          "key_points": [
+            "Total angle of a circle is 360°.",
+            "Central angle ($\theta$) is calculated for each component."
+          ],
+          "formulas": [
+            {
+              "name": "Central Angle",
+              "latex": "\\theta = \\frac{\\text{Value of Component}}{\\text{Total Value}} \\times 360^\\circ",
+              "description": "Calculates the sector angle for a pie chart."
+            }
+          ],
+          "worked_example": {
+            "problem": "If 40% of people have O- blood group, find the central angle for a pie diagram.",
+            "solution_steps": [
+              {
+                "step": "Apply the percentage to 360°.",
+                "latex": "\\frac{40}{100} \\times 360^\\circ",
+                "verified": true
+              }
+            ],
+            "answer": "144°"
+          },
+          "keywords": [
+            "Pie Diagram",
+            "Central Angle",
+            "Sector",
+            "Proportion"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        }
+      ]
+    }
+  ]
+}

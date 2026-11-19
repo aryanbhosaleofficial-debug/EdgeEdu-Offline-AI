@@ -1,0 +1,1922 @@
+{
+  "metadata": {
+    "file_name": "Mathematics_Standard_X_Part_II_Similarity.json",
+    "standard": 10,
+    "subject": "Mathematics",
+    "branch": "Geometry",
+    "language": "English",
+    "board": "Maharashtra State Bureau of Textbook Production and Curriculum Research",
+    "version": "1.0",
+    "authored_by": "AI Studio Extraction",
+    "last_updated": "2024-05-22"
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "chapter_title": "Similarity",
+      "chapter_summary": "This chapter introduces the concept of similarity in geometry, focusing on the properties of triangles, proportionality theorems, and the relationship between the areas of similar figures.",
+      "learning_objectives": [
+        "Find the ratio of areas of two triangles based on base and height.",
+        "Understand and apply the Basic Proportionality Theorem and its converse.",
+        "Apply the property of an angle bisector of a triangle.",
+        "Understand the property of intercepts made by three parallel lines on transversals.",
+        "Identify similar triangles using AAA, AA, SAS, and SSS tests.",
+        "Apply the theorem of areas of similar triangles."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "1.1",
+          "topic": "Ratio of areas of two triangles",
+          "heading": "Ratio of areas of two triangles",
+          "explanation": "The ratio of the areas of two triangles is equal to the ratio of the products of their bases and corresponding heights. If the base of a triangle is $b_1$ and height is $h_1$, and for another triangle the base is $b_2$ and height is $h_2$, then the ratio of their areas is $\\frac{b_1 \\times h_1}{b_2 \\times h_2}$.",
+          "key_points": [
+            "The ratio of the areas of two triangles with equal heights is equal to the ratio of their corresponding bases.",
+            "The ratio of the areas of two triangles with equal bases is equal to the ratio of their corresponding heights."
+          ],
+          "formulas": [
+            {
+              "name": "General Ratio of Areas",
+              "latex": "\\frac{A(\\Delta_1)}{A(\\Delta_2)} = \\frac{b_1 \\times h_1}{b_2 \\times h_2}",
+              "description": "Ratio of areas of any two triangles."
+            },
+            {
+              "name": "Equal Heights Ratio",
+              "latex": "\\frac{A(\\Delta_1)}{A(\\Delta_2)} = \\frac{b_1}{b_2}",
+              "description": "Ratio of areas when heights are equal."
+            },
+            {
+              "name": "Equal Bases Ratio",
+              "latex": "\\frac{A(\\Delta_1)}{A(\\Delta_2)} = \\frac{h_1}{h_2}",
+              "description": "Ratio of areas when bases are equal."
+            }
+          ],
+          "worked_example": {
+            "problem": "In $\\Delta ABC$, $AE \\perp$ seg $BC$. In $\\Delta DBC$, $DF \\perp$ line $BC$. If $AE = 4$ and $DF = 6$, find $\\frac{A(\\Delta ABC)}{A(\\Delta DBC)}$.",
+            "solution_steps": [
+              {
+                "step": "Identify that both triangles share the same base $BC$.",
+                "latex": "\\text{Base} = BC",
+                "verified": true
+              },
+              {
+                "step": "Apply the property that for triangles with equal bases, areas are proportional to heights.",
+                "latex": "\\frac{A(\\Delta ABC)}{A(\\Delta DBC)} = \\frac{AE}{DF}",
+                "verified": true
+              },
+              {
+                "step": "Substitute the given values and simplify.",
+                "latex": "\\frac{4}{6} = \\frac{2}{3}",
+                "verified": true
+              }
+            ],
+            "answer": "\\frac{2}{3}"
+          },
+          "practice_problems": [
+            {
+              "q": "Base of a triangle is 9 and height is 5. Base of another triangle is 10 and height is 6. Find the ratio of areas of these triangles.",
+              "answer": "3:4",
+              "hint": "Use the formula $\\frac{b_1 \\times h_1}{b_2 \\times h_2}$."
+            }
+          ],
+          "keywords": [
+            "Area",
+            "Triangle",
+            "Base",
+            "Height",
+            "Ratio"
+          ],
+          "difficulty": 1,
+          "importance": 5
+        },
+        {
+          "chunk_id": "1.2",
+          "topic": "Basic Proportionality Theorem",
+          "heading": "Basic proportionality theorem",
+          "explanation": "If a line parallel to a side of a triangle intersects the remaining sides in two distinct points, then the line divides the sides in the same proportion.",
+          "key_points": [
+            "Given: In $\\Delta ABC$, line $l \\parallel$ side $BC$ and line $l$ intersects $AB$ and $AC$ in points $P$ and $Q$ respectively.",
+            "To prove: $\\frac{AP}{PB} = \\frac{AQ}{QC}$."
+          ],
+          "formulas": [
+            {
+              "name": "BPT Formula",
+              "latex": "\\frac{AP}{PB} = \\frac{AQ}{QC}",
+              "description": "Proportionality of segments created by a parallel line."
+            }
+          ],
+          "worked_example": {
+            "problem": "In $\\Delta ABC$, $DE \\parallel BC$. If $DB = 5.4$ cm, $AD = 1.8$ cm, $EC = 7.2$ cm, then find $AE$.",
+            "solution_steps": [
+              {
+                "step": "Apply Basic Proportionality Theorem.",
+                "latex": "\\frac{AD}{DB} = \\frac{AE}{EC}",
+                "verified": true
+              },
+              {
+                "step": "Substitute the given values.",
+                "latex": "\\frac{1.8}{5.4} = \\frac{AE}{7.2}",
+                "verified": true
+              },
+              {
+                "step": "Solve for $AE$.",
+                "latex": "AE \\times 5.4 = 1.8 \\times 7.2 \\Rightarrow AE = \\frac{1.8 \\times 7.2}{5.4} = 2.4",
+                "verified": true
+              }
+            ],
+            "answer": "2.4 cm"
+          },
+          "keywords": [
+            "BPT",
+            "Parallel",
+            "Proportion",
+            "Triangle"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [
+            "1.1"
+          ]
+        },
+        {
+          "chunk_id": "1.3",
+          "topic": "Converse of BPT",
+          "heading": "Converse of basic proportionality theorem",
+          "explanation": "If a line divides any two sides of a triangle in the same ratio, then the line is parallel to the third side.",
+          "key_points": [
+            "If $\\frac{AP}{PB} = \\frac{AQ}{QC}$, then line $l \\parallel$ side $BC$."
+          ],
+          "keywords": [
+            "Converse",
+            "Parallel",
+            "Ratio"
+          ],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": [
+            "1.2"
+          ]
+        },
+        {
+          "chunk_id": "1.4",
+          "topic": "Angle Bisector Property",
+          "heading": "Property of an angle bisector of a triangle",
+          "explanation": "The bisector of an angle of a triangle divides the side opposite to the angle in the ratio of the remaining sides.",
+          "key_points": [
+            "Given: In $\\Delta ABC$, bisector of $\\angle C$ intersects seg $AB$ in point $E$.",
+            "To prove: $\\frac{AE}{EB} = \\frac{CA}{CB}$."
+          ],
+          "formulas": [
+            {
+              "name": "Angle Bisector Theorem",
+              "latex": "\\frac{AE}{EB} = \\frac{CA}{CB}",
+              "description": "Ratio of segments of the opposite side equals ratio of other two sides."
+            }
+          ],
+          "worked_example": {
+            "problem": "In $\\Delta PQR$, seg $RS$ bisects $\\angle R$. If $PR = 15$, $RQ = 20$, $PS = 12$, then find $SQ$.",
+            "solution_steps": [
+              {
+                "step": "Apply the property of angle bisector.",
+                "latex": "\\frac{PR}{RQ} = \\frac{PS}{SQ}",
+                "verified": true
+              },
+              {
+                "step": "Substitute values.",
+                "latex": "\\frac{15}{20} = \\frac{12}{SQ}",
+                "verified": true
+              },
+              {
+                "step": "Solve for $SQ$.",
+                "latex": "SQ = \\frac{12 \\times 20}{15} = 16",
+                "verified": true
+              }
+            ],
+            "answer": "16"
+          },
+          "keywords": [
+            "Angle Bisector",
+            "Ratio",
+            "Triangle"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "1.5",
+          "topic": "Parallel Lines and Transversals",
+          "heading": "Property of three parallel lines and their transversals",
+          "explanation": "The ratio of the intercepts made on a transversal by three parallel lines is equal to the ratio of the corresponding intercepts made on any other transversal by the same parallel lines.",
+          "key_points": [
+            "If line $l \\parallel$ line $m \\parallel$ line $n$, and $t_1, t_2$ are transversals, then $\\frac{AB}{BC} = \\frac{PQ}{QR}$."
+          ],
+          "formulas": [
+            {
+              "name": "Parallel Lines Intercepts",
+              "latex": "\\frac{AB}{BC} = \\frac{PQ}{QR}",
+              "description": "Equality of ratios of intercepts on different transversals."
+            }
+          ],
+          "keywords": [
+            "Parallel Lines",
+            "Transversal",
+            "Intercepts"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "1.6",
+          "topic": "Similarity Tests",
+          "heading": "Tests of similarity of triangles",
+          "explanation": "Two triangles are similar if their corresponding angles are congruent and their corresponding sides are in proportion. Specific tests can confirm similarity with fewer conditions.",
+          "key_points": [
+            "AAA Test: Three corresponding angles are congruent.",
+            "AA Test: Two corresponding angles are congruent (sufficient because the third must then be congruent).",
+            "SAS Test: Two pairs of corresponding sides are in proportion and the included angles are congruent.",
+            "SSS Test: Three pairs of corresponding sides are in proportion."
+          ],
+          "keywords": [
+            "Similarity",
+            "AAA",
+            "AA",
+            "SAS",
+            "SSS",
+            "Reflexivity",
+            "Symmetry",
+            "Transitivity"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "1.7",
+          "topic": "Areas of Similar Triangles",
+          "heading": "Theorem of areas of similar triangles",
+          "explanation": "When two triangles are similar, the ratio of areas of those triangles is equal to the ratio of the squares of their corresponding sides.",
+          "key_points": [
+            "If $\\Delta ABC \\sim \\Delta PQR$, then $\\frac{A(\\Delta ABC)}{A(\\Delta PQR)} = \\frac{AB^2}{PQ^2} = \\frac{BC^2}{QR^2} = \\frac{AC^2}{PR^2}$."
+          ],
+          "formulas": [
+            {
+              "name": "Areas of Similar Triangles",
+              "latex": "\\frac{A(\\Delta_1)}{A(\\Delta_2)} = \\frac{s_1^2}{s_2^2}",
+              "description": "Ratio of areas equals ratio of squares of corresponding sides."
+            }
+          ],
+          "worked_example": {
+            "problem": "$\\Delta ABC \\sim \\Delta PQR$, $A(\\Delta ABC) = 16$, $A(\\Delta PQR) = 25$, find the ratio $\\frac{AB}{PQ}$.",
+            "solution_steps": [
+              {
+                "step": "Apply the theorem of areas of similar triangles.",
+                "latex": "\\frac{A(\\Delta ABC)}{A(\\Delta PQR)} = \\frac{AB^2}{PQ^2}",
+                "verified": true
+              },
+              {
+                "step": "Substitute the given areas.",
+                "latex": "\\frac{16}{25} = \\frac{AB^2}{PQ^2}",
+                "verified": true
+              },
+              {
+                "step": "Take the square root of both sides.",
+                "latex": "\\frac{AB}{PQ} = \\frac{4}{5}",
+                "verified": true
+              }
+            ],
+            "answer": "4:5"
+          },
+          "keywords": [
+            "Similar Triangles",
+            "Area",
+            "Square of Sides"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [
+            "1.6"
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 2,
+      "chapter_title": "Pythagoras Theorem",
+      "chapter_summary": "This chapter explores the fundamental Pythagoras theorem, its converse, properties of special right-angled triangles, the geometric mean theorem, and the Apollonius theorem for medians.",
+      "learning_objectives": [
+        "Identify and verify Pythagorean triplets.",
+        "Understand similarity in right-angled triangles.",
+        "Apply the theorem of geometric mean.",
+        "Prove and apply Pythagoras theorem and its converse.",
+        "Solve problems using properties of 30°-60°-90° and 45°-45°-90° triangles.",
+        "Understand and apply Apollonius theorem."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "2.1",
+          "topic": "Pythagoras Theorem",
+          "heading": "Pythagoras theorem",
+          "explanation": "In a right-angled triangle, the square of the hypotenuse is equal to the sum of the squares of the remaining two sides. In $\\Delta PQR$ where $\\angle PQR = 90^\\circ$, $PR^2 = PQ^2 + QR^2$.",
+          "key_points": [
+            "Applies only to right-angled triangles.",
+            "The hypotenuse is the side opposite the right angle and is the longest side."
+          ],
+          "formulas": [
+            {
+              "name": "Pythagoras Formula",
+              "latex": "c^2 = a^2 + b^2",
+              "description": "Where c is the hypotenuse and a, b are the other two sides."
+            }
+          ],
+          "worked_example": {
+            "problem": "In a right-angled triangle, sides making the right angle are 9 cm and 12 cm. Find the length of the hypotenuse.",
+            "solution_steps": [
+              {
+                "step": "Identify the sides: $a = 9, b = 12$.",
+                "latex": "a = 9, b = 12",
+                "verified": true
+              },
+              {
+                "step": "Apply Pythagoras theorem.",
+                "latex": "PR^2 = 9^2 + 12^2",
+                "verified": true
+              },
+              {
+                "step": "Calculate squares and sum.",
+                "latex": "PR^2 = 81 + 144 = 225",
+                "verified": true
+              },
+              {
+                "step": "Take the square root.",
+                "latex": "PR = \\sqrt{225} = 15",
+                "verified": true
+              }
+            ],
+            "answer": "15 cm"
+          },
+          "keywords": [
+            "Hypotenuse",
+            "Right-angled triangle",
+            "Square"
+          ],
+          "difficulty": 1,
+          "importance": 5
+        },
+        {
+          "chunk_id": "2.2",
+          "topic": "Pythagorean Triplet",
+          "heading": "Pythagorean Triplet",
+          "explanation": "In a triplet of natural numbers, if the square of the largest number is equal to the sum of the squares of the remaining two numbers, then the triplet is called a Pythagorean triplet. For example, (11, 60, 61) is a triplet because $11^2 + 60^2 = 121 + 3600 = 3721 = 61^2$.",
+          "key_points": [
+            "Triplets consist of natural numbers.",
+            "Formula for generating triplets: $[(a^2 + b^2), (a^2 - b^2), (2ab)]$ where $a > b$."
+          ],
+          "practice_problems": [
+            {
+              "q": "Identify if (3, 5, 4) is a Pythagorean triplet.",
+              "answer": "Yes",
+              "hint": "Check if $3^2 + 4^2 = 5^2$."
+            }
+          ],
+          "keywords": [
+            "Triplet",
+            "Natural Numbers"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "2.3",
+          "topic": "Special Triangle Properties",
+          "heading": "Property of 30°-60°-90° and 45°-45°-90° triangles",
+          "explanation": "These are properties of specific right-angled triangles that allow finding side lengths based on the hypotenuse. \n1. 30°-60°-90°: Side opposite 30° is $\\frac{1}{2} \\times$ hypotenuse; side opposite 60° is $\\frac{\\sqrt{3}}{2} \\times$ hypotenuse. \n2. 45°-45°-90°: Each perpendicular side is $\\frac{1}{\\sqrt{2}} \\times$ hypotenuse.",
+          "key_points": [
+            "30°-60°-90° is a scalene right triangle.",
+            "45°-45°-90° is an isosceles right triangle."
+          ],
+          "formulas": [
+            {
+              "name": "30° Side",
+              "latex": "s_{30} = \\frac{1}{2} \\times h",
+              "description": "Side opposite 30 degrees."
+            },
+            {
+              "name": "60° Side",
+              "latex": "s_{60} = \\frac{\\sqrt{3}}{2} \\times h",
+              "description": "Side opposite 60 degrees."
+            },
+            {
+              "name": "45° Side",
+              "latex": "s_{45} = \\frac{1}{\\sqrt{2}} \\times h",
+              "description": "Sides of an isosceles right triangle."
+            }
+          ],
+          "worked_example": {
+            "problem": "In $\\Delta LMN$, $\\angle L = 30^\\circ, \\angle N = 60^\\circ, \\angle M = 90^\\circ$. If $LN = 6$ cm, find $MN$ and $LM$.",
+            "solution_steps": [
+              {
+                "step": "Find $MN$ (opposite 30°).",
+                "latex": "MN = \\frac{1}{2} \\times 6 = 3 \\text{ cm}",
+                "verified": true
+              },
+              {
+                "step": "Find $LM$ (opposite 60°).",
+                "latex": "LM = \\frac{\\sqrt{3}}{2} \\times 6 = 3\\sqrt{3} \\text{ cm}",
+                "verified": true
+              }
+            ],
+            "answer": "MN = 3 cm, LM = 3\\sqrt{3} cm"
+          },
+          "keywords": [
+            "30-60-90",
+            "45-45-90",
+            "Isosceles",
+            "Scalene"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "2.4",
+          "topic": "Similarity and Right Triangles",
+          "heading": "Similarity and right angled triangle",
+          "explanation": "Theorem: In a right-angled triangle, if the altitude is drawn to the hypotenuse, then the two triangles formed are similar to the original triangle and to each other.",
+          "key_points": [
+            "Given: In $\\Delta ABC$, $\\angle ABC = 90^\\circ$, seg $BD \\perp$ seg $AC$.",
+            "Result: $\\Delta ADB \\sim \\Delta BDC \\sim \\Delta ABC$."
+          ],
+          "keywords": [
+            "Altitude",
+            "Similarity",
+            "Transitivity"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "2.5",
+          "topic": "Geometric Mean",
+          "heading": "Theorem of geometric mean",
+          "explanation": "In a right-angled triangle, the perpendicular segment to the hypotenuse from the opposite vertex is the geometric mean of the segments into which the hypotenuse is divided.",
+          "key_points": [
+            "If $QS$ is the altitude to hypotenuse $PR$, then $QS^2 = PS \\times SR$."
+          ],
+          "formulas": [
+            {
+              "name": "Geometric Mean Theorem",
+              "latex": "h^2 = x \\times y",
+              "description": "Altitude squared equals product of hypotenuse segments."
+            }
+          ],
+          "worked_example": {
+            "problem": "In $\\Delta PQR$, $\\angle PQR = 90^\\circ$, seg $QN \\perp$ seg $PR$. If $PN = 9, NR = 16$, find $QN$.",
+            "solution_steps": [
+              {
+                "step": "Apply geometric mean theorem.",
+                "latex": "QN^2 = PN \\times NR",
+                "verified": true
+              },
+              {
+                "step": "Substitute values.",
+                "latex": "QN^2 = 9 \\times 16 = 144",
+                "verified": true
+              },
+              {
+                "step": "Take square root.",
+                "latex": "QN = \\sqrt{144} = 12",
+                "verified": true
+              }
+            ],
+            "answer": "12"
+          },
+          "keywords": [
+            "Geometric Mean",
+            "Altitude",
+            "Hypotenuse segments"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [
+            "2.4"
+          ]
+        },
+        {
+          "chunk_id": "2.6",
+          "topic": "Converse of Pythagoras",
+          "heading": "Converse of Pythagoras theorem",
+          "explanation": "In a triangle, if the square of one side is equal to the sum of the squares of the remaining two sides, then the triangle is a right-angled triangle.",
+          "key_points": [
+            "Used to verify if a triangle is right-angled given its side lengths."
+          ],
+          "worked_example": {
+            "problem": "State if $\\Delta LMN$ with $l=5, m=13, n=12$ is right-angled.",
+            "solution_steps": [
+              {
+                "step": "Identify the longest side: $m = 13$.",
+                "latex": "13^2 = 169",
+                "verified": true
+              },
+              {
+                "step": "Sum squares of other sides.",
+                "latex": "5^2 + 12^2 = 25 + 144 = 169",
+                "verified": true
+              },
+              {
+                "step": "Compare results.",
+                "latex": "169 = 169",
+                "verified": true
+              }
+            ],
+            "answer": "Yes, it is a right-angled triangle."
+          },
+          "keywords": [
+            "Converse",
+            "Verification"
+          ],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": [
+            "2.1"
+          ]
+        },
+        {
+          "chunk_id": "2.7",
+          "topic": "Apollonius Theorem",
+          "heading": "Apollonius theorem",
+          "explanation": "In $\\Delta ABC$, if $M$ is the midpoint of side $BC$, then $AB^2 + AC^2 = 2AM^2 + 2BM^2$. This theorem relates the sides of a triangle to its median.",
+          "key_points": [
+            "Requires a median (segment from vertex to midpoint of opposite side).",
+            "Useful for finding the length of a median or a missing side."
+          ],
+          "formulas": [
+            {
+              "name": "Apollonius Formula",
+              "latex": "c_1^2 + c_2^2 = 2m^2 + 2(\\frac{b}{2})^2",
+              "description": "Relates sides and median."
+            }
+          ],
+          "worked_example": {
+            "problem": "In $\\Delta PQR$, seg $PM$ is a median. $PM = 9$ and $PQ^2 + PR^2 = 290$. Find $QR$.",
+            "solution_steps": [
+              {
+                "step": "Apply Apollonius theorem.",
+                "latex": "PQ^2 + PR^2 = 2PM^2 + 2QM^2",
+                "verified": true
+              },
+              {
+                "step": "Substitute given values.",
+                "latex": "290 = 2(9^2) + 2QM^2 \\Rightarrow 290 = 162 + 2QM^2",
+                "verified": true
+              },
+              {
+                "step": "Solve for $QM$.",
+                "latex": "2QM^2 = 128 \\Rightarrow QM^2 = 64 \\Rightarrow QM = 8",
+                "verified": true
+              },
+              {
+                "step": "Find $QR$ (since $M$ is midpoint).",
+                "latex": "QR = 2 \\times QM = 16",
+                "verified": true
+              }
+            ],
+            "answer": "16"
+          },
+          "keywords": [
+            "Apollonius",
+            "Median",
+            "Midpoint"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "chapter_id": 3,
+      "chapter_title": "Circle",
+      "chapter_summary": "This chapter covers the properties of circles, including tangents, secants, touching circles, arcs, inscribed angles, cyclic quadrilaterals, and theorems related to intersecting chords.",
+      "learning_objectives": [
+        "Understand circles passing through one, two, and three points.",
+        "Learn the properties of secants and tangents.",
+        "Apply the Tangent Theorem and its converse.",
+        "Understand the Tangent Segment Theorem.",
+        "Identify and solve problems related to touching circles.",
+        "Measure arcs and understand central angles.",
+        "Apply the Inscribed Angle Theorem and its corollaries.",
+        "Understand the properties of cyclic quadrilaterals.",
+        "Apply theorems of internal and external division of chords.",
+        "Apply the Tangent Secant Segments Theorem."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "3.1",
+          "topic": "Circles and Points",
+          "heading": "Circles passing through one, two, three points",
+          "explanation": "The number of circles that can be drawn through a set of points depends on their arrangement: \n1. Infinite circles can pass through a single point. \n2. Infinite circles can pass through two distinct points. \n3. There is a unique circle passing through three non-collinear points. \n4. No circle can pass through three collinear points.",
+          "key_points": [
+            "A unique circle passes through three non-collinear points.",
+            "Collinear points cannot lie on the same circle."
+          ],
+          "keywords": [
+            "Concyclic",
+            "Non-collinear",
+            "Unique circle"
+          ],
+          "difficulty": 1,
+          "importance": 3
+        },
+        {
+          "chunk_id": "3.2",
+          "topic": "Secant and Tangent",
+          "heading": "Secant and tangent",
+          "explanation": "A line and a circle in the same plane can have different relationships: \n1. Tangent: A line that intersects the circle at exactly one point (point of contact). \n2. Secant: A line that intersects the circle at two distinct points.",
+          "key_points": [
+            "Tangent has one common point with the circle.",
+            "Secant has two common points with the circle."
+          ],
+          "keywords": [
+            "Tangent",
+            "Secant",
+            "Point of contact"
+          ],
+          "difficulty": 1,
+          "importance": 4
+        },
+        {
+          "chunk_id": "3.3",
+          "topic": "Tangent Theorem",
+          "heading": "Tangent theorem",
+          "explanation": "Theorem: A tangent at any point of a circle is perpendicular to the radius at the point of contact.",
+          "key_points": [
+            "Radius is perpendicular to the tangent at the point of contact.",
+            "This is a fundamental property used in many circle proofs."
+          ],
+          "formulas": [
+            {
+              "name": "Tangent Perpendicularity",
+              "latex": "\\text{Radius} \\perp \\text{Tangent}",
+              "description": "At the point of contact, the angle is 90 degrees."
+            }
+          ],
+          "worked_example": {
+            "problem": "In a circle with centre C and radius 6 cm, line AB is a tangent at A. Find d(C, line AB).",
+            "solution_steps": [
+              {
+                "step": "By tangent theorem, the radius CA is perpendicular to tangent AB.",
+                "latex": "CA \\perp AB",
+                "verified": true
+              },
+              {
+                "step": "The distance of the centre from the tangent is the radius.",
+                "latex": "d(C, AB) = 6 \\text{ cm}",
+                "verified": true
+              }
+            ],
+            "answer": "6 cm"
+          },
+          "keywords": [
+            "Perpendicular",
+            "Radius",
+            "Point of contact"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "3.4",
+          "topic": "Converse of Tangent Theorem",
+          "heading": "Converse of tangent theorem",
+          "explanation": "Theorem: A line perpendicular to a radius at its point on the circle is a tangent to the circle.",
+          "key_points": [
+            "Used to prove a line is a tangent."
+          ],
+          "keywords": [
+            "Converse",
+            "Verification"
+          ],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": [
+            "3.3"
+          ]
+        },
+        {
+          "chunk_id": "3.5",
+          "topic": "Tangent Segments",
+          "heading": "Tangent segment theorem",
+          "explanation": "Theorem: Tangent segments drawn from an external point to a circle are congruent.",
+          "key_points": [
+            "If P is an external point and PA, PB are tangents, then $PA = PB$.",
+            "The segments are equal in length."
+          ],
+          "formulas": [
+            {
+              "name": "Tangent Segment Equality",
+              "latex": "DP = DQ",
+              "description": "Lengths of tangents from an external point D to points P and Q."
+            }
+          ],
+          "worked_example": {
+            "problem": "From point R, seg RM and seg RN are tangent segments to a circle with centre O. If OR = 10 cm and radius = 5 cm, find the length of each tangent segment.",
+            "solution_steps": [
+              {
+                "step": "In $\\Delta OMR$, $\\angle OMR = 90^\\circ$ (Tangent Theorem).",
+                "latex": "OM^2 + MR^2 = OR^2",
+                "verified": true
+              },
+              {
+                "step": "Substitute values: $5^2 + MR^2 = 10^2$.",
+                "latex": "25 + MR^2 = 100 \\Rightarrow MR^2 = 75",
+                "verified": true
+              },
+              {
+                "step": "Solve for MR.",
+                "latex": "MR = \\sqrt{75} = 5\\sqrt{3}",
+                "verified": true
+              }
+            ],
+            "answer": "5\\sqrt{3} cm"
+          },
+          "keywords": [
+            "External point",
+            "Congruent",
+            "Tangent segment"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [
+            "3.3",
+            "2.1"
+          ]
+        },
+        {
+          "chunk_id": "3.6",
+          "topic": "Touching Circles",
+          "heading": "Touching circles",
+          "explanation": "Two circles in the same plane are said to be touching if they intersect at exactly one point. \n1. Externally touching: The distance between centers is the sum of their radii ($d = r_1 + r_2$). \n2. Internally touching: The distance between centers is the difference of their radii ($d = |r_1 - r_2|$).",
+          "key_points": [
+            "Theorem: If two circles touch each other, their point of contact lies on the line joining their centres."
+          ],
+          "formulas": [
+            {
+              "name": "Distance (External)",
+              "latex": "d = r_1 + r_2",
+              "description": "Distance between centers of externally touching circles."
+            },
+            {
+              "name": "Distance (Internal)",
+              "latex": "d = |r_1 - r_2|",
+              "description": "Distance between centers of internally touching circles."
+            }
+          ],
+          "worked_example": {
+            "problem": "Two circles having radii 3.5 cm and 4.8 cm touch each other internally. Find the distance between their centres.",
+            "solution_steps": [
+              {
+                "step": "Apply the internal touching formula.",
+                "latex": "d = 4.8 - 3.5",
+                "verified": true
+              }
+            ],
+            "answer": "1.3 cm"
+          },
+          "keywords": [
+            "Internal contact",
+            "External contact",
+            "Collinear centres"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "3.7",
+          "topic": "Arcs of a Circle",
+          "heading": "Arc of a circle and Central angle",
+          "explanation": "A secant divides a circle into two arcs. \n1. Minor Arc: The arc on the side without the centre (usually). \n2. Major Arc: The arc on the side containing the centre. \n3. Semicircle: Arc formed by a diameter. \nCentral Angle: An angle whose vertex is the centre of the circle. The measure of a minor arc is equal to the measure of its corresponding central angle.",
+          "key_points": [
+            "Measure of minor arc = measure of central angle.",
+            "Measure of major arc = $360^\\circ$ - measure of minor arc.",
+            "Measure of semicircle = $180^\\circ$.",
+            "Measure of complete circle = $360^\\circ$."
+          ],
+          "keywords": [
+            "Minor arc",
+            "Major arc",
+            "Central angle",
+            "Semicircle"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "3.8",
+          "topic": "Congruence of Arcs",
+          "heading": "Congruence of arcs",
+          "explanation": "Two arcs are congruent if their measures and radii are equal. \nTheorem: The chords corresponding to congruent arcs of a circle are congruent. \nTheorem: Corresponding arcs of congruent chords of a circle are congruent.",
+          "key_points": [
+            "Congruent arcs $\\Rightarrow$ Congruent chords.",
+            "Congruent chords $\\Rightarrow$ Congruent arcs."
+          ],
+          "keywords": [
+            "Congruent arcs",
+            "Congruent chords"
+          ],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": [
+            "3.7"
+          ]
+        },
+        {
+          "chunk_id": "3.9",
+          "topic": "Inscribed Angle Theorem",
+          "heading": "Inscribed angle theorem",
+          "explanation": "Theorem: The measure of an inscribed angle is half of the measure of the arc intercepted by it.",
+          "key_points": [
+            "Inscribed angle vertex is on the circle.",
+            "Intercepted arc is in the interior of the angle.",
+            "Corollary 1: Angles inscribed in the same arc are congruent.",
+            "Corollary 2: Angle inscribed in a semicircle is a right angle ($90^\\circ$)."
+          ],
+          "formulas": [
+            {
+              "name": "Inscribed Angle Formula",
+              "latex": "\\angle BAC = \\frac{1}{2} m(\\text{arc } BDC)",
+              "description": "Angle is half the intercepted arc."
+            }
+          ],
+          "worked_example": {
+            "problem": "In a circle, chord AB is equal to the radius. Find the measure of the angle inscribed in the major arc.",
+            "solution_steps": [
+              {
+                "step": "Since chord AB = radius, $\\Delta OAB$ is equilateral.",
+                "latex": "\\angle AOB = 60^\\circ",
+                "verified": true
+              },
+              {
+                "step": "The measure of minor arc AB is equal to the central angle.",
+                "latex": "m(\\text{arc } AB) = 60^\\circ",
+                "verified": true
+              },
+              {
+                "step": "The inscribed angle is half the intercepted arc.",
+                "latex": "\\angle ACB = \\frac{1}{2} \\times 60^\\circ = 30^\\circ",
+                "verified": true
+              }
+            ],
+            "answer": "30°"
+          },
+          "keywords": [
+            "Inscribed angle",
+            "Intercepted arc",
+            "Semicircle"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [
+            "3.7"
+          ]
+        },
+        {
+          "chunk_id": "3.10",
+          "topic": "Cyclic Quadrilateral",
+          "heading": "Theorem of cyclic quadrilateral",
+          "explanation": "Theorem: Opposite angles of a cyclic quadrilateral are supplementary (sum to $180^\\circ$). \nCorollary: An exterior angle of a cyclic quadrilateral is congruent to the angle opposite to its adjacent interior angle.",
+          "key_points": [
+            "A quadrilateral is cyclic if all its vertices lie on a circle.",
+            "Converse: If a pair of opposite angles is supplementary, the quadrilateral is cyclic."
+          ],
+          "formulas": [
+            {
+              "name": "Cyclic Quad Property",
+              "latex": "\\angle B + \\angle D = 180^\\circ",
+              "description": "Opposite angles sum."
+            }
+          ],
+          "worked_example": {
+            "problem": "In cyclic c MRPN, $\\angle R = (5x - 13)^\\circ$ and $\\angle N = (4x + 4)^\\circ$. Find measures of $\\angle R$ and $\\angle N$.",
+            "solution_steps": [
+              {
+                "step": "Opposite angles of a cyclic quadrilateral are supplementary.",
+                "latex": "(5x - 13) + (4x + 4) = 180",
+                "verified": true
+              },
+              {
+                "step": "Solve for x.",
+                "latex": "9x - 9 = 180 \\Rightarrow 9x = 189 \\Rightarrow x = 21",
+                "verified": true
+              },
+              {
+                "step": "Calculate angles.",
+                "latex": "\\angle R = 5(21) - 13 = 92^\\circ; \\angle N = 4(21) + 4 = 88^\\circ",
+                "verified": true
+              }
+            ],
+            "answer": "\\angle R = 92^\\circ, \\angle N = 88^\\circ"
+          },
+          "keywords": [
+            "Cyclic",
+            "Supplementary",
+            "Exterior angle"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [
+            "3.9"
+          ]
+        },
+        {
+          "chunk_id": "3.11",
+          "topic": "Intersecting Chords",
+          "heading": "Theorems of internal and external division of chords",
+          "explanation": "1. Internal Division: If two chords intersect inside a circle, the product of the segments of one chord equals the product of the segments of the other. \n2. External Division: If two secants intersect outside a circle, the product of the whole secant and its external part is constant for both secants.",
+          "key_points": [
+            "Internal: $AE \\times EB = CE \\times ED$.",
+            "External: $AE \\times EB = CE \\times ED$ (where E is the external intersection point)."
+          ],
+          "formulas": [
+            {
+              "name": "Chord Segment Product",
+              "latex": "AE \\times EB = CE \\times ED",
+              "description": "Applies to both internal and external intersection."
+            }
+          ],
+          "worked_example": {
+            "problem": "Chords MN and RS intersect at P inside the circle. If $PR = 6, PS = 4, MN = 11$, find $PN$.",
+            "solution_steps": [
+              {
+                "step": "Apply theorem of internal division.",
+                "latex": "PN \\times PM = PR \\times PS",
+                "verified": true
+              },
+              {
+                "step": "Let $PN = x$, then $PM = 11 - x$.",
+                "latex": "x(11 - x) = 6 \\times 4 \\Rightarrow 11x - x^2 = 24",
+                "verified": true
+              },
+              {
+                "step": "Solve the quadratic equation $x^2 - 11x + 24 = 0$.",
+                "latex": "(x - 3)(x - 8) = 0 \\Rightarrow x = 3 \\text{ or } 8",
+                "verified": true
+              }
+            ],
+            "answer": "3 or 8"
+          },
+          "keywords": [
+            "Internal division",
+            "External division",
+            "Chord segments"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "3.12",
+          "topic": "Tangent Secant Segments",
+          "heading": "Tangent secant segments theorem",
+          "explanation": "Theorem: If a tangent and a secant intersect in the exterior of a circle, then the product of the segments of the secant is equal to the square of the tangent segment.",
+          "key_points": [
+            "If E is an external point, ET is a tangent, and EAB is a secant, then $EA \\times EB = ET^2$."
+          ],
+          "formulas": [
+            {
+              "name": "Tangent-Secant Formula",
+              "latex": "EA \\times EB = ET^2",
+              "description": "Product of secant segments equals square of tangent."
+            }
+          ],
+          "worked_example": {
+            "problem": "In a figure, seg PS is a tangent segment and line PR is a secant. If $PQ = 3.6$ and $QR = 6.4$, find $PS$.",
+            "solution_steps": [
+              {
+                "step": "Identify secant segments: $PQ = 3.6, PR = PQ + QR = 3.6 + 6.4 = 10$.",
+                "latex": "PR = 10",
+                "verified": true
+              },
+              {
+                "step": "Apply tangent-secant theorem.",
+                "latex": "PS^2 = PQ \\times PR",
+                "verified": true
+              },
+              {
+                "step": "Substitute and solve.",
+                "latex": "PS^2 = 3.6 \\times 10 = 36 \\Rightarrow PS = 6",
+                "verified": true
+              }
+            ],
+            "answer": "6"
+          },
+          "keywords": [
+            "Tangent segment",
+            "Secant segment",
+            "Product"
+          ],
+          "difficulty": 4,
+          "importance": 5,
+          "prerequisites": [
+            "3.11"
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 4,
+      "chapter_title": "Geometric Constructions",
+      "chapter_summary": "This chapter focuses on the practical application of geometry to construct similar triangles and tangents to circles under various conditions.",
+      "learning_objectives": [
+        "Construct a triangle similar to a given triangle with a specific ratio of sides.",
+        "Construct similar triangles when vertices are distinct.",
+        "Construct similar triangles when one vertex is common.",
+        "Construct a tangent to a circle at a point on the circle using the centre.",
+        "Construct a tangent to a circle at a point on the circle without using the centre.",
+        "Construct tangents to a circle from a point outside the circle."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "4.1",
+          "topic": "Similar Triangles",
+          "heading": "Construction of Similar Triangles (Distinct Vertices)",
+          "explanation": "To construct a triangle similar to a given triangle when the vertices are distinct, we first use the property of similarity (corresponding sides are in proportion) to calculate the lengths of the sides of the new triangle. Once the side lengths are known, the triangle is constructed using standard methods.",
+          "key_points": [
+            "Identify the given ratio of corresponding sides.",
+            "Calculate the lengths of all three sides of the new triangle using the proportionality equation.",
+            "Construct the first triangle with given measures and the second with calculated measures."
+          ],
+          "formulas": [
+            {
+              "name": "Proportionality of Sides",
+              "latex": "\\frac{AB}{PQ} = \\frac{BC}{QR} = \\frac{AC}{PR} = \\text{Ratio}",
+              "description": "Used to find unknown side lengths of a similar triangle."
+            }
+          ],
+          "worked_example": {
+            "problem": "$\\Delta ABC \\sim \\Delta PQR$. In $\\Delta ABC$, $AB = 5.4$ cm, $BC = 4.2$ cm, $AC = 6.0$ cm. Ratio $AB:PQ = 3:2$. Construct both triangles.",
+            "solution_steps": [
+              {
+                "step": "Set up the proportionality equation.",
+                "latex": "\\frac{5.4}{PQ} = \\frac{4.2}{QR} = \\frac{6.0}{PR} = \\frac{3}{2}",
+                "verified": true
+              },
+              {
+                "step": "Calculate $PQ$.",
+                "latex": "PQ = \\frac{5.4 \\times 2}{3} = 3.6 \\text{ cm}",
+                "verified": true
+              },
+              {
+                "step": "Calculate $QR$.",
+                "latex": "QR = \\frac{4.2 \\times 2}{3} = 2.8 \\text{ cm}",
+                "verified": true
+              },
+              {
+                "step": "Calculate $PR$.",
+                "latex": "PR = \\frac{6.0 \\times 2}{3} = 4.0 \\text{ cm}",
+                "verified": true
+              }
+            ],
+            "answer": "Construct $\\Delta ABC$ with sides 5.4, 4.2, 6.0 and $\\Delta PQR$ with sides 3.6, 2.8, 4.0."
+          },
+          "keywords": [
+            "Similar Triangles",
+            "Proportion",
+            "Distinct Vertices"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [
+            "1.6"
+          ]
+        },
+        {
+          "chunk_id": "4.2",
+          "topic": "Similar Triangles",
+          "heading": "Construction of Similar Triangles (Common Vertex)",
+          "explanation": "When two similar triangles have a common vertex, they can be constructed on the same base line. We use a ray at an acute angle to divide the base into equal parts according to the given ratio. Parallel lines are then drawn to complete the similar triangle.",
+          "key_points": [
+            "One vertex is shared between the two triangles.",
+            "Draw a ray from the common vertex at an acute angle to the base.",
+            "Mark equal parts on the ray based on the larger number in the ratio.",
+            "Draw parallel lines using the Basic Proportionality Theorem principle."
+          ],
+          "worked_example": {
+            "problem": "Construct $\\Delta ABC$ and $\\Delta A'BC'$ such that $AB:A'B = 5:3$ and $\\Delta ABC \\sim \\Delta A'BC'$.",
+            "solution_steps": [
+              {
+                "step": "Construct $\\Delta ABC$.",
+                "latex": "\\text{Standard construction}",
+                "verified": true
+              },
+              {
+                "step": "Draw a ray from $B$ and mark 5 equal points $T_1, T_2, T_3, T_4, T_5$.",
+                "latex": "BT_1 = T_1T_2 = \\dots = T_4T_5",
+                "verified": true
+              },
+              {
+                "step": "Join $T_5$ to $C$. Draw a line through $T_3$ parallel to $T_5C$ to intersect $BC$ at $C'$.",
+                "latex": "T_3C' \\parallel T_5C",
+                "verified": true
+              },
+              {
+                "step": "Draw a line through $C'$ parallel to $AC$ to intersect $AB$ at $A'$.",
+                "latex": "C'A' \\parallel CA",
+                "verified": true
+              }
+            ],
+            "answer": "$\\Delta A'BC'$ is the required similar triangle."
+          },
+          "keywords": [
+            "Common Vertex",
+            "Parallel Lines",
+            "Ray",
+            "Ratio"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "4.3",
+          "topic": "Tangent Construction",
+          "heading": "Tangent at a point on the circle (Using Centre)",
+          "explanation": "To construct a tangent at a point $P$ on a circle with centre $C$, we draw the radius $CP$ and extend it to form a line. Then, we construct a perpendicular to this line at point $P$. This perpendicular line is the required tangent.",
+          "key_points": [
+            "A tangent is perpendicular to the radius at the point of contact.",
+            "Extend the radius to facilitate the perpendicular construction."
+          ],
+          "keywords": [
+            "Tangent",
+            "Perpendicular",
+            "Radius"
+          ],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": [
+            "3.3"
+          ]
+        },
+        {
+          "chunk_id": "4.4",
+          "topic": "Tangent Construction",
+          "heading": "Tangent at a point on the circle (Without Using Centre)",
+          "explanation": "This method uses the 'Tangent-Secant Angle Theorem' (or Alternate Segment Theorem). We draw a chord through the point of contact and an inscribed angle in the alternate segment. By constructing an angle at the point of contact congruent to the inscribed angle, we obtain the tangent.",
+          "key_points": [
+            "Draw a chord $CB$ and an inscribed $\\angle CAB$.",
+            "Construct $\\angle BCD$ at point $C$ such that $\\angle BCD \\cong \\angle CAB$.",
+            "Line $CD$ is the tangent."
+          ],
+          "keywords": [
+            "Alternate Segment",
+            "Inscribed Angle",
+            "Congruent Angle"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "4.5",
+          "topic": "Tangent Construction",
+          "heading": "Tangents from a point outside the circle",
+          "explanation": "To draw tangents from an external point $P$ to a circle with centre $O$, we find the midpoint $M$ of segment $OP$. A circle drawn with centre $M$ and radius $OM$ intersects the original circle at two points, $A$ and $B$. Lines $PA$ and $PB$ are the required tangents.",
+          "key_points": [
+            "Two tangents can be drawn from an external point.",
+            "The construction relies on the property that an angle inscribed in a semicircle is a right angle.",
+            "The points of intersection $A$ and $B$ ensure that $\\angle OAP = \\angle OBP = 90^\\circ$."
+          ],
+          "worked_example": {
+            "problem": "Construct tangents to a circle with centre $O$ and radius 3.5 cm from a point $P$ at a distance 5.7 cm from the centre.",
+            "solution_steps": [
+              {
+                "step": "Draw the circle and locate point $P$ such that $OP = 5.7$ cm.",
+                "latex": "r = 3.5, d = 5.7",
+                "verified": true
+              },
+              {
+                "step": "Draw the perpendicular bisector of $OP$ to find midpoint $M$.",
+                "latex": "OM = MP",
+                "verified": true
+              },
+              {
+                "step": "Draw a circle with centre $M$ and radius $OM$. Mark intersection points $A$ and $B$.",
+                "latex": "\\text{Intersection points } A, B",
+                "verified": true
+              },
+              {
+                "step": "Draw lines $PA$ and $PB$.",
+                "latex": "\\text{Tangents } PA, PB",
+                "verified": true
+              }
+            ],
+            "answer": "Lines $PA$ and $PB$ are the tangents."
+          },
+          "keywords": [
+            "External Point",
+            "Midpoint",
+            "Semicircle",
+            "Right Angle"
+          ],
+          "difficulty": 4,
+          "importance": 5,
+          "prerequisites": [
+            "3.5"
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 5,
+      "chapter_title": "Co-ordinate Geometry",
+      "chapter_summary": "This chapter introduces coordinate geometry concepts including the distance formula, section formula, midpoint formula, and centroid formula, as well as the concept of the slope of a line.",
+      "learning_objectives": [
+        "Calculate the distance between any two points on an axis or in the XY plane.",
+        "Determine if three points are collinear using the distance formula or slope.",
+        "Apply the section formula to find the coordinates of a point dividing a segment in a given ratio.",
+        "Use the midpoint formula to find the center of a line segment.",
+        "Calculate the coordinates of the centroid of a triangle.",
+        "Understand the concept of the slope of a line and its relationship with trigonometric ratios."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "5.1",
+          "topic": "Distance Formula",
+          "heading": "Distance between points on an axis",
+          "explanation": "To find the distance between two points on the same axis, we subtract the smaller coordinate from the larger one. For points on the X-axis, $d(A, B) = x_2 - x_1$ (where $x_2 > x_1$). For points on the Y-axis, $d(P, Q) = y_2 - y_1$ (where $y_2 > y_1$). If the segment joining two points is parallel to an axis, the same logic applies to the coordinates that vary.",
+          "key_points": [
+            "Distance is always a positive real number.",
+            "On the X-axis, y-coordinates are zero.",
+            "On the Y-axis, x-coordinates are zero."
+          ],
+          "formulas": [
+            {
+              "name": "Distance on X-axis",
+              "latex": "d(A, B) = |x_2 - x_1|",
+              "description": "Absolute difference of x-coordinates."
+            },
+            {
+              "name": "Distance on Y-axis",
+              "latex": "d(P, Q) = |y_2 - y_1|",
+              "description": "Absolute difference of y-coordinates."
+            }
+          ],
+          "worked_example": {
+            "problem": "Find the distance between points P(-1, 0) and R(4, 0) on the X-axis.",
+            "solution_steps": [
+              {
+                "step": "Identify coordinates: $x_1 = -1, x_2 = 4$.",
+                "latex": "x_1 = -1, x_2 = 4",
+                "verified": true
+              },
+              {
+                "step": "Subtract the smaller from the larger.",
+                "latex": "4 - (-1) = 4 + 1 = 5",
+                "verified": true
+              }
+            ],
+            "answer": "5 units"
+          },
+          "keywords": [
+            "Axis",
+            "Coordinate",
+            "Distance"
+          ],
+          "difficulty": 1,
+          "importance": 4
+        },
+        {
+          "chunk_id": "5.2",
+          "topic": "Distance Formula",
+          "heading": "Distance formula",
+          "explanation": "The distance between any two points $A(x_1, y_1)$ and $B(x_2, y_2)$ in the XY plane is derived using the Pythagoras theorem. By creating a right-angled triangle with the segment $AB$ as the hypotenuse, the distance is the square root of the sum of the squares of the differences in x and y coordinates.",
+          "key_points": [
+            "Coordinates of the origin are (0, 0).",
+            "Distance from origin to $P(x, y)$ is $\\sqrt{x^2 + y^2}$."
+          ],
+          "formulas": [
+            {
+              "name": "General Distance Formula",
+              "latex": "d(A, B) = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}",
+              "description": "Calculates distance between any two points in a 2D plane."
+            }
+          ],
+          "worked_example": {
+            "problem": "Find the distance between points P(-1, 1) and Q(5, -7).",
+            "solution_steps": [
+              {
+                "step": "Identify $x_1 = -1, y_1 = 1, x_2 = 5, y_2 = -7$.",
+                "latex": "x_1 = -1, y_1 = 1, x_2 = 5, y_2 = -7",
+                "verified": true
+              },
+              {
+                "step": "Substitute into the distance formula.",
+                "latex": "d(P, Q) = \\sqrt{(5 - (-1))^2 + (-7 - 1)^2}",
+                "verified": true
+              },
+              {
+                "step": "Simplify and calculate.",
+                "latex": "\\sqrt{6^2 + (-8)^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10",
+                "verified": true
+              }
+            ],
+            "answer": "10 units"
+          },
+          "keywords": [
+            "Distance Formula",
+            "Pythagoras",
+            "Origin"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [
+            "2.1"
+          ]
+        },
+        {
+          "chunk_id": "5.3",
+          "topic": "Collinearity",
+          "heading": "Collinearity using distance formula",
+          "explanation": "Three points are collinear if they lie on the same straight line. Using the distance formula, if the sum of the distances between two pairs of points is equal to the distance between the third pair, the points are collinear.",
+          "key_points": [
+            "Check $d(A, B) + d(B, C) = d(A, C)$ or other combinations."
+          ],
+          "worked_example": {
+            "problem": "Show that points A(-3, 2), B(1, -2) and C(9, -10) are collinear.",
+            "solution_steps": [
+              {
+                "step": "Calculate $d(A, B)$.",
+                "latex": "\\sqrt{(1 - (-3))^2 + (-2 - 2)^2} = \\sqrt{16 + 16} = 4\\sqrt{2}",
+                "verified": true
+              },
+              {
+                "step": "Calculate $d(B, C)$.",
+                "latex": "\\sqrt{(9 - 1)^2 + (-10 - (-2))^2} = \\sqrt{64 + 64} = 8\\sqrt{2}",
+                "verified": true
+              },
+              {
+                "step": "Calculate $d(A, C)$.",
+                "latex": "\\sqrt{(9 - (-3))^2 + (-10 - 2)^2} = \\sqrt{144 + 144} = 12\\sqrt{2}",
+                "verified": true
+              },
+              {
+                "step": "Verify the sum.",
+                "latex": "4\\sqrt{2} + 8\\sqrt{2} = 12\\sqrt{2}",
+                "verified": true
+              }
+            ],
+            "answer": "Points A, B, and C are collinear."
+          },
+          "keywords": [
+            "Collinear",
+            "Sum of distances"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [
+            "5.2"
+          ]
+        },
+        {
+          "chunk_id": "5.4",
+          "topic": "Section Formula",
+          "heading": "Section formula",
+          "explanation": "The section formula is used to find the coordinates of a point $P(x, y)$ that divides a line segment joining $A(x_1, y_1)$ and $B(x_2, y_2)$ in a given ratio $m:n$.",
+          "key_points": [
+            "Internal division: Point P is between A and B.",
+            "External division: Point P is outside segment AB (provided for information)."
+          ],
+          "formulas": [
+            {
+              "name": "Section Formula (Internal)",
+              "latex": "x = \\frac{mx_2 + nx_1}{m + n}, y = \\frac{my_2 + ny_1}{m + n}",
+              "description": "Coordinates of a point dividing a segment in ratio m:n."
+            }
+          ],
+          "worked_example": {
+            "problem": "Find coordinates of Q dividing AB in ratio 2:3 where A(3, 5) and B(7, 9).",
+            "solution_steps": [
+              {
+                "step": "Identify $x_1=3, y_1=5, x_2=7, y_2=9, m=2, n=3$.",
+                "latex": "x = \\frac{2(7) + 3(3)}{2 + 3} = \\frac{14 + 9}{5} = \\frac{23}{5}",
+                "verified": true
+              },
+              {
+                "step": "Calculate y coordinate.",
+                "latex": "y = \\frac{2(9) + 3(5)}{2 + 3} = \\frac{18 + 15}{5} = \\frac{33}{5}",
+                "verified": true
+              }
+            ],
+            "answer": "(23/5, 33/5)"
+          },
+          "keywords": [
+            "Section Formula",
+            "Ratio",
+            "Internal Division"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "5.5",
+          "topic": "Midpoint Formula",
+          "heading": "Co-ordinates of the midpoint of a segment",
+          "explanation": "The midpoint formula is a special case of the section formula where the ratio $m:n$ is $1:1$. The coordinates of the midpoint are the average of the coordinates of the endpoints.",
+          "key_points": [
+            "Midpoint divides the segment into two equal parts."
+          ],
+          "formulas": [
+            {
+              "name": "Midpoint Formula",
+              "latex": "x = \\frac{x_1 + x_2}{2}, y = \\frac{y_1 + y_2}{2}",
+              "description": "Coordinates of the center point of a segment."
+            }
+          ],
+          "worked_example": {
+            "problem": "Find the midpoint of segment AB with A(-4, 2) and B(6, 2).",
+            "solution_steps": [
+              {
+                "step": "Apply midpoint formula for x.",
+                "latex": "x = \\frac{-4 + 6}{2} = 1",
+                "verified": true
+              },
+              {
+                "step": "Apply midpoint formula for y.",
+                "latex": "y = \\frac{2 + 2}{2} = 2",
+                "verified": true
+              }
+            ],
+            "answer": "(1, 2)"
+          },
+          "keywords": [
+            "Midpoint",
+            "Average",
+            "Segment"
+          ],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": [
+            "5.4"
+          ]
+        },
+        {
+          "chunk_id": "5.6",
+          "topic": "Centroid Formula",
+          "heading": "Centroid formula",
+          "explanation": "The centroid of a triangle is the point where its three medians intersect. It divides each median in the ratio 2:1. If the vertices of a triangle are $(x_1, y_1), (x_2, y_2),$ and $(x_3, y_3)$, the coordinates of the centroid $G(x, y)$ are the averages of the vertices' coordinates.",
+          "key_points": [
+            "Centroid is the center of mass of the triangle.",
+            "Medians are concurrent at the centroid."
+          ],
+          "formulas": [
+            {
+              "name": "Centroid Formula",
+              "latex": "x = \\frac{x_1 + x_2 + x_3}{3}, y = \\frac{y_1 + y_2 + y_3}{3}",
+              "description": "Coordinates of the intersection of medians."
+            }
+          ],
+          "keywords": [
+            "Centroid",
+            "Median",
+            "Triangle",
+            "Concurrency"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [
+            "5.4"
+          ]
+        },
+        {
+          "chunk_id": "5.7",
+          "topic": "Slope of a Line",
+          "heading": "Slope of a line",
+          "explanation": "The slope (or gradient) of a line measures its steepness. For a line passing through points $(x_1, y_1)$ and $(x_2, y_2)$, the slope $m$ is the ratio of the difference in y-coordinates to the difference in x-coordinates. It is also defined as the tangent of the angle $\\theta$ that the line makes with the positive direction of the X-axis.",
+          "key_points": [
+            "Slope $m = \\tan \\theta$.",
+            "Slope of X-axis and lines parallel to it is 0.",
+            "Slope of Y-axis and lines parallel to it is undefined.",
+            "Parallel lines have equal slopes."
+          ],
+          "formulas": [
+            {
+              "name": "Slope Formula (Points)",
+              "latex": "m = \\frac{y_2 - y_1}{x_2 - x_1}",
+              "description": "Slope using two points on the line."
+            },
+            {
+              "name": "Slope Formula (Angle)",
+              "latex": "m = \\tan \\theta",
+              "description": "Slope using the angle of inclination."
+            }
+          ],
+          "worked_example": {
+            "problem": "Find the slope of the line passing through A(-3, 5) and B(4, -1).",
+            "solution_steps": [
+              {
+                "step": "Identify coordinates.",
+                "latex": "x_1 = -3, y_1 = 5, x_2 = 4, y_2 = -1",
+                "verified": true
+              },
+              {
+                "step": "Apply slope formula.",
+                "latex": "m = \\frac{-1 - 5}{4 - (-3)} = \\frac{-6}{7}",
+                "verified": true
+              }
+            ],
+            "answer": "-6/7"
+          },
+          "keywords": [
+            "Slope",
+            "Gradient",
+            "Inclination",
+            "Tangent"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "chapter_id": 6,
+      "chapter_title": "Trigonometry",
+      "chapter_summary": "This chapter introduces reciprocal trigonometric ratios (cosec, sec, cot), fundamental trigonometric identities, and the practical application of trigonometry in solving problems related to heights and distances using angles of elevation and depression.",
+      "learning_objectives": [
+        "Define and understand cosec, sec, and cot ratios.",
+        "Learn and prove fundamental trigonometric identities.",
+        "Understand the concepts of line of vision, angle of elevation, and angle of depression.",
+        "Solve real-world problems involving heights and distances using trigonometric ratios."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "6.1",
+          "topic": "Trigonometric Ratios",
+          "heading": "cosec, sec and cot ratios",
+          "explanation": "These are the reciprocal ratios of sine, cosine, and tangent. \n1. Cosecant (cosec): The multiplicative inverse or reciprocal of the sine ratio. \n2. Secant (sec): The multiplicative inverse or reciprocal of the cosine ratio. \n3. Cotangent (cot): The multiplicative inverse or reciprocal of the tangent ratio.",
+          "key_points": [
+            "$\\text{cosec } \\theta = \\frac{1}{\\sin \\theta} = \\frac{\\text{hypotenuse}}{\\text{opposite side}}$",
+            "$\\text{sec } \\theta = \\frac{1}{\\cos \\theta} = \\frac{\\text{hypotenuse}}{\\text{adjacent side}}$",
+            "$\\text{cot } \\theta = \\frac{1}{\\tan \\theta} = \\frac{\\text{adjacent side}}{\\text{opposite side}}$",
+            "$\\sin \\theta \\times \\text{cosec } \\theta = 1$",
+            "$\\cos \\theta \\times \\text{sec } \\theta = 1$",
+            "$\\tan \\theta \\times \\text{cot } \\theta = 1$"
+          ],
+          "formulas": [
+            {
+              "name": "Reciprocal Relations",
+              "latex": "\\sin \\theta \\cdot \\csc \\theta = 1, \\cos \\theta \\cdot \\sec \\theta = 1, \\tan \\theta \\cdot \\cot \\theta = 1",
+              "description": "Fundamental reciprocal relationships between trigonometric ratios."
+            },
+            {
+              "name": "Cotangent in terms of Sine and Cosine",
+              "latex": "\\cot \\theta = \\frac{\\cos \\theta}{\\sin \\theta}",
+              "description": "Ratio of cosine to sine."
+            }
+          ],
+          "keywords": [
+            "Reciprocal",
+            "Cosecant",
+            "Secant",
+            "Cotangent"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "6.2",
+          "topic": "Trigonometric Identities",
+          "heading": "Trigonometric identities",
+          "explanation": "Trigonometric identities are equations involving trigonometric ratios that are true for all values of the occurring angles. They are derived using the Pythagoras theorem in a right-angled triangle.",
+          "key_points": [
+            "The three fundamental identities are derived by dividing the Pythagorean equation $a^2 + b^2 = c^2$ by the square of each side.",
+            "These identities are used to simplify complex trigonometric expressions and solve equations."
+          ],
+          "formulas": [
+            {
+              "name": "Fundamental Identity 1",
+              "latex": "\\sin^2 \\theta + \\cos^2 \\theta = 1",
+              "description": "The most basic trigonometric identity."
+            },
+            {
+              "name": "Fundamental Identity 2",
+              "latex": "1 + \\tan^2 \\theta = \\sec^2 \\theta",
+              "description": "Relates tangent and secant."
+            },
+            {
+              "name": "Fundamental Identity 3",
+              "latex": "1 + \\cot^2 \\theta = \\csc^2 \\theta",
+              "description": "Relates cotangent and cosecant."
+            }
+          ],
+          "worked_example": {
+            "problem": "If $\\sin \\theta = \\frac{20}{29}$, find $\\cos \\theta$.",
+            "solution_steps": [
+              {
+                "step": "Use the identity $\\sin^2 \\theta + \\cos^2 \\theta = 1$.",
+                "latex": "(\\frac{20}{29})^2 + \\cos^2 \\theta = 1",
+                "verified": true
+              },
+              {
+                "step": "Calculate the square and isolate $\\cos^2 \\theta$.",
+                "latex": "\\cos^2 \\theta = 1 - \\frac{400}{841} = \\frac{841 - 400}{841} = \\frac{441}{841}",
+                "verified": true
+              },
+              {
+                "step": "Take the square root.",
+                "latex": "\\cos \\theta = \\sqrt{\\frac{441}{841}} = \\frac{21}{29}",
+                "verified": true
+              }
+            ],
+            "answer": "21/29"
+          },
+          "keywords": [
+            "Identity",
+            "Pythagorean Identity",
+            "Simplification"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [
+            "6.1",
+            "2.1"
+          ]
+        },
+        {
+          "chunk_id": "6.3",
+          "topic": "Applications",
+          "heading": "Application of trigonometry",
+          "explanation": "Trigonometry is used to calculate heights of objects (towers, trees) or distances (width of a river, distance of a ship) that cannot be measured directly. This involves drawing a rough sketch and identifying right-angled triangles.",
+          "key_points": [
+            "Line of vision: The line joining the eye of the observer to the object viewed.",
+            "Angle of elevation: The angle between the line of vision and the horizontal line when the object is above the horizontal level.",
+            "Angle of depression: The angle between the line of vision and the horizontal line when the object is below the horizontal level.",
+            "Vertical objects like towers or trees are represented by segments perpendicular to the ground."
+          ],
+          "worked_example": {
+            "problem": "An observer at a distance of 10 m from a tree looks at the top of the tree. The angle of elevation is 60°. Find the height of the tree. ($\\sqrt{3} = 1.73$)",
+            "solution_steps": [
+              {
+                "step": "Let $AB$ be the height of the tree and $BC$ be the distance from the observer. In $\\Delta ABC$, $\\angle B = 90^\\circ$.",
+                "latex": "\\tan 60^\\circ = \\frac{AB}{BC}",
+                "verified": true
+              },
+              {
+                "step": "Substitute known values: $\\tan 60^\\circ = \\sqrt{3}$ and $BC = 10$.",
+                "latex": "\\sqrt{3} = \\frac{AB}{10}",
+                "verified": true
+              },
+              {
+                "step": "Solve for $AB$.",
+                "latex": "AB = 10 \\times \\sqrt{3} = 10 \\times 1.73 = 17.3",
+                "verified": true
+              }
+            ],
+            "answer": "17.3 m"
+          },
+          "keywords": [
+            "Height",
+            "Distance",
+            "Angle of Elevation",
+            "Angle of Depression",
+            "Line of Vision"
+          ],
+          "difficulty": 4,
+          "importance": 5,
+          "prerequisites": [
+            "6.1"
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 7,
+      "chapter_title": "Mensuration",
+      "chapter_summary": "This chapter covers the calculation of surface areas and volumes of various three-dimensional shapes, including the frustum of a cone, as well as the properties and areas of sectors and segments of a circle.",
+      "learning_objectives": [
+        "Recall and apply formulas for surface area and volume of standard 3D figures.",
+        "Understand the concept of a frustum of a cone and calculate its area and volume.",
+        "Calculate the area of a sector and the length of an arc of a circle.",
+        "Understand the relationship between arc length and sector area.",
+        "Calculate the area of a segment of a circle."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "7.1",
+          "topic": "3D Figures Review",
+          "heading": "Surface Area and Volume of Three Dimensional Figures",
+          "explanation": "A review of fundamental 3D shapes including cuboids, cubes, cylinders, cones, spheres, and hemispheres. Each figure has specific formulas for lateral/curved surface area, total surface area, and volume based on its dimensions (length, breadth, height, radius, slant height).",
+          "key_points": [
+            "Cuboid: 3 dimensions (l, b, h).",
+            "Cylinder and Cone: involve radius (r) and height (h).",
+            "Sphere: only depends on radius (r)."
+          ],
+          "formulas": [
+            {
+              "name": "Cuboid Volume",
+              "latex": "V = l \\times b \\times h",
+              "description": "Volume of a cuboid."
+            },
+            {
+              "name": "Cylinder Volume",
+              "latex": "V = \\pi r^2 h",
+              "description": "Volume of a cylinder."
+            },
+            {
+              "name": "Cone Slant Height",
+              "latex": "l = \\sqrt{h^2 + r^2}",
+              "description": "Relationship between height, radius, and slant height."
+            },
+            {
+              "name": "Sphere Surface Area",
+              "latex": "A = 4 \\pi r^2",
+              "description": "Total surface area of a sphere."
+            }
+          ],
+          "worked_example": {
+            "problem": "How many solid cylinders of radius 10 cm and height 6 cm can be made by melting a solid sphere of radius 30 cm?",
+            "solution_steps": [
+              {
+                "step": "Calculate volume of sphere.",
+                "latex": "V_{sphere} = \\frac{4}{3} \\pi (30)^3",
+                "verified": true
+              },
+              {
+                "step": "Calculate volume of one cylinder.",
+                "latex": "V_{cylinder} = \\pi (10)^2 \\times 6",
+                "verified": true
+              },
+              {
+                "step": "Divide sphere volume by cylinder volume to find n.",
+                "latex": "n = \\frac{\\frac{4}{3} \\pi \\times 30 \\times 30 \\times 30}{\\pi \\times 10 \\times 10 \\times 6} = 60",
+                "verified": true
+              }
+            ],
+            "answer": "60 cylinders"
+          },
+          "keywords": [
+            "Volume",
+            "Surface Area",
+            "Cuboid",
+            "Cylinder",
+            "Cone",
+            "Sphere"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "7.2",
+          "topic": "Frustum of a Cone",
+          "heading": "Frustum of a cone",
+          "explanation": "When a cone is cut parallel to its base, the part containing the base is called a frustum. It has two circular faces with different radii ($r_1$ and $r_2$) and a height ($h$).",
+          "key_points": [
+            "A frustum is a 'truncated' cone.",
+            "Common examples include buckets and drinking glasses.",
+            "$r_1$ is typically the larger radius."
+          ],
+          "formulas": [
+            {
+              "name": "Frustum Slant Height",
+              "latex": "l = \\sqrt{h^2 + (r_1 - r_2)^2}",
+              "description": "Slant height of a frustum."
+            },
+            {
+              "name": "Frustum Curved Surface Area",
+              "latex": "CSA = \\pi l (r_1 + r_2)",
+              "description": "Area of the side surface."
+            },
+            {
+              "name": "Frustum Volume",
+              "latex": "V = \\frac{1}{3} \\pi h (r_1^2 + r_2^2 + r_1 r_2)",
+              "description": "Capacity of a frustum."
+            }
+          ],
+          "worked_example": {
+            "problem": "A bucket is frustum shaped with height 28 cm and radii 15 cm and 12 cm. Find its capacity.",
+            "solution_steps": [
+              {
+                "step": "Identify $r_1 = 15, r_2 = 12, h = 28$.",
+                "latex": "r_1 = 15, r_2 = 12, h = 28",
+                "verified": true
+              },
+              {
+                "step": "Apply volume formula.",
+                "latex": "V = \\frac{1}{3} \\times \\frac{22}{7} \\times 28 \\times (15^2 + 12^2 + 15 \\times 12)",
+                "verified": true
+              },
+              {
+                "step": "Simplify and calculate.",
+                "latex": "\\frac{88}{3} \\times (225 + 144 + 180) = 88 \\times 183 = 16104",
+                "verified": true
+              }
+            ],
+            "answer": "16104 cm³ or 16.104 litres"
+          },
+          "keywords": [
+            "Frustum",
+            "Bucket",
+            "Truncated Cone"
+          ],
+          "difficulty": 4,
+          "importance": 5,
+          "prerequisites": [
+            "7.1"
+          ]
+        },
+        {
+          "chunk_id": "7.3",
+          "topic": "Sector of a Circle",
+          "heading": "Sector of a circle",
+          "explanation": "A sector is the part of a circular region enclosed by two radii and the arc joining their endpoints. A central angle $\\theta$ divides the circle into a minor sector and a major sector.",
+          "key_points": [
+            "Minor sector: central angle $\\theta < 180^\\circ$.",
+            "Major sector: central angle $> 180^\\circ$.",
+            "Area is proportional to the central angle."
+          ],
+          "formulas": [
+            {
+              "name": "Area of Sector",
+              "latex": "A = \\frac{\\theta}{360} \\times \\pi r^2",
+              "description": "Calculates the area of a sector."
+            },
+            {
+              "name": "Length of Arc",
+              "latex": "l = \\frac{\\theta}{360} \\times 2 \\pi r",
+              "description": "Calculates the length of the arc bounding the sector."
+            },
+            {
+              "name": "Arc-Area Relation",
+              "latex": "A = \\frac{l \\times r}{2}",
+              "description": "Direct relationship between area and arc length."
+            }
+          ],
+          "worked_example": {
+            "problem": "Find the area of a sector with radius 21 cm and central angle 150°.",
+            "solution_steps": [
+              {
+                "step": "Apply area formula.",
+                "latex": "A = \\frac{150}{360} \\times \\frac{22}{7} \\times 21 \\times 21",
+                "verified": true
+              },
+              {
+                "step": "Simplify.",
+                "latex": "\\frac{5}{12} \\times 22 \\times 3 \\times 21 = 577.5",
+                "verified": true
+              }
+            ],
+            "answer": "577.5 cm²"
+          },
+          "keywords": [
+            "Sector",
+            "Arc Length",
+            "Central Angle"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "7.4",
+          "topic": "Segment of a Circle",
+          "heading": "Area of a Segment",
+          "explanation": "A segment of a circle is the region bounded by a chord and its corresponding arc. The area of a minor segment is found by subtracting the area of the triangle formed by the radii and the chord from the area of the corresponding sector.",
+          "key_points": [
+            "Area of Segment = Area of Sector - Area of Triangle.",
+            "The formula provided is specifically for $\\theta \\le 90^\\circ$."
+          ],
+          "formulas": [
+            {
+              "name": "Area of Segment",
+              "latex": "A = r^2 \\left[ \\frac{\\pi \\theta}{360} - \\frac{\\sin \\theta}{2} \\right]",
+              "description": "General formula for the area of a minor segment."
+            }
+          ],
+          "worked_example": {
+            "problem": "Find the area of a segment if the radius is 12 cm and the central angle is 30°. ($\\pi = 3.14$)",
+            "solution_steps": [
+              {
+                "step": "Calculate area of sector.",
+                "latex": "A_{sector} = \\frac{30}{360} \\times 3.14 \\times 12^2 = 37.68",
+                "verified": true
+              },
+              {
+                "step": "Calculate area of triangle.",
+                "latex": "A_{\\Delta} = \\frac{1}{2} \\times 12^2 \\times \\sin 30^\\circ = 72 \\times 0.5 = 36",
+                "verified": true
+              },
+              {
+                "step": "Subtract triangle from sector.",
+                "latex": "37.68 - 36 = 1.68",
+                "verified": true
+              }
+            ],
+            "answer": "1.68 cm²"
+          },
+          "keywords": [
+            "Segment",
+            "Chord",
+            "Minor Segment",
+            "Major Segment"
+          ],
+          "difficulty": 4,
+          "importance": 5,
+          "prerequisites": [
+            "7.3",
+            "6.1"
+          ]
+        }
+      ]
+    }
+  ]
+}

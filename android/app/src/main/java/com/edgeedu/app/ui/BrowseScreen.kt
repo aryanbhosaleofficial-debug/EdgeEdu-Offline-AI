@@ -1,0 +1,119 @@
+package com.edgeedu.app.ui
+
+import androidx.compose.foundation.clickable
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.items
+import androidx.compose.material3.Card
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Text
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.unit.dp
+import com.edgeedu.app.AppViewModel
+import com.edgeedu.app.data.IndexedChunk
+import com.edgeedu.app.data.UserDataStore
+
+/** Browses the active subject's books only (sessions are subject-scoped). */
+@Composable
+fun BrowseScreen(viewModel: AppViewModel) {
+    val session by viewModel.session.collectAsState()
+    val chunks = session?.chunks ?: return
+    val str = LocalStrings.current
+    var selectedFile by remember { mutableStateOf<String?>(null) }
+
+    if (selectedFile == null) {
+        val groups = chunks
+            .groupBy { Triple(it.standard, it.subject, it.language) }
+            .toSortedMap(compareBy({ it.first }, { it.second }, { it.third }))
+
+        LazyColumn(
+            Modifier.fillMaxSize().padding(12.dp),
+            verticalArrangement = Arrangement.spacedBy(8.dp),
+        ) {
+            items(groups.entries.toList()) { (key, group) ->
+                val (standard, subject, language) = key
+                Card(
+                    Modifier.fillMaxWidth().clickable { selectedFile = group.first().file },
+                ) {
+                    Column(Modifier.padding(12.dp)) {
+                        Text("Std $standard — $subject", style = MaterialTheme.typography.titleSmall)
+                        Text(
+                            "$language · ${group.size} chunks · " +
+                                "${group.count { it.chunk.verifiedSteps.isNotEmpty() }} verified solutions",
+                            style = MaterialTheme.typography.labelSmall,
+                        )
+                    }
+                }
+            }
+        }
+    } else {
+        val fileChunks = chunks.filter { it.file == selectedFile }
+        LazyColumn(
+            Modifier.fillMaxSize().padding(12.dp),
+            verticalArrangement = Arrangement.spacedBy(8.dp),
+        ) {
+            items(listOf<IndexedChunk?>(null) + fileChunks) { item ->
+                if (item == null) {
+                    Text(
+                        str.backToBooks,
+                        Modifier.clickable { selectedFile = null }.padding(4.dp),
+                        color = MaterialTheme.colorScheme.primary,
+                    )
+                } else {
+                    ChunkCard(item, viewModel)
+                }
+            }
+        }
+    }
+}
+
+@Composable
+private fun ChunkCard(item: IndexedChunk, viewModel: AppViewModel) {
+    val bookmarks by viewModel.bookmarks.collectAsState()
+    val bookmarked = bookmarks.any { it.key == UserDataStore.keyOf(item) }
+
+    Card(Modifier.fillMaxWidth()) {
+        Column(Modifier.padding(12.dp), verticalArrangement = Arrangement.spacedBy(4.dp)) {
+            Row(Modifier.fillMaxWidth()) {
+                Text(
+                    "${item.chunk.chunk_id} — ${item.chunk.heading}",
+                    Modifier.weight(1f),
+                    style = MaterialTheme.typography.titleSmall,
+                )
+                Text(
+                    if (bookmarked) "★" else "☆",
+                    Modifier.clickable { viewModel.toggleBookmark(item) }.padding(horizontal = 6.dp),
+                    color = MaterialTheme.colorScheme.primary,
+                    style = MaterialTheme.typography.titleMedium,
+                )
+            }
+            Text(
+                "difficulty ${item.chunk.difficulty} · importance ${item.chunk.importance}",
+                style = MaterialTheme.typography.labelSmall,
+            )
+            Text(item.chunk.body, style = MaterialTheme.typography.bodySmall)
+            item.chunk.displayLatex?.let {
+                KatexView(it, Modifier.fillMaxWidth())
+            }
+            item.chunk.verifiedSteps.forEach { step ->
+                Text(
+                    (if (step.verified) "✓ " else "• ") + step.text,
+                    style = MaterialTheme.typography.bodySmall,
+                    color = MaterialTheme.colorScheme.primary,
+                )
+            }
+        }
+    }
+}

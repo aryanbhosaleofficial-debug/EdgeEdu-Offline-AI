@@ -1,0 +1,1756 @@
+{
+  "metadata": {
+    "file_name": "Science_and_Technology_Standard_Ten_Part_2.json",
+    "standard": 10,
+    "subject": "Science and Technology",
+    "part": 2,
+    "branch": "Biology",
+    "language": "English",
+    "board": "Maharashtra State Board",
+    "version": "1.0",
+    "authored_by": "AI Studio Extraction",
+    "last_updated": "2026-07-05",
+    "note": "This JSON contains highly detailed data from Chapter 1: Heredity and Evolution."
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "branch": "Biology",
+      "chapter_title": "Heredity and Evolution",
+      "chapter_summary": "This chapter explores the mechanisms of genetic inheritance, the process of protein synthesis through transcription, translation, and translocation, and the various theories and evidences supporting the evolution of life on Earth, including human evolution.",
+      "learning_objectives": [
+        "Explain the concepts of heredity and hereditary changes.",
+        "Describe the process of protein synthesis (Transcription, Translation, and Translocation).",
+        "Define mutation and its effects.",
+        "Understand the theory of evolution and its various evidences.",
+        "Explain Darwin's theory of natural selection and Lamarckism.",
+        "Trace the journey of human evolution from ancient ancestors to modern man."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "1.1",
+          "topic": "Heredity",
+          "heading": "Heredity and hereditary changes",
+          "explanation": "Heredity is the transfer of biological characters from one generation to another via genes. Gregor Johann Mendel is the pioneer of modern genetics. Significant milestones include Hugo de Vries's mutational theory (1901), Walter Sutton's observation of paired chromosomes in grasshopper cells (1902), and the proof by Avery, McCarty, and McLeod (1944) that DNA is the genetic material in all living organisms except viruses. In 1961, Jacob and Monod proposed a model for protein synthesis in bacteria, helping uncover genetic codes.",
+          "key_points": [
+            "Mendel is the father of modern genetics.",
+            "Chromosomes carry genes.",
+            "DNA is the universal genetic material.",
+            "Recombinant DNA technology emerged from these discoveries."
+          ],
+          "keywords": [
+            "Heredity",
+            "Genes",
+            "Chromosomes",
+            "DNA"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "1.2",
+          "topic": "Protein Synthesis",
+          "heading": "Transcription",
+          "explanation": "Transcription is the process where mRNA is produced according to the sequence of nucleotides on DNA. Only one of the two strands of DNA is used. The sequence of nucleotides in mRNA is complementary to the DNA strand used. In this process, Uracil is used in RNA instead of Thymine which is found in DNA.",
+          "key_points": [
+            "Occurs in the nucleus.",
+            "Synthesis of mRNA from DNA.",
+            "Uracil replaces Thymine in RNA."
+          ],
+          "equations": [
+            {
+              "name": "Central Dogma",
+              "latex": "DNA \\xrightarrow{Transcription} RNA \\xrightarrow{Translation} Protein",
+              "description": "The flow of genetic information from DNA to proteins."
+            }
+          ],
+          "keywords": [
+            "Transcription",
+            "mRNA",
+            "Nucleotides",
+            "Uracil"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "1.3",
+          "topic": "Protein Synthesis",
+          "heading": "Translation and Translocation",
+          "explanation": "mRNA brings coded messages from the DNA to the cytoplasm. Each message contains codes for amino acids in groups of three nucleotides called 'triplet codons'. tRNA, having an 'anticodon' complementary to the mRNA codon, supplies the required amino acids. These amino acids are bonded by peptide bonds with the help of rRNA. During this, the ribosome moves along the mRNA by the distance of one triplet codon; this is called 'translocation'.",
+          "key_points": [
+            "Triplet codon consists of three nucleotides.",
+            "Dr. Har Govind Khorana contributed to the discovery of triplet codons for 20 amino acids.",
+            "Translation involves tRNA bringing amino acids to the mRNA.",
+            "Translocation is the movement of the ribosome along the mRNA."
+          ],
+          "keywords": [
+            "Translation",
+            "Translocation",
+            "Triplet codon",
+            "Anticodon",
+            "Ribosome"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "1.4",
+          "topic": "Genetic Variation",
+          "heading": "Mutation",
+          "explanation": "Living organisms produce new individuals like themselves through genes, but sometimes sudden changes occur. If a nucleotide of a gene changes its position, it causes a minor change called a mutation. Mutations can be minor or considerable.",
+          "examples": [
+            "Sickle cell anaemia is a genetic disorder caused by mutation."
+          ],
+          "keywords": [
+            "Mutation",
+            "Genetic disorder",
+            "Nucleotide change"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "1.5",
+          "topic": "Evolution",
+          "heading": "Evolution and Theory of Evolution",
+          "explanation": "Evolution is the gradual change occurring in living organisms over a long duration. The Theory of Evolution states that the first living material (protoplasm) was formed in the ocean. Over 300 crore years, unicellular organisms gradually changed into larger and more complex organisms. Evolution is an organizational process involving the progressive development of plants and animals from ancestors with different structural and functional organizations.",
+          "key_points": [
+            "Evolution is a slow-going process.",
+            "Life began in the oceans as protoplasm.",
+            "Natural selection drives the formation of new species."
+          ],
+          "keywords": [
+            "Evolution",
+            "Protoplasm",
+            "Gradual development",
+            "Natural selection"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "1.6",
+          "topic": "Evidences of Evolution",
+          "heading": "Morphological and Anatomical Evidences",
+          "explanation": "Morphological evidences are similarities in external features like mouth structure, nostril position, or leaf shape in plants. Anatomical evidences refer to similarities in internal structures, such as the bone structure in a human hand, foreleg of an ox, flipper of a whale, and patagium of a bat. While their functions differ, the structural similarity suggests a common ancestor.",
+          "key_points": [
+            "Morphological: External similarities.",
+            "Anatomical: Structural/bone similarities.",
+            "Both point towards common ancestry."
+          ],
+          "keywords": [
+            "Morphological",
+            "Anatomical",
+            "Common ancestor"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "1.7",
+          "topic": "Evidences of Evolution",
+          "heading": "Vestigial Organs",
+          "explanation": "Vestigial organs are degenerated or underdeveloped useless organs of organisms. A structure useful in one environment may become useless or harmful in another, eventually degenerating over thousands of years.",
+          "examples": [
+            "Human: Appendix (functional in ruminants), muscles of ear pinna (functional in monkeys), tail-bone (coccyx), wisdom teeth, body hairs."
+          ],
+          "keywords": [
+            "Vestigial",
+            "Degeneration",
+            "Appendix",
+            "Coccyx"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "1.8",
+          "topic": "Evidences of Evolution",
+          "heading": "Palaeontological Evidences",
+          "explanation": "Fossils are remnants and impressions of organisms preserved underground. Carbon dating is a method to determine the age of fossils by measuring the ratio of radioactive C-14 to non-radioactive C-12 in dead bodies. This technique, developed by Willard Libby, helps deduce information about erstwhile organisms and suggests that vertebrates originated from invertebrates.",
+          "key_points": [
+            "Fossils are essential for studying evolution.",
+            "Carbon dating relies on the decay of C-14.",
+            "Willard Libby won the Nobel Prize in 1960 for this method."
+          ],
+          "keywords": [
+            "Fossils",
+            "Carbon dating",
+            "C-14",
+            "Willard Libby"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "1.9",
+          "topic": "Evidences of Evolution",
+          "heading": "Connecting Links",
+          "explanation": "Some organisms share morphological characters of two different groups and are called connecting links.",
+          "examples": [
+            "Peripatus: Connecting link between Annelida and Arthropoda (segmented body, thin cuticle like annelids; tracheal respiration, open circulatory system like arthropods).",
+            "Duck-billed Platypus: Lays eggs like reptiles but has mammary glands and hairs like mammals.",
+            "Lungfish: Breathes with lungs like terrestrial animals but is a fish."
+          ],
+          "keywords": [
+            "Connecting links",
+            "Peripatus",
+            "Platypus",
+            "Lungfish"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "1.10",
+          "topic": "Evidences of Evolution",
+          "heading": "Embryological Evidences",
+          "explanation": "Comparative study of embryonic developmental stages of various vertebrates (fish, salamander, tortoise, chicken, pig, cow, rabbit, man) shows extreme similarities during initial stages. These similarities decrease as development proceeds, indicating a common origin.",
+          "keywords": [
+            "Embryology",
+            "Vertebrates",
+            "Common origin"
+          ],
+          "difficulty": 2,
+          "importance": 3
+        },
+        {
+          "chunk_id": "1.11",
+          "topic": "Theories of Evolution",
+          "heading": "Darwin’s Theory of Natural Selection",
+          "explanation": "Charles Darwin proposed that organisms reproduce prolifically and compete for survival. Only those with essential modifications win (survival of the fittest). Nature selects fit organisms to live and reproduce, giving rise to new species. He published these views in 'Origin of Species'.",
+          "common_doubts": [
+            {
+              "q": "What were the objections to Darwin's theory?",
+              "a": "1. Natural selection is not the only factor. 2. No explanation for useful/useless modifications. 3. No explanation for slow vs. abrupt changes."
+            }
+          ],
+          "keywords": [
+            "Natural selection",
+            "Survival of the fittest",
+            "Darwin",
+            "Origin of Species"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "1.12",
+          "topic": "Theories of Evolution",
+          "heading": "Lamarckism",
+          "explanation": "Jean-Baptiste Lamarck proposed that morphological changes are due to the activities or laziness of organisms (principle of use or disuse of organs). He suggested that acquired characters are transferred to the next generation (theory of inheritance of acquired characters).",
+          "examples": [
+            "Giraffe's long neck due to browsing high leaves.",
+            "Ironsmith's strong shoulders due to hammering.",
+            "Flightless birds (ostrich, emu) due to disuse of wings."
+          ],
+          "key_points": [
+            "The concept of 'use or disuse' was accepted, but 'inheritance of acquired characters' was disproved and rejected."
+          ],
+          "keywords": [
+            "Lamarckism",
+            "Acquired characters",
+            "Use and disuse"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "1.13",
+          "topic": "Speciation",
+          "heading": "Speciation",
+          "explanation": "Speciation is the formation of new species of plants and animals as an effect of evolution. A species is a group of organisms that can produce fertile individuals through natural reproduction. Factors leading to speciation include genetic variation, geographical changes, reproductive changes, and geographical or reproductive isolation.",
+          "keywords": [
+            "Speciation",
+            "Species",
+            "Isolation"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "1.14",
+          "topic": "Human Evolution",
+          "heading": "Human Evolution",
+          "explanation": "Human evolution began approximately 7 crore years ago after the disappearance of dinosaurs. Ancient monkey-like animals evolved from lemur-like ancestors. Key stages include: \n1. Egyptopithecus (4 crore years ago).\n2. Dryopithecus (2.5 crore years ago).\n3. Ramapithecus (2 crore years ago - first record of human-like animal).\n4. Australopithecus (40 lakh years ago).\n5. Skilled Human (20 lakh years ago).\n6. Homo erectus (15 lakh years ago - upright posture).\n7. Neanderthal man (1.5 lakh years ago - first example of wise-man).\n8. Cro-Magnon man (50,000 years ago).",
+          "key_points": [
+            "Brain size increased over time.",
+            "Agriculture and cattle-rearing started about 10,000 years ago.",
+            "Art of writing was invented 5,000 years ago."
+          ],
+          "keywords": [
+            "Ramapithecus",
+            "Australopithecus",
+            "Neanderthal",
+            "Homo sapiens"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "chapter_id": 2,
+      "branch": "Biology",
+      "chapter_title": "Life Processes in Living Organisms Part -1",
+      "chapter_summary": "This chapter details how living organisms produce energy through aerobic and anaerobic respiration, the nutritional importance of various food components, and the essential processes of cell division (mitosis and meiosis).",
+      "learning_objectives": [
+        "Understand the relationship between living organisms and life processes.",
+        "Explain the process of energy production through aerobic and anaerobic respiration.",
+        "Identify the energy efficiency of different nutrients.",
+        "Describe the stages and significance of cell division (Mitosis and Meiosis)."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "2.1",
+          "topic": "Life Processes",
+          "heading": "Living Organisms and Life Processes",
+          "explanation": "Various organ systems like digestive, respiratory, circulatory, excretory, and control systems work in coordination in the human body. All organisms need a continuous source of energy, primarily harvested from carbohydrates, fats, and lipids by the mitochondria. Oxygen is also necessary for this energy production and is transported to cells via the circulatory system. Each life process contributes to energy production, and the functioning of these processes themselves requires energy.",
+          "key_points": [
+            "Mitochondria are the site of energy harvesting.",
+            "Carbohydrates provide 4 Kcal of energy per gram.",
+            "Coordination between systems is essential for survival."
+          ],
+          "keywords": [
+            "Organ systems",
+            "Mitochondria",
+            "Energy production",
+            "Carbohydrates"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "2.2",
+          "topic": "Energy Production",
+          "heading": "Aerobic Respiration",
+          "explanation": "In aerobic respiration, glucose is oxidized in three steps: \n1. Glycolysis: Occurs in the cytoplasm. One glucose molecule is oxidized into two molecules each of pyruvic acid, ATP, NADH2, and water. Pyruvic acid is then converted to Acetyl-Coenzyme-A, releasing two NADH2 and two CO2 molecules.\n2. Tricarboxylic acid cycle (Krebs cycle): Acetyl-CoA enters the mitochondria. The acetyl part is completely oxidized, producing CO2, H2O, NADH2, and FADH2.\n3. Electron transfer chain (ETC) reaction: Occurs in mitochondria. Molecules of NADH2 and FADH2 participate. 3 ATP molecules are obtained from each NADH2 and 2 ATP from each FADH2. Water is also produced.",
+          "key_points": [
+            "Glycolysis happens in the cytoplasm.",
+            "Krebs cycle and ETC happen in the mitochondria.",
+            "Complete oxidation of glucose results in CO2, H2O, and energy."
+          ],
+          "equations": [
+            {
+              "name": "Glucose Oxidation",
+              "latex": "C_6H_{12}O_6 + 6O_2 \\rightarrow 6CO_2 + 6H_2O + Energy (ATP)",
+              "description": "Overall reaction of aerobic cellular respiration."
+            }
+          ],
+          "keywords": [
+            "Glycolysis",
+            "Krebs cycle",
+            "Electron transfer chain",
+            "NADH2",
+            "FADH2"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "2.3",
+          "topic": "Energy Currency",
+          "heading": "ATP: Adenosine Triphosphate",
+          "explanation": "ATP is an energy-rich molecule where energy is stored in the bonds connecting phosphate groups. It is chemically formed from adenosine ribonucleoside (adenine + ribose) and three phosphate groups. Energy is released by breaking the phosphate bonds. ATP is known as the 'energy currency' of the cell.",
+          "key_points": [
+            "Stored in cells as per need.",
+            "Energy is released when a phosphate bond is broken, converting ATP to ADP."
+          ],
+          "keywords": [
+            "ATP",
+            "Energy currency",
+            "Phosphate bonds",
+            "ADP"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "2.4",
+          "topic": "Energy Production",
+          "heading": "Anaerobic Respiration",
+          "explanation": "Organisms like some bacteria cannot live in oxygen and perform anaerobic respiration. It involves two steps: Glycolysis and Fermentation. Glucose is incompletely oxidized, yielding less energy. Pyruvic acid from glycolysis is converted into organic acids or alcohol using enzymes. Higher plants and animals may perform anaerobic respiration if oxygen levels are depleted (e.g., seeds in submerged soil, muscle cells during exercise).",
+          "key_points": [
+            "Incomplete oxidation of glucose.",
+            "Lactic acid accumulation in muscles causes tiredness.",
+            "Fermentation produces products like vinegar, vitamins, or alcohol."
+          ],
+          "keywords": [
+            "Anaerobic",
+            "Fermentation",
+            "Lactic acid",
+            "Yeast"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "2.5",
+          "topic": "Nutrients",
+          "heading": "Energy from Proteins and Lipids",
+          "explanation": "Proteins are macromolecules formed by amino acids. 'First class' proteins are of animal origin. They provide 4 Kcal/g. Excess amino acids are not stored but broken down to eliminate ammonia. Glucose can be formed from proteins via gluconeogenesis. Lipids are formed by fatty acids and alcohol. They provide 9 Kcal/g. Digested lipids are converted to fatty acids and used to produce plasma membranes (phospholipids) and hormones (progesterone, estrogen, etc.).",
+          "key_points": [
+            "Proteins: 4 Kcal/g; Lipids: 9 Kcal/g.",
+            "RUBISCO is the most abundant protein in nature (found in chloroplasts).",
+            "Excess lipids are stored in adipose connective tissue."
+          ],
+          "keywords": [
+            "Amino acids",
+            "Fatty acids",
+            "Gluconeogenesis",
+            "RUBISCO",
+            "Adipose tissue"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "2.6",
+          "topic": "Nutrients",
+          "heading": "Vitamins, Water, and Fibers",
+          "explanation": "Vitamins (A, B, C, D, E, K) are essential for various body processes. A, D, E, K are fat-soluble; B and C are water-soluble. Water makes up 65-70% of the body; cells contain 70% water. Loss of water disturbs body functions. Fibers are indigestible but essential for the digestion of other substances and egestion of undigested matter.",
+          "key_points": [
+            "Water is an essential nutrient.",
+            "Fibers are obtained from leafy vegetables, fruits, and cereals."
+          ],
+          "keywords": [
+            "Vitamins",
+            "Water-soluble",
+            "Fat-soluble",
+            "Fibers"
+          ],
+          "difficulty": 2,
+          "importance": 3
+        },
+        {
+          "chunk_id": "2.7",
+          "topic": "Cell Division",
+          "heading": "Mitosis",
+          "explanation": "Mitosis occurs in somatic and stem cells. It consists of Karyokinesis (nuclear division) and Cytokinesis (cytoplasmic division). Karyokinesis has four stages: \n1. Prophase: Chromosomes condense, centrioles move to poles, nuclear membrane disappears.\n2. Metaphase: Chromosomes align at the equatorial plane; spindle fibers form.\n3. Anaphase: Centromeres split, sister chromatids (daughter chromosomes) are pulled to opposite poles.\n4. Telophase: Chromosomes decondense, nuclear membranes and nucleoli reform, spindle fibers disappear.",
+          "key_points": [
+            "Maintains diploid (2n) number of chromosomes.",
+            "Essential for growth, wound healing, and body restoration.",
+            "Cytokinesis in plants involves a cell plate; in animals, a notch forms."
+          ],
+          "keywords": [
+            "Karyokinesis",
+            "Cytokinesis",
+            "Prophase",
+            "Metaphase",
+            "Anaphase",
+            "Telophase"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "2.8",
+          "topic": "Cell Division",
+          "heading": "Meiosis",
+          "explanation": "Meiosis occurs in germ cells to produce haploid (n) gametes. It involves two stages: Meiosis-I and Meiosis-II. \n1. Meiosis-I: Homologous chromosomes undergo recombination/crossing over, then divide into two groups, forming two haploid cells.\n2. Meiosis-II: Similar to mitosis; sister chromatids separate to form four haploid daughter cells.",
+          "key_points": [
+            "Reduces chromosome number by half (2n to n).",
+            "Genetic recombination occurs during crossing over in Meiosis-I.",
+            "Daughter cells are genetically different from the parent cell."
+          ],
+          "keywords": [
+            "Meiosis",
+            "Haploid",
+            "Crossing over",
+            "Recombination",
+            "Gametes"
+          ],
+          "difficulty": 5,
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "chapter_id": 3,
+      "branch": "Biology",
+      "chapter_title": "Life Processes in Living Organisms Part - 2",
+      "chapter_summary": "This chapter focuses on the various methods of reproduction in living organisms, covering asexual and sexual reproduction in both plants and humans, along with modern reproductive technologies and health.",
+      "learning_objectives": [
+        "Distinguish between asexual and sexual reproduction.",
+        "Explain various methods of asexual reproduction in unicellular and multicellular organisms.",
+        "Describe the process of sexual reproduction in plants, including double fertilization.",
+        "Detail the human male and female reproductive systems.",
+        "Understand the menstrual cycle and its hormonal control.",
+        "Discuss modern technologies in reproduction like IVF and surrogacy.",
+        "Address reproductive health and the issue of population explosion."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "3.1",
+          "topic": "Reproduction Overview",
+          "heading": "Reproduction",
+          "explanation": "Reproduction is the process of formation of a new organism of the same species by an earlier existing organism. It is essential for maintaining the continuity of the species and is a key factor in evolution. There are two main methods: asexual and sexual reproduction.",
+          "key_points": [
+            "Reproduction does not help an individual stay alive but ensures species survival.",
+            "Asexual reproduction involves a single parent and mitotic division.",
+            "Sexual reproduction involves two parents and the fusion of gametes."
+          ],
+          "keywords": [
+            "Reproduction",
+            "Species continuity",
+            "Asexual",
+            "Sexual"
+          ],
+          "difficulty": 1,
+          "importance": 5
+        },
+        {
+          "chunk_id": "3.2",
+          "topic": "Asexual Reproduction",
+          "heading": "Asexual reproduction in unicellular organisms",
+          "explanation": "This method involves the production of a new organism without the involvement of gametes. The offspring is genetically identical to the parent. Methods include:\n1. Binary Fission: The parent cell divides into two similar daughter cells (e.g., Amoeba, Paramecium, Euglena). It occurs during favorable conditions.\n2. Multiple Fission: Performed by Amoeba during adverse conditions. It forms a protective 'cyst' and undergoes repeated nuclear divisions to release many amoebulae when conditions improve.\n3. Budding: Occurs in yeast. A small 'bud' (bulge) appears on the parent cell, receives a daughter nucleus, grows, and eventually separates.",
+          "examples": [
+            "Amoeba: Simple binary fission (any plane).",
+            "Paramecium: Transverse binary fission.",
+            "Euglena: Longitudinal binary fission."
+          ],
+          "keywords": [
+            "Binary fission",
+            "Multiple fission",
+            "Budding",
+            "Cyst",
+            "Yeast"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "3.3",
+          "topic": "Asexual Reproduction",
+          "heading": "Asexual reproduction in multicellular organisms",
+          "explanation": "Multicellular organisms reproduce asexually through various specialized methods:\n1. Fragmentation: The body breaks into fragments, each growing into a new organism (e.g., Spirogyra, Sycon).\n2. Regeneration: Ability to regrow lost parts. Planaria can break into parts, and each part regenerates the rest of the body.\n3. Budding: In Hydra, an outgrowth (bud) forms due to repeated division of regenerative cells. It grows, forms a small hydra, and eventually detaches.\n4. Vegetative Propagation: Reproduction using vegetative parts like roots, stems, leaves, or buds (e.g., Potato tubers, Bryophyllum leaves).\n5. Spore Formation: Fungi like Mucor have filamentous bodies with sporangia that burst to release spores, which germinate in moist places.",
+          "keywords": [
+            "Fragmentation",
+            "Regeneration",
+            "Vegetative propagation",
+            "Spore formation",
+            "Hydra",
+            "Spirogyra"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "3.4",
+          "topic": "Sexual Reproduction",
+          "heading": "Sexual Reproduction Basics",
+          "explanation": "Sexual reproduction involves two main processes: \n1. Gamete formation: Haploid (n) gametes are formed by meiosis, reducing the chromosome number to half.\n2. Fertilization: Union of haploid male and female gametes to form a diploid (2n) zygote. The zygote divides by mitosis to form an embryo.",
+          "key_points": [
+            "Offspring have recombined genes from both parents.",
+            "Genetic variation helps organisms adjust to changing environments.",
+            "Prevents species from becoming extinct."
+          ],
+          "keywords": [
+            "Gametes",
+            "Fertilization",
+            "Zygote",
+            "Genetic variation"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "3.5",
+          "topic": "Sexual Reproduction in Plants",
+          "heading": "Sexual reproduction in plants",
+          "explanation": "The flower is the structural unit of reproduction. It has four whorls: Calyx (sepals), Corolla (petals), Androecium (stamens - male), and Gynaecium (carpels - female). \n- Pollination: Transfer of pollen grains from anther to stigma via abiotic (wind, water) or biotic (insects, animals) agents.\n- Double Fertilization: One male gamete unites with the egg cell (zygote), and the second male gamete unites with two polar nuclei (endosperm).",
+          "key_points": [
+            "Bisexual flowers have both androecium and gynoecium (e.g., Hibiscus).",
+            "Unisexual flowers have only one (e.g., Papaya).",
+            "Seed germination: Zygote develops into a seed, which forms a new plantlet using stored food in the endosperm."
+          ],
+          "keywords": [
+            "Pollination",
+            "Double fertilization",
+            "Stigma",
+            "Anther",
+            "Endosperm"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "3.6",
+          "topic": "Human Reproduction",
+          "heading": "Human male reproductive system",
+          "explanation": "Consists of testes, various ducts (rete testis, vas eferens, epididymis, vas deferens, ejaculatory duct, urinogenital duct), and glands (seminal vesicles, prostate gland, Cowper's gland). Testes produce sperms via meiosis in seminiferous tubules. Sperms mature as they pass through the ducts and are ejaculated as semen.",
+          "key_points": [
+            "Epididymis is about 6 meters long.",
+            "Sperms need energy; fructose is present in semen for this purpose.",
+            "All organs are paired except the urinogenital duct, prostate gland, penis, and scrotum."
+          ],
+          "keywords": [
+            "Testes",
+            "Sperm",
+            "Semen",
+            "Vas deferens"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "3.7",
+          "topic": "Human Reproduction",
+          "heading": "Human female reproductive system",
+          "explanation": "Includes a pair of ovaries, a pair of oviducts (fallopian tubes), a single uterus, and a vagina. Every month, an ovum is released alternately from each ovary into the oviduct. Cilia in the oviduct push the oocyte towards the uterus.",
+          "key_points": [
+            "At birth, ovaries contain 2-4 million immature oocytes.",
+            "Only about 400 oocytes are released until menopause.",
+            "Menopause occurs around age 45-50 when hormone secretion becomes irregular or stops."
+          ],
+          "keywords": [
+            "Ovary",
+            "Oviduct",
+            "Uterus",
+            "Menopause"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "3.8",
+          "topic": "Human Reproduction",
+          "heading": "Fertilization, Development and Birth",
+          "explanation": "Fertilization is the union of sperm and ovum in the oviduct. The resulting zygote undergoes repeated mitotic divisions as it moves toward the uterus. It is implanted in the uterus, where further development occurs. The placenta provides the supply of food material. Embryonic development takes approximately nine months.",
+          "key_points": [
+            "Sex determination: Men have XY chromosomes, women have XX. The man is responsible for the sex of the child (X from male = girl, Y from male = boy).",
+            "Down's syndrome can occur if older oocytes (near menopause) are fertilized due to improper meiotic division."
+          ],
+          "keywords": [
+            "Implantation",
+            "Placenta",
+            "Sex determination",
+            "Embryo"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "3.9",
+          "topic": "Menstrual Cycle",
+          "heading": "Menstrual Cycle",
+          "explanation": "A natural process in females repeating every 28-30 days, controlled by four hormones: FSH, LH, Estrogen, and Progesterone. \n1. Period of Menstruation (1-5 days): Endometrium degenerates if no fertilization occurs.\n2. Period of Regeneration (5-13 days): Endometrium regrows under estrogen.\n3. Ovulation (Day 14-15): Follicle bursts, releasing the oocyte under LH.\n4. Secretory Phase: Corpus luteum secretes progesterone to prepare the endometrium for implantation.",
+          "keywords": [
+            "FSH",
+            "LH",
+            "Estrogen",
+            "Progesterone",
+            "Corpus luteum",
+            "Ovulation"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "3.10",
+          "topic": "Modern Technology",
+          "heading": "Reproduction and Modern Technology",
+          "explanation": "Advanced medical techniques help childless couples:\n1. IVF (In Vitro Fertilization): Fertilization in a test tube; embryo is then implanted in the uterus.\n2. Surrogacy: An embryo formed from a couple's gametes is implanted in the uterus of another woman (surrogate mother).\n3. Sperm Bank: Similar to a blood bank; semen from donors is stored and used for IVF.",
+          "keywords": [
+            "IVF",
+            "Surrogacy",
+            "Sperm bank"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "3.11",
+          "topic": "Twins",
+          "heading": "Twins",
+          "explanation": "Two types of twins:\n1. Monozygotic: Formed from a single embryo that divides into two within 8 days of zygote formation. They are genetically identical and of the same gender.\n2. Dizygotic: Formed when two separate oocytes are fertilized by two separate sperms. They are genetically different and can be of different genders.",
+          "key_points": [
+            "Conjoined (Siamese) twins form if monozygotic embryo division occurs after 8 days."
+          ],
+          "keywords": [
+            "Monozygotic",
+            "Dizygotic",
+            "Conjoined twins"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "3.12",
+          "topic": "Social Issues",
+          "heading": "Reproductive Health and Population Explosion",
+          "explanation": "Reproductive health involves physical, mental, and social well-being. Lack of awareness leads to issues like STDs (Syphilis, Gonorrhoea) and gender bias. Population explosion refers to excessive population growth, leading to unemployment and resource stress. Family planning is the primary solution.",
+          "keywords": [
+            "Reproductive health",
+            "STDs",
+            "Population explosion",
+            "Family planning"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "chapter_id": 4,
+      "branch": "Environmental Science",
+      "chapter_title": "Environmental management",
+      "chapter_summary": "This chapter provides a comprehensive review of ecosystems, the relationship between environment and ecology, the urgent need for environmental conservation, and the classification of biodiversity and threatened species.",
+      "learning_objectives": [
+        "Review the components and interactions within an ecosystem.",
+        "Understand the relationship between environment and ecosystem.",
+        "Identify factors affecting the environment and the need for conservation.",
+        "Learn about environmental laws and voluntary organizations.",
+        "Explain the importance of biodiversity and its different levels.",
+        "Classify threatened species and identify biodiversity hotspots."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "4.1",
+          "topic": "Ecosystem Review",
+          "heading": "Ecosystem - A review",
+          "explanation": "An ecosystem is formed by biotic (living) and abiotic (non-living) factors and their interactions. Every factor plays a crucial role. Producers (plants) provide food; herbivores (deer, goats) feed on producers; predators (lions, tigers) control herbivore populations; and decomposers/scavengers (caterpillars, termites, insects in dung) clean the environment by breaking down organic matter.",
+          "key_points": [
+            "Biotic and abiotic factors interact constantly.",
+            "Scavengers and decomposers are essential for environmental cleanliness.",
+            "Human existence is dependent on these environmental factors."
+          ],
+          "keywords": [
+            "Biotic",
+            "Abiotic",
+            "Producers",
+            "Herbivores",
+            "Predators",
+            "Decomposers"
+          ],
+          "difficulty": 1,
+          "importance": 4
+        },
+        {
+          "chunk_id": "4.2",
+          "topic": "Ecology and Ecosystem",
+          "heading": "Relationship between Environment and Ecosystem",
+          "explanation": "Environment is a broad concept including physical, chemical, and biological factors affecting living organisms. Ecology is the science that studies the interactions between biotic and abiotic factors. The basic functional unit used to study ecology is the ecosystem. Environmental balance is maintained through natural cycles (water, carbon, nitrogen, oxygen cycles) and food chains.",
+          "key_points": [
+            "Ecology is the study of interactions.",
+            "Ecosystem is the functional unit of ecology.",
+            "Natural cycles maintain environmental balance."
+          ],
+          "keywords": [
+            "Ecology",
+            "Ecosystem",
+            "Environmental balance",
+            "Natural cycles"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "4.3",
+          "topic": "Environmental Conservation",
+          "heading": "Environmental Conservation",
+          "explanation": "Environmental balance is disturbed by natural factors (earthquakes, volcanoes) and man-made factors (deforestation, industrialization). Pollution is the contamination of any material, leading to harmful changes in the physical, chemical, and biological properties of air, water, and soil. Population explosion and indiscriminate use of resources are major causes.",
+          "key_points": [
+            "Pollution affects the existence of all living organisms.",
+            "Conservation is a social responsibility.",
+            "The Earth can satisfy human need but not greed (Mahatma Gandhi)."
+          ],
+          "keywords": [
+            "Pollution",
+            "Deforestation",
+            "Industrialization",
+            "Conservation"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "4.4",
+          "topic": "Pollution Types",
+          "heading": "Air, Water, and Soil Pollution",
+          "explanation": "Pollution is categorized by the medium it affects. \n1. Air Pollution: Caused by gases (CO2, CO, Hydrocarbons, Sulphur, NOx) and solids (dust, ash, lead).\n2. Water Pollution: Caused by industrial/domestic waste, sewage, and agricultural pesticides.\n3. Soil Pollution: Leads to soil erosion and retarded plant growth, caused by industrial waste and pesticides.",
+          "keywords": [
+            "Air pollution",
+            "Water pollution",
+            "Soil pollution",
+            "Industrial waste"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "4.5",
+          "topic": "Radioactive Pollution",
+          "heading": "Radioactive pollution",
+          "explanation": "Radioactive pollution can be natural (UV, IR) or artificial (X-rays, atomic energy plant leaks). Major historical mishaps include Chernobyl, Windscale, and Three Miles Island. Effects include cancerous ulcerations, tissue destruction, genetic changes, and adverse effects on vision.",
+          "keywords": [
+            "Radioactive",
+            "UV radiation",
+            "X-rays",
+            "Chernobyl"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "4.6",
+          "topic": "Environmental Laws",
+          "heading": "Laws enacted for environmental conservation",
+          "explanation": "The government has constituted several laws to protect the environment: \n1. Forest (Conservation) Act, 1980: Prohibits use of forest land for other purposes without permission; violators face imprisonment.\n2. Environmental (Protection) Act, 1986: Controls pollution and punishes institutes/persons harming the environment.\n3. Wildlife Protection Act, 1972: Clause 49A bans trading rare animals; 49B bans products from wild animal skin/organs; 49C mandates disclosure of wild animal artifacts.",
+          "key_points": [
+            "National Green Tribunal (2010) implements environmental laws.",
+            "Sound Pollution, Biomedical Waste, and E-waste rules are also in place."
+          ],
+          "keywords": [
+            "Forest Conservation Act",
+            "Environmental Protection Act",
+            "Wildlife Protection Act",
+            "National Green Tribunal"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "4.7",
+          "topic": "Environmental Heroes",
+          "heading": "The big story of a small man",
+          "explanation": "Jadav Molai Payeng, a forest worker in Assam, single-handedly planted and cared for a forest that now covers 1360 acres in Kokilamukh. Known as 'Molai Jungle', it is the result of 30 years of hard work. He was awarded the 'Padmashree' for his contribution.",
+          "examples": [
+            "Jadav Molai Payeng establishing a massive forest from a barren area."
+          ],
+          "keywords": [
+            "Jadav Molai Payeng",
+            "Molai Jungle",
+            "Afforestation"
+          ],
+          "difficulty": 1,
+          "importance": 3
+        },
+        {
+          "chunk_id": "4.8",
+          "topic": "Biodiversity",
+          "heading": "Environmental Conservation and Biodiversity",
+          "explanation": "Biodiversity is the richness of living organisms in nature. It occurs at three levels: \n1. Genetic Diversity: Variation among organisms of the same species (e.g., every human is different).\n2. Species Diversity: Innumerable species of organisms (plants, animals, microbes) in nature.\n3. Ecosystem Diversity: Diversity of habitats and interactions in a region.",
+          "keywords": [
+            "Biodiversity",
+            "Genetic diversity",
+            "Species diversity",
+            "Ecosystem diversity"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "4.9",
+          "topic": "Biodiversity Conservation",
+          "heading": "Sacred Groves and Hotspots",
+          "explanation": "Sacred Groves are forests conserved in the name of god, acting as sanctuaries protected by society rather than the government. Biodiversity Hotspots are highly sensitive areas; 34 are reported worldwide, covering only 2.3% of Earth's surface but containing 50% of world plant species.",
+          "key_points": [
+            "India has more than 13,000 reported sacred groves.",
+            "Western Ghats is an endangered heritage place in India due to mining and natural gas search."
+          ],
+          "keywords": [
+            "Sacred groves",
+            "Biodiversity hotspots",
+            "Western Ghats",
+            "Endangered heritage"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "4.10",
+          "topic": "Threatened Species",
+          "heading": "Classification of Threatened Species",
+          "explanation": "Species are classified based on their threat level: \n1. Endangered Species: Number declined or habitat shrunk (e.g., Lion-tailed monkey).\n2. Rare Species: Considerably declined and endemic (e.g., Red panda, Musk deer).\n3. Vulnerable Species: Extremely few and continuing to decline (e.g., Tiger, Lion).\n4. Indeterminate Species: Appear endangered but lack substantial information due to behavioral habits like shyness (e.g., Giant squirrel/Shekru).",
+          "key_points": [
+            "IUCN prepares the 'Red List' of endangered species.",
+            "May 22nd is World Biodiversity Day."
+          ],
+          "keywords": [
+            "Endangered",
+            "Rare",
+            "Vulnerable",
+            "Indeterminate",
+            "Red List",
+            "IUCN"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "chapter_id": 6,
+      "branch": "Biology",
+      "chapter_title": "Animal Classification",
+      "chapter_summary": "This chapter explores the systematic arrangement of animals based on their similarities and differences, covering the history of classification, the criteria for the new system, and detailed characteristics of various phyla and classes.",
+      "learning_objectives": [
+        "Understand the history and necessity of animal classification.",
+        "Learn the benefits of classifying animals.",
+        "Distinguish between the traditional and new systems of classification.",
+        "Identify the criteria for the new system: grades of organization, symmetry, germ layers, body cavity, and segmentation.",
+        "Describe the characteristic features of non-chordate phyla and chordate subphyla/classes."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "6.1",
+          "topic": "Classification Overview",
+          "heading": "Introduction to Animal Classification",
+          "explanation": "Animal classification is the formation of groups and sub-groups of animals depending upon similarities and differences among them. With approximately 7 million animal species on Earth, classification makes it easier to study such a vast variety. Historically, Greek philosopher Aristotle was the first to classify animals using an 'Artificial method' based on body size, habits, and habitats.",
+          "key_points": [
+            "Classification makes the study of animals convenient.",
+            "It provides insights into animal evolution.",
+            "It helps in identifying animals with great accuracy."
+          ],
+          "keywords": [
+            "Classification",
+            "Aristotle",
+            "Artificial method",
+            "Natural system"
+          ],
+          "difficulty": 1,
+          "importance": 3
+        },
+        {
+          "chunk_id": "6.2",
+          "topic": "Traditional Classification",
+          "heading": "Traditional method of animal classification",
+          "explanation": "Traditionally, the animal kingdom is divided into two groups based on the presence or absence of a notochord: Non-chordates and Chordates.",
+          "key_points": [
+            "Non-Chordates: Body not supported by notochord; pharyngeal gill-slits absent; nerve cord is solid, paired, and on the ventral side; heart (if present) is on the dorsal side.",
+            "Chordates: Body supported by notochord; pharyngeal gill-slits or lungs present for respiration; nerve cord is hollow and on the dorsal side; heart is on the ventral side."
+          ],
+          "keywords": [
+            "Notochord",
+            "Non-chordates",
+            "Chordates",
+            "Nerve cord"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "6.3",
+          "topic": "New System Criteria",
+          "heading": "Criteria for new system of classification",
+          "explanation": "The modern system uses Robert Whittaker's five-kingdom classification, placing all multicellular animals in Kingdom Animalia. The criteria include:\n1. Grades of Organization: Protoplasmic (unicellular), Cellular (Porifera), Cell-tissue (Cnidaria), Tissue-organ (Platyhelminthes), and Organ-system grade.\n2. Body Symmetry: Asymmetrical (Sponges), Radial (Starfish), and Bilateral (Insects, Humans).\n3. Germ Layers: Diploblastic (two layers: endoderm, ectoderm) or Triploblastic (three layers: endoderm, ectoderm, mesoderm).\n4. Body Cavity (Coelom): Acoelomate (absent), Pseudocoelomate (false cavity), or Eucoelomate (true cavity).\n5. Body Segmentation: Body divided into small, similar units (e.g., Earthworm).",
+          "keywords": [
+            "Grades of organization",
+            "Symmetry",
+            "Germ layers",
+            "Coelom",
+            "Segmentation"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "6.4",
+          "topic": "Non-Chordate Phyla",
+          "heading": "Phylum Porifera and Cnidaria",
+          "explanation": "1. Porifera: Simplest body plan, called 'Sponges'. They have numerous pores (Ostia and Oscula), special collar cells, and are sedentary (attached to substratum). They reproduce by budding and have high regeneration ability (e.g., Sycon, Euspongia).\n2. Coelenterata/Cnidaria: Cylindrical (Polyp) or umbrella-like (Medusa) body. They are radially symmetrical and diploblastic. They possess cnidoblast-bearing tentacles for capturing prey and protection (e.g., Hydra, Jellyfish, Sea anemone).",
+          "keywords": [
+            "Sponges",
+            "Ostia",
+            "Collar cells",
+            "Cnidoblast",
+            "Tentacles"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "6.5",
+          "topic": "Non-Chordate Phyla",
+          "heading": "Phylum Platyhelminthes and Aschelminthes",
+          "explanation": "1. Platyhelminthes: Slender, flat body called 'flatworms'. They are acoelomate, bilaterally symmetrical, and triploblastic. Most are endoparasites and hermaphrodites (e.g., Planaria, Liver fluke, Tapeworm).\n2. Aschelminthes: Long, thread-like or cylindrical body called 'roundworms'. They are triploblastic, pseudocoelomate, and non-segmented with a tough cuticle. They are unisexual (e.g., Ascaris, Filarial worm).",
+          "keywords": [
+            "Flatworms",
+            "Roundworms",
+            "Acoelomate",
+            "Pseudocoelomate",
+            "Hermaphrodite"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "6.6",
+          "topic": "Non-Chordate Phyla",
+          "heading": "Phylum Annelida and Arthropoda",
+          "explanation": "1. Annelida: Long, cylindrical, and metamerically segmented body. They are triploblastic, bilaterally symmetrical, and eucoelomate. They use setae, parapodia, or suckers for locomotion (e.g., Earthworm, Leech).\n2. Arthropoda: Largest phylum. Animals have jointed appendages and a chitinous exoskeleton. They are triploblastic, eucoelomate, bilaterally symmetrical, and segmented. Found in all habitats (e.g., Crab, Spider, Cockroach, Butterfly).",
+          "keywords": [
+            "Segmented worms",
+            "Jointed appendages",
+            "Chitin",
+            "Exoskeleton"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "6.7",
+          "topic": "Non-Chordate Phyla",
+          "heading": "Phylum Mollusca and Echinodermata",
+          "explanation": "1. Mollusca: Second largest phylum. Soft and slimy body, often covered by a calcareous shell. Body divided into head, foot, and visceral mass. Visceral mass covered by mantle (e.g., Snail, Octopus).\n2. Echinodermata: Calcareous spines on the body. Exclusively marine. Adults are radially symmetrical, but larvae are bilaterally symmetrical. They use tube-feet for locomotion and capturing prey. High power of regeneration (e.g., Starfish, Sea-urchin).",
+          "keywords": [
+            "Mantle",
+            "Calcareous shell",
+            "Tube-feet",
+            "Spiny skin"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "6.8",
+          "topic": "Non-Chordate Phyla",
+          "heading": "Phylum Hemichordata",
+          "explanation": "Body divided into proboscis, collar, and trunk. Notochord is present only in the proboscis. They are marine, burrowing animals with pharyngeal gill slits. Balanoglossus is considered a 'connecting link' between non-chordates and chordates.",
+          "examples": [
+            "Balanoglossus",
+            "Saccoglossus"
+          ],
+          "keywords": [
+            "Proboscis",
+            "Acorn worms",
+            "Connecting link"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "6.9",
+          "topic": "Phylum Chordata",
+          "heading": "Subphyla of Chordata",
+          "explanation": "Chordata is divided into three subphyla:\n1. Urochordata: Marine, body covered by tunic. Notochord present only in the tail of larvae (e.g., Herdmania).\n2. Cephalochordata: Small, fish-like marine animals. Notochord present throughout the body length (e.g., Amphioxus).\n3. Vertebrata (Craniata): Notochord replaced by a vertebral column. Head is well-developed and brain is protected by a cranium.",
+          "keywords": [
+            "Urochordata",
+            "Cephalochordata",
+            "Vertebrata",
+            "Cranium"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "6.10",
+          "topic": "Subphylum Vertebrata",
+          "heading": "Classes of Vertebrata",
+          "explanation": "Vertebrata is divided into six classes:\na. Cyclostomata: Jaw-less mouth with suckers, skin is soft and scale-less (e.g., Petromyzon).\nb. Pisces: Cold-blooded aquatic animals with spindle-shaped bodies and fins. Respiration via gills (e.g., Rohu, Shark).\nc. Amphibia: Can live in water and on land. Respiration via skin, lungs, or gills. No scales (e.g., Frog, Toad).\nd. Reptilia: First true terrestrial animals with creeping movement. Cold-blooded with dry, scaly skin (e.g., Wall lizard, Snake).\ne. Aves: Warm-blooded, adapted for aerial life. Forelimbs modified into wings. Feathers present (e.g., Pigeon, Peacock).\nf. Mammalia: Warm-blooded with mammary glands and hair/fur. Most are viviparous (e.g., Elephant, Human, Bat).",
+          "key_points": [
+            "Pisces and Amphibia are cold-blooded (Poikilotherms).",
+            "Aves and Mammalia are warm-blooded (Homeotherms)."
+          ],
+          "keywords": [
+            "Cold-blooded",
+            "Warm-blooded",
+            "Mammary glands",
+            "Gills"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "chapter_id": 7,
+      "branch": "Microbiology",
+      "chapter_title": "Introduction to Microbiology",
+      "chapter_summary": "This chapter explores the practical applications of microbiology in various fields, including the food industry (dairy, bread, vinegar, beverages), industrial production (enzymes, organic acids), energy (bio-fuels), and environmental management (pollution control and clean technology).",
+      "learning_objectives": [
+        "Define Applied and Industrial Microbiology.",
+        "Explain the role of microbes in the production of dairy products, probiotics, bread, and vinegar.",
+        "Understand the industrial use of microbial enzymes and organic acids.",
+        "Describe the production of antibiotics and their importance.",
+        "Analyze the role of microbes in energy production and environmental pollution control.",
+        "Learn about clean technology and the use of microbes in farming."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "7.1",
+          "topic": "Microbiology Branches",
+          "heading": "Applied and Industrial Microbiology",
+          "explanation": "Applied Microbiology is the branch of biology that studies enzymes related to prokaryotes and eukaryotic microbes, proteins, applied genetics, and molecular biology for societal use. Industrial Microbiology relates to the commercial use of microbes in economic, social, and environmental processes. Its main features include various productions via fermentation (bread, cheese, wine, etc.) and the use of microbes for garbage management and pollution control.",
+          "key_points": [
+            "Applied microbiology focuses on practical societal benefits.",
+            "Industrial microbiology uses fermentation for large-scale production."
+          ],
+          "keywords": [
+            "Applied Microbiology",
+            "Industrial Microbiology",
+            "Fermentation",
+            "Enzymes"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "7.2",
+          "topic": "Food Industry",
+          "heading": "Dairy Products",
+          "explanation": "Microbes are used extensively in dairy production. Milk is pasteurized to destroy unwanted microbes and then fermented using Lactobacilli. \n1. Yoghurt: Produced using Streptococcus thermophilus and Lactobacillus delbrueckii in a 1:1 ratio. Lactic acid coagulates milk proteins, giving it a dense consistency. Acetaldehyde gives it a characteristic taste.\n2. Butter: Two types are produced: sweet cream and cultured (using microbes).\n3. Cheese: Produced from cow milk. Steps include chemical/microbiological testing, adding colors and microbes (Lactobacillus lactis, L. cremoris), removing whey, and ripening. Fungal protease is used for vegetarian cheese.",
+          "key_points": [
+            "Lactobacilli convert lactose sugar into lactic acid.",
+            "Diacetyl provides the flavor of butter.",
+            "Ripening duration determines cheese hardness (e.g., Parmesan takes 12-18 months)."
+          ],
+          "examples": [
+            "Soft cheese: Cottage, Cream, Mozzarella.",
+            "Hard cheese: Parmesan."
+          ],
+          "keywords": [
+            "Lactobacilli",
+            "Pasteurization",
+            "Coagulation",
+            "Whey",
+            "Protease"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "7.3",
+          "topic": "Food Industry",
+          "heading": "Probiotics",
+          "explanation": "Probiotics are milk products containing active bacteria like Lactobacillus, Acidophilus, and Bifidobacterium bifidum. They maintain the balance of intestinal microorganisms by increasing useful microbes and decreasing harmful ones like Clostridium. They improve immunity and lower the ill-effects of harmful substances formed during metabolism.",
+          "examples": [
+            "Yoghurt, kefir, sauerkraut, dark chocolate, miso soup, pickles, microalgae (Spirulina, Chlorella)."
+          ],
+          "keywords": [
+            "Probiotics",
+            "Intestinal flora",
+            "Clostridium",
+            "Immunity"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "7.4",
+          "topic": "Food Industry",
+          "heading": "Bread and Vinegar Production",
+          "explanation": "1. Bread: Made by mixing baker's yeast (Saccharomyces cerevisiae) with flour. Yeast ferments carbohydrates, converting sugar into CO2 and ethanol, making the bread spongy.\n2. Vinegar: Chemically 4% acetic acid. Ethanol is produced by fermenting fruit juices or molasses with yeast, then Acetobacter and Glucanobacter oxidize ethanol into acetic acid.",
+          "key_points": [
+            "Compressed yeast is used in commercial bakeries.",
+            "Vinegar is used for food preservation and imparting sour taste."
+          ],
+          "keywords": [
+            "Saccharomyces cerevisiae",
+            "Acetic acid",
+            "Acetobacter",
+            "Glucanobacter"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "7.5",
+          "topic": "Industrial Production",
+          "heading": "Beverages and Microbial Enzymes",
+          "explanation": "Beverages like coffee, cocoa, wine, and cider are produced using specific microbes to ferment fruit juices or separate seeds. Microbial enzymes (e.g., oxidoreductases, transferases, hydrolases) are used in industry because they are active at low temperatures/pH, save energy, and are eco-friendly. They eliminate the need for expensive purification processes.",
+          "key_points": [
+            "Coffee: Lactobacillus brevis separates seeds from fruit.",
+            "Wine/Cider: Saccharomyces cerevisiae ferments juice.",
+            "Xanthan gum: Produced by Xanthomonas, used as a thickener in ice creams and soups."
+          ],
+          "keywords": [
+            "Microbial enzymes",
+            "Xanthan gum",
+            "Xanthomonas",
+            "Eco-friendly"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "7.6",
+          "topic": "Industrial Production",
+          "heading": "Organic Acids and Antibiotics",
+          "explanation": "Microbes produce various organic acids used in food and industry (e.g., Citric acid by Aspergillus niger for drinks, L-glutamic acid for Ajinomoto). Antibiotics are substances obtained from bacteria and fungi to control human and animal diseases. Examples include Penicillin, Cephalosporins, and Rifamycin (effective against tuberculosis).",
+          "key_points": [
+            "Aspergillus niger is used for Citric and Gluconic acid production.",
+            "Antibiotics target specific strains of gram-positive and gram-negative bacteria."
+          ],
+          "keywords": [
+            "Aspergillus niger",
+            "Ajinomoto",
+            "Antibiotics",
+            "Rifamycin"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "7.7",
+          "topic": "Energy and Environment",
+          "heading": "Microbes and Fuels",
+          "explanation": "Microbes contribute to renewable energy: \n1. Methane: Obtained by anaerobic decomposition of urban/agricultural waste.\n2. Ethanol: A clean, smokeless fuel obtained from molasses fermentation.\n3. Hydrogen: Considered the fuel of the future, released during bio-photolysis of water by bacteria.\n4. Bio-fuel: Available in solid (coal, dung), liquid (vegetable oils, alcohol), and gaseous forms.",
+          "keywords": [
+            "Methane",
+            "Bio-fuel",
+            "Hydrogen fuel",
+            "Photolysis"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "7.8",
+          "topic": "Environmental Management",
+          "heading": "Microbial Pollution Control",
+          "explanation": "Microbes play a vital role in managing waste. \n1. Landfill sites: Degradable waste is dumped in pits lined with plastic sheets. Microbes in soil decompose the waste into high-quality compost.\n2. Sewage Management: Microbes decompose carbon compounds in sewage, releasing methane and CO2. Phenol-oxidizing bacteria destroy xenobiotic chemicals.",
+          "key_points": [
+            "Landfilling prevents soil pollution from leaching.",
+            "Bioremediation uses microbes to clean polluted environments."
+          ],
+          "keywords": [
+            "Landfill",
+            "Sewage management",
+            "Compost",
+            "Bioremediation"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "7.9",
+          "topic": "Environmental Management",
+          "heading": "Clean Technology",
+          "explanation": "Specific bacteria are used to tackle modern pollutants: \n1. Oil Spills: Hydrocarbonoclastic bacteria (HCB) like Alcanovorax borkumensis and Pseudomonas destroy pyridines and other chemicals in spilled oil.\n2. Plastic/Rubber: Vibrio and Ideonella sakaiensis can decompose PET plastics. Actinomycetes and Streptomyces can decompose rubber.\n3. Acid Rain: Acidophillium and Acidobacillus ferroxidens control soil pollution from acid rain by using sulphuric acid as an energy source.",
+          "key_points": [
+            "HCB bacteria convert hydrocarbons into CO2 and water.",
+            "Geobacter converts soluble uranium salts into insoluble forms to protect groundwater."
+          ],
+          "keywords": [
+            "HCB",
+            "Alcanovorax borkumensis",
+            "Ideonella sakaiensis",
+            "Geobacter"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "7.10",
+          "topic": "Agriculture",
+          "heading": "Microbes and Farming",
+          "explanation": "Microbial Inoculants (containing bacteria like Rhizobium or Azotobacter) are sprayed on seeds to help plant growth by supplying nutrients and improving food quality. Bioinsecticides use bacterial and fungal toxins (e.g., Spinosad) to destroy pests without harming the plants or humans.",
+          "key_points": [
+            "Inoculants reduce the need for chemical fertilizers.",
+            "Bioinsecticides are integrated into plants via biotechnology."
+          ],
+          "keywords": [
+            "Inoculants",
+            "Azotobacter",
+            "Bioinsecticides",
+            "Spinosad"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "chapter_id": 8,
+      "branch": "Biology/Biotechnology",
+      "chapter_title": "Cell Biology and Biotechnology",
+      "chapter_summary": "This chapter covers the fundamentals of cytology, the revolutionary potential of stem cells, and the wide-ranging applications of biotechnology in human health, agriculture, and industry.",
+      "learning_objectives": [
+        "Define Cytology and understand its scope.",
+        "Explain the types, sources, and uses of stem cells.",
+        "Understand the importance of organ and body donation.",
+        "Describe the applications of biotechnology in agriculture (GM crops, biofertilizers).",
+        "Explain the role of biotechnology in human health (vaccines, gene therapy, cloning).",
+        "Identify significant milestones like the Green, White, and Blue Revolutions."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "8.1",
+          "topic": "Cytology",
+          "heading": "Cell Biology (Cytology)",
+          "explanation": "Cytology is the study of the structure, types, and organelles of the cell, as well as cell division. It has brought revolutionary changes to human health. In India, major research institutes dedicated to cell science include the National Center for Cell Science (NCCS) in Pune and 'Instem' in Bengaluru.",
+          "keywords": [
+            "Cytology",
+            "Cell Biology",
+            "NCCS",
+            "Instem"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "8.2",
+          "topic": "Stem Cells",
+          "heading": "Stem Cells: Definition and Types",
+          "explanation": "Stem cells are special undifferentiated cells in multicellular organisms that give rise to all other types of cells. They play a vital role in wound healing. \n1. Embryonic Stem Cells: Derived from the blastocyst stage (5th-7th day of development). They are pluripotent, meaning they can transform into any of the 220 types of human cells.\n2. Adult Stem Cells: Obtained from the body of an adult. Main sources include red bone marrow, adipose connective tissue, and blood. They can also be obtained from the umbilical cord blood immediately after birth.",
+          "key_points": [
+            "Stem cell preservation: Samples are kept in small, sterile vials in liquid nitrogen at -135°C to -190°C.",
+            "Pluripotency is the ability to differentiate into various cell types."
+          ],
+          "keywords": [
+            "Stem cells",
+            "Pluripotency",
+            "Embryonic",
+            "Blastocyst",
+            "Preservation"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "8.3",
+          "topic": "Stem Cells",
+          "heading": "Uses of Stem Cells",
+          "explanation": "Stem cells have two primary applications: \n1. Regenerative Therapy: \n   A. Cell Therapy: Replacing dead cells in conditions like diabetes, myocardial infarction, Alzheimer’s, and Parkinson’s disease. \n   B. Blood Cell Production: Treating conditions like anaemia, thalassemia, and leukemia.\n2. Organ Transplantation: Producing organs like kidneys and livers for patients in case of organ failure.",
+          "keywords": [
+            "Regenerative therapy",
+            "Cell therapy",
+            "Organ transplantation"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "8.4",
+          "topic": "Organ Donation",
+          "heading": "Organ and Body Donation",
+          "explanation": "Due to progress in science, it is realized that many organs remain functional for a period after death. Organ donation can save lives or restore vision (cornea). A liberal view suggests that our bodies should be useful to others after death. The 'Transplantation of Human Organs Act, 1994' (amended in 2009, 2011, 2014) regulates this process to ensure transparency.",
+          "key_points": [
+            "Organs that can be donated: Liver, kidneys, heart, heart valves, lungs, eyes, skin, and bone.",
+            "Posthumous donation refers to donation after death."
+          ],
+          "keywords": [
+            "Organ donation",
+            "Body donation",
+            "Posthumous",
+            "Transplantation Act"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "8.5",
+          "topic": "Biotechnology",
+          "heading": "Biotechnology and its Benefits",
+          "explanation": "Biotechnology involves artificial genetic changes and hybridization for human welfare. It integrates branches like cytology, biochemistry, and molecular biology. \nBenefits include: \n1. Increased per hectare yield.\n2. Minimized expenses on disease control through resistant varieties.\n3. Development of fast fruit-setting varieties.\n4. Creation of stress-resistant varieties (temperature, water, soil fertility).",
+          "keywords": [
+            "Biotechnology",
+            "Hybridization",
+            "Genetic engineering",
+            "Yield"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "8.6",
+          "topic": "Agricultural Biotechnology",
+          "heading": "Commercial Applications in Crops",
+          "explanation": "1. Hybrid Seeds: Recombining genes of two different crops.\n2. Genetically Modified (GM) Crops: Crops with foreign genes for desired traits. \n   - Bt Cotton: Contains a gene from Bacillus thuringiensis that produces a toxin fatal to bollworms.\n   - Bt Brinjal: Improved variety that kills pests.\n   - Golden Rice: Introduced with a gene for Vitamin A (Beta carotene); contains 23 times more than normal rice.\n   - Herbicide tolerant plants: Allow selective destruction of weeds without harming the crop.",
+          "keywords": [
+            "GM crops",
+            "Bt Cotton",
+            "Golden Rice",
+            "Bacillus thuringiensis"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "8.7",
+          "topic": "Agricultural Biotechnology",
+          "heading": "Biofertilizers and Animal Husbandry",
+          "explanation": "Biofertilizers like Rhizobium, Azotobacter, Nostoc, and Anabaena improve nitrogen fixation and phosphate solubilization. Azolla is also used. In animal husbandry, artificial insemination and embryo transfer are used to improve the quantity and quality of animal products (milk, meat, wool).",
+          "keywords": [
+            "Biofertilizers",
+            "Nitrogen fixation",
+            "Animal husbandry",
+            "Artificial insemination"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "8.8",
+          "topic": "Human Health",
+          "heading": "Biotechnology in Human Health",
+          "explanation": "1. Diagnosis: Early detection of diabetes, heart disease, AIDS, and dengue.\n2. Treatment: Production of hormones like Insulin (for diabetes), Somatotropin, and blood clotting factors.\n3. Interferon: Small protein molecules used to treat viral diseases, produced using transgenic E. coli.\n4. Gene Therapy: Treating genetic disorders in somatic cells (e.g., Phenylketonuria - PKU).\n5. Vaccination: Producing safer, thermo-stable vaccines. Edible vaccines are being developed using transgenic potatoes to act against Vibrio cholerae and E. coli.",
+          "keywords": [
+            "Insulin",
+            "Interferon",
+            "Gene therapy",
+            "Edible vaccines"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "8.9",
+          "topic": "Cloning",
+          "heading": "Cloning",
+          "explanation": "Cloning is the production of a replica of any cell, organ, or organism. \n1. Reproductive Cloning: Fusion of a somatic cell nucleus with an enucleated ovum (e.g., Dolly the sheep, born in Scotland in 1996).\n2. Therapeutic Cloning: Using cloned stem cells to treat diseases.",
+          "examples": [
+            "Dolly the sheep: First mammal cloned from an adult somatic cell."
+          ],
+          "keywords": [
+            "Cloning",
+            "Reproductive cloning",
+            "Therapeutic cloning",
+            "Dolly"
+          ],
+          "difficulty": 4,
+          "importance": 4
+        },
+        {
+          "chunk_id": "8.10",
+          "topic": "Environmental Biotechnology",
+          "heading": "Bioremediation and Clean Technology",
+          "explanation": "Bioremediation uses plants (phyto-remediation) and microbes to destroy or absorb toxic chemicals. \n- Pseudomonas: Cleans hydrocarbons and oil spills.\n- Pteris vitata (fern): Absorbs arsenic from soil.\n- Sunflower: Absorbs uranium and arsenic.\n- Deinococcus radiodurans: Highly radiation-resistant, used to absorb radioactive debris.\n- Geobacter: Converts soluble uranium into insoluble salts.",
+          "keywords": [
+            "Bioremediation",
+            "Phyto-remediation",
+            "Oil spills",
+            "Radiation resistance"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "8.11",
+          "topic": "Agricultural Revolutions",
+          "heading": "Green, White, and Blue Revolutions",
+          "explanation": "1. Green Revolution: Increased food grain production through dwarf varieties, fertilizers, and water management. Key figures: Dr. M.S. Swaminathan (India) and Dr. Norman Borlaug (USA).\n2. White Revolution: Self-sufficiency in milk production through cooperatives and biotechnology. Key figure: Dr. Verghese Kurien (Anand, Gujarat).\n3. Blue Revolution: Increased production of aquatic organisms (pisciculture) like fish and shrimp. The Indian government launched 'Nil-Kranti Mission-2016' (NKM-16).",
+          "keywords": [
+            "Green Revolution",
+            "White Revolution",
+            "Blue Revolution",
+            "M.S. Swaminathan",
+            "Verghese Kurien"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "8.12",
+          "topic": "Modern Farming",
+          "heading": "Organic Farming and Apiculture",
+          "explanation": "Organic farming involves a complete ban on chemical fertilizers and pesticides, using local sturdy varieties to maintain natural balance. Apiculture (bee-keeping) is improved using artificial bee boxes to collect honey without destroying the hive. Fruit processing (drying, salting, murabba) allows perishable agro-produce to be used year-round.",
+          "keywords": [
+            "Organic farming",
+            "Apiculture",
+            "Fruit processing",
+            "Medicinal plants"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "chapter_id": 9,
+      "branch": "Social Science/Biology",
+      "chapter_title": "Social health",
+      "chapter_summary": "This chapter explores the concept of social health, the various factors that influence it, the impact of modern technology and addiction, and effective methods for stress management.",
+      "learning_objectives": [
+        "Define social health and identify its characteristics.",
+        "Analyze factors affecting social health.",
+        "Understand the impact of mental stress, addiction, and chronic diseases on society.",
+        "Recognize the dangers of excessive use of modern technology and communication media.",
+        "Identify various types of cyber crimes and the legal measures against them.",
+        "Learn and apply stress management techniques."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "9.1",
+          "topic": "Social Health Overview",
+          "heading": "Factors affecting the social health",
+          "explanation": "Social health is the ability of a person to establish relationships with other persons and change one's own behaviour according to changing social conditions. It is influenced by a wide array of factors including the fulfillment of basic needs (food, clothing, shelter, medicine), education, financial status, and the surrounding social and physical environment. Good social health is characterized by a strong personality, having a large circle of friends and relatives, trust in others, and respect and acceptance for others.",
+          "key_points": [
+            "Social health involves relationship management.",
+            "Factors include: Education, Job opportunities, Transport facilities, Social safety, Social treatment, Playgrounds, Water, Toilets, and Residential area.",
+            "Political conditions and views also play a role in social health."
+          ],
+          "keywords": [
+            "Social health",
+            "Relationship",
+            "Social environment",
+            "Basic needs"
+          ],
+          "difficulty": 1,
+          "importance": 5
+        },
+        {
+          "chunk_id": "9.2",
+          "topic": "Disturbing Factors",
+          "heading": "Mental Stress",
+          "explanation": "Mental stress has increased due to population growth and the resulting competition in education and employment. In modern times, children in nuclear families often face loneliness when both parents stay outdoors for work. Gender inequality also contributes to stress; in some families, boys are given excessive freedom while girls face restrictions and domestic duties. Adolescent girls may also face problems like teasing and molestation, further increasing stress levels.",
+          "key_points": [
+            "Competition and loneliness are major stressors.",
+            "Gender discrimination in families affects the mental health of girls.",
+            "Social disorder, crime, and violence increase overall societal stress."
+          ],
+          "keywords": [
+            "Mental stress",
+            "Competition",
+            "Nuclear family",
+            "Gender inequality"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "9.3",
+          "topic": "Disturbing Factors",
+          "heading": "Addiction",
+          "explanation": "Adolescents are highly susceptible to peer-group influence, which can lead to the adoption of bad habits like the use of tobacco, cigarettes, gutkha, alcohol, and drugs. This often starts as an attempt to imitate elders or as a symbol of high-standard living. These substances can permanently damage the nervous system, muscle system, and heart. Tobacco-containing substances are specifically carcinogenic, affecting the mouth and lungs.",
+          "key_points": [
+            "Peer pressure is a primary cause of adolescent addiction.",
+            "Addiction leads to long-term physical and neurological damage.",
+            "Tobacco is a major cause of cancer."
+          ],
+          "keywords": [
+            "Addiction",
+            "Peer pressure",
+            "Carcinogenic",
+            "Tobacco",
+            "Alcohol"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "9.4",
+          "topic": "Disturbing Factors",
+          "heading": "Chronic diseases",
+          "explanation": "Ignorance toward people suffering from chronic diseases like AIDS, T.B., Leprosy, and mental disorders can harm social health. Alcoholism is another major issue; if liquor is produced incorrectly, it can be poisonous and fatal. Alcoholism hinders brain development in adolescents, slows down the ability to learn and memorize, and leads to social, mental, and familial illness.",
+          "keywords": [
+            "Chronic diseases",
+            "AIDS",
+            "Alcoholism",
+            "Poisonous liquor"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "9.5",
+          "topic": "Modern Technology",
+          "heading": "Communication Media and excessive use of Modern Technology",
+          "explanation": "Excessive and irrational use of cell phones and computers leads to addiction and solitary behavior. Physical problems such as tiredness, headache, insomnia, forgetfulness, tinnitus, and joint pains can arise from cell phone radiation. Children are more affected as radiations penetrate their bones more effectively. Habitual use can lead to self-centeredness, autism, and a lack of sensitivity toward others.",
+          "key_points": [
+            "Selfiecide: Deaths occurring while trying to take selfies in dangerous locations (ocean, deep valleys, near trains).",
+            "Negative behavior can be learned from violent virtual games and inappropriate web content.",
+            "Social media is often misused to upload videos of accidents instead of helping victims."
+          ],
+          "keywords": [
+            "Cell phone addiction",
+            "Radiation",
+            "Selfiecide",
+            "Solitary behavior"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "9.6",
+          "topic": "Cyber Crimes",
+          "heading": "Cyber crimes",
+          "explanation": "Cyber crimes involve the misuse of the internet and electronic media. Examples include hacking confidential information, opening fake social media accounts to exploit others, piracy of software and literature, and spreading inflammatory or derogatory messages. Consumers are often deceived by fraudulent websites selling inferior goods.",
+          "key_points": [
+            "Hacking: Misusing computer programs to obtain government or corporate data.",
+            "Piracy: Illegal sale of written literature, software, photos, and music.",
+            "IT Act-2000: Amended in 2008, it provides for 3 years of imprisonment and fines up to 5 lakh for cyber crimes."
+          ],
+          "keywords": [
+            "Cyber crime",
+            "Hacking",
+            "Piracy",
+            "IT Act-2000",
+            "Hacking"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "9.7",
+          "topic": "Stress Management",
+          "heading": "Stress management",
+          "explanation": "Stress can be managed through various social and physical activities. Laughter clubs help relieve mental stress. Expressing feelings to friends, parents, or teachers is crucial. Fostering hobbies like material collection, photography, reading, cooking, and dancing helps utilize free time constructively. Physical exercise, yoga, and meditation improve discipline and concentration.",
+          "key_points": [
+            "Laughter clubs are a popular modern concept for stress relief.",
+            "Music and singing have the power to change the mindset.",
+            "Outdoor games improve physical health and social interaction."
+          ],
+          "examples": [
+            "Unified Movement against Tobacco: Started by 45 organizations including WHO and Tata Trust.",
+            "Salaam Mumbai Foundation: Works to make schools and communities tobacco-free."
+          ],
+          "keywords": [
+            "Laughter club",
+            "Yoga",
+            "Meditation",
+            "NGOs",
+            "Helpline"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "chapter_id": 10,
+      "branch": "Environmental Science",
+      "chapter_title": "Disaster Management",
+      "chapter_summary": "This chapter defines disasters, classifies them into various types, analyzes their multi-dimensional effects on society, and details the structured approach to disaster management, including the roles of authorities, first aid, and mock drills.",
+      "learning_objectives": [
+        "Define disaster and distinguish between natural and man-made types.",
+        "Classify disasters based on geophysical, biological, and man-made criteria.",
+        "Analyze the environmental, economic, social, and medical effects of disasters.",
+        "Understand the nature and scope of disasters through various phases.",
+        "Explain the objectives and components of the disaster management cycle.",
+        "Describe the structure of the Disaster Management Authority in India.",
+        "Learn the basics of first aid, patient transportation, and the importance of mock drills."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "10.1",
+          "topic": "Disaster Overview",
+          "heading": "Disaster",
+          "explanation": "A disaster is a sudden event that leads to huge loss of life and property. Disasters cause sudden changes in the environment and damage it. They can be natural (floods, earthquakes, volcanoes) or man-made (accidents, industrial leaks). The United Nations defines it as a sudden event that leads to massive loss, making precautions difficult as they are often unpredictable. Disasters affect various areas of life including economic, social, cultural, political, and administrative sectors.",
+          "key_points": [
+            "Disasters are 'all of a sudden' troubles.",
+            "They can be short-term or long-term (e.g., famine, desertification).",
+            "Man-made disasters often result from the misuse of natural resources for development."
+          ],
+          "keywords": [
+            "Disaster",
+            "Natural disaster",
+            "Man-made disaster",
+            "United Nations"
+          ],
+          "difficulty": 1,
+          "importance": 5
+        },
+        {
+          "chunk_id": "10.2",
+          "topic": "Classification",
+          "heading": "Types of Disasters",
+          "explanation": "Disasters are classified into three main categories: \n1. Geophysical: Includes Geological (earthquakes, volcanoes, tsunamis, landslides) and Atmospheric (hot/cold waves, cyclones, floods, droughts).\n2. Biological: Includes Plant-related (forest fires, fungal diseases, weeds) and Animal-related (infectious viruses/bacteria like cholera, malaria, hepatitis, and insect bites).\n3. Man-Made: Includes Unknown (poisonous gases, atomic tests, unplanned accidents) and International (war, terrorism, bomb blasts, forced migration).",
+          "keywords": [
+            "Geophysical",
+            "Biological",
+            "Geological",
+            "Atmospheric"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "10.3",
+          "topic": "Impact Analysis",
+          "heading": "Effects of disaster",
+          "explanation": "Disasters have multi-dimensional impacts: \n- Environmental: Collapsing of buildings, contamination of water, pollution from decomposing corpses.\n- Economic: Sudden increase in expenditure, shortage of funds for development, decrease in productivity.\n- Medical: Injuries, emotional/mental stress, increase in epidemics, death.\n- Social: Collapse of social leadership, confusion among citizens.\n- Administrative/Professional: Stress on workers, collapse of transport and communication systems.",
+          "keywords": [
+            "Economic impact",
+            "Social impact",
+            "Environmental degradation",
+            "Epidemics"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "10.4",
+          "topic": "Disaster Phases",
+          "heading": "Nature and scope of disaster",
+          "explanation": "The scope of a disaster is understood through six phases: \n1. Pre-disaster phase.\n2. Warning phase.\n3. Emergency phase (maximum lives saved here).\n4. Rehabilitation phase.\n5. Recovery phase.\n6. Reconstruction phase.",
+          "key_points": [
+            "Phase of Emergency: Quick actions like search, rescue, and medical assistance are critical.",
+            "Transitional Phase: Focuses on clearing debris, restoring water/power, and soothing mental stress.",
+            "Reconstruction Phase: Long-term phase involving rebuilding facilities and restarting farming."
+          ],
+          "keywords": [
+            "Emergency phase",
+            "Rehabilitation",
+            "Reconstruction"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "10.5",
+          "topic": "Management Strategy",
+          "heading": "Disaster management",
+          "explanation": "Disaster management involves prevention, making arrangements to face disasters, and achieving the ability to minimize losses. It is divided into Pre-disaster management (planning, identifying pro-disaster areas, training) and Post-disaster management (providing help to victims, establishing help centers, categorization of relief material).",
+          "key_points": [
+            "Objectives: Saving human life, supply of essential commodities, rehabilitation of victims.",
+            "Disaster Management Cycle: Includes Preparation, Redemption, Preparedness, Impact, Response, Restoration, and Resurgence."
+          ],
+          "keywords": [
+            "Pre-disaster management",
+            "Post-disaster management",
+            "Disaster cycle"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "10.6",
+          "topic": "Authority Structure",
+          "heading": "Structure of Disaster Management Authority",
+          "explanation": "In India, the Disaster Management Act, 2005 established a hierarchy: \n- National Level: National Disaster Management Authority (Chairman: Prime Minister).\n- State Level: State Disaster Management Authority (Chairman: Chief Minister).\n- District Level: District Disaster Management Authority (Chairman: Collector).\n- Taluka Level: Taluka Disaster Management Authority (Chairman: Tahsildar).\n- Village Level: Village Level Committee (Chairman: Sarpanch).",
+          "key_points": [
+            "The District Collector is responsible for planning and coordinating rehabilitation schemes at the district level.",
+            "National Disaster Response Force (NDRF) consists of 12 divisions working across the country."
+          ],
+          "keywords": [
+            "NDRF",
+            "Prime Minister",
+            "Chief Minister",
+            "District Collector",
+            "Sarpanch"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "10.7",
+          "topic": "Emergency Response",
+          "heading": "First Aid and Emergency Action",
+          "explanation": "First aid is the primary help offered to victims before actual medical treatment. Objectives include saving lives, preventing deterioration, and attempting to improve the condition. Transportation methods for victims include the cradle method, carrying on back, and carrying on two hands, depending on the victim's condition.",
+          "key_points": [
+            "First Aid Kit: Must contain bandages, antiseptic, safety pins, blade, torch, thermometer, etc.",
+            "Important Helplines: Police (100), Fire fighting force (101), Ambulance (102), Disaster Control Unit (108)."
+          ],
+          "keywords": [
+            "First aid",
+            "Cradle method",
+            "Helplines",
+            "Emergency action"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "10.8",
+          "topic": "Preparedness",
+          "heading": "Mock Drill",
+          "explanation": "A mock drill is a practice to check the preparedness of facing a disaster. A virtual/apparent situation is created to check reaction time and the efficacy of the redressal system. It is often conducted in schools and by police/fire departments.",
+          "key_points": [
+            "Objectives: Evaluating response, improving coordination, identifying own abilities, and identifying possible errors/risks."
+          ],
+          "keywords": [
+            "Mock drill",
+            "Preparedness",
+            "Reaction time"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1595 @@
+{
+  "metadata": {
+    "file_name": "geography_standard_ten_maharashtra_board_chapter_1.json",
+    "standard": 10,
+    "subject": "Geography",
+    "part": null,
+    "branch": "Practical Geography",
+    "language": "English",
+    "board": "Maharashtra State Board",
+    "version": "1.0",
+    "authored_by": "AI Studio Extraction",
+    "last_updated": "2026-07-05",
+    "note": "Extraction focused on the procedural and observational details of a geographical field visit from Naldurg to Alibag."
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "branch": "Practical Geography",
+      "chapter_title": "Field Visit",
+      "chapter_summary": "A practical account of a school field visit from Naldurg to Alibag, documenting changes in relief, vegetation, soil, and human settlements through direct observation and local administrative inquiry.",
+      "learning_objectives": [
+        "Understand the methodology of conducting a geographical field visit.",
+        "Observe and document variations in relief, water bodies, and vegetation across different regions.",
+        "Identify different types of human settlements and their relation to the physical environment.",
+        "Learn to classify forts into land, hill, and sea categories based on their location.",
+        "Understand the process of data collection from local government offices like the Talathi office.",
+        "Prepare a comprehensive tour report based on field observations."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "1.1",
+          "topic": "Introduction to Field Visit",
+          "heading": "Field Visit Route and Objectives",
+          "explanation": "Rahul and his classmates, guided by their teachers, undertake a field visit from Naldurg in Osmanabad district to Alibag in Raigad district. They travel via a special State Transport bus. The primary objective is to experience and record the tangible changes in physical features (relief, soil, vegetation) and human elements (settlements, agriculture) as they move from the plateau region towards the coast.",
+          "key_points": [
+            "Source location: Naldurg, Osmanabad.",
+            "Destination: Alibag, Raigad.",
+            "Focus areas: Relief, soil, vegetation, human settlements.",
+            "Mode of transport: State Transport bus."
+          ],
+          "keywords": [
+            "field visit",
+            "Naldurg",
+            "Alibag",
+            "observation"
+          ],
+          "difficulty": 1,
+          "importance": 5
+        },
+        {
+          "chunk_id": "1.2",
+          "topic": "Practical Geography Tools",
+          "heading": "Essential Items for a Field Visit",
+          "explanation": "Apart from personal luggage and identity cards, a geographer requires specific tools for effective fieldwork. These include a backpack, water bottle, first-aid kit, notebook, pen, camera, binoculars, cap, magnetic compass, and regional maps. These items help in navigating, observing distant features, and documenting findings accurately.",
+          "key_points": [
+            "Notebook and pen are essential for documentation.",
+            "Binoculars and cameras help in detailed observation and visual recording.",
+            "Magnetic compass is used for direction finding.",
+            "First-aid kit is a safety prerequisite."
+          ],
+          "examples": [
+            "Using a camera to capture the aerial view of Pune city from Sinhagad.",
+            "Using a magnetic compass to determine the orientation of a fort gate."
+          ],
+          "keywords": [
+            "geographic tools",
+            "magnetic compass",
+            "binoculars",
+            "first-aid kit"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "1.3",
+          "topic": "Physiography and Settlements",
+          "heading": "Topography and Settlement Patterns (Naldurg to Solapur)",
+          "explanation": "During the initial phase of the journey, students observe an undulating topography that transitions into plains. Settlements along the road often follow a 'linear' pattern, where houses and shops (like tea stalls and dhabas) are built in a straight line following the transport route. This reflects how human activity aligns with infrastructure.",
+          "key_points": [
+            "Undulating topography consists of rising and falling terrain.",
+            "Linear settlements are common along highways and major roads.",
+            "Roadside amenities include dhabas, petrol pumps, and tea stalls."
+          ],
+          "keywords": [
+            "undulating topography",
+            "linear settlements",
+            "plains"
+          ],
+          "difficulty": 2,
+          "importance": 3
+        },
+        {
+          "chunk_id": "1.4",
+          "topic": "Regional Physiography",
+          "heading": "The Balaghat Ranges",
+          "explanation": "The route passes through the southern part of the Balaghat Ranges. Geologically, these ranges are the eastern off-shoots of the Sahyadris (Western Ghats). They influence the local landscape and the transition from the plateau to the coastal region.",
+          "key_points": [
+            "Balaghat Ranges are located east of the Sahyadris.",
+            "They form part of the Deccan Plateau's undulating relief."
+          ],
+          "keywords": [
+            "Balaghat Ranges",
+            "Sahyadris",
+            "off-shoots"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "1.5",
+          "topic": "Human Geography",
+          "heading": "Traditional Rural Housing: Dhabyachi Ghare",
+          "explanation": "In rural areas, students encounter traditional 'mud and wood houses' known locally as 'dhabyachi ghare'. These structures are built using specific traditional methods, with walls often made of clay and roofs constructed using mud and wood. They represent human adaptation to locally available building materials.",
+          "key_points": [
+            "Dhabyachi ghare: Traditional mud and wood houses.",
+            "Built using local materials like clay and timber."
+          ],
+          "keywords": [
+            "dhabyachi ghare",
+            "traditional housing",
+            "clay walls"
+          ],
+          "difficulty": 2,
+          "importance": 3
+        },
+        {
+          "chunk_id": "1.6",
+          "topic": "Natural Vegetation",
+          "heading": "Vegetation in Semi-Arid and Deciduous Zones",
+          "explanation": "The vegetation changes with the climate. In the semi-arid regions near Naldurg, thorny shrubs like jujube (bor) and babool are visible. As the group progresses, they see dry deciduous forests where trees shed their leaves during specific dry seasons to conserve moisture. Near the Ghats, dense forests with broad-leaved trees like Teak become prominent.",
+          "key_points": [
+            "Thorny vegetation indicates low rainfall/semi-arid conditions.",
+            "Deciduous trees shed leaves seasonally.",
+            "Teak is a major species in the Ghat region's deciduous forests."
+          ],
+          "data_points": [
+            {
+              "label": "Vegetation change indicator",
+              "value": "Change in type of vegetation is an indicator of change in the amount of rainfall."
+            }
+          ],
+          "keywords": [
+            "dry deciduous",
+            "thorny shrubs",
+            "teak",
+            "jujube"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "1.7",
+          "topic": "Human Geography",
+          "heading": "Urbanization Characteristics: Solapur City",
+          "explanation": "Solapur city serves as an example of an urban settlement. It is characterized by high population density, multi-storeyed buildings, and modern construction materials like cement, sand, rubble, and bricks. Urban areas also feature advanced commercial amenities like shopping malls and large restaurants.",
+          "key_points": [
+            "High population density is a hallmark of urban areas.",
+            "Multi-storeyed buildings utilize modern construction materials.",
+            "Commercial infrastructure is highly developed in cities."
+          ],
+          "keywords": [
+            "urbanization",
+            "population density",
+            "multi-storeyed houses"
+          ],
+          "difficulty": 2,
+          "importance": 3
+        },
+        {
+          "chunk_id": "1.8",
+          "topic": "Economic Geography",
+          "heading": "Agriculture and Irrigation: Sugarcane and Pulses",
+          "explanation": "Agricultural patterns are seen to shift based on water availability. Near Naldurg, moog, urad, and other pulses are grown in lower rainfall conditions. However, between Solapur and Pune, sugarcane is the dominant crop. This shift is possible due to developed irrigation facilities like canals and dam reservoirs.",
+          "key_points": [
+            "Pulses are grown in areas with less water.",
+            "Sugarcane requires intensive irrigation.",
+            "Availability of irrigation facilities changes the agricultural landscape."
+          ],
+          "keywords": [
+            "sugarcane",
+            "pulses",
+            "irrigation",
+            "cultivation"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "1.9",
+          "topic": "Water Resources",
+          "heading": "The Ujani Dam and Bhima River",
+          "explanation": "The Ujani dam is a major multi-purpose project built on the river Bhima. Its reservoir provides water for drinking, power generation, fishing, and large-scale irrigation. The students observe the backwaters of the dam near Indapur, noting how such infrastructure supports regional agriculture (like sugarcane) and industry.",
+          "key_points": [
+            "River: Bhima.",
+            "Purpose: Drinking water, irrigation, power, fishing.",
+            "Infrastructure: Canals and large reservoirs."
+          ],
+          "keywords": [
+            "Ujani Dam",
+            "Bhima River",
+            "backwaters",
+            "multi-purpose project"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "1.10",
+          "topic": "Geomorphology",
+          "heading": "Physiography of the Western Ghats (Sahyadris)",
+          "explanation": "The Sahyadris or Western Ghats mark a significant change in relief. They feature steep western slopes with many cliffs and waterfalls and gentler eastern slopes. The region is the source of many west-flowing rivers like the Ulhas. At high altitudes like Rajmachi point, students observe these distinct rugged landforms.",
+          "key_points": [
+            "Sahyadris show asymmetrical slopes (steep west, gentle east).",
+            "Source of River Ulhas (west-flowing).",
+            "Presence of cliffs and waterfalls."
+          ],
+          "keywords": [
+            "Western Ghats",
+            "Sahyadris",
+            "cliff",
+            "waterfall",
+            "Ulhas River"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "1.11",
+          "topic": "Fort Classification and Geology",
+          "heading": "The Hill Fort of Sinhagad and Basalt Rock",
+          "explanation": "Sinhagad is classified as a 'hill fort' because it is built atop a mountain for security and surveillance. The dominant rock here is Basalt, an igneous rock formed from volcanic eruptions. Students observe rock pinnacles, valleys, and layered rock formations resulting from ancient volcanic activity.",
+          "key_points": [
+            "Sinhagad: Hill fort (for security).",
+            "Rock: Basalt (Igneous).",
+            "Landforms: Rock pinnacles, rugged topography."
+          ],
+          "keywords": [
+            "Sinhagad",
+            "hill fort",
+            "basalt",
+            "igneous rock"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "1.12",
+          "topic": "Rainfall and Agriculture",
+          "heading": "Paddy Cultivation in High Rainfall Areas",
+          "explanation": "As the group moves towards the Western Ghats and the coast, the rainfall increases significantly. This change is reflected in the agriculture, where paddy (rice) fields become the dominant feature. Paddy requires high rainfall and stagnant water, making it suitable for the coastal and ghat regions.",
+          "key_points": [
+            "High rainfall areas favor paddy (rice) cultivation.",
+            "Crop patterns serve as indicators of regional rainfall."
+          ],
+          "keywords": [
+            "paddy",
+            "rice cultivation",
+            "rainfall"
+          ],
+          "difficulty": 2,
+          "importance": 3
+        },
+        {
+          "chunk_id": "1.13",
+          "topic": "Water Management",
+          "heading": "Devtake: Traditional Water Harvesting",
+          "explanation": "At Sinhagad fort, 'Devtake' is a sacred tank that stores water from a natural spring. It provides water to the fort year-round, showcasing ancient engineering that utilized natural water sources at high altitudes.",
+          "key_points": [
+            "Devtake: Natural spring tank.",
+            "Provides year-round water supply at high altitude."
+          ],
+          "keywords": [
+            "Devtake",
+            "natural spring",
+            "water harvesting"
+          ],
+          "difficulty": 2,
+          "importance": 3
+        },
+        {
+          "chunk_id": "1.14",
+          "topic": "Cultural and Ecological Concepts",
+          "heading": "Vanrais and Devrais",
+          "explanation": "The Ghat region features woodlands called 'vanrais' and sacred groves known as 'devrais'. Devrais are protected patches of forest usually associated with local deities, representing a traditional form of biodiversity conservation.",
+          "key_points": [
+            "Vanrai: Woodland.",
+            "Devrai: Sacred grove (protected forest)."
+          ],
+          "keywords": [
+            "Vanrai",
+            "Devrai",
+            "sacred grove"
+          ],
+          "difficulty": 2,
+          "importance": 3
+        },
+        {
+          "chunk_id": "1.15",
+          "topic": "Coastal Geography",
+          "heading": "Transition to the Western Coastal Plains",
+          "explanation": "Crossing the Bhor (Khandala) ghat leads into the western coastal plains. The weather becomes hotter and noticeably more humid due to the proximity to the Arabian Sea. Humidity causes increased perspiration and sticky skin, which are typical characteristics of maritime climates.",
+          "key_points": [
+            "Bhor/Khandala ghat connects the plateau to the coast.",
+            "Coastal climate: High temperature and high humidity.",
+            "Humidity increases as one nears the sea."
+          ],
+          "keywords": [
+            "coastal plains",
+            "humidity",
+            "Arabian Sea",
+            "Khandala ghat"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "1.16",
+          "topic": "Practical Geography: Data Collection",
+          "heading": "Visiting the Talathi Office",
+          "explanation": "In Alibag, students visit the Talathi office. This is a crucial part of a field visit to gather secondary and primary socio-economic data. They use a prepared questionnaire to ask about crop types, soil types, land revenue collection methods, irrigation coverage, and local watershed programs.",
+          "key_points": [
+            "Talathi office: Local administrative office for land records.",
+            "Data categories: Land revenue, irrigation, crops, occupations.",
+            "Method: Questionnaire-based interview."
+          ],
+          "keywords": [
+            "Talathi office",
+            "questionnaire",
+            "data collection",
+            "land revenue"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "1.17",
+          "topic": "Coastal Landforms and Security",
+          "heading": "Kolaba Fort and Sea-Fort Characteristics",
+          "explanation": "Kolaba Fort (Alibag Fort) is classified as a 'sea-fort'. Unlike land or hill forts, it is built on a wave-cut platform and is surrounded by seawater. Access depends on the timings of high and low tides. Sea-forts were historically built for maritime security.",
+          "key_points": [
+            "Kolaba Fort: Sea-fort built on a wave-cut platform.",
+            "Tide awareness is necessary for visiting sea-forts.",
+            "Landforms observed: Beaches, sea caves, sand bars."
+          ],
+          "keywords": [
+            "sea-fort",
+            "Kolaba Fort",
+            "wave-cut platform",
+            "tides"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "1.18",
+          "topic": "Economic Geography",
+          "heading": "Coastal Occupations and Horticulture",
+          "explanation": "In coastal regions like Alibag, fishing is a primary traditional occupation. Agriculture focuses on 'horticultural farming' in the fertile coastal plains, producing coconut, betelnut, jackfruit, banana, and spices. Tourism has also emerged as a significant modern occupation.",
+          "key_points": [
+            "Primary occupations: Fishing and agriculture.",
+            "Horticultural crops: Coconut, betelnut, banana, spices.",
+            "Tourism is a growing service sector occupation."
+          ],
+          "keywords": [
+            "fishing",
+            "horticulture",
+            "tourism",
+            "Alibag"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "1.19",
+          "topic": "Post-Field Visit Procedures",
+          "heading": "Field Visit Report Writing",
+          "explanation": "The field visit concludes with students compiling a report. The report is structured based on the observations of relief, climate, vegetation, settlements, and data collected from official sources like the Talathi office. It is the final academic output of the exercise.",
+          "key_points": [
+            "Report writing is the final stage of a field visit.",
+            "Requires synthesizing observations and interview data."
+          ],
+          "keywords": [
+            "report writing",
+            "documentation",
+            "fieldwork synthesis"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "chapter_id": 2,
+      "branch": "General Geography",
+      "chapter_title": "Location and Extent",
+      "chapter_summary": "A comparative study of India and Brazil, detailing their official names, capitals, hemispheric locations, latitudinal and longitudinal extents, and historical backgrounds from colonial rule to independence.",
+      "learning_objectives": [
+        "Identify the location of India and Brazil on the world map.",
+        "Determine the latitudinal and longitudinal extent of both countries.",
+        "Understand the historical context of British rule in India and Portuguese rule in Brazil.",
+        "Compare the types of government and post-independence challenges of both nations."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "2.1",
+          "topic": "Introduction to Countries",
+          "heading": "Identifying India and Brazil",
+          "explanation": "The chapter introduces India and Brazil through cultural and demographic clues. India is identified as the second-largest populated country, famous for spices and cricket. Brazil is identified through Samba dance, its reputation as the 'coffee pot of the world', and its popularity in football.",
+          "key_points": [
+            "India: 2nd most populous, spice exporter, cricket enthusiast.",
+            "Brazil: Samba dance, major coffee producer, football enthusiast."
+          ],
+          "keywords": [
+            "Samba",
+            "spices",
+            "cricket",
+            "football",
+            "coffee pot"
+          ],
+          "difficulty": 1,
+          "importance": 3
+        },
+        {
+          "chunk_id": "2.2",
+          "topic": "India: Location and Extent",
+          "heading": "Geographical Profile of India",
+          "explanation": "India, officially the Republic of India, has its capital in New Delhi. It is located in the Northern and Eastern hemispheres of the Earth, specifically in the southern part of the Asian continent. Its mainland extent spans from 8° 4' N to 37° 6' N latitudes and 68° 7' E to 97° 25' E longitudes. The southernmost tip is Indira Point, located at 6° 45' N parallel.",
+          "key_points": [
+            "Official Name: Republic of India.",
+            "Capital: New Delhi.",
+            "Hemispheres: Northern and Eastern.",
+            "Continent: Asia (Southern part).",
+            "Southernmost point: Indira Point (6° 45' N)."
+          ],
+          "data_points": [
+            {
+              "label": "Latitudinal Extent (Mainland)",
+              "value": "8° 4' N to 37° 6' N"
+            },
+            {
+              "label": "Longitudinal Extent",
+              "value": "68° 7' E to 97° 25' E"
+            }
+          ],
+          "keywords": [
+            "Republic of India",
+            "New Delhi",
+            "Indira Point",
+            "Northern Hemisphere",
+            "Eastern Hemisphere"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "2.3",
+          "topic": "Brazil: Location and Extent",
+          "heading": "Geographical Profile of Brazil",
+          "explanation": "Brazil, officially the Federative Republic of Brazil, has its capital in Brasilia. It is unique as it lies in both the Northern and Southern hemispheres (though mostly in the Southern) and entirely in the Western hemisphere. It is situated in the northern part of the South American continent. Its extent spans from 5° 15' N to 33° 45' S latitudes and 34° 47' W to 73° 48' W longitudes.",
+          "key_points": [
+            "Official Name: Federative Republic of Brazil.",
+            "Capital: Brasilia.",
+            "Hemispheres: Northern, Southern (mostly), and Western.",
+            "Continent: South America (Northern part)."
+          ],
+          "data_points": [
+            {
+              "label": "Latitudinal Extent",
+              "value": "5° 15' N to 33° 45' S"
+            },
+            {
+              "label": "Longitudinal Extent",
+              "value": "34° 47' W to 73° 48' W"
+            }
+          ],
+          "keywords": [
+            "Federative Republic of Brazil",
+            "Brasilia",
+            "Southern Hemisphere",
+            "Western Hemisphere",
+            "South America"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "2.4",
+          "topic": "Historical Background",
+          "heading": "History of India",
+          "explanation": "India was under British rule for nearly one-and-a-half centuries before gaining independence in 1947. Post-independence, the country faced challenges like three wars and famines. Despite these, India has emerged as a major developing country and a significant global market. Economic reforms have accelerated development, and the high proportion of youth makes it a 'young country'.",
+          "key_points": [
+            "Colonial Rule: British (approx. 150 years).",
+            "Independence: 1947.",
+            "Post-independence issues: Wars, famines.",
+            "Current Status: Major developing country, global market, young population."
+          ],
+          "keywords": [
+            "British rule",
+            "Independence 1947",
+            "developing country",
+            "global market"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "2.5",
+          "topic": "Historical Background",
+          "heading": "History of Brazil",
+          "explanation": "Brazil was under Portuguese rule for more than three centuries, gaining independence in 1822. From 1930 to 1985, it was governed by a populist military government. It overcame global financial difficulties in the late 20th century and is now seen as a key contributor to global economic growth and a future important market.",
+          "key_points": [
+            "Colonial Rule: Portuguese (over 300 years).",
+            "Independence: 1822.",
+            "Government (1930-1985): Populist military government.",
+            "Current Status: Contributor to global economic growth."
+          ],
+          "keywords": [
+            "Portuguese rule",
+            "Independence 1822",
+            "military government",
+            "economic growth"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "2.6",
+          "topic": "Comparative Facts",
+          "heading": "Do You Know? - Comparative Trivia",
+          "explanation": "The text highlights key differences and similarities: India celebrates Independence Day on August 15, while Brazil celebrates on September 7. India has a federal parliamentary republic government, whereas Brazil has a federal presidential republic. The name 'Brazil' is derived from a local wood called 'Pau Brasil'.",
+          "key_points": [
+            "Independence Days: India (Aug 15), Brazil (Sept 07).",
+            "Government Type: India (Parliamentary Republic), Brazil (Presidential Republic).",
+            "Etymology: Brazil named after 'Pau Brasil' tree."
+          ],
+          "keywords": [
+            "Independence Day",
+            "Parliamentary Republic",
+            "Presidential Republic",
+            "Pau Brasil"
+          ],
+          "difficulty": 2,
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "chapter_id": 3,
+      "branch": "Physical Geography",
+      "chapter_title": "Physiography and Drainage",
+      "chapter_summary": "This chapter provides a comprehensive comparison of the physical landscapes and river systems of India and Brazil, detailing mountain ranges, plains, plateaus, and major drainage basins.",
+      "learning_objectives": [
+        "Identify and describe the five major physiographic divisions of India.",
+        "Identify and describe the five major physiographic divisions of Brazil.",
+        "Compare the characteristics of the Himalayan and Peninsular river systems in India.",
+        "Understand the major drainage basins of Brazil, including the Amazon, Paraguay-Parana, and Sao Francisco systems.",
+        "Differentiate between the western and eastern coasts of both countries."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "3.1",
+          "topic": "Physiography of India",
+          "heading": "Major Physiographic Divisions of India",
+          "explanation": "India is divided into five major physiographic divisions: 1. The Himalayas, 2. The North Indian Plains, 3. The Peninsula, 4. Coastal Plains, and 5. Island groups.",
+          "key_points": [
+            "The divisions range from young fold mountains in the north to ancient plateaus in the south.",
+            "The country features extensive plains and a long coastline with diverse island groups."
+          ],
+          "keywords": [
+            "Physiography",
+            "Himalayas",
+            "Peninsula",
+            "Coastal Plains"
+          ],
+          "difficulty": 1,
+          "importance": 5
+        },
+        {
+          "chunk_id": "3.2",
+          "topic": "Physiography of India",
+          "heading": "The Himalayas",
+          "explanation": "The Himalayas are young fold mountains extending from the Pamir Knot in Tajikistan to the east. In India, they stretch from Jammu and Kashmir to Arunachal Pradesh. They consist of multiple parallel ranges: the Siwaliks (southernmost and youngest), Lesser Himalayas, Greater Himalayas (Himadri), and Trans-Himalayan ranges. From west to east, they are divided into Western (Kashmir), Central (Kumaun), and Eastern (Assam) Himalayas.",
+          "key_points": [
+            "Youngest fold mountains in the world.",
+            "Consist of parallel ranges from south to north.",
+            "Act as a major mountain system for the Asian continent."
+          ],
+          "keywords": [
+            "Fold mountains",
+            "Siwaliks",
+            "Himadri",
+            "Pamir Knot"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "3.3",
+          "topic": "Physiography of India",
+          "heading": "North Indian Plains",
+          "explanation": "Located between the Himalayas and the Peninsula, these plains extend from Rajasthan and Punjab to Assam. They are mostly flat and low-lying. The eastern part is the Ganga Basin, sloping eastward. The Ganga-Brahmaputra system forms the Sunderbans, the world's largest delta. The western part includes the Thar Desert (Marusthali) and the fertile plains of Punjab, formed by the depositional work of the Sutluj and its tributaries, sloping westward.",
+          "key_points": [
+            "Divided into Ganga Basin (East) and Thar Desert/Punjab Plains (West).",
+            "Sunderbans is the world's largest delta.",
+            "Punjab plains are highly fertile due to Sutluj's silt."
+          ],
+          "keywords": [
+            "Ganga Basin",
+            "Sunderbans",
+            "Thar Desert",
+            "Punjab Plains"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "3.4",
+          "topic": "Physiography of India",
+          "heading": "The Peninsula",
+          "explanation": "The area south of the North Indian Plains, tapering towards the Indian Ocean, is the Indian Peninsula. It is the oldest landmass in India, containing the Aravalis (oldest fold mountains). It consists of a series of plateaus (like Malwa, Bundelkhand, Chhota Nagpur, and Deccan) and hill ranges (Vindhyas, Satpuda, Western Ghats, and Eastern Ghats).",
+          "key_points": [
+            "Oldest physiographic division of India.",
+            "Aravalis are the oldest fold mountains here.",
+            "Western Ghats are continuous, while Eastern Ghats are dissected."
+          ],
+          "keywords": [
+            "Peninsula",
+            "Aravalis",
+            "Deccan Plateau",
+            "Western Ghats"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "3.5",
+          "topic": "Physiography of India",
+          "heading": "Coastal Plains and Island Groups",
+          "explanation": "India has a coastline of ~7500 km. The Western Coast (Arabian Sea) is rocky, narrow, and features estuaries. The Eastern Coast (Bay of Bengal) is alluvial, wide, and features deltas formed by east-flowing rivers. Island groups include Lakshadweep in the Arabian Sea (small atoll islands) and Andaman and Nicobar in the Bay of Bengal (volcanic islands, including Barren Island with India's only active volcano).",
+          "key_points": [
+            "Western coast has estuaries; Eastern coast has deltas.",
+            "Lakshadweep islands are atolls.",
+            "Barren Island has the only active volcano in India."
+          ],
+          "keywords": [
+            "Estuaries",
+            "Deltas",
+            "Atolls",
+            "Barren Island"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "3.6",
+          "topic": "Physiography of Brazil",
+          "heading": "Major Physiographic Divisions of Brazil",
+          "explanation": "Brazil's physiography is dominated by highlands and plateaus rather than high mountains. The divisions are: 1. The Highlands, 2. The Great Escarpment, 3. The Coastal Region, 4. The Plains, and 5. The Island Groups.",
+          "key_points": [
+            "Brazil lacks very high and long mountain ranges.",
+            "The landscape is characterized by ancient shields and extensive plateaus."
+          ],
+          "keywords": [
+            "Highlands",
+            "Great Escarpment",
+            "Brazilian Shield"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "3.7",
+          "topic": "Physiography of Brazil",
+          "heading": "The Highlands and Great Escarpment",
+          "explanation": "The Highlands (Brazilian Shield/Plateau) occupy southern Brazil. The Guyana Highlands are in the north, containing Brazil's highest peak, Pico de Neblina (3014 m). The Great Escarpment is a steep slope (790 m) on the eastern edge of the highlands. It acts as a barrier to Southeast Trade winds, creating a rain-shadow area in the northeast known as the 'Drought Quadrilateral'.",
+          "key_points": [
+            "Pico de Neblina is the highest peak (3014 m).",
+            "Great Escarpment creates the Drought Quadrilateral.",
+            "Highlands slope towards the north and east."
+          ],
+          "keywords": [
+            "Pico de Neblina",
+            "Drought Quadrilateral",
+            "Guyana Highlands"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "3.8",
+          "topic": "Physiography of Brazil",
+          "heading": "Plains and Coasts of Brazil",
+          "explanation": "Brazil has a ~7400 km coastline divided into North Atlantic and South Atlantic coasts. The Amazon Plains in the north form the largest plain land, widest in the west (1300 km) and narrowing where highlands approach (240 km). They are covered by tropical rainforests. The Pantanal in the southwest is one of the world's largest wetlands, consisting of swamps and marshes.",
+          "key_points": [
+            "Amazon plains are mostly forested and inaccessible.",
+            "Pantanal is a major global wetland.",
+            "Coastal islands are formed by deposition; marine islands are submerged mountain tops."
+          ],
+          "keywords": [
+            "Amazon Plains",
+            "Pantanal",
+            "Wetlands",
+            "Rainforests"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "3.9",
+          "topic": "Drainage of Brazil",
+          "heading": "Major River Basins of Brazil",
+          "explanation": "Brazil has three major river basins: 1. Amazon Basin: Collects water from the Andes (Peru), has a huge discharge (~2 lakh m3/s), and no deltas at its mouth due to high velocity. 2. Paraguay-Parana System: Located in the southwest, flowing towards Argentina. 3. Sao Francisco: The third important river, flowing north then east into the Atlantic; it is navigable for 250 km.",
+          "key_points": [
+            "Amazon is suitable for navigation; its mouth is 150 km wide.",
+            "Sao Francisco is fully within Brazil.",
+            "Coastal rivers are short but significant due to dense population."
+          ],
+          "data_points": [
+            {
+              "label": "Amazon River Catchment Area",
+              "value": "70,50,000 sq.km"
+            },
+            {
+              "label": "Amazon River Length",
+              "value": "6,400 km"
+            },
+            {
+              "label": "Amazon Water Discharge",
+              "value": "2,09,000 Cu.m. per sec"
+            }
+          ],
+          "keywords": [
+            "Amazon Basin",
+            "Sao Francisco",
+            "Paraguay-Parana",
+            "Navigation"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "3.10",
+          "topic": "Drainage of India",
+          "heading": "Himalayan River Systems",
+          "explanation": "Himalayan rivers are perennial, fed by glaciers and rain. Major systems: 1. Indus System: Indus and tributaries (Jhelum, Chenab, Ravi, Beas, Satluj) flow through Pakistan to the Arabian Sea. 2. Ganga System: Ganga originates from Gangotri. Tributaries include Yamuna, Son, and those from the Himalayas like Gandak and Kosi. It joins the Brahmaputra (Tsang Po/Dihang) in Bangladesh to form a massive delta.",
+          "key_points": [
+            "Himalayan rivers cause floods during monsoons.",
+            "Indus flows mostly through Pakistan.",
+            "Ganga-Brahmaputra system forms the world's largest delta."
+          ],
+          "data_points": [
+            {
+              "label": "Ganga River Catchment Area",
+              "value": "10,16,124 sq.km"
+            },
+            {
+              "label": "Ganga River Length",
+              "value": "2,525 km"
+            },
+            {
+              "label": "Ganga Water Discharge",
+              "value": "16,648 Cu.m. per sec"
+            }
+          ],
+          "keywords": [
+            "Perennial rivers",
+            "Indus",
+            "Ganga",
+            "Brahmaputra",
+            "Gangotri"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "3.11",
+          "topic": "Drainage of India",
+          "heading": "Peninsular River Systems",
+          "explanation": "Peninsular rivers are seasonal and rain-fed. They are divided into: 1. West-flowing: Short and swift (Tapi, Narmada, Mahi, Sabarmati, Luni). Narmada and Tapi flow through rift valleys. 2. East-flowing: Drain into the Bay of Bengal (Mahanadi, Godavari, Krishna, Kaveri). Godavari is the second largest system in India. Kaveri has been used for irrigation since the 2nd century AD (Chola dam).",
+          "key_points": [
+            "Western Ghats act as the main water divide.",
+            "West-flowing rivers are short and swift.",
+            "Godavari is known as the 'Dakshin Ganga' due to its size."
+          ],
+          "keywords": [
+            "Seasonal rivers",
+            "Narmada",
+            "Godavari",
+            "Kaveri",
+            "Rift valley"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "chapter_id": 4,
+      "branch": "Physical Geography",
+      "chapter_title": "Climate",
+      "chapter_summary": "A comparative analysis of the climatic diversity in Brazil and India, explaining the influence of latitudinal extent, relief features like the Himalayas and the Great Escarpment, and the mechanisms of the Monsoon and Trade winds.",
+      "learning_objectives": [
+        "Understand the factors affecting the climate of Brazil and India.",
+        "Compare the temperature and rainfall patterns of major cities in both countries.",
+        "Explain the mechanism of the Monsoon in India.",
+        "Identify the 'Drought Quadrilateral' in Brazil and its causes.",
+        "Recognize extreme climatic locations in India like Mawsynram and Jaisalmer."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "4.1",
+          "topic": "Climate of Brazil",
+          "heading": "General Climatic Characteristics of Brazil",
+          "explanation": "Brazil experiences a wide range of climatic variations due to its vast latitudinal extent. Near the equator, the climate is hot, while it becomes temperate near the Tropic of Capricorn. Brazil receives rainfall from the South-East Trade winds and the North-East Trade winds. The northern part is generally hot, while temperatures are lower in the southern part. Seasonal variations are more pronounced in the south.",
+          "key_points": [
+            "Equatorial regions are hot; southern regions are temperate.",
+            "Rainfall is brought by North-East and South-East Trade winds.",
+            "The Amazon valley is a high-temperature zone."
+          ],
+          "data_points": [
+            {
+              "label": "Average temperature in Amazon valley",
+              "value": "25°C - 28°C"
+            },
+            {
+              "label": "Annual rainfall in Amazon valley",
+              "value": "Around 2000 mm"
+            },
+            {
+              "label": "Annual rainfall on North-eastern coast",
+              "value": "1000 to 1200 mm"
+            }
+          ],
+          "keywords": [
+            "Trade winds",
+            "Equatorial climate",
+            "Amazon valley",
+            "Tropic of Capricorn"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "4.2",
+          "topic": "Climate of Brazil",
+          "heading": "The Great Escarpment and Drought Quadrilateral",
+          "explanation": "The Brazilian Highlands extend to the northern coast, and the Great Escarpment acts as a barrier to the moisture-laden winds from the sea. This causes orographic rainfall in the coastal region. Beyond the highlands, the effect of these winds reduces, leading to minimal rainfall. This rain-shadow region in the northeast is known as the 'Drought Quadrilateral'.",
+          "key_points": [
+            "The Great Escarpment causes orographic rainfall on the coast.",
+            "The 'Drought Quadrilateral' is a rain-shadow area in the northeast.",
+            "Tropical cyclones rarely visit the Brazilian coasts because the convergence zone of trade winds is weak."
+          ],
+          "keywords": [
+            "Great Escarpment",
+            "Orographic rainfall",
+            "Drought Quadrilateral",
+            "Rain-shadow"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "4.3",
+          "topic": "Climate of India",
+          "heading": "India's Monsoon Climate",
+          "explanation": "India's climate is described as 'Monsoon' type. The Tropic of Cancer passes through the middle of the country, making India a tropical region. Average temperatures are high throughout the year. In winters, temperatures in Jammu and Kashmir and the Himalayas can drop to -40°C. The diversity in India's climate is due to its latitudinal location and altitude.",
+          "key_points": [
+            "Climate type: Monsoon.",
+            "Tropic of Cancer influences the tropical nature of the climate.",
+            "Extreme temperature variations exist between the North (Himalayas) and the South."
+          ],
+          "keywords": [
+            "Monsoon",
+            "Tropic of Cancer",
+            "Tropical region"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "4.4",
+          "topic": "Climate of India",
+          "heading": "Mechanism of the Indian Monsoon",
+          "explanation": "High temperatures in summer create a low-pressure area in the Punjab plains and the Thar desert. This attracts moisture-laden winds from the high-pressure region in the Indian Ocean, known as the South-West Monsoons. These winds are obstructed by the Western and Eastern Ghats, causing heavy rainfall in coastal areas. The Himalayas obstruct very cold winds from the north and also cause orographic rainfall as the monsoons hit the mountain ranges.",
+          "key_points": [
+            "South-West Monsoons bring the majority of rainfall to India.",
+            "The Himalayas and the Ghats act as major climatic barriers.",
+            "Retreating Monsoons bring rain to the Peninsula while blowing from North-East towards the Indian Ocean."
+          ],
+          "keywords": [
+            "South-West Monsoon",
+            "Retreating Monsoon",
+            "Low pressure",
+            "Orographic rainfall"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "4.5",
+          "topic": "Climate of India",
+          "heading": "Climatic Extremes in India",
+          "explanation": "India holds records for some of the wettest and driest places on Earth. Mawsynram and Cherrapunji in Meghalaya are the wettest places. Jaisalmer in Rajasthan is the driest. Ganganagar in Rajasthan sees extreme heat, while Kargil experiences extreme cold.",
+          "key_points": [
+            "Mawsynram and Cherrapunji: Wettest places in the world.",
+            "Jaisalmer: Driest part of India (<120mm rainfall).",
+            "Tamil Nadu receives maximum rainfall during the retreating monsoon season."
+          ],
+          "data_points": [
+            {
+              "label": "Rainfall in Mawsynram",
+              "value": "11,872 mm"
+            },
+            {
+              "label": "Rainfall in Cherrapunji",
+              "value": "11,777 mm"
+            },
+            {
+              "label": "Max temperature in Ganganagar (June)",
+              "value": "50°C"
+            },
+            {
+              "label": "Min temperature in Kargil (Winter)",
+              "value": "-48°C"
+            }
+          ],
+          "keywords": [
+            "Mawsynram",
+            "Cherrapunji",
+            "Jaisalmer",
+            "Kargil"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "4.6",
+          "topic": "Climate of India",
+          "heading": "Seasons in India",
+          "explanation": "The Indian Meteorological Department recognizes four distinct seasons: 1. The hot weather season (Summer), 2. The season of rainfall (Monsoon), 3. The season of Retreating Monsoon, and 4. The cold weather season (Winter).",
+          "key_points": [
+            "Seasons are defined by the movement of monsoon winds.",
+            "India faces natural disasters like erratic rainfall, droughts, and cyclones frequently."
+          ],
+          "keywords": [
+            "Summer",
+            "Winter",
+            "Monsoon",
+            "Retreating Monsoon"
+          ],
+          "difficulty": 1,
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "chapter_id": 5,
+      "branch": "Physical Geography",
+      "chapter_title": "Natural Vegetation and Wildlife",
+      "chapter_summary": "A detailed comparison of the diverse flora and fauna found in Brazil and India, categorizing forest types based on rainfall and altitude, and addressing the environmental challenges facing these ecosystems.",
+      "learning_objectives": [
+        "Identify the various types of forests in Brazil and India.",
+        "Correlate the distribution of vegetation with rainfall patterns and physiography.",
+        "Recognize the unique wildlife species endemic to both countries.",
+        "Understand the environmental threats like deforestation and poaching.",
+        "Learn about conservation efforts and the importance of biodiversity."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "5.1",
+          "topic": "Vegetation of Brazil",
+          "heading": "Forest Types and Characteristics in Brazil",
+          "explanation": "Brazil's vegetation varies significantly with its physiography and rainfall. In the equatorial region, where it rains year-round, evergreen rainforests dominate. As one moves away from the equator, rainfall decreases, leading to a reduction in forest density and the appearance of various grasses, shrubs, and thorny vegetation. Brazil possesses the largest number of vegetation species globally, including Pau Brasil, rubber, mahogany, and rosewood.",
+          "key_points": [
+            "Equatorial forests are evergreen due to year-round rain.",
+            "Rainforests in Brazil are known as the 'lungs of the world' because they release massive amounts of oxygen.",
+            "Vegetation density is directly proportional to the amount of rainfall."
+          ],
+          "keywords": [
+            "Evergreen forests",
+            "Lungs of the world",
+            "Pau Brasil",
+            "Equatorial region"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "5.2",
+          "topic": "Vegetation of India",
+          "heading": "Classification of Indian Forests",
+          "explanation": "Indian forests are classified into five main types based on rainfall: 1. Evergreen Forests (>2000mm rain, hardwood trees like mahogany and rosewood), 2. Deciduous Forests (1000-2000mm rain, trees like teak and bamboo shed leaves in dry seasons), 3. Thorny and Shrub vegetation (<500mm rain, small-leaved trees like catechu and acacia), 4. Coastal Forests (Mangroves/Sunderbans in saline soils), and 5. Himalayan Forests (altitude-based).",
+          "key_points": [
+            "Deciduous forests occupy the maximum area in India.",
+            "Coastal forests are called Sunderbans in India; the wood is oily and durable.",
+            "Himalayan vegetation changes from seasonally flowering trees at high altitudes to coniferous trees at medium altitudes."
+          ],
+          "keywords": [
+            "Deciduous forests",
+            "Mangroves",
+            "Sunderbans",
+            "Coniferous trees",
+            "Teak"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "5.3",
+          "topic": "Wildlife of Brazil",
+          "heading": "Biodiversity and Unique Species in Brazil",
+          "explanation": "Brazil has the greatest wildlife diversity in the world. The swampy Pantanal region is home to huge anacondas. Other notable species include pumas, leopards, monkeys, and guinea pigs. The rivers are rich with pink dolphins and piranhas, while the skies feature condors and various parrots and macaws. Millions of insect varieties contribute to this rich ecosystem.",
+          "key_points": [
+            "Pantanal is a major habitat for anacondas.",
+            "Brazil features unique aquatic life like piranhas and pink dolphins.",
+            "The country faces issues like illegal smuggling of wild animals and 'Roca' (slash and burn agriculture)."
+          ],
+          "keywords": [
+            "Anaconda",
+            "Pantanal",
+            "Pink dolphin",
+            "Macaw",
+            "Roca"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "5.4",
+          "topic": "Wildlife of India",
+          "heading": "Mega-diversity and Habitats in India",
+          "explanation": "India is a mega-diverse country with wildlife adapted to various terrains. Elephants inhabit hot and humid forests, while one-horned rhinoceroses are found in the swamps of Assam. Arid lands support wild ass and camels. The Himalayas host snow leopards and yaks. Peninsular India is home to bisons, antelopes, and monkeys. Notably, India is the only country where both tigers and lions are found.",
+          "key_points": [
+            "India is unique for having both tigers and lions.",
+            "Assam is the primary habitat for the one-horned rhinoceros.",
+            "Coastal areas and rivers are homes to turtles, crocodiles, and gavials (gharials)."
+          ],
+          "keywords": [
+            "One-horned rhinoceros",
+            "Bengal Tiger",
+            "Asiatic Lion",
+            "Snow leopard",
+            "Gharial"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "5.5",
+          "topic": "Environmental Conservation",
+          "heading": "Threats to Biodiversity and Conservation Efforts",
+          "explanation": "Both countries face severe environmental challenges. In India, poaching, pollution, and rapid deforestation have pushed many species, like the cheetah, to extinction. The Indian government has established national parks and wildlife sanctuaries for protection. In Brazil, deforestation (degrading over 5800 sq. km in 2016 alone) and forest fires are major concerns. Both nations emphasize the need for forest conservation.",
+          "key_points": [
+            "Poaching and deforestation are leading causes of species extinction.",
+            "The 'Roca' method of shifting agriculture in Brazil contributes to forest degradation.",
+            "Conservation through national parks and biosphere reserves is critical for ecological balance."
+          ],
+          "keywords": [
+            "Deforestation",
+            "Poaching",
+            "Conservation",
+            "National Parks",
+            "Extinction"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "chapter_id": 6,
+      "branch": "Human Geography",
+      "chapter_title": "Population",
+      "chapter_summary": "A comparative analysis of population as a resource in India and Brazil, covering distribution patterns, density, sex ratio, age-sex structures, growth rates, life expectancy, and literacy.",
+      "learning_objectives": [
+        "Understand population as an important resource for a nation's progress.",
+        "Compare the population distribution and density of India and Brazil.",
+        "Analyze the factors affecting the uneven distribution of population.",
+        "Interpret population composition through sex ratio and age-sex pyramids.",
+        "Compare population growth rates, life expectancy, and literacy rates between the two countries."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "6.1",
+          "topic": "Population of India",
+          "heading": "Distribution and Density of Population in India",
+          "explanation": "India is the second most populous country in the world, with a population of around 121 crores as per the 2011 Census. While it occupies only 2.41% of the world's land area, it supports 17.5% of the world's population. The distribution is highly uneven, influenced by physiography and climate. High concentrations are found in the fertile northern plains and major urban hubs like Delhi, Mumbai, and Chennai. Conversely, mountainous, desert, and dense forest regions have sparse populations due to inaccessibility and tough living conditions.",
+          "key_points": [
+            "Average population density: 382 persons per sq.km (2011 Census).",
+            "Fertile land and water availability drive high density.",
+            "Mountainous and desert areas have sparse population."
+          ],
+          "data_points": [
+            {
+              "label": "India Population (2011)",
+              "value": "121 Crores"
+            },
+            {
+              "label": "India's share of world land area",
+              "value": "2.41%"
+            },
+            {
+              "label": "India's share of world population",
+              "value": "17.5%"
+            },
+            {
+              "label": "Average Population Density (India)",
+              "value": "382 persons/sq.km"
+            }
+          ],
+          "keywords": [
+            "Census 2011",
+            "Population Density",
+            "Northern Plains",
+            "Uneven distribution"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "6.2",
+          "topic": "Population of Brazil",
+          "heading": "Distribution and Density of Population in Brazil",
+          "explanation": "Brazil is the most populated country in South America and ranks 5th globally in both population (~19 crores) and area. It occupies 5.6% of the world's land but has only 2.78% of the world's population, resulting in a low average density of 23 persons per sq.km. The majority of the population is concentrated within a 300 km wide strip of the eastern coastal plain, where agriculture and industries flourish. The interior Amazon Basin is very sparsely populated due to unfavorable climate, heavy rainfall, and dense forests.",
+          "key_points": [
+            "Average population density: 23 persons per sq.km (2010 Census).",
+            "Concentration is highest in the eastern coastal areas.",
+            "Amazon Basin is a major sparse zone due to inaccessibility."
+          ],
+          "data_points": [
+            {
+              "label": "Brazil Population (2010)",
+              "value": "19 Crores"
+            },
+            {
+              "label": "Brazil's share of world land area",
+              "value": "5.6%"
+            },
+            {
+              "label": "Brazil's share of world population",
+              "value": "2.78%"
+            },
+            {
+              "label": "Average Population Density (Brazil)",
+              "value": "23 persons/sq.km"
+            }
+          ],
+          "keywords": [
+            "Census 2010",
+            "Amazon Basin",
+            "Coastal Plain",
+            "South America"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "6.3",
+          "topic": "Population Composition",
+          "heading": "Sex Ratio in India and Brazil",
+          "explanation": "Sex ratio is defined as the number of females per 1000 males in a region. Brazil has consistently maintained a sex ratio of more than 1000, meaning women outnumber men. In contrast, in India, men outnumber women, and the sex ratio has historically been below 1000. While India has seen slight fluctuations and a minor increase after 1991, it remains lower than Brazil's.",
+          "key_points": [
+            "Brazil: Females > Males (Sex ratio > 1000).",
+            "India: Males > Females (Sex ratio < 1000).",
+            "India has seen a slight increase in sex ratio after 1991."
+          ],
+          "keywords": [
+            "Sex Ratio",
+            "Gender composition",
+            "Females per 1000 males"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "6.4",
+          "topic": "Population Composition",
+          "heading": "Age and Sex Pyramid",
+          "explanation": "The population pyramid (Age-Sex Pyramid) is used to study the age and sex-related aspects of a region. India's pyramid shows a high proportion of children and youth, indicating a 'young' country with a large working population. Brazil's pyramid indicates that its population is getting slowly older, with a higher proportion of people in the age group above 80 years compared to India.",
+          "key_points": [
+            "India has a higher proportion of youth (working population).",
+            "Brazil's population is aging.",
+            "The proportion of children is higher in India."
+          ],
+          "keywords": [
+            "Population Pyramid",
+            "Working population",
+            "Age groups",
+            "Youth"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "6.5",
+          "topic": "Population Dynamics",
+          "heading": "Population Growth Rate",
+          "explanation": "The rate of population growth has reduced considerably in Brazil and may even decrease in the near future. In India, the growth rate was high until 1971, after which it stabilized and is now declining. However, India's population is still growing in absolute numbers; between 2001 and 2011, it increased by 18.2 crores.",
+          "key_points": [
+            "Brazil's growth rate is declining sharply.",
+            "India's growth rate is declining, but the total population continues to rise.",
+            "India's population increased by 18.2 crores from 2001-2011."
+          ],
+          "keywords": [
+            "Growth Rate",
+            "Population increase",
+            "Declining trend"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "6.6",
+          "topic": "Social Indicators",
+          "heading": "Life Expectancy and Literacy Rate",
+          "explanation": "Life expectancy is the average number of years a person is expected to live. It is an indicator of social development and health facilities. Brazil's life expectancy is around 75 years, while India's is around 68 years (up from 41 years in 1960). Literacy rates have also improved in both countries, with Brazil (~92.6% in 2016) maintaining a higher rate than India (~72.2% in 2016).",
+          "key_points": [
+            "Life expectancy: Brazil (75 years) > India (68 years).",
+            "Literacy rate: Brazil (92.6%) > India (72.2%).",
+            "Improvement in health and nutrition leads to higher life expectancy."
+          ],
+          "data_points": [
+            {
+              "label": "Life Expectancy Brazil (2016)",
+              "value": "75 years"
+            },
+            {
+              "label": "Life Expectancy India (2016)",
+              "value": "68 years"
+            },
+            {
+              "label": "Literacy Rate Brazil (2016)",
+              "value": "92.6%"
+            },
+            {
+              "label": "Literacy Rate India (2016)",
+              "value": "72.2%"
+            }
+          ],
+          "keywords": [
+            "Life Expectancy",
+            "Literacy Rate",
+            "Social development",
+            "Health facilities"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "chapter_id": 7,
+      "branch": "Human Geography",
+      "chapter_title": "Human Settlements",
+      "chapter_summary": "A comparative study of the types and patterns of human settlements in India and Brazil, along with an analysis of urbanization levels, regional disparities, and government policies influencing urban growth.",
+      "learning_objectives": [
+        "Identify nucleated and dispersed settlement patterns in India and Brazil.",
+        "Understand the physical and economic factors influencing settlement locations.",
+        "Analyze the trends and levels of urbanization in both countries.",
+        "Compare regional imbalances in urbanization and the policies (like 'Go West') aimed at addressing them.",
+        "Recognize the historical context of urban settlements in the Indian subcontinent."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "7.1",
+          "topic": "Settlement Patterns in India",
+          "heading": "Nucleated and Dispersed Settlements in India",
+          "explanation": "In India, settlement patterns vary based on climate, water availability, land slope, and development level. Nucleated settlements, where houses are clustered together, are found in the Narmada Valley, fertile paddy lands of Bihar and Uttar Pradesh, the Vindhyan Plateau, and other cultivated regions. Dispersed settlements, where houses are scattered, are typical in tribal areas of central India, eastern and southern Rajasthan, Himalayan slopes, and regions with dissected or uneven topography.",
+          "key_points": [
+            "Nucleated settlements are common in fertile, water-rich plains.",
+            "Dispersed settlements are found in hilly, forested, or arid regions.",
+            "Factors: Water, relief, and soil fertility."
+          ],
+          "keywords": [
+            "Nucleated settlements",
+            "Dispersed settlements",
+            "Narmada Valley",
+            "Vindhyan Plateau"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "7.2",
+          "topic": "Settlement Patterns in Brazil",
+          "heading": "Evolution and Distribution of Settlements in Brazil",
+          "explanation": "Early settlements in Brazil were established by European settlers primarily in coastal areas. Today, these coastal regions are densely populated. Sao Paulo is a prime example of a nucleated settlement, flourishing due to rich soil (ideal for coffee), mineral resources (iron ore), steady energy supply, and a good transport system. Conversely, settlements are sparse in the North-east Highlands due to extreme droughts, and in the Amazon Basin due to thick rainforests, unhealthy climate, limited resource exploitation, and poor transport links.",
+          "key_points": [
+            "Coastal areas are the most developed and populated.",
+            "Sao Paulo's growth is driven by coffee cultivation and industry.",
+            "Amazon Basin and NE Highlands have sparse settlements due to environmental constraints."
+          ],
+          "keywords": [
+            "Sao Paulo",
+            "Amazon Basin",
+            "European settlers",
+            "Coffee cultivation"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "7.3",
+          "topic": "Urbanization in India",
+          "heading": "Trends and Regional Disparities in Indian Urbanization",
+          "explanation": "Urbanization in India is measured as the percentage of the urban population to the total population. In 2011, the level was 31.16%, which is low compared to developed nations. Urbanization has been more rapid in the southern states. Goa is the most urbanized state (62%), followed by Tamil Nadu, Maharashtra, Gujarat, and Kerala. States with low urbanization include Himachal Pradesh, Bihar, Assam, and Odisha. Delhi, as a Union Territory, is more than 80% urban.",
+          "key_points": [
+            "India's urbanization level (2011): 31.16%.",
+            "Southern India is more urbanized than Northern India.",
+            "Goa is the most urbanized state; Himachal Pradesh is among the least."
+          ],
+          "data_points": [
+            {
+              "label": "Urbanization in India (1961)",
+              "value": "18.0%"
+            },
+            {
+              "label": "Urbanization in India (2011)",
+              "value": "31.2%"
+            },
+            {
+              "label": "Most urbanized state (Goa)",
+              "value": "62%"
+            }
+          ],
+          "keywords": [
+            "Urbanization",
+            "Goa",
+            "Delhi",
+            "Regional disparity"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "7.4",
+          "topic": "Urbanization in Brazil",
+          "heading": "Rapid Urbanization and the 'Go West' Policy",
+          "explanation": "Brazil is highly urbanized, with about 86% of its population living in urban areas. Rapid urbanization occurred mainly in the South and South-east, with Sao Paulo emerging as a major metropolitan hub. To reduce pressure on these concentrated areas and address regional imbalances, the Brazilian government promotes the 'Go West' policy, encouraging settlement and development in the interior parts of the country.",
+          "key_points": [
+            "Brazil urbanization level: ~86%.",
+            "Urban growth is concentrated in the South and South-east.",
+            "'Go West' policy aims to decentralize population from the coast to the interior."
+          ],
+          "data_points": [
+            {
+              "label": "Urbanization in Brazil (1960)",
+              "value": "47.1%"
+            },
+            {
+              "label": "Urbanization in Brazil (2010)",
+              "value": "84.6%"
+            }
+          ],
+          "keywords": [
+            "Go West policy",
+            "Metropolitan",
+            "Regional imbalance",
+            "Sao Paulo"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "7.5",
+          "topic": "Historical Context",
+          "heading": "Ancient Urbanization in India",
+          "explanation": "The Indian sub-continent has a long history of urbanization dating back to ancient times. Cities like Indraprastha (Delhi), Mithila, Varanasi, Harappa, Mohenjodaro, Ujjain, and Pratishthan (Paithan) were significant urban settlements of earlier eras, proving that India has a great tradition of planned urban living.",
+          "key_points": [
+            "India has a tradition of urbanization since ancient river valley civilizations.",
+            "Harappa and Mohenjodaro are key historical urban examples."
+          ],
+          "keywords": [
+            "Harappa",
+            "Mohenjodaro",
+            "Varanasi",
+            "Ancient cities"
+          ],
+          "difficulty": 2,
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "chapter_id": 8,
+      "branch": "Human Geography",
+      "chapter_title": "Economy and Occupations",
+      "chapter_summary": "A comparative study of the economies of India and Brazil, analyzing Gross National Income, sector-wise GDP contribution, major occupations like agriculture, fishing, and mining, and international trade relations.",
+      "learning_objectives": [
+        "Compare the Gross National Income (GNI) and Per Capita Income of India, Brazil, and the USA.",
+        "Analyze the contribution of primary, secondary, and tertiary sectors to the GDP and employment.",
+        "Identify major agricultural crops and practices in both countries.",
+        "Understand the distribution and challenges of mining and fishing activities.",
+        "Examine the trade balance, major exports, and imports of India and Brazil.",
+        "Learn about the strategic partnership between India and Brazil through BRICS."
+      ],
+      "content_chunks": [
+        {
+          "chunk_id": "8.1",
+          "topic": "National Income",
+          "heading": "Comparative National and Per Capita Income",
+          "explanation": "India has a higher Gross National Income (GNI) compared to Brazil. However, India's per capita income is lower than Brazil's because of India's massive population. Both are developing economies, while the USA is a developed economy with a significantly higher per capita income. The USA leads in patents, modern technology, and mechanical strength.",
+          "key_points": [
+            "India's GNI is higher than Brazil's.",
+            "India's per capita income is lower than Brazil's due to population size.",
+            "Both India and Brazil are 'developing' economies; USA is 'developed'."
+          ],
+          "data_points": [
+            {
+              "label": "Per Capita Income (2016) - Brazil",
+              "value": "8840 US $"
+            },
+            {
+              "label": "Per Capita Income (2016) - India",
+              "value": "1680 US $"
+            },
+            {
+              "label": "Per Capita Income (2016) - USA",
+              "value": "56280 US $"
+            }
+          ],
+          "keywords": [
+            "GNI",
+            "Per Capita Income",
+            "Developing economy",
+            "Mixed economy"
+          ],
+          "difficulty": 3,
+          "importance": 5
+        },
+        {
+          "chunk_id": "8.2",
+          "topic": "Economic Sectors",
+          "heading": "Sector-wise Contribution to GDP and Employment (2016)",
+          "explanation": "In Brazil, the tertiary (service) sector contributes the most to the GDP (67%), followed by the secondary sector (27.5%). In India, the tertiary sector also leads (57%), but the primary sector (agriculture) still contributes significantly (17%). Regarding employment, a large portion of India's population (48.8%) is still engaged in the primary sector, whereas in Brazil, the majority (71%) is employed in the tertiary sector.",
+          "key_points": [
+            "Tertiary sector is the largest contributor to GDP in both countries.",
+            "India has a much higher percentage of population engaged in primary activities compared to Brazil.",
+            "Brazil's economy is less dependent on agriculture for employment than India's."
+          ],
+          "data_points": [
+            {
+              "label": "India: Population in Primary Sector",
+              "value": "48.8%"
+            },
+            {
+              "label": "Brazil: Population in Primary Sector",
+              "value": "10%"
+            },
+            {
+              "label": "Brazil: GDP from Tertiary Sector",
+              "value": "67%"
+            },
+            {
+              "label": "India: GDP from Tertiary Sector",
+              "value": "57%"
+            }
+          ],
+          "keywords": [
+            "Primary sector",
+            "Secondary sector",
+            "Tertiary sector",
+            "GDP"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        },
+        {
+          "chunk_id": "8.3",
+          "topic": "Agriculture",
+          "heading": "Agriculture in Brazil",
+          "explanation": "Agriculture is a main occupation in the Brazilian highlands and coastal areas. Major cereal crops are rice and maize. Brazil is the world's largest exporter of coffee and soyabean. Other commercial crops include cocoa, rubber, and sugarcane. Cattle, sheep, and goats are reared in the Savannah grasslands of the south for meat and dairy.",
+          "key_points": [
+            "Brazil is the 'coffee pot of the world'.",
+            "Major coffee-growing states: Minas Gerais and Sao Paulo.",
+            "Savannah grasslands are used for animal husbandry."
+          ],
+          "keywords": [
+            "Coffee",
+            "Soyabean",
+            "Savannah",
+            "Animal Husbandry"
+          ],
+          "difficulty": 2,
+          "importance": 4
+        },
+        {
+          "chunk_id": "8.4",
+          "topic": "Agriculture",
+          "heading": "Agriculture in India",
+          "explanation": "Indian agriculture is mainly of the 'subsistence' type and contributes more to the GDP and employment than in Brazil. About 60% of India's land is under cultivation. Major food crops include rice, wheat, maize, sorghum, and millets. Cash crops include sugarcane, cotton, and jute. India is also a major producer of tea, coffee, rubber, fruits, and vegetables.",
+          "key_points": [
+            "Subsistence agriculture: Farming for self-sufficiency.",
+            "60% of land is cultivable due to extensive plains and fertile soil.",
+            "India has a long growing season and wide climatic variety."
+          ],
+          "keywords": [
+            "Subsistence farming",
+            "Cash crops",
+            "Food crops",
+            "Cultivable land"
+          ],
+          "difficulty": 2,
+          "importance": 5
+        },
+        {
+          "chunk_id": "8.5",
+          "topic": "Mining",
+          "heading": "Mining Activities in Brazil and India",
+          "explanation": "Eastern Brazil is rich in iron ore, manganese, nickel, copper, and bauxite. Mining is limited in the interior due to dense forests and inaccessibility. In India, the Chhota Nagpur plateau is a major storehouse of minerals. Coal is mined in Chhattisgarh and Maharashtra. Mineral oil wells are located in Digboi (Assam), Mumbai High (Arabian Sea), and Kalol/Koyali (Gujarat).",
+          "key_points": [
+            "Chhota Nagpur plateau is India's mineral hub.",
+            "Brazil's interior mining is hindered by the Amazon rainforest.",
+            "India has significant reserves of iron ore and coal."
+          ],
+          "keywords": [
+            "Chhota Nagpur",
+            "Iron ore",
+            "Mineral oil",
+            "Bauxite"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "8.6",
+          "topic": "Fishing",
+          "heading": "Fishing in Brazil and India",
+          "explanation": "Brazil has a 7,400 km coastline. Fishing is concentrated on the south-east coast where the warm Brazil current meets the cold Falkland current. Inland fishing is not well-developed in Brazil. India has a 7,500 km coastline. Marine fishing accounts for 40% of total production, while inland (freshwater) fishing in rivers and lakes accounts for 60%.",
+          "key_points": [
+            "Meeting of warm and cold currents creates excellent fishing grounds in Brazil.",
+            "In India, inland fishing contributes more to total production than marine fishing.",
+            "Major Indian fish: Sardines, mackerel, prawns, and silver bellies."
+          ],
+          "keywords": [
+            "Marine fishing",
+            "Inland fishing",
+            "Brazil current",
+            "Falkland current"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "8.7",
+          "topic": "Industries",
+          "heading": "Industrial Development",
+          "explanation": "Brazil's major industries include iron and steel, automobile assembly, petroleum processing, and food processing (sugar). Most are concentrated in the south and south-east. India's industries are unevenly distributed. Heavy metallurgical industries are concentrated near the Chhota Nagpur plateau. Agro-based industries like cotton and sugar are near raw material sources. India has also seen a rise in mechanical and electrical engineering near big cities.",
+          "key_points": [
+            "Brazil's industries are shifting towards the north-east with new investments.",
+            "India's steel centers are mostly in the north-eastern part of the peninsula.",
+            "Coastal Kerala has a concentration of coir and fish canning industries."
+          ],
+          "keywords": [
+            "Metallurgical industries",
+            "Agro-based industries",
+            "Petroleum processing"
+          ],
+          "difficulty": 3,
+          "importance": 4
+        },
+        {
+          "chunk_id": "8.8",
+          "topic": "Trade",
+          "heading": "International Trade and BRICS",
+          "explanation": "India mainly exports tea, mangoes, coffee, spices, and textiles, while importing petroleum, machines, and gold. Brazil exports iron ore, coffee, soyabean, and sugar, while importing machinery and chemical products. Brazil generally has a favorable balance of trade (exports > imports). Both countries are members of BRICS, a strategic partnership for bilateral investments and economic cooperation.",
+          "key_points": [
+            "Balance of Trade: Difference between the value of exports and imports.",
+            "BRICS: Brazil, Russia, India, China, and South Africa.",
+            "India and Brazil have signed agreements for bilateral investments in IT, energy, and mining."
+          ],
+          "data_points": [
+            {
+              "label": "India's Trade Partner",
+              "value": "UK, USA, Germany, Japan, China, Russia"
+            },
+            {
+              "label": "Brazil's Trade Partner",
+              "value": "Germany, USA, Canada, Italy, Argentina"
+            }
+          ],
+          "keywords": [
+            "Exports",
+            "Imports",
+            "Balance of Trade",
+            "BRICS",
+            "GST"
+          ],
+          "difficulty": 4,
+          "importance": 5
+        }
+      ]
+    }
+  ]
+}
